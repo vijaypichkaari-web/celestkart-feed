@@ -168,6 +168,7 @@
   <div class="hero">What's happening in <em>space</em>, and what it means for us.</div>
   <section class="events" id="events"></section>
   <section class="events" id="pipeline"></section>
+  <section class="events" id="industry"></section>
   <div id="errors"></div>
   <div id="feed"><div class="status">Fetching latest space news…</div></div>
 </main>
@@ -229,6 +230,14 @@ const PIPELINE = [
   { who: "SkyRoot Aerospace", what: "Vikram-1 orbital launch", timing: "Late 2027, under a three-launch deal with HEX20 Space", source: "Indian Defense News, Aug 2026", link: "https://www.indiandefensenews.in/2026/08/indian-private-space-firms-set-to-cross.html" },
   { who: "Agnikul Cosmos", what: "Agnibaan modular rocket", timing: "In preparation, no date given", source: "Indian Defense News, Aug 2026", link: "https://www.indiandefensenews.in/2026/08/indian-private-space-firms-set-to-cross.html" },
   { who: "PixxelSpace India", what: "Earth observation satellite constellation", timing: "In development, no date given", source: "Indian Defense News, Aug 2026", link: "https://www.indiandefensenews.in/2026/08/indian-private-space-firms-set-to-cross.html" }
+];
+
+// Industry bodies and voices. Links only where the official address is confirmed.
+const INDUSTRY = [
+  { who: "Indian Space Association (ISpA)", what: "Industry body for India's space sector", link: "https://ispa.space" },
+  { who: "SatCom Industry Association (SIA-India)", what: "Satellite communications industry body; has joined ISpA and Geospatial World to boost the satcom ecosystem", link: "" },
+  { who: "Lt Gen A.K. Bhatt (Retd)", what: "Director General, ISpA. Frequent speaker on the private space sector", link: "https://ispa.space" },
+  { who: "Mylswamy Annadurai", what: "Former ISRO scientist, \"Moon Man\". Speaks on private-sector space growth and careers", link: "https://www.deccanchronicle.com/amp/southern-states/tamil-nadu/private-sector-entry-will-boost-space-industry-ex-isro-chief-1979772" }
 ];
 
 const EUROPE_ACTION = "Relevant to our Bremen conversations. Consider a talking point.";
@@ -324,6 +333,21 @@ function renderPipeline() {
   note.className = "event-meta";
   note.textContent = "Academic satellite missions: none confirmed yet.";
   el.appendChild(note);
+}
+
+function renderIndustry() {
+  const el = document.getElementById("industry");
+  el.innerHTML = "<h2>Industry bodies and voices</h2>";
+  for (const p of INDUSTRY) {
+    const name = p.link
+      ? Object.assign(document.createElement("a"), { className: "event-name", href: p.link, target: "_blank", rel: "noopener", textContent: p.who })
+      : Object.assign(document.createElement("div"), { className: "event-name", textContent: p.who });
+    const meta = document.createElement("div");
+    meta.className = "event-meta";
+    meta.textContent = p.what;
+    el.appendChild(name);
+    el.appendChild(meta);
+  }
 }
 
 function readCache() {
@@ -473,6 +497,7 @@ countryEl.addEventListener("change", e => {
 btn.addEventListener("click", () => load(true));
 renderEvents();
 renderPipeline();
+renderIndustry();
 load(false);
 </script>
 </body>
