@@ -104,6 +104,20 @@
   .item a:hover { color: var(--aurora); }
   .sum { color: #A9B3C7; font-size: 14px; margin-top: 6px; line-height: 1.45; }
   .src { color: var(--gray); font-size: 12px; margin-top: 8px; }
+  .events {
+    border: 1px solid #16233f; border-radius: 12px; padding: 14px; margin-bottom: 16px;
+    background: linear-gradient(135deg, rgba(93,155,255,.12), rgba(157,125,255,.10));
+  }
+  .events h2 { font: 600 12px Inter, sans-serif; letter-spacing: .08em; text-transform: uppercase; color: var(--aurora); margin: 0 0 8px; }
+  .event-name { font: 600 15px/1.35 "Space Grotesk", sans-serif; color: var(--ice); text-decoration: none; }
+  .event-name:hover { color: var(--aurora); }
+  .event-meta { color: #A9B3C7; font-size: 13px; margin-top: 4px; line-height: 1.45; }
+  .countdown { color: var(--platinum); font-weight: 600; }
+  .action {
+    color: var(--platinum); font-size: 13px; margin-top: 10px; line-height: 1.4;
+    padding: 8px 10px; background: rgba(93,155,255,.08); border-radius: 8px;
+  }
+  .action b { color: var(--aurora); font-weight: 600; }
   .status { color: var(--gray); text-align: center; padding: 28px 0; font-size: 14px; }
   .err { color: #FF8A8A; font-size: 12px; padding: 6px 0; }
   footer {
@@ -142,6 +156,7 @@
 </header>
 <main>
   <div class="hero">Procurement intel for <em>mission builders</em>.</div>
+  <section class="events" id="events"></section>
   <div id="errors"></div>
   <div id="feed"><div class="status">Fetching latest space news…</div></div>
 </main>
@@ -179,7 +194,29 @@ const COUNTRIES = [
   { key: "Europe",      re: /europe|\besa\b|airbus|arianespace|european/i }
 ];
 
+// Events we are tracking. Add only events with dates confirmed from an official source.
+const EVENTS = [
+  {
+    name: "Space Tech Expo Europe, Bremen",
+    start: "2026-11-17",
+    end: "2026-11-19",
+    where: "Messe Bremen, Germany",
+    note: "CelestKart is exhibiting",
+    link: "https://www.aviaspace-bremen.de/events/space-tech-expo-europe-4/"
+  }
+];
+
+// Founder action lines, written from the topic and country tags. Not news content.
+const ACTIONS = {
+  opportunity: "Check whether this opens a sourcing or supplier-onboarding lead.",
+  launch: "Note which vehicles or payloads will need components we could source.",
+  plans: "Check whether this changes compliance, export or onboarding rules.",
+  isro: "Check for procurement or partner openings with ISRO or IN-SPACe."
+};
+const EUROPE_ACTION = "Relevant to our Bremen conversations. Consider a talking point.";
+
 const feedEl = document.getElementById("feed");
+const eventsEl = document.getElementById("events");
 const errEl = document.getElementById("errors");
 const updatedEl = document.getElementById("updated");
 const btn = document.getElementById("refresh");
@@ -214,6 +251,41 @@ async function fetchFeed(feed) {
     date: new Date(i.pubDate.replace(" ", "T") + "Z").toISOString(),
     source: feed.name
   }));
+}
+
+function renderEvents() {
+  const today = new Date(); today.setHours(0, 0, 0, 0);
+  const upcoming = EVENTS
+    .filter(e => new Date(e.end + "T23:59:59") >= today)
+    .sort((a, b) => a.start.localeCompare(b.start));
+  if (!upcoming.length) { eventsEl.hidden = true; return; }
+  eventsEl.hidden = false;
+  eventsEl.innerHTML = "<h2>Events we are tracking</h2>";
+  for (const e of upcoming) {
+    const start = new Date(e.start + "T00:00:00");
+    const days = Math.round((start - today) / 86400000);
+    const when = start.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
+    const endDate = new Date(e.end + "T00:00:00").toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
+    const a = document.createElement("a");
+    a.className = "event-name";
+    a.href = e.link; a.target = "_blank"; a.rel = "noopener";
+    a.textContent = e.name;
+    const meta = document.createElement("div");
+    meta.className = "event-meta";
+    meta.innerHTML = "";
+    const cd = document.createElement("span");
+    cd.className = "countdown";
+    cd.textContent = days > 0 ? "In " + days + " days" : "Happening now";
+    meta.appendChild(cd);
+    meta.appendChild(document.createTextNode(" · " + when + " – " + endDate + " · " + e.where));
+    if (e.note) {
+      const n = document.createElement("div");
+      n.textContent = e.note;
+      meta.appendChild(n);
+    }
+    eventsEl.appendChild(a);
+    eventsEl.appendChild(meta);
+  }
 }
 
 function readCache() {
@@ -280,6 +352,19 @@ function render() {
     src.textContent = it.source + " · " + new Date(it.date).toLocaleString();
     card.appendChild(src);
 
+    const actionText = it.topics[0] ? ACTIONS[it.topics[0]] : null;
+    const euro = it.country === "Europe" ? EUROPE_ACTION : null;
+    const line = euro || actionText;
+    if (line) {
+      const act = document.createElement("div");
+      act.className = "action";
+      const b = document.createElement("b");
+      b.textContent = "Founder action: ";
+      act.appendChild(b);
+      act.appendChild(document.createTextNode(line));
+      card.appendChild(act);
+    }
+
     feedEl.appendChild(card);
   }
 }
@@ -332,6 +417,7 @@ countryEl.addEventListener("change", e => {
   render();
 });
 btn.addEventListener("click", () => load(true));
+renderEvents();
 load(false);
 </script>
 </body>
