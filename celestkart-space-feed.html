@@ -175,15 +175,20 @@
 <footer>CelestKart Space Intel · Stories are summarized from public sources. Verify before acting.</footer>
 <script>
 // Feeds are public RSS, converted to JSON by rss2json. Add or remove feeds here.
+const SPACE_RE = /space|rocket|satellite|ISRO|IN-SPACe|INSPACe|NSIL|Sriharikota|launch|orbit|Gaganyaan|Aditya|Guild|payload/i;
+
 const FEEDS = [
   { name: "NASA",            url: "https://www.nasa.gov/feed/" },
   { name: "Spaceflight Now", url: "https://spaceflightnow.com/feed/" },
   { name: "Space.com",       url: "https://www.space.com/feeds/all" },
-  { name: "ISRO news",       url: "https://news.google.com/rss/search?q=ISRO&hl=en-IN&gl=IN&ceid=IN:en" }
+  { name: "ISRO news",       url: "https://news.google.com/rss/search?q=ISRO&hl=en-IN&gl=IN&ceid=IN:en" },
+  // The Hindu carries non-space news too, so keep only space stories.
+  { name: "The Hindu (Science)",  url: "https://www.thehindu.com/sci-tech/science/feeder/default.rss", only: SPACE_RE },
+  { name: "The Hindu (Industry)", url: "https://www.thehindu.com/business/Industry/feeder/default.rss", only: SPACE_RE }
 ];
 const API = "https://api.rss2json.com/v1/api.json?rss_url=";
 const MAX_PER_SOURCE = 8;
-const CACHE_KEY = "ckSpaceFeedCache2";
+const CACHE_KEY = "ckSpaceFeedCache3";
 const CACHE_MINUTES = 30;
 
 // Procurement topics. A story can carry several.
@@ -271,14 +276,17 @@ async function fetchFeed(feed) {
   if (!res.ok) throw new Error(feed.name + ": HTTP " + res.status);
   const data = await res.json();
   if (data.status !== "ok") throw new Error(feed.name + ": feed unavailable");
-  return data.items.slice(0, MAX_PER_SOURCE).map(i => ({
-    title: i.title,
-    link: i.link,
-    summary: stripHtml(i.description),
-    image: (i.enclosure && i.enclosure.link) || i.thumbnail || "",
-    date: new Date(i.pubDate.replace(" ", "T") + "Z").toISOString(),
-    source: feed.name
-  }));
+  return data.items
+    .filter(i => !feed.only || feed.only.test(i.title + " " + stripHtml(i.description)))
+    .slice(0, MAX_PER_SOURCE)
+    .map(i => ({
+      title: i.title,
+      link: i.link,
+      summary: stripHtml(i.description),
+      image: (i.enclosure && i.enclosure.link) || i.thumbnail || "",
+      date: new Date(i.pubDate.replace(" ", "T") + "Z").toISOString(),
+      source: feed.name
+    }));
 }
 
 function renderEvents() {
