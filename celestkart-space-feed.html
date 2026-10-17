@@ -157,6 +157,7 @@
 <main>
   <div class="hero">Procurement intel for <em>mission builders</em>.</div>
   <section class="events" id="events"></section>
+  <section class="events" id="pipeline"></section>
   <div id="errors"></div>
   <div id="feed"><div class="status">Fetching latest space news…</div></div>
 </main>
@@ -213,6 +214,13 @@ const ACTIONS = {
   plans: "Check whether this changes compliance, export or onboarding rules.",
   isro: "Check for procurement or partner openings with ISRO or IN-SPACe."
 };
+// Launch and mission pipeline. Only items with a source; "timing" is as stated by that source.
+const PIPELINE = [
+  { who: "SkyRoot Aerospace", what: "Vikram-1 orbital launch", timing: "Late 2027, under a three-launch deal with HEX20 Space", source: "Indian Defense News, Aug 2026", link: "https://www.indiandefensenews.in/2026/08/indian-private-space-firms-set-to-cross.html" },
+  { who: "Agnikul Cosmos", what: "Agnibaan modular rocket", timing: "In preparation, no date given", source: "Indian Defense News, Aug 2026", link: "https://www.indiandefensenews.in/2026/08/indian-private-space-firms-set-to-cross.html" },
+  { who: "PixxelSpace India", what: "Earth observation satellite constellation", timing: "In development, no date given", source: "Indian Defense News, Aug 2026", link: "https://www.indiandefensenews.in/2026/08/indian-private-space-firms-set-to-cross.html" }
+];
+
 const EUROPE_ACTION = "Relevant to our Bremen conversations. Consider a talking point.";
 
 const feedEl = document.getElementById("feed");
@@ -286,6 +294,26 @@ function renderEvents() {
     eventsEl.appendChild(a);
     eventsEl.appendChild(meta);
   }
+}
+
+function renderPipeline() {
+  const el = document.getElementById("pipeline");
+  el.innerHTML = "<h2>Launch and mission pipeline (India)</h2>";
+  for (const p of PIPELINE) {
+    const a = document.createElement("a");
+    a.className = "event-name";
+    a.href = p.link; a.target = "_blank"; a.rel = "noopener";
+    a.textContent = p.who + ": " + p.what;
+    const meta = document.createElement("div");
+    meta.className = "event-meta";
+    meta.textContent = p.timing + " · Source: " + p.source;
+    el.appendChild(a);
+    el.appendChild(meta);
+  }
+  const note = document.createElement("div");
+  note.className = "event-meta";
+  note.textContent = "Academic satellite missions: none confirmed yet.";
+  el.appendChild(note);
 }
 
 function readCache() {
@@ -418,6 +446,7 @@ countryEl.addEventListener("change", e => {
 });
 btn.addEventListener("click", () => load(true));
 renderEvents();
+renderPipeline();
 load(false);
 </script>
 </body>
