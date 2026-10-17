@@ -184,7 +184,9 @@ const FEEDS = [
   { name: "ISRO news",       url: "https://news.google.com/rss/search?q=ISRO&hl=en-IN&gl=IN&ceid=IN:en" },
   // The Hindu carries non-space news too, so keep only space stories.
   { name: "The Hindu (Science)",  url: "https://www.thehindu.com/sci-tech/science/feeder/default.rss", only: SPACE_RE },
-  { name: "The Hindu (Industry)", url: "https://www.thehindu.com/business/Industry/feeder/default.rss", only: SPACE_RE }
+  { name: "The Hindu (Industry)", url: "https://www.thehindu.com/business/Industry/feeder/default.rss", only: SPACE_RE },
+  { name: "Times of India (Science)", url: "https://timesofindia.indiatimes.com/rssfeeds/-2128672765.cms", only: SPACE_RE },
+  { name: "SpaceNews", url: "https://spacenews.com/feed/" }
 ];
 const API = "https://api.rss2json.com/v1/api.json?rss_url=";
 const MAX_PER_SOURCE = 8;
