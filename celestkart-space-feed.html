@@ -69,10 +69,14 @@
   .item {
     background: var(--navy);
     border: 1px solid #16233f;
+    border-left: 3px solid var(--gray);
     border-radius: 12px;
     padding: 14px;
     margin-bottom: 12px;
   }
+  .item.supply { border-left-color: var(--aurora); }
+  .item.policy { border-left-color: var(--violet); }
+  .item.launch { border-left-color: var(--platinum); }
   .tag {
     display: inline-block;
     font: 600 10px Inter, sans-serif;
@@ -185,7 +189,7 @@ function render() {
   }
   for (const it of visible) {
     const card = document.createElement("div");
-    card.className = "item";
+    card.className = "item " + (it.tags[0] ? it.tags[0].key : "general");
     const tagText = it.tags.length ? it.tags.map(t => t.label).join(" · ") : "General";
     card.innerHTML =
       '<div class="tag"></div>' +
