@@ -17,6 +17,7 @@
     --violet: #9D7DFF;
   }
   * { box-sizing: border-box; }
+  [hidden] { display: none !important; }
   body {
     margin: 0;
     font-family: Inter, system-ui, -apple-system, sans-serif;
@@ -129,6 +130,10 @@
     padding: 8px 10px; background: rgba(93,155,255,.08); border-radius: 8px;
   }
   .action b { color: var(--aurora); font-weight: 600; }
+  .region { font: 600 12px Inter, sans-serif; letter-spacing: .08em; text-transform: uppercase; color: var(--aurora); margin: 18px 0 8px; }
+  .views { display: flex; gap: 8px; margin-top: 12px; }
+  .views .chip { font-size: 13px; padding: 6px 16px; }
+  .ev-note { color: #A9B3C7; font-size: 13px; margin-top: 6px; }
   .status { color: var(--gray); text-align: center; padding: 28px 0; font-size: 14px; }
   .err { color: #FF8A8A; font-size: 12px; padding: 6px 0; }
   footer {
@@ -141,11 +146,15 @@
 <header>
   <img class="logo" src="celestkart-logo-white.png" alt="CelestKart" height="56">
   <div class="tagline">Building the Supply Chain to Orbit</div>
-  <div class="bar">
+  <div class="views">
+    <button class="chip active" data-view="news">News</button>
+    <button class="chip" data-view="events">Events</button>
+  </div>
+  <div class="bar" id="bar">
     <span class="updated" id="updated">Loading…</span>
     <button class="refresh" id="refresh">Refresh</button>
   </div>
-  <div class="filters">
+  <div class="filters" id="newsControls">
     <button class="chip active" data-f="all">All</button>
     <button class="chip" data-f="opportunity">Opportunity</button>
     <button class="chip" data-f="launch">Launches</button>
@@ -166,12 +175,18 @@
   </div>
 </header>
 <main>
-  <div class="hero">What's happening in <em>space</em>, and what it means for us.</div>
-  <section class="events" id="events"></section>
-  <section class="events" id="pipeline"></section>
-  <section class="events" id="industry"></section>
-  <div id="errors"></div>
-  <div id="feed"><div class="status">Fetching latest space news…</div></div>
+  <div id="newsView">
+    <div class="hero">What's happening in <em>space</em>, and what it means for us.</div>
+    <section class="events" id="pipeline"></section>
+    <section class="events" id="industry"></section>
+    <div id="errors"></div>
+    <div id="feed"><div class="status">Fetching latest space news…</div></div>
+  </div>
+  <div id="eventsView" hidden>
+    <div class="hero">Space events that matter for <em>procurement</em>.</div>
+    <div id="eventList"></div>
+    <div class="status" style="padding:8px 0 0">Dates come from public event listings. Confirm with organisers before booking travel.</div>
+  </div>
 </main>
 <footer>CelestKart Space Intel · Stories are summarized from public sources. Verify before acting.</footer>
 <script>
@@ -214,16 +229,29 @@ const COUNTRIES = [
   { key: "Europe",      re: /europe|\besa\b|airbus|arianespace|european/i }
 ];
 
-// Events we are tracking. Add only events with dates confirmed from an official source.
+// Events for the Events tab. Dates from public listings or the founder team; confirm before booking.
+const REGIONS = ["India", "Europe", "USA", "Asia & other"];
 const EVENTS = [
-  {
-    name: "Space Tech Expo Europe, Bremen",
-    start: "2026-11-17",
-    end: "2026-11-19",
-    where: "Messe Bremen, Germany",
-    note: "CelestKart is exhibiting",
-    link: "https://www.aviaspace-bremen.de/events/space-tech-expo-europe-4/"
-  }
+  { name: "Inspace event, Delhi", start: "2026-11-23", end: "2026-11-24", region: "India", where: "Delhi, India", organizer: "IN-SPACe", note: "Venue and programme not yet confirmed.", why: "Home-market buyers and regulators. Check the speaker and exhibitor lists when published.", link: "" },
+  { name: "Space Tech Expo Europe, Bremen", start: "2026-11-17", end: "2026-11-19", region: "Europe", where: "Messe Bremen, Germany", organizer: "", note: "CelestKart is visiting, not exhibiting.", why: "Supplier and buyer meetings. Plan the visits before the show.", link: "https://www.aviaspace-bremen.de/events/space-tech-expo-europe-4/" },
+  { name: "NeoSpace Europe 2026", start: "2026-10-20", end: "2026-10-20", region: "Europe", where: "Luxembourg City, Luxembourg", organizer: "Luxembourg Space Agency", link: "" },
+  { name: "Japanese-European Space Exhibition 2026", start: "2026-10-17", end: "2026-10-25", region: "Asia & other", where: "Gifu, Japan", organizer: "DLR / JAXA", link: "" },
+  { name: "Satellite Innovation 2026 (Silicon Valley Space Week)", start: "2026-10-27", end: "2026-10-29", region: "USA", where: "Mountain View, California, USA", organizer: "", link: "" },
+  { name: "Defence in Space Conference 2026", start: "2026-10-27", end: "2026-10-28", region: "Europe", where: "London, UK", organizer: "", link: "" },
+  { name: "Space Summit for a Resilient Future 2026", start: "2026-10-27", end: "2026-10-28", region: "Europe", where: "Toulouse, France", organizer: "Novaspace", link: "" },
+  { name: "CyberSat 2026", start: "2026-11-02", end: "2026-11-05", region: "USA", where: "Reston, Virginia, USA", organizer: "Access Intelligence", link: "" },
+  { name: "Global MilSatCom 2026", start: "2026-11-02", end: "2026-11-05", region: "Europe", where: "London, UK", organizer: "", link: "" },
+  { name: "Dubai Airshow 2027", start: "2027-11-15", end: "2027-11-19", region: "Asia & other", where: "Dubai, UAE", organizer: "", link: "" },
+  { name: "SFA Spacepower Conference 2026", start: "2026-12-08", end: "2026-12-10", region: "USA", where: "Orlando, Florida, USA", organizer: "Space Force Association", link: "" },
+  { name: "Space-Comm Expo Europe 2027", start: "2027-03-03", end: "2027-03-04", region: "Europe", where: "London, UK", organizer: "", link: "" },
+  { name: "SATELLITE 2027", start: "2027-03-08", end: "2027-03-11", region: "USA", where: "Washington, DC, USA", organizer: "", link: "" },
+  { name: "42nd Space Symposium", start: "2027-04-12", end: "2027-04-15", region: "USA", where: "Colorado Springs, Colorado, USA", organizer: "Space Foundation", link: "" },
+  { name: "Paris Air Show 2027", start: "2027-06-14", end: "2027-06-20", region: "Europe", where: "Le Bourget, Paris, France", organizer: "", link: "" },
+  { name: "Space Tech Expo USA 2027", start: "2027-06-30", end: "2027-07-01", region: "USA", where: "Anaheim Convention Center, California, USA", organizer: "Space Tech Expo", link: "" },
+  { name: "Small Satellite Conference 2027", start: "2027-08-01", end: "2027-08-04", region: "USA", where: "Salt Lake City, Utah, USA", organizer: "", link: "" },
+  { name: "DSEI 2027", start: "2027-09-07", end: "2027-09-10", region: "Europe", where: "London, UK", organizer: "", link: "" },
+  { name: "World Space Business Week 2027", start: "2027-09-13", end: "2027-09-16", region: "Europe", where: "Paris, France", organizer: "Novaspace", link: "" },
+  { name: "78th International Astronautical Congress (IAC 2027)", start: "2027-09-27", end: "2027-10-01", region: "Europe", where: "Poznan, Poland", organizer: "International Astronautical Federation", link: "" }
 ];
 
 // Founder action lines, written from the topic and country tags. Not news content.
@@ -252,7 +280,6 @@ const INDUSTRY = [
 const EUROPE_ACTION = "Relevant to our Bremen conversations. Consider a talking point.";
 
 const feedEl = document.getElementById("feed");
-const eventsEl = document.getElementById("events");
 const errEl = document.getElementById("errors");
 const updatedEl = document.getElementById("updated");
 const btn = document.getElementById("refresh");
@@ -292,39 +319,58 @@ async function fetchFeed(feed) {
     }));
 }
 
-function renderEvents() {
+function renderEventsTab() {
+  const list = document.getElementById("eventList");
+  list.innerHTML = "";
   const today = new Date(); today.setHours(0, 0, 0, 0);
-  const upcoming = EVENTS
-    .filter(e => new Date(e.end + "T23:59:59") >= today)
-    .sort((a, b) => a.start.localeCompare(b.start));
-  if (!upcoming.length) { eventsEl.hidden = true; return; }
-  eventsEl.hidden = false;
-  eventsEl.innerHTML = "<h2>Events we are tracking</h2>";
-  for (const e of upcoming) {
-    const start = new Date(e.start + "T00:00:00");
-    const days = Math.round((start - today) / 86400000);
-    const when = start.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
-    const endDate = new Date(e.end + "T00:00:00").toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
-    const a = document.createElement("a");
-    a.className = "event-name";
-    a.href = e.link; a.target = "_blank"; a.rel = "noopener";
-    a.textContent = e.name;
-    const meta = document.createElement("div");
-    meta.className = "event-meta";
-    meta.innerHTML = "";
-    const cd = document.createElement("span");
-    cd.className = "countdown";
-    cd.textContent = days > 0 ? "In " + days + " days" : "Happening now";
-    meta.appendChild(cd);
-    meta.appendChild(document.createTextNode(" · " + when + " – " + endDate + " · " + e.where));
-    if (e.note) {
-      const n = document.createElement("div");
-      n.textContent = e.note;
-      meta.appendChild(n);
+  for (const region of REGIONS) {
+    const items = EVENTS
+      .filter(e => e.region === region && new Date(e.end + "T23:59:59") >= today)
+      .sort((a, b) => a.start.localeCompare(b.start));
+    if (!items.length) continue;
+    const h = document.createElement("div");
+    h.className = "region";
+    h.textContent = region;
+    list.appendChild(h);
+    for (const e of items) {
+      const card = document.createElement("div");
+      card.className = "item";
+      const name = e.link
+        ? Object.assign(document.createElement("a"), { href: e.link, target: "_blank", rel: "noopener", textContent: e.name })
+        : Object.assign(document.createElement("div"), { className: "event-name", textContent: e.name });
+      if (e.link) name.style.font = '600 16px/1.35 "Space Grotesk", sans-serif';
+      const start = new Date(e.start + "T00:00:00");
+      const days = Math.round((start - today) / 86400000);
+      const fmt = d => new Date(d + "T00:00:00").toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
+      const dates = e.start === e.end ? fmt(e.start) : fmt(e.start) + " – " + fmt(e.end);
+      const meta = document.createElement("div");
+      meta.className = "event-meta";
+      const cd = document.createElement("span");
+      cd.className = "countdown";
+      cd.textContent = days > 0 ? "In " + days + " days" : "Happening now";
+      meta.appendChild(cd);
+      meta.appendChild(document.createTextNode(" · " + dates + " · " + e.where + (e.organizer ? " · " + e.organizer : "")));
+      card.appendChild(name);
+      card.appendChild(meta);
+      if (e.note) {
+        const n = document.createElement("div");
+        n.className = "ev-note";
+        n.textContent = e.note;
+        card.appendChild(n);
+      }
+      if (e.why) {
+        const act = document.createElement("div");
+        act.className = "action";
+        const b = document.createElement("b");
+        b.textContent = "Founder action: ";
+        act.appendChild(b);
+        act.appendChild(document.createTextNode(e.why));
+        card.appendChild(act);
+      }
+      list.appendChild(card);
     }
-    eventsEl.appendChild(a);
-    eventsEl.appendChild(meta);
   }
+  if (!list.children.length) list.innerHTML = '<div class="status">No upcoming events listed.</div>';
 }
 
 function renderPipeline() {
@@ -499,7 +545,7 @@ document.querySelector(".filters").addEventListener("click", e => {
   const chip = e.target.closest(".chip");
   if (!chip) return;
   topic = chip.dataset.f;
-  document.querySelectorAll(".chip").forEach(c => c.classList.toggle("active", c === chip));
+  document.querySelectorAll(".filters .chip").forEach(c => c.classList.toggle("active", c === chip));
   render();
 });
 countryEl.addEventListener("change", e => {
@@ -507,7 +553,17 @@ countryEl.addEventListener("change", e => {
   render();
 });
 btn.addEventListener("click", () => load(true));
-renderEvents();
+document.querySelector(".views").addEventListener("click", e => {
+  const chip = e.target.closest(".chip");
+  if (!chip) return;
+  const view = chip.dataset.view;
+  document.querySelectorAll(".views .chip").forEach(c => c.classList.toggle("active", c === chip));
+  document.getElementById("newsView").hidden = view !== "news";
+  document.getElementById("eventsView").hidden = view !== "events";
+  document.getElementById("newsControls").hidden = view !== "news";
+  document.getElementById("bar").hidden = view !== "news";
+});
+renderEventsTab();
 renderPipeline();
 renderIndustry();
 load(false);
