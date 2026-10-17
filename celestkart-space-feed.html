@@ -31,9 +31,7 @@
   }
   .wordmark {
     font-family: "Space Grotesk", sans-serif;
-    font-weight: 700;
-    letter-spacing: .32em;
-    font-size: 15px;
+    font-weight: 700; letter-spacing: .32em; font-size: 15px;
     color: var(--platinum);
   }
   .wordmark span { color: var(--aurora); }
@@ -49,13 +47,20 @@
     font: 600 13px Inter, sans-serif; cursor: pointer;
   }
   button.refresh:disabled { opacity: .5; }
-  .filters { display: flex; gap: 8px; margin-top: 12px; overflow-x: auto; }
+  .filters {
+    display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; align-items: center;
+  }
   .chip {
     background: transparent; color: var(--gray);
     border: 1px solid var(--navy); border-radius: 999px;
     padding: 5px 12px; font: 500 12px Inter, sans-serif; cursor: pointer; white-space: nowrap;
   }
   .chip.active { color: var(--obsidian); background: var(--aurora); border-color: var(--aurora); }
+  select#country {
+    background: var(--navy); color: var(--platinum);
+    border: 1px solid #16233f; border-radius: 8px;
+    padding: 5px 8px; font: 500 12px Inter, sans-serif;
+  }
   main { padding: 16px; }
   .hero {
     font-family: "Space Grotesk", sans-serif;
@@ -74,17 +79,24 @@
     padding: 14px;
     margin-bottom: 12px;
   }
-  .item.supply { border-left-color: var(--aurora); }
-  .item.policy { border-left-color: var(--violet); }
+  .item.opportunity { border-left-color: var(--aurora); }
   .item.launch { border-left-color: var(--platinum); }
+  .item.plans { border-left-color: var(--violet); }
+  .item.isro { border-left-color: var(--aurora); }
+  .thumb {
+    display: block; width: 100%; height: auto;
+    aspect-ratio: 16 / 9; object-fit: cover;
+    border-radius: 8px; margin-bottom: 10px; background: #0a1426;
+  }
+  .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
   .tag {
-    display: inline-block;
     font: 600 10px Inter, sans-serif;
     letter-spacing: .08em; text-transform: uppercase;
     color: var(--aurora);
     border: 1px solid rgba(93,155,255,.35);
-    border-radius: 4px; padding: 2px 6px; margin-bottom: 8px;
+    border-radius: 4px; padding: 2px 6px;
   }
+  .tag.country { color: var(--platinum); border-color: rgba(232,237,242,.3); }
   .item a {
     color: var(--ice); text-decoration: none;
     font: 600 16px/1.35 "Space Grotesk", sans-serif;
@@ -108,11 +120,24 @@
     <span class="updated" id="updated">Loading…</span>
     <button class="refresh" id="refresh">Refresh</button>
   </div>
-  <div class="filters" id="filters">
+  <div class="filters">
     <button class="chip active" data-f="all">All</button>
-    <button class="chip" data-f="supply">Supply chain</button>
-    <button class="chip" data-f="policy">Policy &amp; compliance</button>
-    <button class="chip" data-f="launch">Launch</button>
+    <button class="chip" data-f="opportunity">Opportunity</button>
+    <button class="chip" data-f="launch">Launches</button>
+    <button class="chip" data-f="plans">Plans &amp; policy</button>
+    <button class="chip" data-f="isro">ISRO / IN-SPACe</button>
+    <select id="country" aria-label="Country">
+      <option value="all">All countries</option>
+      <option value="India">India</option>
+      <option value="USA">USA</option>
+      <option value="Japan">Japan</option>
+      <option value="South Korea">South Korea</option>
+      <option value="Singapore">Singapore</option>
+      <option value="Indonesia">Indonesia</option>
+      <option value="China">China</option>
+      <option value="Europe">Europe</option>
+      <option value="Global">Global / other</option>
+    </select>
   </div>
 </header>
 <main>
@@ -122,30 +147,47 @@
 </main>
 <footer>CelestKart Space Intel · Stories are summarized from public sources. Verify before acting.</footer>
 <script>
-// Public RSS feeds, converted to JSON by rss2json. Add or remove feeds here.
+// Feeds are public RSS, converted to JSON by rss2json. Add or remove feeds here.
 const FEEDS = [
   { name: "NASA",            url: "https://www.nasa.gov/feed/" },
   { name: "Spaceflight Now", url: "https://spaceflightnow.com/feed/" },
-  { name: "Space.com",       url: "https://www.space.com/feeds/all" }
+  { name: "Space.com",       url: "https://www.space.com/feeds/all" },
+  { name: "ISRO & IN-SPACe", url: "https://news.google.com/rss/search?q=ISRO+OR+IN-SPACe+OR+NSIL&hl=en-IN&gl=IN&ceid=IN:en" },
+  { name: "Space procurement", url: "https://news.google.com/rss/search?q=space+components+OR+satellite+procurement+OR+space+tender&hl=en&gl=US&ceid=US:en" }
 ];
 const API = "https://api.rss2json.com/v1/api.json?rss_url=";
 const MAX_PER_SOURCE = 8;
-const CACHE_KEY = "ckSpaceFeedCache";
+const CACHE_KEY = "ckSpaceFeedCache2";
 const CACHE_MINUTES = 30;
 
-// Procurement relevance rules: a story gets a tag when its text matches.
-const RULES = [
-  { key: "supply",  label: "Supply chain",       re: /manufactur|supplier|supply chain|component|procure|factory|production|semiconductor|propulsion|parts?\b|contract/i },
-  { key: "policy",  label: "Policy & compliance", re: /policy|regulat|export|ITAR|sanction|IN-SPACe|ISRO|NSIL|FDI|licens|law|bill|liability|insurance|government/i },
-  { key: "launch",  label: "Launch",              re: /launch|rocket|liftoff|falcon|starship|orbit|payload|satellite/i }
+// Procurement topics. A story can carry several.
+const TOPICS = [
+  { key: "opportunity", label: "Opportunity",    re: /opportunit|tender|rfq|rfp|\bbid\b|contract|award|procure|supplier|manufactur|component|order\b/i },
+  { key: "launch",      label: "Launch",         re: /launch|rocket|liftoff|falcon|starship|payload|satellite|mission/i },
+  { key: "plans",       label: "Plans & policy", re: /\bplans?\b|roadmap|strategy|budget|policy|\bbill\b|regulat|export|licen[cs]e|\bFDI\b|sanction|ITAR/i },
+  { key: "isro",        label: "ISRO / IN-SPACe", re: /ISRO|IN-SPACe|INSPACe|NSIL|Indian Space/i }
+];
+
+// Country from the story text. First match wins; no match means Global.
+const COUNTRIES = [
+  { key: "India",       re: /india|isro|in-space|inspace|nsil|indian|bengaluru|sriharikota|skyroot|agnikul/i },
+  { key: "USA",         re: /nasa|spacex|united states|\bu\.s\.|american|space force|blue origin|boeing|lockheed|rocket lab/i },
+  { key: "Japan",       re: /japan|jaxa|japanese|tokyo|h3 rocket/i },
+  { key: "South Korea", re: /korea|korean|\bkari\b|nuri|seoul/i },
+  { key: "Singapore",   re: /singapore/i },
+  { key: "Indonesia",   re: /indonesia|biak/i },
+  { key: "China",       re: /china|chinese|cnsa|long march/i },
+  { key: "Europe",      re: /europe|\besa\b|airbus|arianespace|european/i }
 ];
 
 const feedEl = document.getElementById("feed");
 const errEl = document.getElementById("errors");
 const updatedEl = document.getElementById("updated");
 const btn = document.getElementById("refresh");
+const countryEl = document.getElementById("country");
 let allItems = [];
-let filter = "all";
+let topic = "all";
+let country = "all";
 
 function stripHtml(html) {
   const d = document.createElement("div");
@@ -153,9 +195,11 @@ function stripHtml(html) {
   return (d.textContent || "").trim().slice(0, 220);
 }
 
-function tagsFor(item) {
+function classify(item) {
   const text = item.title + " " + item.summary;
-  return RULES.filter(r => r.re.test(text));
+  const topics = TOPICS.filter(t => t.re.test(text)).map(t => t.key);
+  const c = COUNTRIES.find(c => c.re.test(text));
+  return { topics, country: c ? c.key : "Global" };
 }
 
 async function fetchFeed(feed) {
@@ -167,6 +211,7 @@ async function fetchFeed(feed) {
     title: i.title,
     link: i.link,
     summary: stripHtml(i.description),
+    image: (i.enclosure && i.enclosure.link) || i.thumbnail || "",
     date: new Date(i.pubDate.replace(" ", "T") + "Z").toISOString(),
     source: feed.name
   }));
@@ -178,29 +223,64 @@ function readCache() {
 
 function render() {
   const visible = allItems
-    .map(it => ({ ...it, tags: tagsFor(it) }))
-    .filter(it => filter === "all" || it.tags.some(t => t.key === filter))
+    .map(it => ({ ...it, ...classify(it) }))
+    .filter(it => (topic === "all" || it.topics.includes(topic)) &&
+                  (country === "all" || it.country === country))
     .sort((a, b) => new Date(b.date) - new Date(a.date));
 
   feedEl.innerHTML = "";
   if (!visible.length) {
-    feedEl.innerHTML = '<div class="status">No stories match this filter right now.</div>';
+    feedEl.innerHTML = '<div class="status">No stories match these filters right now.</div>';
     return;
   }
   for (const it of visible) {
     const card = document.createElement("div");
-    card.className = "item " + (it.tags[0] ? it.tags[0].key : "general");
-    const tagText = it.tags.length ? it.tags.map(t => t.label).join(" · ") : "General";
-    card.innerHTML =
-      '<div class="tag"></div>' +
-      '<a target="_blank" rel="noopener"></a>' +
-      '<div class="sum"></div>' +
-      '<div class="src"></div>';
-    card.querySelector(".tag").textContent = tagText;
-    card.querySelector("a").href = it.link;
-    card.querySelector("a").textContent = it.title;
-    card.querySelector(".sum").textContent = it.summary;
-    card.querySelector(".src").textContent = it.source + " · " + new Date(it.date).toLocaleString();
+    card.className = "item " + (it.topics[0] || "general");
+
+    if (it.image) {
+      const img = document.createElement("img");
+      img.className = "thumb";
+      img.loading = "lazy";
+      img.referrerPolicy = "no-referrer";
+      img.alt = "";
+      img.src = it.image;
+      img.onerror = () => img.remove();
+      card.appendChild(img);
+    }
+
+    const tags = document.createElement("div");
+    tags.className = "tags";
+    const countryTag = document.createElement("span");
+    countryTag.className = "tag country";
+    countryTag.textContent = it.country;
+    tags.appendChild(countryTag);
+    for (const t of TOPICS) {
+      if (it.topics.includes(t.key)) {
+        const s = document.createElement("span");
+        s.className = "tag";
+        s.textContent = t.label;
+        tags.appendChild(s);
+      }
+    }
+    card.appendChild(tags);
+
+    const a = document.createElement("a");
+    a.href = it.link;
+    a.target = "_blank";
+    a.rel = "noopener";
+    a.textContent = it.title;
+    card.appendChild(a);
+
+    const sum = document.createElement("div");
+    sum.className = "sum";
+    sum.textContent = it.summary;
+    card.appendChild(sum);
+
+    const src = document.createElement("div");
+    src.className = "src";
+    src.textContent = it.source + " · " + new Date(it.date).toLocaleString();
+    card.appendChild(src);
+
     feedEl.appendChild(card);
   }
 }
@@ -241,11 +321,15 @@ async function load(force) {
   btn.disabled = false;
 }
 
-document.getElementById("filters").addEventListener("click", e => {
+document.querySelector(".filters").addEventListener("click", e => {
   const chip = e.target.closest(".chip");
   if (!chip) return;
-  filter = chip.dataset.f;
+  topic = chip.dataset.f;
   document.querySelectorAll(".chip").forEach(c => c.classList.toggle("active", c === chip));
+  render();
+});
+countryEl.addEventListener("change", e => {
+  country = e.target.value;
   render();
 });
 btn.addEventListener("click", () => load(true));
