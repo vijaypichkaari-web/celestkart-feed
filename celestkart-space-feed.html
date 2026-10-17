@@ -83,6 +83,16 @@
   .item.launch { border-left-color: var(--platinum); }
   .item.plans { border-left-color: var(--violet); }
   .item.isro { border-left-color: var(--aurora); }
+  .thumb-ph {
+    display: flex; align-items: flex-end; justify-content: space-between;
+    aspect-ratio: 16 / 9; border-radius: 8px; margin-bottom: 10px; padding: 12px;
+    background:
+      radial-gradient(circle at 80% 20%, rgba(93,155,255,.35), transparent 45%),
+      radial-gradient(circle at 15% 90%, rgba(157,125,255,.25), transparent 50%),
+      linear-gradient(160deg, #0E1A31, #050B17);
+    font: 600 11px Inter, sans-serif; letter-spacing: .12em; text-transform: uppercase;
+    color: var(--platinum); border: 1px solid #16233f;
+  }
   .thumb {
     display: block; width: 100%; height: auto;
     aspect-ratio: 16 / 9; object-fit: cover;
@@ -142,7 +152,7 @@
     <button class="chip" data-f="isro">ISRO / IN-SPACe</button>
     <select id="country" aria-label="Country">
       <option value="all">All countries</option>
-      <option value="India">India</option>
+      <option value="India" selected>India</option>
       <option value="USA">USA</option>
       <option value="Japan">Japan</option>
       <option value="South Korea">South Korea</option>
@@ -155,7 +165,7 @@
   </div>
 </header>
 <main>
-  <div class="hero">Procurement intel for <em>mission builders</em>.</div>
+  <div class="hero">What's happening in <em>space</em>, and what it means for us.</div>
   <section class="events" id="events"></section>
   <section class="events" id="pipeline"></section>
   <div id="errors"></div>
@@ -231,7 +241,7 @@ const btn = document.getElementById("refresh");
 const countryEl = document.getElementById("country");
 let allItems = [];
 let topic = "all";
-let country = "all";
+let country = "India";
 
 function stripHtml(html) {
   const d = document.createElement("div");
@@ -343,8 +353,24 @@ function render() {
       img.referrerPolicy = "no-referrer";
       img.alt = "";
       img.src = it.image;
-      img.onerror = () => img.remove();
+      img.onerror = () => {
+        const ph = document.createElement("div");
+        ph.className = "thumb-ph";
+        ph.innerHTML = "<span>CelestKart</span><span></span>";
+        ph.lastChild.textContent = it.country;
+        img.replaceWith(ph);
+      };
       card.appendChild(img);
+    } else {
+      const ph = document.createElement("div");
+      ph.className = "thumb-ph";
+      const l = document.createElement("span");
+      l.textContent = "CelestKart";
+      const r = document.createElement("span");
+      r.textContent = it.country;
+      ph.appendChild(l);
+      ph.appendChild(r);
+      card.appendChild(ph);
     }
 
     const tags = document.createElement("div");
