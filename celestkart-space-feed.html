@@ -152,6 +152,7 @@
   </div>
   <div class="bar" id="bar">
     <span class="updated" id="updated">Loading…</span>
+    <button class="chip" id="alerts" hidden>Enable alerts</button>
     <button class="refresh" id="refresh">Refresh</button>
   </div>
   <div class="filters" id="newsControls">
@@ -208,6 +209,8 @@ const API = "https://api.rss2json.com/v1/api.json?rss_url=";
 const MAX_PER_SOURCE = 8;
 const CACHE_KEY = "ckSpaceFeedCache3";
 const CACHE_MINUTES = 30;
+const AUTO_REFRESH_MINUTES = 60;
+const SEEN_KEY = "ckSeenLinks";
 
 // Procurement topics. A story can carry several.
 const TOPICS = [
@@ -408,6 +411,42 @@ function renderIndustry() {
   }
 }
 
+function getSeen() {
+  try { return new Set(JSON.parse(localStorage.getItem(SEEN_KEY) || "[]")); } catch (e) { return new Set(); }
+}
+function saveSeen(set) {
+  try { localStorage.setItem(SEEN_KEY, JSON.stringify([...set].slice(-500))); } catch (e) {}
+}
+
+// Shows a notification through the service worker (required on Android Chrome).
+function notify(title, body, url) {
+  if (!("serviceWorker" in navigator) || !("Notification" in window) || Notification.permission !== "granted") return;
+  navigator.serviceWorker.ready
+    .then(reg => reg.showNotification(title, { body: body, icon: "celestkart-logo-white.png", tag: url, data: { url: url } }))
+    .catch(() => {});
+}
+
+// Alerts only for new stories that carry a procurement tag. The first run just records what exists.
+function notifyNew(items) {
+  const seen = getSeen();
+  const firstRun = seen.size === 0;
+  const fresh = items.filter(i => !seen.has(i.link));
+  items.forEach(i => seen.add(i.link));
+  saveSeen(seen);
+  if (firstRun) return;
+  const relevant = fresh.map(i => ({ ...i, ...classify(i) })).filter(i => i.topics.length);
+  relevant.slice(0, 3).forEach(i => notify("CelestKart · " + i.country, i.title, i.link));
+  if (relevant.length > 3) notify("CelestKart", (relevant.length - 3) + " more space stories to read", "./");
+}
+
+function updateAlertsButton() {
+  const b = document.getElementById("alerts");
+  if (!("Notification" in window) || !("serviceWorker" in navigator)) { b.hidden = true; return; }
+  if (Notification.permission === "default") { b.hidden = false; b.textContent = "Enable alerts"; b.disabled = false; }
+  else if (Notification.permission === "granted") { b.hidden = false; b.textContent = "Alerts on"; b.disabled = true; }
+  else { b.hidden = true; }
+}
+
 function readCache() {
   return JSON.parse(localStorage.getItem(CACHE_KEY) || "null");
 }
@@ -526,6 +565,7 @@ async function load(force) {
 
   if (items.length) {
     allItems = items;
+    notifyNew(items);
     localStorage.setItem(CACHE_KEY, JSON.stringify({ time: Date.now(), items }));
     render();
     updatedEl.textContent = "Updated " + new Date().toLocaleTimeString();
@@ -553,6 +593,12 @@ countryEl.addEventListener("change", e => {
   render();
 });
 btn.addEventListener("click", () => load(true));
+document.getElementById("alerts").addEventListener("click", () => {
+  Notification.requestPermission().then(() => updateAlertsButton());
+});
+if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+updateAlertsButton();
+setInterval(() => load(true), AUTO_REFRESH_MINUTES * 60000);
 document.querySelector(".views").addEventListener("click", e => {
   const chip = e.target.closest(".chip");
   if (!chip) return;
