@@ -191,24 +191,6 @@
 </main>
 <footer>CelestKart Space Intel · Stories are summarized from public sources. Verify before acting.</footer>
 <script>
-// Feeds are public RSS, converted to JSON by rss2json. Add or remove feeds here.
-const SPACE_RE = /space|rocket|satellite|ISRO|IN-SPACe|INSPACe|NSIL|Sriharikota|launch|orbit|Gaganyaan|Aditya|Guild|payload/i;
-
-const FEEDS = [
-  { name: "NASA",            url: "https://www.nasa.gov/feed/" },
-  { name: "Spaceflight Now", url: "https://spaceflightnow.com/feed/" },
-  { name: "Space.com",       url: "https://www.space.com/feeds/all" },
-  { name: "ISRO news",       url: "https://news.google.com/rss/search?q=ISRO&hl=en-IN&gl=IN&ceid=IN:en" },
-  // The Hindu carries non-space news too, so keep only space stories.
-  { name: "The Hindu (Science)",  url: "https://www.thehindu.com/sci-tech/science/feeder/default.rss", only: SPACE_RE },
-  { name: "The Hindu (Industry)", url: "https://www.thehindu.com/business/Industry/feeder/default.rss", only: SPACE_RE },
-  { name: "Times of India (Science)", url: "https://timesofindia.indiatimes.com/rssfeeds/-2128672765.cms", only: SPACE_RE },
-  { name: "SpaceNews", url: "https://spacenews.com/feed/" }
-];
-const API = "https://api.rss2json.com/v1/api.json?rss_url=";
-const MAX_PER_SOURCE = 8;
-const CACHE_KEY = "ckSpaceFeedCache3";
-const CACHE_MINUTES = 30;
 const AUTO_REFRESH_MINUTES = 60;
 const SEEN_KEY = "ckSeenLinks";
 
@@ -291,35 +273,11 @@ let allItems = [];
 let topic = "all";
 let country = "India";
 
-function stripHtml(html) {
-  const d = document.createElement("div");
-  d.innerHTML = html || "";
-  return (d.textContent || "").trim().slice(0, 220);
-}
-
 function classify(item) {
   const text = item.title + " " + item.summary;
   const topics = TOPICS.filter(t => t.re.test(text)).map(t => t.key);
   const c = COUNTRIES.find(c => c.re.test(text));
   return { topics, country: c ? c.key : "Global" };
-}
-
-async function fetchFeed(feed) {
-  const res = await fetch(API + encodeURIComponent(feed.url));
-  if (!res.ok) throw new Error(feed.name + ": HTTP " + res.status);
-  const data = await res.json();
-  if (data.status !== "ok") throw new Error(feed.name + ": feed unavailable");
-  return data.items
-    .filter(i => !feed.only || feed.only.test(i.title + " " + stripHtml(i.description)))
-    .slice(0, MAX_PER_SOURCE)
-    .map(i => ({
-      title: i.title,
-      link: i.link,
-      summary: stripHtml(i.description),
-      image: (i.enclosure && i.enclosure.link) || i.thumbnail || "",
-      date: new Date(i.pubDate.replace(" ", "T") + "Z").toISOString(),
-      source: feed.name
-    }));
 }
 
 function renderEventsTab() {
@@ -447,10 +405,6 @@ function updateAlertsButton() {
   else { b.hidden = true; }
 }
 
-function readCache() {
-  return JSON.parse(localStorage.getItem(CACHE_KEY) || "null");
-}
-
 function render() {
   const visible = allItems
     .map(it => ({ ...it, ...classify(it) }))
@@ -544,38 +498,31 @@ function render() {
   }
 }
 
-async function load(force) {
-  const cached = readCache();
-  const fresh = cached && (Date.now() - cached.time) < CACHE_MINUTES * 60000;
-  if (!force && fresh) {
-    allItems = cached.items;
-    render();
-    updatedEl.textContent = "Cached " + new Date(cached.time).toLocaleTimeString();
-    return;
+function setErrors(list) {
+  errEl.textContent = "";
+  for (const msg of list) {
+    const d = document.createElement("div");
+    d.className = "err";
+    d.textContent = "⚠ " + msg;
+    errEl.appendChild(d);
   }
+}
+
+// Reads feed.json, which GitHub Actions rebuilds every hour.
+async function load() {
   btn.disabled = true;
   updatedEl.textContent = "Updating…";
-  const results = await Promise.allSettled(FEEDS.map(fetchFeed));
-  const items = [], failures = [];
-  results.forEach(r => {
-    if (r.status === "fulfilled") items.push(...r.value);
-    else failures.push(r.reason.message);
-  });
-  errEl.innerHTML = failures.map(f => '<div class="err">⚠ ' + f + "</div>").join("");
-
-  if (items.length) {
-    allItems = items;
-    notifyNew(items);
-    localStorage.setItem(CACHE_KEY, JSON.stringify({ time: Date.now(), items }));
+  try {
+    const res = await fetch("feed.json?t=" + Date.now(), { cache: "no-store" });
+    if (!res.ok) throw new Error("feed.json returned HTTP " + res.status);
+    const data = await res.json();
+    allItems = data.items || [];
+    notifyNew(allItems);
     render();
-    updatedEl.textContent = "Updated " + new Date().toLocaleTimeString();
-  } else if (cached) {
-    allItems = cached.items;
-    render();
-    errEl.innerHTML += '<div class="err">Live fetch failed; showing last saved stories.</div>';
-    updatedEl.textContent = "Saved " + new Date(cached.time).toLocaleTimeString();
-  } else {
-    feedEl.innerHTML = '<div class="status">Could not load feeds. Check your connection and tap Refresh.</div>';
+    setErrors(data.errors || []);
+    updatedEl.textContent = "Updated " + new Date(data.updated).toLocaleString();
+  } catch (e) {
+    setErrors(["Could not load the news file: " + e.message]);
     updatedEl.textContent = "Offline";
   }
   btn.disabled = false;
@@ -592,13 +539,13 @@ countryEl.addEventListener("change", e => {
   country = e.target.value;
   render();
 });
-btn.addEventListener("click", () => load(true));
+btn.addEventListener("click", () => load());
 document.getElementById("alerts").addEventListener("click", () => {
   Notification.requestPermission().then(() => updateAlertsButton());
 });
 if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
 updateAlertsButton();
-setInterval(() => load(true), AUTO_REFRESH_MINUTES * 60000);
+setInterval(() => load(), AUTO_REFRESH_MINUTES * 60000);
 document.querySelector(".views").addEventListener("click", e => {
   const chip = e.target.closest(".chip");
   if (!chip) return;
@@ -612,7 +559,7 @@ document.querySelector(".views").addEventListener("click", e => {
 renderEventsTab();
 renderPipeline();
 renderIndustry();
-load(false);
+load();
 </script>
 </body>
 </html>
