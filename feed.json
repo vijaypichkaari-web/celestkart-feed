@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T19:41:43.867767+00:00",
+ "updated": "2026-10-23T20:43:30.129130+00:00",
  "errors": [],
  "items": [
   {
@@ -347,6 +347,14 @@
    "source": "The Hindu (Industry)"
   },
   {
+   "title": "Nov. 5: Satellite Mission Management at the Edge",
+   "link": "https://spacenews.com/satellite-mission-management-at-the-edge-event/",
+   "summary": "Join us to explore how emerging technologies and commercial capabilities are transforming satellite operations The post Nov. 5: Satellite Mission Management at the Edge appeared first on SpaceNews .",
+   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-11-05-RTX-SpaceNews-2000-1500-scaled.jpg?fit=1024%2C768&amp;ssl=1",
+   "date": "2026-10-23T19:53:25+00:00",
+   "source": "SpaceNews"
+  },
+  {
    "title": "Rethinking networks in space with Aalyria’s Brian Barritt",
    "link": "https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/",
    "summary": "In this episode, SpaceNews’ Mike Gruss talks with the CEO of Aalyria Brian Barritt about how networks are evolving, what scaling the company means and the role of software interoperability […] The post Rethinking network",
@@ -400,14 +408,6 @@
    "summary": "Join us for a conversation on how machine learning is transforming the GEOINT mission across different markets The post Oct. 29: Applying AI/SI to the GEOINT Mission appeared first on SpaceNews .",
    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-10-29-vantor-spacenews_2000-1500_AI-SI-scaled.jpg?fit=1024%2C768&amp;ssl=1",
    "date": "2026-10-15T20:41:50+00:00",
-   "source": "SpaceNews"
-  },
-  {
-   "title": "How NASA is thinking about a moon base",
-   "link": "https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/",
-   "summary": "In this episode, SpaceNews’ Mike Gruss talks with NASA’s Shatel Bhakta, the principal systems engineer for Moon Base, about what’s needed between now and 2028 and the incremental steps to […] The post How NASA is thinkin",
-   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-NASA-moon-2000-1500.jpg?fit=1024%2C768&amp;ssl=1",
-   "date": "2026-10-15T15:14:24+00:00",
    "source": "SpaceNews"
   }
  ]
