@@ -1,6 +1,8 @@
 {
- "updated": "2026-10-25T15:40:45.915425+00:00",
- "errors": [],
+ "updated": "2026-10-25T16:41:35.810967+00:00",
+ "errors": [
+  "ISRO news: HTTP Error 503: Service Unavailable"
+ ],
  "items": [
   {
    "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
@@ -195,70 +197,6 @@
    "source": "Space.com"
   },
   {
-   "title": "Isro to launch much-delayed indigenous navigation satellite NVS-03 on Oct 30 - The Indian Express",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPamQ3VVRfOVc2WjJKZ05sX2NrQmVrWldYQWt1d0RnOW8yUmpYQks3ZVk0a2ozd2FzYVI2MFIxakFibkd1V1owLXlxVDFnWVpJS3ZUeU1IaFlGMlFTaW1hVDN1aUEzem1PanY2OXJpWlpSMmQyTGxzOFpVbUo1N3hJdHZnTGpyYm40b3puTjA4cEVwZTZOdDN5R3VB0gGgAUFVX3lxTFA0Q3hja2FNZkk5VzNKOXl3bDM0a0V0WHpTVHFFS2xVYV9yT0JqeTBKYi1xQjhVNlZLSEF6SG11cDNyVExNdDNtRGxKRk1rX0NxcGJVV3pvSlRxaURURElfRWZ3US0wRmo5QkZSNUtUaFQ0X3hUOE9BNGEtaHlXTDNkSXNoYkZDLUFhUDRXeks0aHpMbnpiTzlXRGtPZEJ6WE4?oc=5",
-   "summary": "Isro to launch much-delayed indigenous navigation satellite NVS-03 on Oct 30 The Indian Express",
-   "image": "",
-   "date": "2026-10-22T07:46:02+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "ISRO will not be privatised, says chairperson Narayanan - The Hindu",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOGtUbS1EdUhTYUhhaHJ0Z19PcVpqZE93X0xUX1RGaXdtM1BYOUhiQ01mTkg1U0cxMFZqY25wS2xKMmtSbFBRWkJqamozRFAwYmdGbE1NYlBjQ2ZGQktwREZRVERvVWZraVQ4WGFTVnR1ZUE4OGJIUnBVaXdLYWRfUGdud3hsemhfcFd2UmRpdmJVMWs2MGhsRjRZX2lYeXRSMXNOQzJfODVMQzhtdzhkb0pXbm5rb0ZPZ25F0gHCAUFVX3lxTE9vQmZoOE5peGdEdDZTZS1lb29PNjZVSlY2elBWeEE3M2hrWVZDYk5iLW1hVFVBa3lWcGItc2t5LXN6cldYLXI1amZRMEVNVERKMnVzVjNPTl9ENzRWS3Y0ZFhBZ1YzSVlMTDEzS2VaYmdLVmVmdmR3azBfN0FDVTYzbDBEV0k1em5yNzRlandRR094ODZjMEQyT0tQWHJhZU4wU1hsY3NHMWctN0g0RnFhRW9WMjREVENVSnJ5NWRCVThn?oc=5",
-   "summary": "ISRO will not be privatised, says chairperson Narayanan The Hindu",
-   "image": "",
-   "date": "2026-10-24T16:30:13+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "Isro plans four functional launch pads by 2029 to expand space operations: Chairman Narayanan - Telegraph India",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdTlhaWt4TEl5SDlQRnVBSndoallDODc1Mk11VTczRzh2S0wtdjhiNHhoaG9ESnhuaHR4X08yTDNxNUdOZllEZGt2QVkwQVBSaWw1YklYQk1fRUZoMXlsaXJaXzZ2Smc2YS1uUXZqVVRhWHRld3htcnp0b0lCR1M0Nl9wdDhRT3lZZjhHSWxTUl9oX0tUQVZXaE52bi1YUDdmYXJ2bmJUeUJvZG5fWmd3ZXZMX0dkdFByWG9Pc3RDZGd2aVVxTjZFY091UkJWU2ZKMHkyWkxOaWXSAd4BQVVfeXFMTWpKZ1E2ai1ocGtNaWlmVmZRMkttWGxybXlkbkcxd21odWo2eDdNcTZZMnhibUhoc1JCbElPbzZTbUhJOUNzRWFSV3hxRFVqUFc2WGNBMkVrbDVnZ0dmUjNPN1d5WGt1eHNaQUl3QjBXSWU0ckh2bTl0cFhXTlhMMTJhUVB5UDB3cExBUmNLc2otbzhpZDJKSVRTa05XU1JIYVhzVFVtR05ZcHFJWFlMbjUyYTZmVFZNa2RRQm0xdVR0ZTZZbENfY1ZHVGVsaC1Qc2toSTMwYVZrNE1UeFNR?oc=5",
-   "summary": "Isro plans four functional launch pads by 2029 to expand space operations: Chairman Narayanan Telegraph India",
-   "image": "",
-   "date": "2026-10-25T07:42:40+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "Why IISc should be Isro’s JPL - The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcW9RU2dCMktnVktBTGVwaXExOTk5dGlfRGEwTl9POVdrTGhCb0VHUTRjeHdvaEtJN0txYklxMEwtWXFuWUk3aEFRQUdlVVhfY2VZZEdiVkgwRlA4R2xzMHhNNTF0enNWZmVLbFpiUnppbFpDTTBVOFItYWxtelFiUlozZklJb2xacGJheWNiR3ZlRGYwYnA0aWxVMU96WnPSAaQBQVVfeXFMTzdTbldMVVl0S0tlakdiT3ItMEwwRzZMNG1KeWlQZ2VKMUNuMU9tam5feE9laTZsQkc4NWRzT0k4TmVaT2dyamNCUjg5TmdTOTB0VklVcmxTc0ZSTU1nZE5MZ01PaENtb2RkMWpRLTlLUGNHdXRPREQ3eUlQbVp1VzU4QmZ1TktrdWRfQmdQYVRFYW4yN3VwYXQ2UEJsMzVpXzJvaGo?oc=5",
-   "summary": "Why IISc should be Isro’s JPL The Times of India",
-   "image": "",
-   "date": "2026-10-25T02:33:00+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "ISRO Recruitment 2026 Result Out: Skill Test Scheduled For November 1 - NDTV",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzg0V1Q4RUJId0NvQUtfcm41TW9icy1uUVBwLTJCaGd3ckFLODloRC1BLXFFNTExeC1OMEZTWUtwQVJrRkJEZGRfWjdOU2Y3QXg3SlZmSlNNVndhcnlFeVhzT2NaeE1CRGMxWFpzRC1iQVo2am5jUVZOc1hSNlpELUVBYmh0SDJnY19LRnNFdmNYZWIwMmNRcVl3dzBEallVdjFfOGlMeFZpVmlQ0gG0AUFVX3lxTE5DY0JNZ3NRWC15bEtuR3FoWlg0cE1QNDJ0X0tWeUZjeU1kckl5YkNRbzRxVnNtbTE1aERaTUw4TERodmVhbjBqLVJNYkNZZWVmbU5NbDJINHhFVndyWkRuVHZDQmIwSkJUWjBSWXZJbWdvZFFHcHhzcTFLcEt5TGxEYkw2SUwxSU9DdkFkQzM0ZHd0Tm0zdmo2QUNDSDU1Z0tGemxNRlZCcTUwbWxBZVVIa3NjWQ?oc=5",
-   "summary": "ISRO Recruitment 2026 Result Out: Skill Test Scheduled For November 1 NDTV",
-   "image": "",
-   "date": "2026-10-25T04:30:58+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "ISRO Success Story: Bihar village boy overcomes challenges to secure scientist job while working at IMD- know his journey | Hindustan Times - Hindustan Times",
-   "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQLVZZN1RTUU5rNl82N1BYWjJsMXN2TW1PSmN0bTNmTk5JQzBhUW1HTnRKUmJSeTdQcldRTUNYcXJ2bkd6b3Bka3h2SEhhdVRiV0ppNkQxYTFOaE5FZjhETVhlTVlGMzEtZy16ZTZOWElwMW5mcXZWYU5SQlJJUk02VkZmQy0tU1M0UE94YnZBNmtqdzFGT09YRmg0M1hDbURsdXhjX2pCNXZQMEZ1dHlJTy0wYVVIWW1qRVR5M2RBNTZDNmhhSUE1QjdVR1FpUlpRRUJxYjZDeEpwYjd5UWJaNnFyd0tsb3RDbkNsZ2FvSlAyRE9QOHB5bmVkY0llTTRKaWNuc0V2TkZoejhwMDg3Z0tMUWd3TVEtc0Z1b3lKaXBLQTTSAagCQVVfeXFMUDUxYlZ6clBrczZER1NXRE1jNWUxeG0tRF9neG5tQk4zbFBXaHFodDY2NlFZcGVKOGFhVDNVOGtBWWNJR0dTMlpKSURFcGNEMnlZRnBHMHp2TzdvdGlIWG9YSDlpVDVPSklzWHRzOExHQ0hXcXNrbEVtcURCbzlaSHozdzNCZUlhS3RuWUljMkZHc3g4ZUJvY0w2OEdYUm5Ba19lRnZVbzBXVWd4Sy1YWnNTaTdIYzlJQ3lFWFF5MHMxVkh5R1hDUm1wek9ESlp3OW1aN3VnVFBKOWV2TzFvaUdsdS1pMy1naFFvSEEwZlFHVHIyMlV2Q0NTN0kxTEQ5bHVXVThYUGxpZHlfcFU3MUpPLXZ2ODB0RlpsY3ptTUM5X0dtdDVSXzc?oc=5",
-   "summary": "ISRO Success Story: Bihar village boy overcomes challenges to secure scientist job while working at IMD- know his journey | Hindustan Times Hindustan Times",
-   "image": "",
-   "date": "2026-10-23T10:49:59+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "$1.3-billion ISRO-NASA satellite saw signs of Nepal floods weeks ahead but no one noticed | The flash floods hit Nepal on August 26 | Inshorts - Inshorts",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdmlnUEFvZWhNSVBoSXNSMVJPa0pqS0pRZDY5LXVMN1BYS0NNQXFrNDRVZ2RRRms4VGdjUkl3b1MxMGVHbE1CNTRBM21qU2JRcXZNWGcxUGVUdWhrVmQ5TDV3dU56RDNfNDRDa2N6MlFyNG5CNWhBSjBEbEU3dHJGRldlQUhETzBaZVpZdEtJSWZIWV9zYXhlcUNTbzRJMU5CNkdnZktxV2lwZ19zYlNPbTZhT3pQcHM1M0hMT1k2OFZVazVsalRRQlIwMkrSAdIBQVVfeXFMT0N6d056bmF0VXZmWTlQNEFpbUpCelJtNnROMXRkcjd1NjJQR094MGdqX2RTaHhTMUp3M3k1dnRRaGlsMG9jQjFrRWZkX3dNeGsxS1VOOUVlNmxfRE9Wc1lsaElzYl9JeWZqb3h3c0JLSXlfMTFLZ29zUWY3VkZ1c3pUaU1NdHEyTU9oT0k5NGNKSkpkTzVUVUw0UmZRcFFqbl84VXU2b2MxMDIzUTcwNzgwVzhtYnpzeDdIaElYWTZ1RmZwUW9wSEg2QURVa1dPN1hn?oc=5",
-   "summary": "$1.3-billion ISRO-NASA satellite saw signs of Nepal floods weeks ahead but no one noticed | The flash floods hit Nepal on August 26 | Inshorts Inshorts",
-   "image": "",
-   "date": "2026-10-24T15:05:26+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "Two SPADEX Satellites re-enters Earth's Atmosph… - United News of India",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdWNNdVhhTm42dXNQU2NBZlpNU3F4Ry1NbmV5QldjNzZvc3lnNGozVHcyN2RLTWVxNS1XOEZJNl85MGFKMHlNenVlWVo2RHpwOEFFNjNBYnYwak0xX0NQSkpKOW5jNlRCMy1KeGEwVUNETGxZQjRBTGpBeXMyRGFCaEhwcUIyU2ZQQmpxUndWdDhBNTlIV2ZiRF9RLTRlTTA?oc=5",
-   "summary": "Two SPADEX Satellites re-enters Earth's Atmosph… United News of India",
-   "image": "",
-   "date": "2026-10-23T18:20:00+00:00",
-   "source": "ISRO news"
-  },
-  {
    "title": "ISRO to have four launch pads by 2029, says Narayanan",
    "link": "https://www.thehindu.com/news/national/isro-to-add-four-launch-pads-by-2029/article71622643.ece",
    "summary": "The ISRO chief said that the upcoming Kulasekarapattinam spaceport facility will feature crucial infrastructure such as integration buildings, launch pads, rail-track systems, telemetry, tracking, and command systems",
@@ -343,7 +281,7 @@
    "link": "https://timesofindia.indiatimes.com/science/nature/iowa-has-begun-a-4-9-million-effort-to-reclaim-150-acres-of-abandoned-coal-mines-where-dangerous-embankments-and-acidic-soils-remain-the-state-says-earlier-work-has-already-restored-7195-acres/articleshow/135166630.cms",
    "summary": "The Iowa Department of Agriculture has launched a reclamation initiative targeting environmental challenges posed by abandoned coal mines. Covering approximately 150 acres in Mahaska and Marion counties, the project aims",
    "image": "https://static.toiimg.com/photo/msid-135166630,imgsize-160124.cms",
-   "date": "2026-10-25T15:40:45.787729+00:00",
+   "date": "2026-10-25T16:41:35.726763+00:00",
    "source": "Times of India (Science)"
   },
   {
