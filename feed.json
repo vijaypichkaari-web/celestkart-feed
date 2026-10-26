@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T06:57:12.922026+00:00",
+ "updated": "2026-10-26T07:58:38.801046+00:00",
  "errors": [],
  "items": [
   {
@@ -203,19 +203,19 @@
    "source": "ISRO news"
   },
   {
-   "title": "Why IISc should be Isro’s JPL - The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcW9RU2dCMktnVktBTGVwaXExOTk5dGlfRGEwTl9POVdrTGhCb0VHUTRjeHdvaEtJN0txYklxMEwtWXFuWUk3aEFRQUdlVVhfY2VZZEdiVkgwRlA4R2xzMHhNNTF0enNWZmVLbFpiUnppbFpDTTBVOFItYWxtelFiUlozZklJb2xacGJheWNiR3ZlRGYwYnA0aWxVMU96WnPSAaQBQVVfeXFMTzdTbldMVVl0S0tlakdiT3ItMEwwRzZMNG1KeWlQZ2VKMUNuMU9tam5feE9laTZsQkc4NWRzT0k4TmVaT2dyamNCUjg5TmdTOTB0VklVcmxTc0ZSTU1nZE5MZ01PaENtb2RkMWpRLTlLUGNHdXRPREQ3eUlQbVp1VzU4QmZ1TktrdWRfQmdQYVRFYW4yN3VwYXQ2UEJsMzVpXzJvaGo?oc=5",
-   "summary": "Why IISc should be Isro’s JPL The Times of India",
-   "image": "",
-   "date": "2026-10-25T02:33:00+00:00",
-   "source": "ISRO news"
-  },
-  {
    "title": "Cyclone Arnab: Isro satellite captures storm barreling towards Andhra Pradesh - India Today",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWVdYVkxHcW1wQTN5NjdvSmtWanFVa3FZdUhPblk0QXJ3M2pOQnR4TGNIaFRKUGVrc21vaG52bzRMVktxekhGaGhDYnoxcC1FLVllVXZmSTNuOGs0c1hGZklVX2VMTUVMRjdEY1dwMGdhb3M4ZE5mTHgyUmlzX3NlX3BVVXRkbzlIdUswNTVEUFNUbDBLMFdRVGtTQXhDSzJ5cnV3bDNYb2NHOXU1bnFYRHEzYThGM1h5U2RHd2VkQUw0T2R1UHdhblZOeUdxbk9n0gHWAUFVX3lxTE9NRjNySkhGVDc1ZHRGMkFnM2NoRjV0NlZYYlhCdm1keW5hT0JvNzc1eE5MNmZCUjFYbFlzUlVSTkdWZzB1NUMtUzFoRkZIQzB4VHRkZ0Y0dE56a3E5OURURW9mNks3Umd6NVRkN0VRVzFGbk9zWXFoOEhRdGFRTl9JcnhDdzR3bVRDWU9ROWpwbkNTQzFCZFlsbUxNRjROczVQcDYzSU13TUd2NnhjQWVUdmxtbElDYXRUREdYaDNpdzR4bF9FcWJYbkNRb01fT2dMd0REanc?oc=5",
    "summary": "Cyclone Arnab: Isro satellite captures storm barreling towards Andhra Pradesh India Today",
    "image": "",
    "date": "2026-10-26T05:30:00+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "Why IISc should be Isro’s JPL - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcW9RU2dCMktnVktBTGVwaXExOTk5dGlfRGEwTl9POVdrTGhCb0VHUTRjeHdvaEtJN0txYklxMEwtWXFuWUk3aEFRQUdlVVhfY2VZZEdiVkgwRlA4R2xzMHhNNTF0enNWZmVLbFpiUnppbFpDTTBVOFItYWxtelFiUlozZklJb2xacGJheWNiR3ZlRGYwYnA0aWxVMU96WnPSAaQBQVVfeXFMTzdTbldMVVl0S0tlakdiT3ItMEwwRzZMNG1KeWlQZ2VKMUNuMU9tam5feE9laTZsQkc4NWRzT0k4TmVaT2dyamNCUjg5TmdTOTB0VklVcmxTc0ZSTU1nZE5MZ01PaENtb2RkMWpRLTlLUGNHdXRPREQ3eUlQbVp1VzU4QmZ1TktrdWRfQmdQYVRFYW4yN3VwYXQ2UEJsMzVpXzJvaGo?oc=5",
+   "summary": "Why IISc should be Isro’s JPL The Times of India",
+   "image": "",
+   "date": "2026-10-25T02:33:00+00:00",
    "source": "ISRO news"
   },
   {
@@ -323,6 +323,14 @@
    "source": "The Hindu (Science)"
   },
   {
+   "title": "Canva launches Craft, its first in-house image generation model",
+   "link": "https://www.thehindu.com/business/Industry/canva-launches-craft-its-first-in-house-image-generation-model/article71625990.ece",
+   "summary": "Canva Craft generates images at up to 2K resolution, supports text in 55 languages and is available to users globally; company says it ranked fourth among image-generation models on DesignArena at launch",
+   "image": "https://th-i.thgim.com/public/news/national/dnak7n/article71626007.ece/alternates/LANDSCAPE_1200/CanvaCraft.jpg",
+   "date": "2026-10-26T07:45:17+00:00",
+   "source": "The Hindu (Industry)"
+  },
+  {
    "title": "Kobelco targets 8–10% topline growth as it launches three excavators",
    "link": "https://www.thehindu.com/business/Industry/kobelco-targets-810-topline-growth-as-it-launches-three-excavators/article71616846.ece",
    "summary": "The company expects revenue, including exports, to reach ₹2,500 crore this year; India contributes 9–11% of Kobelco Construction Machinery’s overall revenue, says director Moses Eddy",
@@ -331,19 +339,11 @@
    "source": "The Hindu (Industry)"
   },
   {
-   "title": "Bengaluru space-tech firm The Guild unveils 150-acre rocket testing facility near Sriharikota",
-   "link": "https://www.thehindu.com/business/Industry/bengaluru-space-tech-firm-the-guild-unveils-150-acre-rocket-testing-facility-near-sriharikota/article71593162.ece",
-   "summary": "Ethereal Exploration Guild’s new facility will support development of its fully reusable medium-lift launch vehicle.",
-   "image": "https://th-i.thgim.com/public/incoming/f2veif/article71593173.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-16%20at%2019.47.00.jpeg",
-   "date": "2026-10-18T03:50:24+00:00",
-   "source": "The Hindu (Industry)"
-  },
-  {
    "title": "Iowa begins $4.9 million effort to reclaim 150 acres of mines;state says 7,195 acres restored",
    "link": "https://timesofindia.indiatimes.com/science/nature/iowa-has-begun-a-4-9-million-effort-to-reclaim-150-acres-of-abandoned-coal-mines-where-dangerous-embankments-and-acidic-soils-remain-the-state-says-earlier-work-has-already-restored-7195-acres/articleshow/135166630.cms",
    "summary": "The Iowa Department of Agriculture has launched a reclamation initiative targeting environmental challenges posed by abandoned coal mines. Covering approximately 150 acres in Mahaska and Marion counties, the project aims",
    "image": "https://static.toiimg.com/photo/msid-135166630,imgsize-160124.cms",
-   "date": "2026-10-26T06:57:12.629995+00:00",
+   "date": "2026-10-26T07:58:38.770711+00:00",
    "source": "Times of India (Science)"
   },
   {
