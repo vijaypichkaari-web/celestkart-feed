@@ -1,6 +1,8 @@
 {
- "updated": "2026-10-26T19:49:01.072330+00:00",
- "errors": [],
+ "updated": "2026-10-26T20:44:42.102429+00:00",
+ "errors": [
+  "ISRO news: HTTP Error 503: Service Unavailable"
+ ],
  "items": [
   {
    "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
@@ -131,6 +133,14 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "On this day in space! Oct. 26, 2004: Cassini spacecraft takes 1st-ever closeup photos of Saturn moon Titan",
+   "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-26-2026",
+   "summary": "On Oct. 26, 2004, NASA's Cassini spacecraft took the first close-up images of Saturn's largest moon Titan. Here's why it mattered.",
+   "image": "https://cdn.mos.cms.futurecdn.net/M4aJKWHtaKQS6Er2Xiph3j-1920-80.jpg",
+   "date": "2026-10-26T19:47:12+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "Darth Vader wields the Infinity Gauntlet in the first-ever official 'Star Wars' & 'Marvel' crossover",
    "link": "https://www.space.com/entertainment/space-books/darth-vader-wields-the-infinity-gauntlet-in-the-first-ever-official-star-wars-and-marvel-crossover",
    "summary": "If you only knew the power of the infinity stones!",
@@ -185,78 +195,6 @@
    "image": "https://cdn.mos.cms.futurecdn.net/NbPaKaNC8LLVJ4MnmneTRT-1920-80.jpg",
    "date": "2026-10-26T14:00:00+00:00",
    "source": "Space.com"
-  },
-  {
-   "title": "Rubin telescope should find more of Earth's mysterious 'mini-moons' — including some we can study up close",
-   "link": "https://www.space.com/space-exploration/rubin-telescope-should-find-more-of-earths-mysterious-mini-moons-including-some-we-can-study-up-close",
-   "summary": "Earth’s tiny, temporary moons could become some of the easiest asteroid targets for future missions. And we'll likely find more of them soon, thanks to the Rubin telescope.",
-   "image": "https://cdn.mos.cms.futurecdn.net/WZ2zqXUtKVgmC4WyrujKh4-1920-80.jpg",
-   "date": "2026-10-26T12:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "India to expand its space operations with four functional launch pads by 2029, says ISRO Chairman - News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOE5xNTdBVVNFOXl2RkNobFU4S05hek1lZFdEQUFRdkhWS3VKVXpYWFZWRlBNbTNLaXotWHRmYUV2WXk3NUhTaTkzLVM0T1k5eklwRy1Dbk1EdFAzOGlPVmtKRnJoSDVlcTRpdVRFOTAxRU0xQ3hiWndxSERvOE5yVGtoUmZPWlJtdUNZUTYwc2FtbUEteEpLYTZrMUxhV3BiNkZQRDJoWGtUcVhLU3I4NWYyNTNUNk5hUUpCXzhxVQ?oc=5",
-   "summary": "India to expand its space operations with four functional launch pads by 2029, says ISRO Chairman News On AIR ISRO to expand space operations with four launch pads by 2029 Rediff ISRO Plans Four Functional Launch Pads by",
-   "image": "",
-   "date": "2026-10-26T01:35:02+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "ISRO Recruitment Result 2026 Out: Check Assistant, JPA and Stenographer Merit List, Skill Test Date - Telegraph India",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYnNKR0d6bmQ2NUczVDA4NUdNRXNGdWJ3OGhKdFdJYTRNandHZExTeDh6YmVoQlB5S0VNempnQ0pldnROYmZ2cDVERXRSY1FoZkN3Nmg2NlJVVmh6MHRuYWtGeHl2R19oMDdjcGhYNjBvdWxTWUtEdnB3WUdqaVluVHhtTF9fNzN0ODItTXZKeVZmTzlMOHBVdWhyU0FPbkhhOFkxaktLVEIwYjdzU2ZyX3JOTFRRQVNWamZuUmIxRWFxUVlocUc1c0dyUmpHdVY0RzZLOdIB2gFBVV95cUxOMHVZRFFGSXlWN1pHYUNLM2h6cW1oX1Iyam9aQWRlbWxCYmlwN0dhcXIxV0lzOERjNU9EbkpzbUtxQy1qQm1ON0JpYU1haTFVVXU1dW94OXZLcnpZanAya1dfb0dZdU9OOVdUZ2t3M2ZkR2Zjam1NZ1JsTVlFMlFfaDFqNDhxZFdaVXlYcDBXbnNWLTdJTHJfeE4welZXdXZ2bVo3cmJEeVU1OHA3cFFUQ1RGb29qeVBfcHN1M3NlOHNFVlFqN1pzZjl3X1hQem5LQThQeC0tUTVpdw?oc=5",
-   "summary": "ISRO Recruitment Result 2026 Out: Check Assistant, JPA and Stenographer Merit List, Skill Test Date Telegraph India",
-   "image": "",
-   "date": "2026-10-26T08:05:31+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "Isro to launch much-delayed indigenous navigation satellite NVS-03 on Oct 30 - The Indian Express",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPamQ3VVRfOVc2WjJKZ05sX2NrQmVrWldYQWt1d0RnOW8yUmpYQks3ZVk0a2ozd2FzYVI2MFIxakFibkd1V1owLXlxVDFnWVpJS3ZUeU1IaFlGMlFTaW1hVDN1aUEzem1PanY2OXJpWlpSMmQyTGxzOFpVbUo1N3hJdHZnTGpyYm40b3puTjA4cEVwZTZOdDN5R3VB0gGgAUFVX3lxTFA0Q3hja2FNZkk5VzNKOXl3bDM0a0V0WHpTVHFFS2xVYV9yT0JqeTBKYi1xQjhVNlZLSEF6SG11cDNyVExNdDNtRGxKRk1rX0NxcGJVV3pvSlRxaURURElfRWZ3US0wRmo5QkZSNUtUaFQ0X3hUOE9BNGEtaHlXTDNkSXNoYkZDLUFhUDRXeks0aHpMbnpiTzlXRGtPZEJ6WE4?oc=5",
-   "summary": "Isro to launch much-delayed indigenous navigation satellite NVS-03 on Oct 30 The Indian Express",
-   "image": "",
-   "date": "2026-10-22T07:46:02+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "ISRO to launch NVS-03 satellite as India looks to revive NavIC navigation system - ThePrint",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZl9qbmg2NzdoNnQybW1jZ3BjYmlmUURaSGhVdUZSRUZheEY2UFlDVWRTWHZWWmY1ZXo4RjlocUwxdXU0OFFEWGxoRTJ1eHNnMkF2Wm1lQTFSYlpRb1lfNnZZZjlFQV8wVWJfTllQdzU3R2ctSzVxczBZRl9jTzhqQ2h6ZG40Z9IBiwFBVV95cUxPaE9UclBkQWxlV000TlFhS3pUUVFkZEF5XzQ0MEVLT19YLTZwV0JjYXgyWUdoYTlZcnp5YUtGaHV5a25yRm9FRndIU1dHXy1VV0ppU3V4dWtYYjBzVDFpaE43TVhab0RIV3FVcS1zT2EzMlRnZi1xTkpCMFNaUUdZZ0tNTXVjeHJoQ25j?oc=5",
-   "summary": "ISRO to launch NVS-03 satellite as India looks to revive NavIC navigation system ThePrint",
-   "image": "",
-   "date": "2026-10-26T12:48:59+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "Isro in final prep to launch NVS-03 satellite aboard GSLV-F18: Here's when - India Today",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ3QxNVBMNnh0XzBxM1JKQlFfR1R4T05sZjVWNm1vTVdxcjZ4WEdtT1pOcFNzYVo4dkhQOXZDMEdqYndxQUhKTE9TT2NEYUNkNVkwTnN3ZVlaUngteHhCcEpZSEc2R1BZTTVyLVZXT0JpSlhjeS1xejRoa1d4Wl9kcmpWM0pIQWlIUlQ2bVQtUkdxS1FqTlp6TWpvWjdUREZEMmtyU1dJQWMxd0luNVp4MlBEM1djRUk4S3d3ell6YTZoQ24tSFFJOHRLNNIB0AFBVV95cUxNZHQyNVg1WkV4MzRfOXdWcWRxTGF0ei1ZbnBrVGJLMVVSbmlMSHZfQkJuNnEzMmlWNHZlcWZBVkttSHZfcnNKZWhDai1hZEY0R1FlTWRWSlZ5eGlELXJkeWVHNzhsVjRDQXh5aUJlZFdvVXVTdjh5VUlsVkNlUVZZRkhvTnRxV2VmYVVkZEVyMHRFUkNyQWZhbDdnOGZ5TXV4WXRSMmFBY3Q3ejRuUElxZnh3VkRJQmpmOE5sbXB1QWZSOVEtSjU5cVFqQVBzZzd4?oc=5",
-   "summary": "Isro in final prep to launch NVS-03 satellite aboard GSLV-F18: Here's when India Today",
-   "image": "",
-   "date": "2026-10-26T11:38:41+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "Cyclone Arnab: Isro satellite captures storm barreling towards Andhra Pradesh - India Today",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWVdYVkxHcW1wQTN5NjdvSmtWanFVa3FZdUhPblk0QXJ3M2pOQnR4TGNIaFRKUGVrc21vaG52bzRMVktxekhGaGhDYnoxcC1FLVllVXZmSTNuOGs0c1hGZklVX2VMTUVMRjdEY1dwMGdhb3M4ZE5mTHgyUmlzX3NlX3BVVXRkbzlIdUswNTVEUFNUbDBLMFdRVGtTQXhDSzJ5cnV3bDNYb2NHOXU1bnFYRHEzYThGM1h5U2RHd2VkQUw0T2R1UHdhblZOeUdxbk9n0gHWAUFVX3lxTE9NRjNySkhGVDc1ZHRGMkFnM2NoRjV0NlZYYlhCdm1keW5hT0JvNzc1eE5MNmZCUjFYbFlzUlVSTkdWZzB1NUMtUzFoRkZIQzB4VHRkZ0Y0dE56a3E5OURURW9mNks3Umd6NVRkN0VRVzFGbk9zWXFoOEhRdGFRTl9JcnhDdzR3bVRDWU9ROWpwbkNTQzFCZFlsbUxNRjROczVQcDYzSU13TUd2NnhjQWVUdmxtbElDYXRUREdYaDNpdzR4bF9FcWJYbkNRb01fT2dMd0REanc?oc=5",
-   "summary": "Cyclone Arnab: Isro satellite captures storm barreling towards Andhra Pradesh India Today",
-   "image": "",
-   "date": "2026-10-26T05:30:00+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "Why IISc should be Isro’s JPL - The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcW9RU2dCMktnVktBTGVwaXExOTk5dGlfRGEwTl9POVdrTGhCb0VHUTRjeHdvaEtJN0txYklxMEwtWXFuWUk3aEFRQUdlVVhfY2VZZEdiVkgwRlA4R2xzMHhNNTF0enNWZmVLbFpiUnppbFpDTTBVOFItYWxtelFiUlozZklJb2xacGJheWNiR3ZlRGYwYnA0aWxVMU96WnPSAaQBQVVfeXFMTzdTbldMVVl0S0tlakdiT3ItMEwwRzZMNG1KeWlQZ2VKMUNuMU9tam5feE9laTZsQkc4NWRzT0k4TmVaT2dyamNCUjg5TmdTOTB0VklVcmxTc0ZSTU1nZE5MZ01PaENtb2RkMWpRLTlLUGNHdXRPREQ3eUlQbVp1VzU4QmZ1TktrdWRfQmdQYVRFYW4yN3VwYXQ2UEJsMzVpXzJvaGo?oc=5",
-   "summary": "Why IISc should be Isro’s JPL The Times of India",
-   "image": "",
-   "date": "2026-10-25T02:33:00+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "Today News Headlines for School Assembly, October 27, 2026: ISRO eyes four launch pads by 2029, Ishan Kishan out of third IND vs NZ T20 - The Indian Express",
-   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNejlmYmMzSVFpa2s3a2o0V0FheWIyYTFnUWx6YVVPbW1sNmFnbEF1YTE5Mk55c09nd0Zub0lmTmh5WlFYMkZVN1NLWEhYd29tQUdWNnh0bmxTTXQ1MVFxSXVqb2ZVeTJRV1NObkVMSHdIZVNPQnVTTHlNTERHVzdraHVOaTlSWk1TRm15ZjBacEFIRUVYZUFqUWdXbTc0NkVZdWktelhXWFJ4RFM0MlhOM2FVdDFnVzFHM1JoMG1jTWpkcWxuR05TeFg5ZDB2QVJ0TFAyaFZ2d1BnN1NvcHRIME4zNlduYUJsc3NVcHlkQUxVRHY3TW5CVXkybmxpbldGQzhvZ1ZWdEVJV182TW5rT1BxWFXSAZsCQVVfeXFMUFpJNHQyQ08tZmVKV1QyWWh6T2hOU1FVNmlLSVoyemJTWFlST3hRTVpheEt4U0lHMTJ1Skl6S1F3UXYzdE9BVENHVlllSnRWOFJveTdMWDh5UEVCQnkyY1VWZUkyZmFmZ3ZvMEJIQl9FeFlkNlVwVkZHeDZva2dnZmc2RU9STEZqUEpvLWYyYjd2WGd4YWkxUC1tSkJwTnlxT1l2OWtZbUhobl9yaG9IUDRGSzVxS010WWc4bG1pd21waS1yc2JNRDBTRGtFa1dUbjNYMl9QY1NEX3hodEFfY0RsU01ULWU2dW9VYjZpSXVQQ01Qcl9IdWRIMjNna1JTcTQyU2RMRHN1QnFteHV1dTR2eHRkWDE2NWJmZw?oc=5",
-   "summary": "Today News Headlines for School Assembly, October 27, 2026: ISRO eyes four launch pads by 2029, Ishan Kishan out of third IND vs NZ T20 The Indian Express",
-   "image": "",
-   "date": "2026-10-26T11:28:22+00:00",
-   "source": "ISRO news"
   },
   {
    "title": "How poor education, training infra constrains India's military space plans",
@@ -351,7 +289,7 @@
    "link": "https://timesofindia.indiatimes.com/science/nasas-2028-moon-landing-plan-spacex-blue-origin-race-to-build-lunar-landers/articleshow/135209038.cms",
    "summary": "Nasa is set to undertake Artemis III in 2027 to prepare for a lunar landing by astronauts in 2028. Astronauts will conduct tests on lunar landers created by SpaceX and Blue Origin during this mission. Both companies face",
    "image": "https://static.toiimg.com/photo/msid-135209125,imgsize-99372.cms",
-   "date": "2026-10-26T19:49:01.019207+00:00",
+   "date": "2026-10-26T20:44:42.005626+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -359,8 +297,16 @@
    "link": "https://timesofindia.indiatimes.com/science/nature/iowa-has-begun-a-4-9-million-effort-to-reclaim-150-acres-of-abandoned-coal-mines-where-dangerous-embankments-and-acidic-soils-remain-the-state-says-earlier-work-has-already-restored-7195-acres/articleshow/135166630.cms",
    "summary": "The Iowa Department of Agriculture has launched a reclamation initiative targeting environmental challenges posed by abandoned coal mines. Covering approximately 150 acres in Mahaska and Marion counties, the project aims",
    "image": "https://static.toiimg.com/photo/msid-135166630,imgsize-160124.cms",
-   "date": "2026-10-26T19:49:01.020097+00:00",
+   "date": "2026-10-26T20:44:42.006519+00:00",
    "source": "Times of India (Science)"
+  },
+  {
+   "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
+   "link": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/",
+   "summary": "– Paris-based FLEXELL SPACE FRANCE SAS creates a local business hub in Europe– New entity to support ongoing contract and volume-production discussions with European customers, from technical reviews to supply […] The po",
+   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/LOGO_FLEXELLBlack.png?fit=1024%2C1024&amp;ssl=1",
+   "date": "2026-10-26T20:00:00+00:00",
+   "source": "SpaceNews"
   },
   {
    "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
@@ -416,14 +362,6 @@
    "summary": "Glasgow, UK | 21 October 2026 – The pace of development in quantum technologies continues to accelerate, and over the past few months, space engineering company Craft Prospect has been […] The post Summer of Quantum: Bui",
    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/White-CPL-Logo11.png?fit=1024%2C1024&amp;ssl=1",
    "date": "2026-10-21T11:54:30+00:00",
-   "source": "SpaceNews"
-  },
-  {
-   "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
-   "link": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/",
-   "summary": "LOS ANGELES — October 20, 2026 AnySignal, a leading provider of software-defined radios and space-based networking, today announced an agreement with Reflect Orbital to deliver space-to-earth communications for Reflect O",
-   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/AnySignal_GoogleBusinessProfile.png?fit=720%2C720&amp;ssl=1",
-   "date": "2026-10-20T13:00:00+00:00",
    "source": "SpaceNews"
   }
  ]
