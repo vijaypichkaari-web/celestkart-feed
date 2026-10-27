@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-27T17:52:43.513115+00:00",
+ "updated": "2026-10-27T18:52:41.938185+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "NASA’s Neo Surveyor Sunshade",
+   "link": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
+   "summary": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 m",
+   "image": "",
+   "date": "2026-10-27T17:58:57+00:00",
+   "source": "NASA"
+  },
   {
    "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
    "link": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
@@ -56,14 +64,6 @@
    "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July. Built by Applied Aerospace in Stoc",
    "image": "",
    "date": "2026-10-26T20:52:24+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
-   "link": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/",
-   "summary": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-",
-   "image": "",
-   "date": "2026-10-26T19:28:08+00:00",
    "source": "NASA"
   },
   {
@@ -131,6 +131,22 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "November full moon 2026: When, where and how to see the Beaver Moon",
+   "link": "https://www.space.com/stargazing/november-full-moon-2026-when-where-and-how-to-see-the-beaver-moon",
+   "summary": "Your guide to November's full Beaver Moon, from peak times to skywatching highlights.",
+   "image": "https://cdn.mos.cms.futurecdn.net/cCumP2kADy3aTSJc9aaLRP-1920-80.jpg",
+   "date": "2026-10-27T18:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "Cowboy Space unveils 'Big Iron' rocket to launch 20,000 AI data centers",
+   "link": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers",
+   "summary": "Cowboy Space just gave us our first look at its \"Big Iron\" rocket, which the company will use to build its AI data center constellation. Big Iron's debut is targeted for late 2028.",
+   "image": "https://cdn.mos.cms.futurecdn.net/y3SBdSPdw5xKKFPYS279h4-1920-80.jpg",
+   "date": "2026-10-27T18:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "'Dungeon Crawler Carl' is getting a killer new comic book series",
    "link": "https://www.space.com/entertainment/space-books/dungeon-crawler-carl-is-getting-a-killer-new-comic-book-series",
    "summary": "'The fact that I get to work with some of the greatest creators and artists working today feels like a dream.'",
@@ -176,22 +192,6 @@
    "summary": "SpaceX launched 27 more Starlink satellites to low Earth orbit overnight (Oct. 27), aboard a Falcon 9 rocket that lifted off from California in the wee hours of darkness.",
    "image": "https://cdn.mos.cms.futurecdn.net/u2GBTVG4W2akErAzmYLbSg-1920-80.jpg",
    "date": "2026-10-27T11:04:19+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "Astroscale proposes fleet of 'bodyguard' spacecraft to protect satellites from orbital attacks",
-   "link": "https://www.space.com/space-exploration/satellites/astroscale-proposes-fleet-of-bodyguard-spacecraft-to-protect-satellites-from-orbital-attacks",
-   "summary": "Technologies developed to remove space junk and fix broken satellites can be repurposed to build fleets of bodyguard spacecraft to protect important assets from attacks.",
-   "image": "https://cdn.mos.cms.futurecdn.net/XLtYTW7kFD36bSMXsREsdL-1920-80.jpg",
-   "date": "2026-10-27T10:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "Analog astronauts: How living underwater can prepare humans for space missions",
-   "link": "https://www.space.com/space-exploration/missions/analog-astronauts-how-living-underwater-can-prepare-humans-for-space-missions",
-   "summary": "How living underwater can prepare humans for space missions",
-   "image": "https://cdn.mos.cms.futurecdn.net/sTxkVadD9aNk8qvTshrNWa-1920-80.jpg",
-   "date": "2026-10-26T21:00:00+00:00",
    "source": "Space.com"
   },
   {
@@ -351,7 +351,7 @@
    "link": "https://timesofindia.indiatimes.com/science/nature/when-restaurants-closed-in-2020-us-oyster-farmers-were-left-with-millions-of-unsold-shellfish-six-years-later-a-rescue-programme-has-bought-over-7-million-oysters-for-35-reef-sites-and-helped-protect-more-than-1000-aquaculture-and-related-jobs/articleshow/135227283.cms",
    "summary": "The COVID-19 pandemic forced restaurant closures, leaving oyster farms with a surplus of products. In response, the Supporting Oyster Aquaculture and Restoration program was launched to convert these excess oysters into ",
    "image": "https://static.toiimg.com/photo/msid-135227379,imgsize-2120926.cms",
-   "date": "2026-10-27T17:52:43.415453+00:00",
+   "date": "2026-10-27T18:52:41.891151+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -359,7 +359,7 @@
    "link": "https://timesofindia.indiatimes.com/science/nasas-2028-moon-landing-plan-spacex-blue-origin-race-to-build-lunar-landers/articleshow/135209038.cms",
    "summary": "Nasa is set to undertake Artemis III in 2027 to prepare for a lunar landing by astronauts in 2028. Astronauts will conduct tests on lunar landers created by SpaceX and Blue Origin during this mission. Both companies face",
    "image": "https://static.toiimg.com/photo/msid-135209125,imgsize-99372.cms",
-   "date": "2026-10-27T17:52:43.416158+00:00",
+   "date": "2026-10-27T18:52:41.892040+00:00",
    "source": "Times of India (Science)"
   },
   {
