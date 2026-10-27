@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-26T23:39:41.190464+00:00",
+ "updated": "2026-10-27T00:56:45.913120+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
+   "link": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
+   "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. Whi",
+   "image": "",
+   "date": "2026-10-26T22:48:12+00:00",
+   "source": "NASA"
+  },
   {
    "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
    "link": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
@@ -59,12 +67,12 @@
    "source": "NASA"
   },
   {
-   "title": "APOD: 2026 October 26 – M42: The Great Nebula in Orion",
-   "link": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
-   "summary": "APOD Science APOD APOD: 2026 October 26 – M42:… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or phot",
+   "title": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
+   "link": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
+   "summary": "Liftoff of the Starlink 15-16 mission from Space Launch Complex 4E is currently scheduled for 10:46 p.m. PDT (1:46 a.m. EDT / 0546 UTC).",
    "image": "",
-   "date": "2026-10-26T04:05:00+00:00",
-   "source": "NASA"
+   "date": "2026-10-27T00:50:37+00:00",
+   "source": "Spaceflight Now"
   },
   {
    "title": "SpaceX launches Starlink 15-15 mission following a trio of scrubs",
@@ -120,14 +128,6 @@
    "summary": "Liftoff off of the Starlink 15-25 mission from Space Launch Complex 4 East came at 5:28 p.m. PDT (8:28 p.m. EDT / 0028 UTC).",
    "image": "",
    "date": "2026-10-12T22:21:40+00:00",
-   "source": "Spaceflight Now"
-  },
-  {
-   "title": "SpaceX launches 21 data satellites for the Space Development Agency",
-   "link": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/",
-   "summary": "Liftoff of the Falcon 9 rocket from Vandenberg Space Force Base in California carrying satellites for the Space Development Agency’s Proliferated Warfighter Space Architecture constellation came at 12:39 a.m. PDT (3:39 E",
-   "image": "",
-   "date": "2026-10-09T21:41:30+00:00",
    "source": "Spaceflight Now"
   },
   {
@@ -197,7 +197,7 @@
   {
    "title": "India to expand its space operations with four functional launch pads by 2029, says ISRO Chairman - News On AIR",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOE5xNTdBVVNFOXl2RkNobFU4S05hek1lZFdEQUFRdkhWS3VKVXpYWFZWRlBNbTNLaXotWHRmYUV2WXk3NUhTaTkzLVM0T1k5eklwRy1Dbk1EdFAzOGlPVmtKRnJoSDVlcTRpdVRFOTAxRU0xQ3hiWndxSERvOE5yVGtoUmZPWlJtdUNZUTYwc2FtbUEteEpLYTZrMUxhV3BiNkZQRDJoWGtUcVhLU3I4NWYyNTNUNk5hUUpCXzhxVQ?oc=5",
-   "summary": "India to expand its space operations with four functional launch pads by 2029, says ISRO Chairman News On AIR ISRO to expand space operations with four launch pads by 2029 Rediff Is Indian space agency being privatised? ",
+   "summary": "India to expand its space operations with four functional launch pads by 2029, says ISRO Chairman News On AIR ISRO Plans Four Functional Launch Pads by 2029 GK Today ISRO to expand space operations with four launch pads ",
    "image": "",
    "date": "2026-10-26T01:35:02+00:00",
    "source": "ISRO news"
@@ -351,7 +351,7 @@
    "link": "https://timesofindia.indiatimes.com/science/nasas-2028-moon-landing-plan-spacex-blue-origin-race-to-build-lunar-landers/articleshow/135209038.cms",
    "summary": "Nasa is set to undertake Artemis III in 2027 to prepare for a lunar landing by astronauts in 2028. Astronauts will conduct tests on lunar landers created by SpaceX and Blue Origin during this mission. Both companies face",
    "image": "https://static.toiimg.com/photo/msid-135209125,imgsize-99372.cms",
-   "date": "2026-10-26T23:39:41.101125+00:00",
+   "date": "2026-10-27T00:56:45.861653+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -359,7 +359,7 @@
    "link": "https://timesofindia.indiatimes.com/science/nature/iowa-has-begun-a-4-9-million-effort-to-reclaim-150-acres-of-abandoned-coal-mines-where-dangerous-embankments-and-acidic-soils-remain-the-state-says-earlier-work-has-already-restored-7195-acres/articleshow/135166630.cms",
    "summary": "The Iowa Department of Agriculture has launched a reclamation initiative targeting environmental challenges posed by abandoned coal mines. Covering approximately 150 acres in Mahaska and Marion counties, the project aims",
    "image": "https://static.toiimg.com/photo/msid-135166630,imgsize-160124.cms",
-   "date": "2026-10-26T23:39:41.102050+00:00",
+   "date": "2026-10-27T00:56:45.862656+00:00",
    "source": "Times of India (Science)"
   },
   {
