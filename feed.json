@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T11:45:38.113634+00:00",
+ "updated": "2026-10-27T12:54:37.291855+00:00",
  "errors": [],
  "items": [
   {
@@ -131,6 +131,22 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "'Star Trek' legend and sci-fi luminary Walter Koenig dies at 90",
+   "link": "https://www.space.com/entertainment/star-trek-legend-and-sci-fi-luminary-walter-koenig-dies-at-90",
+   "summary": "The man who portrayed the U.S.S. Enterprise’s Pavel Chekov has left us after a 60-year stage and screen career",
+   "image": "https://cdn.mos.cms.futurecdn.net/Cz6LEVw8cR4L6ASQPnFF6C-1920-80.png",
+   "date": "2026-10-27T12:15:39+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "What causes mysterious long delayed radio echoes in Earth's atmosphere?",
+   "link": "https://www.space.com/astronomy/earth/what-causes-mysterious-long-delayed-radio-echoes-in-earths-atmosphere",
+   "summary": "Baffling long radio echo delays have prompted a range of potential explanations, most of which focus on a variety of unexplained natural phenomena occurring in Earth's atmosphere.",
+   "image": "https://cdn.mos.cms.futurecdn.net/EMTpMGXdk8sxaFw4ZN2oLo-1920-80.jpg",
+   "date": "2026-10-27T12:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "SpaceX Falcon 9 launches early morning Starlink mission from California (video)",
    "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-16-b1082-ocisly",
    "summary": "SpaceX launched 27 more Starlink satellites to low Earth orbit overnight (Oct. 27), aboard a Falcon 9 rocket that lifted off from California in the wee hours of darkness.",
@@ -179,35 +195,19 @@
    "source": "Space.com"
   },
   {
-   "title": "'Donnie Darko' at 25: How a giant rabbit, time loops, and teen angst became a sci-fi cult classic",
-   "link": "https://www.space.com/entertainment/donnie-darko-at-25-how-a-giant-rabbit-time-loops-and-teen-angst-became-a-sci-fi-cult-classic",
-   "summary": "\"28 days, 6 hours, 42 minutes, 12 seconds. That is when the world will end.\"",
-   "image": "https://cdn.mos.cms.futurecdn.net/dGt6PMJxhZftLFWQRLPZJH-1920-80.png",
-   "date": "2026-10-26T18:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "Stuck for a Halloween outfit? Set phasers to stunning with the best Star Trek costumes",
-   "link": "https://www.space.com/entertainment/space-toys-lego/stuck-for-a-halloween-outfit-set-phasers-to-stunning-with-the-best-star-trek-costumes",
-   "summary": "Halloween is just round the corner, but if you hurry, you can beam down these superb Star Trek outfits, from old-school Star Trek through to The Next Generation and Discovery.",
-   "image": "https://cdn.mos.cms.futurecdn.net/AnWFTEpiVXdCxVsJy2PG7J-1920-80.jpg",
-   "date": "2026-10-26T17:35:00+00:00",
-   "source": "Space.com"
-  },
-  {
    "title": "ISRO will not be privatised, says chairperson Narayanan - The Hindu",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOGtUbS1EdUhTYUhhaHJ0Z19PcVpqZE93X0xUX1RGaXdtM1BYOUhiQ01mTkg1U0cxMFZqY25wS2xKMmtSbFBRWkJqamozRFAwYmdGbE1NYlBjQ2ZGQktwREZRVERvVWZraVQ4WGFTVnR1ZUE4OGJIUnBVaXdLYWRfUGdud3hsemhfcFd2UmRpdmJVMWs2MGhsRjRZX2lYeXRSMXNOQzJfODVMQzhtdzhkb0pXbm5rb0ZPZ25F0gHCAUFVX3lxTE9vQmZoOE5peGdEdDZTZS1lb29PNjZVSlY2elBWeEE3M2hrWVZDYk5iLW1hVFVBa3lWcGItc2t5LXN6cldYLXI1amZRMEVNVERKMnVzVjNPTl9ENzRWS3Y0ZFhBZ1YzSVlMTDEzS2VaYmdLVmVmdmR3azBfN0FDVTYzbDBEV0k1em5yNzRlandRR094ODZjMEQyT0tQWHJhZU4wU1hsY3NHMWctN0g0RnFhRW9WMjREVENVSnJ5NWRCVThn?oc=5",
-   "summary": "ISRO will not be privatised, says chairperson Narayanan The Hindu India to expand its space operations with four functional launch pads by 2029, says ISRO Chairman News On AIR India to have four launch pads by 2029, says",
+   "summary": "ISRO will not be privatised, says chairperson Narayanan The Hindu India to expand its space operations with four functional launch pads by 2029, says ISRO Chairman News On AIR ISRO Plans Four Functional Launch Pads by 20",
    "image": "",
    "date": "2026-10-24T16:30:13+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "ISRO Recruitment Result 2026 Out: Check Assistant, JPA and Stenographer Merit List, Skill Test Date - Telegraph India",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYnNKR0d6bmQ2NUczVDA4NUdNRXNGdWJ3OGhKdFdJYTRNandHZExTeDh6YmVoQlB5S0VNempnQ0pldnROYmZ2cDVERXRSY1FoZkN3Nmg2NlJVVmh6MHRuYWtGeHl2R19oMDdjcGhYNjBvdWxTWUtEdnB3WUdqaVluVHhtTF9fNzN0ODItTXZKeVZmTzlMOHBVdWhyU0FPbkhhOFkxaktLVEIwYjdzU2ZyX3JOTFRRQVNWamZuUmIxRWFxUVlocUc1c0dyUmpHdVY0RzZLOdIB2gFBVV95cUxOMHVZRFFGSXlWN1pHYUNLM2h6cW1oX1Iyam9aQWRlbWxCYmlwN0dhcXIxV0lzOERjNU9EbkpzbUtxQy1qQm1ON0JpYU1haTFVVXU1dW94OXZLcnpZanAya1dfb0dZdU9OOVdUZ2t3M2ZkR2Zjam1NZ1JsTVlFMlFfaDFqNDhxZFdaVXlYcDBXbnNWLTdJTHJfeE4welZXdXZ2bVo3cmJEeVU1OHA3cFFUQ1RGb29qeVBfcHN1M3NlOHNFVlFqN1pzZjl3X1hQem5LQThQeC0tUTVpdw?oc=5",
-   "summary": "ISRO Recruitment Result 2026 Out: Check Assistant, JPA and Stenographer Merit List, Skill Test Date Telegraph India",
+   "title": "‘ISRO chief earns way less than DD anchor’—Harsh Goenka asks if India’s priorities are misplaced - ThePrint",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeVMyVGQ2aXFPZUhWQXlUc0hWdTNLVjNxX1FSOHhaNmU3R0JBYTdvOGgzdU9qcWpHYVlCenhGaFFLNHBaelByYWhGMUpOQXQtejgxdkpxdm95RE5mMUYyVVRlT2MzYmFfbjFnR3c5YmE0eEhHTV9hNXN6NzZUVnNyemtlbU5ybmQtRmQxMU5LUmxrbVhkUDFwNHFGQVFUX0kzaU9Z0gGoAUFVX3lxTE83V2xNeHJPM2huNHlPZ1dHVHZxWjVqX1UteURtbWlVWmxNUmptOUgzbWY3MXRlSzZTTEdVMXJNUmhhdzdWc1NKdVpzQ3NMVjE0c2JoOGd5ZlFEREZFbW5Nd2FLM1pBQ1BiRWhhU1Q5U0ZPMWpkT25VTWpOOXd2TzYtSkdoaUtoczNwcVhMNUdURXRreEhwOGJzZG9TemQtNmNRRFFBblJWSw?oc=5",
+   "summary": "‘ISRO chief earns way less than DD anchor’—Harsh Goenka asks if India’s priorities are misplaced ThePrint",
    "image": "",
-   "date": "2026-10-26T08:05:31+00:00",
+   "date": "2026-10-26T17:48:48+00:00",
    "source": "ISRO news"
   },
   {
@@ -219,19 +219,11 @@
    "source": "ISRO news"
   },
   {
-   "title": "ISRO to have four launch pads by 2029, says Narayanan - The Hindu",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaDEwMml5MDc5cDllWmVfSTQ0MnFiN3YyWjdyTUticGltR2FSRTUtbVdiVmNLSFVZQmpLU2l2SjhnWWQwTWVyeXpCTV9KYWQ0QjlwWWFzd0kyWWRNOW1pUk9TbVoySHBxeEktaTdvUy1UellUVTRQLTEwdHI5N3lCY2ViVHlrcnBlWVkxNkYzTkJSV2IxbTlocXk1Y9IBogFBVV95cUxNQjhoMjFNWEhEV1p1eFIyQmVSbk9WbmtJenhTN1pXdVhKRkxKdjM1Zkh6S2RLanlWVGtnYUN1X05WLXU4bGQwS2dyTXFjVFJzVEJZd21hOFdybWxDcHZ3WkJGZ2dFNC1XQkh1ZnRaT2hwLVJVZGRTQm11Q0lRLXJkcFJOZ0poYkxVUThtNVAzaExkOVh1ZUtQVXdjUjRla0JFREE?oc=5",
-   "summary": "ISRO to have four launch pads by 2029, says Narayanan The Hindu",
+   "title": "ISRO successfully completes Crew Module-Service Module Separation Tests for Gaganyaan Programme - ISRO",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yTlRKYUU1RkpfU3REbTIxQ3pMMDFhRV9aTFh6a19nZF94LUlSSXU2eXRVYWt0QVFqeV84TWdVcUlwWnMxQ1pISXNGS0ZQa202WGhGNzhIYlhDNVgzV2M5VFJrZHRoNmJzUUZ0YUdCVm4xMGNHOTN6aWxGd1c?oc=5",
+   "summary": "ISRO successfully completes Crew Module-Service Module Separation Tests for Gaganyaan Programme ISRO",
    "image": "",
-   "date": "2026-10-25T05:53:44+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "Curtain Raiser for ESTIC 2026 Space Science & Technologies Thematic Session held at ISRO Headquarters - ISRO",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMUE4WnhQZTR3aEhHdWlBVmRwS28yZTBybWRiYVRqVDdFSWJfLWUzZkVBMnRFRTJwWHFnS2pIUlZ3UllHMEwwY3cxbG41MTNCSC1sY0Zxbmk3YWRTOEFYYnE4Z3dWbWVjLXlsVWxvbFRXMW5IaWFqUklkb3JjOWRXbVdROXdyVEMtcTBjaWtMcHctMEpLZVBkbGhB?oc=5",
-   "summary": "Curtain Raiser for ESTIC 2026 Space Science & Technologies Thematic Session held at ISRO Headquarters ISRO",
-   "image": "",
-   "date": "2026-10-23T06:47:06+00:00",
+   "date": "2026-10-16T07:00:00+00:00",
    "source": "ISRO news"
   },
   {
@@ -243,6 +235,14 @@
    "source": "ISRO news"
   },
   {
+   "title": "ISRO plans four operational launch pads by 2029, says chairman V Narayanan - The New Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObjJaUXVxUXdIZVZXWjRBeU4zemhXMWJIRmdLV0FlcmUtdExHS1ZBWnhYaGdVWGRqX3VkWVlTQjV2SmFRY3JoTGJseS1DSmFFSU5LU0xkRHNyOUJSUVFwVG9YQ1VvR0R1YlZlRzFDWUE3Ym1XU1FwQlM0Nk1XZHRMZm5OYUp4bVpBaklSSEtFMEZzdXJpZ1p1OEJQMlRwVkQ4ZFVkQUtzZ0ZyRnJIVF9Sc04xcURYeURuN0diZUJjQmtMUdIBzwFBVV95cUxNNDNXQ1poeUtaZmthVkJFZ2staEZUeGgteWF2NG9FZFFWRnlWN1Y2a1BYQ1lwemlWSnJRNmhHSmJXbTdmc3o3RXJNUktJeWROcW41QkZ0TVpfLTBvcDZPS3RKdmZYNjFzbU0tdUtoekFsUEdwRTJZZnB6cE50WE9lRW9zdW45R0RSU3FPRWJGMXVrUjQtM1plc0kwZjh2Nm1wMi1Ib0Z5SllqaHA5VFQ2Y0Y2V2NDU1licHJDWEZxU0pad0d4dDNLSkdlZjEzWEE?oc=5",
+   "summary": "ISRO plans four operational launch pads by 2029, says chairman V Narayanan The New Indian Express",
+   "image": "",
+   "date": "2026-10-25T05:50:22+00:00",
+   "source": "ISRO news"
+  },
+  {
    "title": "NVS-03 to fly with pyro valves open as ISRO seeks to avert repeat failure - The Federal",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQajFWVUdGU1ROU3AySkhPZFl2U2xWOFNQel9kaHNwcEt2SHFKS2cwSHJaUHYzbFRXZUFvd2ZXaTVZU1ZHbnUwVkdqWDlIelctWHFQY2ZhbXd3VGU4ejZZeWpSRFVQR0VDV3JGNnNQbWp0dXI2ZGg3OTlFOTk2c3pBaFZ2QzNCOFY1TFRxWXN6MEZXU0FOTnJ1cU1Lak1XWU5kcjAyUHlLdXlFXzR4c1NEQjVzUDV6emc2R2pR?oc=5",
    "summary": "NVS-03 to fly with pyro valves open as ISRO seeks to avert repeat failure The Federal",
@@ -251,11 +251,11 @@
    "source": "ISRO news"
   },
   {
-   "title": "3 days to ISRO's NVS-03 launch, but can this satellite revive India's GPS alternative? Know what will... - Moneycontrol.com",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQN2ZXWWI0Y0E3M1dNbXhyVm1LOHlMYnNJNzVQOGY0T2huNkxaUlJROFR0TWgwVUFhNGQwMDVDaFN6bk1SeVd2QUNOZ3NRQ0JkQVpaSHdtMDlwOTFWRFY0emFVVGFwOVdldDljNGNYVEltOFZ1ZVd3SkJHYmRIUTh3b29iRGc4MkcxQkdPcVJyV0k1eFNvLUsyWkRsaTVrWkNvc3c1aHpXckJ5cDBud2FNRmJ4S01BWElTcUd4RTYxeXNSLVZsYnFxTGZ5cld3d21hRjVvdFB3MU0zTVVhTTB1U2dkZkN0YndvNjJVUmI5WUhPcFBseTFUeEZhZS0wVThmMnhOZkRlVjFBVVXSAZACQVVfeXFMT0cyQTBFRDJRNnFtRkEwSlpQamJIVEVLOUZ4b1lNbHVmM1gwcm1hR3lUQlFrX3JsX1o3aWQ5REQ1bjRZZG1KQ21rOVltS09kU3ZiMEl2WVpqM3REaUZYM0FXV1UyYjFtNE5GejRmV1hwWmJxVV9iRFVFRkZtZDNtYk5zU2k5aVI1dVVodlhXR2k0TW8zdGh0N3ptdWtLMG9aYnFnMHNEMjA0XzVnOEZ3Ums5WmhtdkpKRk5yT1M5WjQ4dVloWmlpRDZIRDdYNEloU3VmZkFkN3pVZFhnYTM5RzFEdWZkN0ZXXzdRYk9fekYzSDk4QkdYc2ZLSVF0c2VaYU9wLWhRZ0dRRi14aHpCSks?oc=5",
-   "summary": "3 days to ISRO's NVS-03 launch, but can this satellite revive India's GPS alternative? Know what will... Moneycontrol.com",
+   "title": "ISRO’s new chapter: Among resignations, questions remain about future role - Forbes India",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU3hjM3J0M2N0c0NqWkVnWVhUYVBZenQ5YmZXUkRWSm5MdEczc05fMUFaZGhmUXF0bXNPRXdBMGowd0Rmc0loTWlraVdPNTBGVkpxMWhkb3FwT1hOUmR6RVM0TF9vWFdtSUVHUUUzYTE1dU9lSF9ZRnJNVW5YcV90a243VDBYN1NkRm9lbGNlMHprVzFjWm96SkhrbE93WXBhT3VUdEZvNTlwc2hCYVdnMXRjZENDalQ1enkxVm9TWFZUZHA5RUZlWlJiZzbSAdIBQVVfeXFMT1RTMjItT3FabFdySnpTY2l3NEVuenFtbzJnQTFfSUU4X21GLWJuRUVaMFhfMzBaRm14MF9WN3NLWE9na2M3TVJuQV9zUUJHTllibXN6UnRQR25DTTloQVRSTEJ0NV9RNTk3T2d6X09JUkNmdFJrZ1JVa3djYWhHVERfbkh3YmRjS0NzMnNuQ3M0QkJJUkVtQ3h4QldYMkVycG0tdWFvRnpKUEh3UTNnZFJZNVhlejRDLXJrRTdPanhCLWk0cUtBM3F1OWVfWF9GTWZ3?oc=5",
+   "summary": "ISRO’s new chapter: Among resignations, questions remain about future role Forbes India",
    "image": "",
-   "date": "2026-10-27T05:42:59+00:00",
+   "date": "2026-10-26T06:11:21+00:00",
    "source": "ISRO news"
   },
   {
@@ -351,7 +351,7 @@
    "link": "https://timesofindia.indiatimes.com/science/nature/when-restaurants-closed-in-2020-us-oyster-farmers-were-left-with-millions-of-unsold-shellfish-six-years-later-a-rescue-programme-has-bought-over-7-million-oysters-for-35-reef-sites-and-helped-protect-more-than-1000-aquaculture-and-related-jobs/articleshow/135227283.cms",
    "summary": "The COVID-19 pandemic forced restaurant closures, leaving oyster farms with a surplus of products. In response, the Supporting Oyster Aquaculture and Restoration program was launched to convert these excess oysters into ",
    "image": "https://static.toiimg.com/photo/msid-135227379,imgsize-2120926.cms",
-   "date": "2026-10-27T11:45:38.058417+00:00",
+   "date": "2026-10-27T12:54:37.152689+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -359,8 +359,16 @@
    "link": "https://timesofindia.indiatimes.com/science/nasas-2028-moon-landing-plan-spacex-blue-origin-race-to-build-lunar-landers/articleshow/135209038.cms",
    "summary": "Nasa is set to undertake Artemis III in 2027 to prepare for a lunar landing by astronauts in 2028. Astronauts will conduct tests on lunar landers created by SpaceX and Blue Origin during this mission. Both companies face",
    "image": "https://static.toiimg.com/photo/msid-135209125,imgsize-99372.cms",
-   "date": "2026-10-27T11:45:38.059010+00:00",
+   "date": "2026-10-27T12:54:37.153281+00:00",
    "source": "Times of India (Science)"
+  },
+  {
+   "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
+   "link": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/",
+   "summary": "Craft Prospect is working with Fraunhofer Centre for Applied Photonics (Fraunhofer CAP) and Vector Photonics on a new project exploring the potential of next-generation laser technology for high-performance optical commu",
+   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/Logos.png?fit=1024%2C1024&amp;ssl=1",
+   "date": "2026-10-27T12:00:00+00:00",
+   "source": "SpaceNews"
   },
   {
    "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
@@ -416,14 +424,6 @@
    "summary": "LOS ALAMOS, N.M. — October 21, 2026 — Space Nuclear Power Corporation (SpaceNukes) announced today that the Defense Advanced Research Projects Agency (DARPA) has awarded the company an Other Transaction […] The post Spac",
    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/Space_Nukes_Logo.jpg?fit=703%2C368&amp;ssl=1",
    "date": "2026-10-21T14:29:57+00:00",
-   "source": "SpaceNews"
-  },
-  {
-   "title": "Summer of Quantum: Building momentum for space-based QKD",
-   "link": "https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/",
-   "summary": "Glasgow, UK | 21 October 2026 – The pace of development in quantum technologies continues to accelerate, and over the past few months, space engineering company Craft Prospect has been […] The post Summer of Quantum: Bui",
-   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/White-CPL-Logo11.png?fit=1024%2C1024&amp;ssl=1",
-   "date": "2026-10-21T11:54:30+00:00",
    "source": "SpaceNews"
   }
  ]
