@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-27T18:52:41.938185+00:00",
+ "updated": "2026-10-27T19:47:36.286250+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+   "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+   "summary": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center ",
+   "image": "",
+   "date": "2026-10-27T19:27:22+00:00",
+   "source": "NASA"
+  },
   {
    "title": "NASA’s Neo Surveyor Sunshade",
    "link": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
@@ -56,14 +64,6 @@
    "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space & Mission Systems in Boulder, Colorado, in July 2026. The s",
    "image": "",
    "date": "2026-10-26T20:53:13+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
-   "link": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
-   "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July. Built by Applied Aerospace in Stoc",
-   "image": "",
-   "date": "2026-10-26T20:52:24+00:00",
    "source": "NASA"
   },
   {
@@ -131,6 +131,14 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "Astronomers discover the secrets of 'string of pearls' supernova relic and the zombie star at its heart",
+   "link": "https://www.space.com/astronomy/stars/astronomers-discover-the-secrets-of-string-of-pearls-supernova-relic-and-the-zombie-star-at-its-heart",
+   "summary": "Scientists are still learning about a cosmic 'string of pearls,' a unique celestial relic left by a supernova witnessed by humanity around 850 years ago, which has a zombie star at its heart.",
+   "image": "https://cdn.mos.cms.futurecdn.net/UxSnXkJcnBna79YHmjQnwL-1920-80.png",
+   "date": "2026-10-27T19:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "November full moon 2026: When, where and how to see the Beaver Moon",
    "link": "https://www.space.com/stargazing/november-full-moon-2026-when-where-and-how-to-see-the-beaver-moon",
    "summary": "Your guide to November's full Beaver Moon, from peak times to skywatching highlights.",
@@ -184,14 +192,6 @@
    "summary": "Baffling long radio echo delays have prompted a range of potential explanations, most of which focus on a variety of unexplained natural phenomena occurring in Earth's atmosphere.",
    "image": "https://cdn.mos.cms.futurecdn.net/EMTpMGXdk8sxaFw4ZN2oLo-1920-80.jpg",
    "date": "2026-10-27T12:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "SpaceX Falcon 9 launches early morning Starlink mission from California (video)",
-   "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-16-b1082-ocisly",
-   "summary": "SpaceX launched 27 more Starlink satellites to low Earth orbit overnight (Oct. 27), aboard a Falcon 9 rocket that lifted off from California in the wee hours of darkness.",
-   "image": "https://cdn.mos.cms.futurecdn.net/u2GBTVG4W2akErAzmYLbSg-1920-80.jpg",
-   "date": "2026-10-27T11:04:19+00:00",
    "source": "Space.com"
   },
   {
@@ -351,7 +351,7 @@
    "link": "https://timesofindia.indiatimes.com/science/nature/when-restaurants-closed-in-2020-us-oyster-farmers-were-left-with-millions-of-unsold-shellfish-six-years-later-a-rescue-programme-has-bought-over-7-million-oysters-for-35-reef-sites-and-helped-protect-more-than-1000-aquaculture-and-related-jobs/articleshow/135227283.cms",
    "summary": "The COVID-19 pandemic forced restaurant closures, leaving oyster farms with a surplus of products. In response, the Supporting Oyster Aquaculture and Restoration program was launched to convert these excess oysters into ",
    "image": "https://static.toiimg.com/photo/msid-135227379,imgsize-2120926.cms",
-   "date": "2026-10-27T18:52:41.891151+00:00",
+   "date": "2026-10-27T19:47:36.226361+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -359,7 +359,7 @@
    "link": "https://timesofindia.indiatimes.com/science/nasas-2028-moon-landing-plan-spacex-blue-origin-race-to-build-lunar-landers/articleshow/135209038.cms",
    "summary": "Nasa is set to undertake Artemis III in 2027 to prepare for a lunar landing by astronauts in 2028. Astronauts will conduct tests on lunar landers created by SpaceX and Blue Origin during this mission. Both companies face",
    "image": "https://static.toiimg.com/photo/msid-135209125,imgsize-99372.cms",
-   "date": "2026-10-27T18:52:41.892040+00:00",
+   "date": "2026-10-27T19:47:36.227070+00:00",
    "source": "Times of India (Science)"
   },
   {
