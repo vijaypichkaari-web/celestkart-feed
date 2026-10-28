@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-28T18:57:35.957849+00:00",
+ "updated": "2026-10-28T19:53:58.055956+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+   "link": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+   "summary": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida. Techn",
+   "image": "",
+   "date": "2026-10-28T18:59:44+00:00",
+   "source": "NASA"
+  },
   {
    "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
    "link": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/",
@@ -37,7 +45,7 @@
   {
    "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
    "link": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
-   "summary": "APOD Science APOD APOD: 2026 October 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photo",
+   "summary": "APODScienceAPODAPOD: 2026 October 28 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our ",
    "image": "",
    "date": "2026-10-28T04:05:00+00:00",
    "source": "NASA"
@@ -56,14 +64,6 @@
    "summary": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center ",
    "image": "",
    "date": "2026-10-27T19:27:22+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "NASA’s Neo Surveyor Sunshade",
-   "link": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
-   "summary": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 m",
-   "image": "",
-   "date": "2026-10-27T17:58:57+00:00",
    "source": "NASA"
   },
   {
@@ -131,6 +131,14 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "Meet Apeiron, Virgin Galactic's 1st 'Delta-class' space plane",
+   "link": "https://www.space.com/space-exploration/private-spaceflight/meet-apeiron-virgin-galactics-1st-delta-class-space-plane",
+   "summary": "Virgin Galactic has officially unveiled its first \"Delta-class\" space plane, and announced the results of the worldwide vote to choose its name.",
+   "image": "https://cdn.mos.cms.futurecdn.net/BuDak7cvUqjKEVN6j4V3RC-1920-80.jpg",
+   "date": "2026-10-28T19:28:10+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "China's secretive space plane caught on camera in incredible new photo released by US military",
    "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-secretive-space-plane-caught-on-camera-in-incredible-new-photo-released-by-us-military",
    "summary": "A U.S. military intelligence agency has released an incredible new photograph of China's secretive space plane, showing it docked to another spacecraft in orbit.",
@@ -187,14 +195,6 @@
    "source": "Space.com"
   },
   {
-   "title": "Astronomers discover the secrets of 'string of pearls' supernova relic and the zombie star at its heart",
-   "link": "https://www.space.com/astronomy/stars/astronomers-discover-the-secrets-of-string-of-pearls-supernova-relic-and-the-zombie-star-at-its-heart",
-   "summary": "Scientists are still learning about a cosmic 'string of pearls,' a unique celestial relic left by a supernova witnessed by humanity around 850 years ago, which has a zombie star at its heart.",
-   "image": "https://cdn.mos.cms.futurecdn.net/UxSnXkJcnBna79YHmjQnwL-1920-80.png",
-   "date": "2026-10-27T19:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
    "title": "ISRO to launch NVS-03 satellite as India looks to revive NavIC navigation system - ThePrint",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZl9qbmg2NzdoNnQybW1jZ3BjYmlmUURaSGhVdUZSRUZheEY2UFlDVWRTWHZWWmY1ZXo4RjlocUwxdXU0OFFEWGxoRTJ1eHNnMkF2Wm1lQTFSYlpRb1lfNnZZZjlFQV8wVWJfTllQdzU3R2ctSzVxczBZRl9jTzhqQ2h6ZG40Z9IBiwFBVV95cUxPaE9UclBkQWxlV000TlFhS3pUUVFkZEF5XzQ0MEVLT19YLTZwV0JjYXgyWUdoYTlZcnp5YUtGaHV5a25yRm9FRndIU1dHXy1VV0ppU3V4dWtYYjBzVDFpaE43TVhab0RIV3FVcS1zT2EzMlRnZi1xTkpCMFNaUUdZZ0tNTXVjeHJoQ25j?oc=5",
    "summary": "ISRO to launch NVS-03 satellite as India looks to revive NavIC navigation system ThePrint Isro changes its playbook for NVS-03 mission: The crucial fix after NVS-02 failure India Today ISRO’s GSLV-F18 To Carry NVS-03, Ne",
@@ -219,35 +219,11 @@
    "source": "ISRO news"
   },
   {
-   "title": "Cyclone Arnab poses challenge to ISRO’s NavIC revival mission - DT Next",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZjctS2QwWDlaeGNxWjVSc25vbU9XOEFwVUNhbVU2c2NJSjItdURDR0RsSDEwZEYwTVp6Vl9leGk5WWEwb0R6dmw0X3pBUEpFODVkdnc3UXhwOG96cHlTWk5mV3VtRWlZNU82eENVUkhwZFRYRWlxVWZYampRd3E1ckF0eXJtR1V3UDNROGRGOFBXMVc1WUhDbVpKVnTSAaoBQVVfeXFMTXgybVJSVnVBZk56SXBrSzlZc1MtYklKS3pxbmJ2dlo1cTNma2lGQl9McV9ObXg4cm9hdGRicGlqRnliRjdueDdqdzI3NEd5dUo0anJRN09PRmJKYlZpeXdrMkJwUFhzOFdmNkd4c2JvYmVWZFBUXzNhbjlVckxOUGNoUkpINjdnTGd3d0VjUDF0VU1GS2dlRENsWGplUWkwb19TY3hnTGxfa0E?oc=5",
-   "summary": "Cyclone Arnab poses challenge to ISRO’s NavIC revival mission DT Next",
+   "title": "ISRO Recruitment 2026: Apply for 61 Technician and other posts - Kalinga TV",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXY0TXFFMUpqZVRkZ0lveVRoaFppRXVlTlF4NlM5Wm9XSFY4em9YeGg2bE10RHNyVkdBR3RIb0pmdXUzOThzdEpWeUZXclpMX095bVVraUNJVlRLeHIyUkJ0QnFBYks1VWpMMVNRSFllTW9GRlRneGVvR3R1b1R5SmppVi1jclF5Ums0SlBYMXR4UnVPT3FTTkNwUWE?oc=5",
+   "summary": "ISRO Recruitment 2026: Apply for 61 Technician and other posts Kalinga TV",
    "image": "",
-   "date": "2026-10-27T02:11:29+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "India to have four launch pads by 2029, says ISRO chief | Narayanan was speaking at a graduation ceremony | Inshorts - Inshorts",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZldlUXNMTmltVTZaT0FvQ1FqcXBUd0plWkgxYktzY0stQWJEb28yVzRvZGRNWXF0ZWhLR1ppNkNnVDR2bV9ZQ09JTXVrU1ctQXBzbUtUcW9HU2gtcklQY0VHVzdJaWJRb1JldFhfU3RGWFVYWWxIR291MGhIWXY4YnJSb0JES3ZDV2dNZm5scENkcWFTT2lMLWFNSEhjVWfSAaQBQVVfeXFMTjN1b3ZyZFc1dmN2VTZOU0JFdy1VeDhMdnl4d25RYUhhUU56Q2dEUzROVHNkQzRaYlE0aUJHaXgtbHRnTVZYY05xRHoyQm50UkctcTJIMDBKNTJUNmszQXMzQ3hjQTNIOWM0MUZYdHVBYm1NOEVaMFk1Y1lwX04tMER1T19Gd0pQaVNEd2hMdnRrNzhtR0h5QkxHVWhJYnQ1anJQcDE?oc=5",
-   "summary": "India to have four launch pads by 2029, says ISRO chief | Narayanan was speaking at a graduation ceremony | Inshorts Inshorts",
-   "image": "",
-   "date": "2026-10-26T15:49:20+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "ISRO Plans Four Functional Launch Pads by 2029 - GK Today",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNdkRCOXBRSEtGYm5sVkNLN3YzUmdiN3ZoTVUzREpQMkZ1eDVDdWhRMThPOGpEMVoxZ0JsaXpZb3BleFpwWjJldjRkZTlYX0F0WVd6RjY2b3RfWEpZbndmZWFwRzBCN0Nhd0xZLTlQMF9SdHJ0cXgzcHR3?oc=5",
-   "summary": "ISRO Plans Four Functional Launch Pads by 2029 GK Today",
-   "image": "",
-   "date": "2026-10-26T07:05:00+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "ISRO to Have Four Functional Launch Pads by 2029: V Narayanan Announces Expansion Plans - Adda247",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTlUxa05vZXNoUXZpUExaaEZ6YXFkSjZ3bUl5b256azJ1UDlhSjg2Zm5fS0l5WFlkcGwwUWlvd1JRcnhrY1JqbHkwUXRzMzExRkRzdEJ3elI3V1ppcDNhVkJKMVYwaFpaQ19HZzZoazdtbV9jY3VmTGNyTXpRRjM1S3NKZVdxYkt2bEo4Y19WaGJteExZSExHM0xGRDhaMXNfQXNMSlp5Ujl5TkVGdjhJRmtCaUtKaW9RQkI5UmRkbw?oc=5",
-   "summary": "ISRO to Have Four Functional Launch Pads by 2029: V Narayanan Announces Expansion Plans Adda247",
-   "image": "",
-   "date": "2026-10-26T07:27:53+00:00",
+   "date": "2026-10-28T07:30:02+00:00",
    "source": "ISRO news"
   },
   {
@@ -256,6 +232,30 @@
    "summary": "‘ISRO chief earns way less than DD anchor’—Harsh Goenka asks if India’s priorities are misplaced ThePrint",
    "image": "",
    "date": "2026-10-26T17:48:48+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "Cyclone Arnab: Isro satellite captures storm barreling towards Andhra Pradesh - India Today",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWVdYVkxHcW1wQTN5NjdvSmtWanFVa3FZdUhPblk0QXJ3M2pOQnR4TGNIaFRKUGVrc21vaG52bzRMVktxekhGaGhDYnoxcC1FLVllVXZmSTNuOGs0c1hGZklVX2VMTUVMRjdEY1dwMGdhb3M4ZE5mTHgyUmlzX3NlX3BVVXRkbzlIdUswNTVEUFNUbDBLMFdRVGtTQXhDSzJ5cnV3bDNYb2NHOXU1bnFYRHEzYThGM1h5U2RHd2VkQUw0T2R1UHdhblZOeUdxbk9n0gHWAUFVX3lxTE9NRjNySkhGVDc1ZHRGMkFnM2NoRjV0NlZYYlhCdm1keW5hT0JvNzc1eE5MNmZCUjFYbFlzUlVSTkdWZzB1NUMtUzFoRkZIQzB4VHRkZ0Y0dE56a3E5OURURW9mNks3Umd6NVRkN0VRVzFGbk9zWXFoOEhRdGFRTl9JcnhDdzR3bVRDWU9ROWpwbkNTQzFCZFlsbUxNRjROczVQcDYzSU13TUd2NnhjQWVUdmxtbElDYXRUREdYaDNpdzR4bF9FcWJYbkNRb01fT2dMd0REanc?oc=5",
+   "summary": "Cyclone Arnab: Isro satellite captures storm barreling towards Andhra Pradesh India Today",
+   "image": "",
+   "date": "2026-10-26T05:30:00+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "ISRO will not be privatised, says chairperson Narayanan - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOGtUbS1EdUhTYUhhaHJ0Z19PcVpqZE93X0xUX1RGaXdtM1BYOUhiQ01mTkg1U0cxMFZqY25wS2xKMmtSbFBRWkJqamozRFAwYmdGbE1NYlBjQ2ZGQktwREZRVERvVWZraVQ4WGFTVnR1ZUE4OGJIUnBVaXdLYWRfUGdud3hsemhfcFd2UmRpdmJVMWs2MGhsRjRZX2lYeXRSMXNOQzJfODVMQzhtdzhkb0pXbm5rb0ZPZ25F0gHCAUFVX3lxTE9vQmZoOE5peGdEdDZTZS1lb29PNjZVSlY2elBWeEE3M2hrWVZDYk5iLW1hVFVBa3lWcGItc2t5LXN6cldYLXI1amZRMEVNVERKMnVzVjNPTl9ENzRWS3Y0ZFhBZ1YzSVlMTDEzS2VaYmdLVmVmdmR3azBfN0FDVTYzbDBEV0k1em5yNzRlandRR094ODZjMEQyT0tQWHJhZU4wU1hsY3NHMWctN0g0RnFhRW9WMjREVENVSnJ5NWRCVThn?oc=5",
+   "summary": "ISRO will not be privatised, says chairperson Narayanan The Hindu",
+   "image": "",
+   "date": "2026-10-24T16:30:13+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "Isro gears up for NVS-03 launch between October 15 and 20 - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONzN4RE42bnktaUV4UWNKSnhRLVA3bnRabWhuRzJsTFFORGhHVE9lbTF5QlhjSWIzcm5rMmRncEQ3VFVYU2J0bXFFaF9ZZnFUeWZMeU1Vd2lyajhSeVJLTExSUjRPa1lUbUp4ME8wUzZvWDZxQkhzMjVWbmw5MjFoQ2xnT2J4SkhBUFJFdVpGSFhFcXJDelBqWW5Vc3poRmVoZi15M19rckx6TkY4SU9kX2ZPcHJXNk1wRnYyMF9zcDdQSndqTnfSAcsBQVVfeXFMTWJKbnBiTzlmTnhxUVZ4TTR3WmYtN2JGQlBOSmhqdHhhZWw5ZThrVjNxa01OSVRDVnFReVNYRHpUYVJSV0o0S0NJdHpiWTdmbGNhMmZuZHRKUWljYUpNa09nZU5pRHhpajZZOXJYVDdoUHdqRVBWSUxaOGp2UXZScC1RVmk3bEl2YlJTZ2NWN29iYmJnTndaMGlXNWtkdTNNUGNDTEZ4RWdwSEZNWk9ZLUxuNmh6QjhQcEZNVmxreEpoeGlya1pNb3RjQkk?oc=5",
+   "summary": "Isro gears up for NVS-03 launch between October 15 and 20 The Times of India",
+   "image": "",
+   "date": "2026-09-21T07:00:00+00:00",
    "source": "ISRO news"
   },
   {
