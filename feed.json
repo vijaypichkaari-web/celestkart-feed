@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T21:51:25.967366+00:00",
+ "updated": "2026-10-29T22:50:20.879486+00:00",
  "errors": [],
  "items": [
   {
@@ -67,6 +67,14 @@
    "source": "NASA"
   },
   {
+   "title": "Spacewalking astronauts unfurl upgraded solar array to boost space station power",
+   "link": "https://spaceflightnow.com/2026/10/29/spacewalking-astronauts-unfurl-upgraded-solar-array-to-boost-space-station-power/",
+   "summary": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk successfully installed and unfurled the seventh of eight new solar panels designed to power the outpost through its retirement in 2030.",
+   "image": "",
+   "date": "2026-10-29T21:57:22+00:00",
+   "source": "Spaceflight Now"
+  },
+  {
    "title": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
    "link": "https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
    "summary": "The anticipated launch will be the first for the heavy-lift rocket since a mid-flight nozzle failure on a solid rocket booster. The rocket will carry 40 Amazon Leo satellites to orbit.",
@@ -120,14 +128,6 @@
    "summary": "Liftoff from pad 4E at Vandenberg Space Force Base in California happened on Thursday, Oct. 15, at 5:01 p.m. PDT (8:01 p.m. EDT / 0001 UTC).",
    "image": "",
    "date": "2026-10-15T19:11:45+00:00",
-   "source": "Spaceflight Now"
-  },
-  {
-   "title": "SpaceX launches NASA science and cargo to the International Space Station",
-   "link": "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/",
-   "summary": "The sunrise launch on Oct. 13 was the 35th SpaceX flight under the Commercial Resupply Services 2 contract with NASA.",
-   "image": "",
-   "date": "2026-10-13T14:07:50+00:00",
    "source": "Spaceflight Now"
   },
   {
@@ -367,7 +367,7 @@
    "link": "https://timesofindia.indiatimes.com/science/space/chinas-secretive-space-plane-spotted-docked-to-another-spacecraft-in-orbit-us-military-intelligence-agency-releases-rare-image-revealing-a-new-detail-about-beijings-mysterious-space-programme/articleshow/135297112.cms",
    "summary": "A US military intelligence agency has released a rare photograph of China's secretive Shenlong space plane, showing it attached to another spacecraft in orbit. Taken in May 2024 and made public in October 2026, the image",
    "image": "https://static.toiimg.com/photo/msid-135297929,imgsize-17652.cms",
-   "date": "2026-10-29T21:51:25.839716+00:00",
+   "date": "2026-10-29T22:50:20.790100+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -375,7 +375,7 @@
    "link": "https://timesofindia.indiatimes.com/science/space/the-uk-is-planning-to-send-giant-robotic-claws-into-orbit-to-grab-two-dead-satellites-and-drag-them-into-earths-atmosphere-to-burn-up-a-first-of-its-kind-clean-up-mission-due-to-launch-in-2029-and-the-public-can-help-name-it/articleshow/135269315.cms",
    "summary": "In a groundbreaking initiative, the UK plans to unveil a pioneering spacecraft in 2029, designed specifically for the cleanup of space debris. Utilizing advanced robotic arms, the mission aims to snatch up and incinerate",
    "image": "https://static.toiimg.com/photo/msid-135269315,imgsize-112656.cms",
-   "date": "2026-10-29T21:51:25.840211+00:00",
+   "date": "2026-10-29T22:50:20.790479+00:00",
    "source": "Times of India (Science)"
   },
   {
