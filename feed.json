@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-29T14:10:27.240840+00:00",
+ "updated": "2026-10-29T15:04:39.556080+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "NASA’s Hubble Marks Way for Roman Space Telescope",
+   "link": "https://www.nasa.gov/image-article/nasas-hubble-marks-way-for-roman-space-telescope/",
+   "summary": "A sweeping barred galaxy takes center stage in this Oct. 22, 2026, image, but the gravitational lensing at bottom right is the real target. This observation is one of many gravitational lensing images taken by NASA’s Hub",
+   "image": "",
+   "date": "2026-10-29T14:49:27+00:00",
+   "source": "NASA"
+  },
+  {
+   "title": "Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb",
+   "link": "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/",
+   "summary": "Like a spectral form rising out of a cold mist, NASA’s Hubble and James Webb Space Telescopes have captured a hauntingly dynamic star-forming scene. It lies within the vast Carina Nebula, a diffuse star-forming region lo",
+   "image": "",
+   "date": "2026-10-29T14:01:01+00:00",
+   "source": "NASA"
+  },
   {
    "title": "Contractor to Civil Servant: NASA Welcomes Jared Spiers",
    "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers/",
@@ -48,22 +64,6 @@
    "summary": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida. Techn",
    "image": "",
    "date": "2026-10-28T18:59:44+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
-   "link": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/",
-   "summary": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research to be demanding – but he was surprised ",
-   "image": "",
-   "date": "2026-10-28T18:00:28+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
-   "link": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
-   "summary": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds: Plane",
-   "image": "",
-   "date": "2026-10-28T16:25:29+00:00",
    "source": "NASA"
   },
   {
@@ -375,7 +375,7 @@
    "link": "https://timesofindia.indiatimes.com/science/space/chinas-secretive-space-plane-spotted-docked-to-another-spacecraft-in-orbit-us-military-intelligence-agency-releases-rare-image-revealing-a-new-detail-about-beijings-mysterious-space-programme/articleshow/135297112.cms",
    "summary": "A US military intelligence agency has released a rare photograph of China's secretive Shenlong space plane, showing it attached to another spacecraft in orbit. Taken in May 2024 and made public in October 2026, the image",
    "image": "https://static.toiimg.com/photo/msid-135297929,imgsize-17652.cms",
-   "date": "2026-10-29T14:10:27.019748+00:00",
+   "date": "2026-10-29T15:04:39.485366+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -383,8 +383,16 @@
    "link": "https://timesofindia.indiatimes.com/science/space/the-uk-is-planning-to-send-giant-robotic-claws-into-orbit-to-grab-two-dead-satellites-and-drag-them-into-earths-atmosphere-to-burn-up-a-first-of-its-kind-clean-up-mission-due-to-launch-in-2029-and-the-public-can-help-name-it/articleshow/135269315.cms",
    "summary": "In a groundbreaking initiative, the UK plans to unveil a pioneering spacecraft in 2029, designed specifically for the cleanup of space debris. Utilizing advanced robotic arms, the mission aims to snatch up and incinerate",
    "image": "https://static.toiimg.com/photo/msid-135269315,imgsize-112656.cms",
-   "date": "2026-10-29T14:10:27.020443+00:00",
+   "date": "2026-10-29T15:04:39.485934+00:00",
    "source": "Times of India (Science)"
+  },
+  {
+   "title": "Advice for optimizing the space industry with Laura Crabtree",
+   "link": "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/",
+   "summary": "In this episode, Mike Gruss speaks with Laura Crabtree, the CEO of Epsilon3, who is also a former SpaceX astronaut trainer. They talk about ways that space companies can organize […] The post Advice for optimizing the sp",
+   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-Epsilon3-2000-1500.jpg?fit=1024%2C768&amp;ssl=1",
+   "date": "2026-10-29T15:01:09+00:00",
+   "source": "SpaceNews"
   },
   {
    "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
@@ -440,14 +448,6 @@
    "summary": "In this episode, SpaceNews’ Mike Gruss talks with the CEO of Aalyria Brian Barritt about how networks are evolving, what scaling the company means and the role of software interoperability […] The post Rethinking network",
    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-Aalyria-2000-1500.jpg?fit=1024%2C768&amp;ssl=1",
    "date": "2026-10-22T18:13:38+00:00",
-   "source": "SpaceNews"
-  },
-  {
-   "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
-   "link": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/",
-   "summary": "TechnoMile, the leading AI solution that unifies growth, contracts, compliance, and security workflows, has been named a 2026 Inc. Power Partner Awards winner, recognizing the company among the leading B2B […] The post T",
-   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/TechnoMile-Horizontal-Logo-scaled.png?fit=1024%2C153&amp;ssl=1",
-   "date": "2026-10-21T15:26:29+00:00",
    "source": "SpaceNews"
   }
  ]
