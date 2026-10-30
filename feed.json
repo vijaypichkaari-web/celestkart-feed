@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T09:58:19.371194+00:00",
+ "updated": "2026-10-30T10:54:06.606911+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "November’s Night Sky Notes: Light-Day Away",
+   "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+   "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. ",
+   "image": "",
+   "date": "2026-10-30T10:00:00+00:00",
+   "source": "NASA"
+  },
   {
    "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
    "link": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
@@ -56,14 +64,6 @@
    "summary": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in fl",
    "image": "",
    "date": "2026-10-29T18:00:35+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "NIH–NASA QuSAFE Challenge",
-   "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/",
-   "summary": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, su",
-   "image": "",
-   "date": "2026-10-29T17:44:37+00:00",
    "source": "NASA"
   },
   {
@@ -131,6 +131,14 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "Think Halloween is scary? This scorched alien world is a real-life cosmic horror story",
+   "link": "https://www.space.com/astronomy/exoplanets/think-halloween-is-scary-this-scorched-alien-world-is-a-real-life-cosmic-horror-story",
+   "summary": "Earth would be terrifying if we celebrated Halloween every 11 hours, a possibility on a super-Earth investigated by the JWST, if it wasn't so hellishly hot that no life could survive on its surface.",
+   "image": "https://cdn.mos.cms.futurecdn.net/5vhKTkFtd7iTUyQcTE46oj-1920-80.png",
+   "date": "2026-10-30T10:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "Patrick Stewart, renowned actor and ‘Star Trek’s’ Captain Picard, dies at 86",
    "link": "https://www.space.com/entertainment/patrick-stewart-renowned-actor-and-star-treks-captain-picard-dies-at-86",
    "summary": "Patrick Stewart, the distinguished British actor of stage and screen, passed away Wednesday (Oct. 28) in Los Angeles at the age of 86.",
@@ -187,17 +195,9 @@
    "source": "Space.com"
   },
   {
-   "title": "Big cats, unexplained lights and a floodlit eclipse — 7 skywatching 'horror stories' to keep you entertained this Halloween",
-   "link": "https://www.space.com/stargazing/big-cats-unexplained-lights-and-a-floodlit-eclipse-7-skywatching-horror-stories-to-keep-you-entertained-this-halloween",
-   "summary": "Stargazing doesn't always go to plan, and we have the stories to prove it.",
-   "image": "https://cdn.mos.cms.futurecdn.net/Jed5jdnd8RtFaNNgVUADbE-1920-80.jpg",
-   "date": "2026-10-29T16:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
    "title": "Why is ISRO’s NVS-03 satellite launch crucial? | Explained - The Hindu",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOElNNmhsR3hiZnVRbTBWT1pIQWJCY3dzNnE4Q3VsUGl5U1M2T1pvU2Z0aVdnckI2ZXVtV0dIMDJpYktPUUY3TVRPdDhrR04yVHA4ODBCOFRsZVlVVHo1VXFyMUEwUWpxTjNpVlpvMi1OSFI0bUFFcEdmRUJ1dmNBOHJUZldKUTZyb0JKMm5UTUNlaldDME9tZTFBM0hFLUNwbGs3MUJBa2l5b2J5SG90MDlubjFvMU3SAb4BQVVfeXFMTzNNM3BRTWxLTEMydlZicTlkTUNOazk5VktnZ19lVklGVWxZc1pWclViSlVnRjAzTWZTd3BrbWNsUzRGWEcwakRTYmhXSllKbFo5RGdadGdRYWoyTjQ3ZmNtVlREZzdIUVJQLTNYTE9xSTF6WFctT0EwOE80QjluQ3l6RkRPUTVESl9vX1FOQlU2ZkhROFB0aHJldlBqX1RodHpTc1UxamtDU0hkZW9VcDFIVVNqYUlUd0IwNExwQQ?oc=5",
-   "summary": "Why is ISRO’s NVS-03 satellite launch crucial? | Explained The Hindu ISRO to launch navigation satellite NVS-03 aboard GSLV-F18 rocket from Sriharikota News On AIR Today News Headlines for School Assembly, October 30, 20",
+   "summary": "Why is ISRO’s NVS-03 satellite launch crucial? | Explained The Hindu ISRO to launch navigation satellite NVS-03 aboard GSLV-F18 rocket from Sriharikota News On AIR ISRO's 'Smart Boy' Rocket To Launch Key 'Swadeshi' GPS S",
    "image": "",
    "date": "2026-10-30T05:43:55+00:00",
    "source": "ISRO news"
@@ -216,6 +216,14 @@
    "summary": "GSLV-F18/NVS-03 MISSION ISRO",
    "image": "",
    "date": "2026-10-29T14:49:40+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "India news: Space agency to boost GPS alternative with new satellite - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUHE4QXMzcjhBWTlweW1pRHV3TmRaMW0wLU5kSmp2cFl0QkFRbGZlZ2l5WE9kcmUwbHdEN1o4SHg3OTJjSU8zM1N5NUpIWFBFZkV6cVh4MGxYbEZqTWoxUUZpcU12cEk5YmY3SDZJQTRaZ1hvRlVod25PUFlwcFNKaGxlaDVPczF1dE5zZEZfNTlra2R6NGhCNmx5Zy1LUEwwWl8xNkctSUxjRU4xRThUWDZ2dnNsbU8yb2hYWE94LUpGQQ?oc=5",
+   "summary": "India news: Space agency to boost GPS alternative with new satellite DW.com",
+   "image": "",
+   "date": "2026-10-30T10:05:04+00:00",
    "source": "ISRO news"
   },
   {
@@ -248,14 +256,6 @@
    "summary": "ISRO to launch NVS-03 navigation satellite aboard GSLV-F18 rocket Free Press Kashmir",
    "image": "",
    "date": "2026-10-30T08:19:20+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "ISRO’s NVS-3 launch to boost India’s time sovereignty - Awaz The Voice",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVUZJNjFJbUpEMWlRV1BBazZSaFBZZTQtckZkV1ZTOC02QzRuaU1RVVZIUTZLaEFVN3R3ZzltN211Z1JvVjNaNFpHc19HR2dCVDlUcjdRQk5BSmxUSGpqdDlvM2dMZDIwZG1Gd1FFSDFaVlJfWHkyTFpXYUJPVGVkNE5oZkRRZ1UwR28wMkRiTURpejQzRmI0dTBITjJLd1pTVEhF?oc=5",
-   "summary": "ISRO’s NVS-3 launch to boost India’s time sovereignty Awaz The Voice",
-   "image": "",
-   "date": "2026-10-30T05:25:59+00:00",
    "source": "ISRO news"
   },
   {
@@ -367,7 +367,7 @@
    "link": "https://timesofindia.indiatimes.com/science/space/nasa-astronauts-anil-menon-and-joshua-kutryk-install-the-seventh-solar-array-on-the-iss-during-the-100th-us-spacewalk-spend-7-hours-upgrading-the-power-supply-outside-the-space-station/articleshow/135347000.cms",
    "summary": "",
    "image": "https://static.toiimg.com/photo/msid-135347135,imgsize-1051403.cms",
-   "date": "2026-10-30T09:58:19.349176+00:00",
+   "date": "2026-10-30T10:54:06.505643+00:00",
    "source": "Times of India (Science)"
   },
   {
