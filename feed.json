@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-30T18:54:10.080133+00:00",
+ "updated": "2026-10-30T19:53:53.543747+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+   "link": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
+   "summary": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Spac",
+   "image": "",
+   "date": "2026-10-30T19:31:02+00:00",
+   "source": "NASA"
+  },
   {
    "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
    "link": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
@@ -56,14 +64,6 @@
    "summary": "Description This slice of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth, was used to determine the age of the rock. Reflected light images like these serve as a scientist’s road map, helping",
    "image": "",
    "date": "2026-10-29T23:32:35+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "Halloween Aboard the International Space Station",
-   "link": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
-   "summary": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individuall",
-   "image": "",
-   "date": "2026-10-29T21:44:23+00:00",
    "source": "NASA"
   },
   {
@@ -131,6 +131,14 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "5 horror franchises that went to space... and one that absolutely should have but didn't",
+   "link": "https://www.space.com/entertainment/space-movies-shows/5-horror-franchises-that-went-to-space-and-one-that-absolutely-should-have-but-didnt",
+   "summary": "In space, no one can hear you scream, a bit like the empty theater screens that some horror franchise's final installments limp. But there are still some real gems among the space-based frightfests.",
+   "image": "https://cdn.mos.cms.futurecdn.net/6am9jXRbFUh5Fta5D2iyWm-1920-80.jpg",
+   "date": "2026-10-30T19:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "The rocket scientist who summoned demons: The true horror story of Jack Parsons",
    "link": "https://www.space.com/space-exploration/the-rocket-scientist-who-summoned-demons-the-true-horror-story-of-jack-parsons",
    "summary": "Rocketry pioneer Jack Parsons engaged in an elaborate series of occult ceremonies intended to summon an otherworldly feminine goddess into physical existence.",
@@ -187,27 +195,19 @@
    "source": "Space.com"
   },
   {
-   "title": "Think Halloween is scary? This scorched alien world is a real-life cosmic horror story",
-   "link": "https://www.space.com/astronomy/exoplanets/think-halloween-is-scary-this-scorched-alien-world-is-a-real-life-cosmic-horror-story",
-   "summary": "Earth would be terrifying if we celebrated Halloween every 11 hours, a possibility on a super-Earth investigated by the JWST, if it wasn't so hellishly hot that no life could survive on its surface.",
-   "image": "https://cdn.mos.cms.futurecdn.net/5vhKTkFtd7iTUyQcTE46oj-1920-80.png",
-   "date": "2026-10-30T10:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "ISRO set to launch GSLV-F18 carrying navigation satellite NVS-03 | LIVE - The Hindu",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMVktUGpfejN5cXVRNHdLZDdibmUxZUF1Sl9iZEdHLU1XUHlZMHFoN2pWR01BcWE4bFJFLUo0ZTNhOVZsVUVTNm5OUldtQjM2U2FXMFhORWUzWUJnUkFsck5vWGhNZ0Z2NGJFci1PaUwwRnNpWEJmYk8wQ2NaRkJLenAwYUpoUy1XdHFyVExIY0VTZW54R0lIR001ZVpJXzJfMERtQnlRZHNfcmZ5TERFV2JBUlQtNm0xTTV3ZW1sMG1Mdjl5OTJyWS0wNmItY1lHSFVzeFBsblRxV1NkcW1HRWhTNnJHUdIB7AFBVV95cUxNRmRlZGMyMjZHVFNfaXcwOHhaWklKVVB4TWpmWFBySTBENUd4eXUzTTk2Y3libGFQdXVqRE1VNjFnalJMa0NYMWd3TzdWdzk1NmI3T0ZuZ005anJxUVRlY2gwTzBuTTRzTFVtSHhBVHBDMzFxMzFkZWlDS0ZWN2ZDZ1NGb2hzVEQydFVsNTZXUnJXVWlfVnlBNldnZnVsOXh2TXctaXg0Y2xXZTN0cW9XVW5DQzlyX1lTWldpRlJEc1hRUGxNYVBVZ0J4MGNTR3BGNVh5Q01ERW9MTnNxMTNNcUNUOTFUaTlVZUpqNw?oc=5",
-   "summary": "ISRO set to launch GSLV-F18 carrying navigation satellite NVS-03 | LIVE The Hindu ISRO to launch navigation satellite NVS-03 aboard GSLV-F18 rocket from Sriharikota News On AIR ISRO Launches Next-Gen Satellite To Strengt",
+   "title": "NVS-03 satellite launch successful: ISRO - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbFQxU3kwUzdybnBib0l1U1BmZzZ1aF9FYlVJQjlJUHhxRkxRelRrUVFYRzdDZDMxMHpuTkhxXzEyY0FRU1I1d01YOHBMZzhRT2d1T1d1azFqalBQX0h5Z25wVWlxemhoS1dIVUJDb3NOTTVMSVdOSHlXQk0ydGYxS2ctd3RjZGtFLU8xb1hCSHA4NU42T3dUeFRVLWkxd3o2SFRv0gGqAUFVX3lxTE8zdU5LNFZLZzFHcTU4WDRuNmt3cGlMUjdRbnkzcl9WVDlSYjhhelpaT0twQlprRzROSXl5S3IwY3lCZkZTOERlNnB0c1A4SDVCR1U5ZGlMaVlmcFNZRWNBY1RmYjdyMHdISmIwZVZKdkVuM1A2Nmg2ZGI2bk1KOEhHWHNINEtFWEtxMlhYR3J4REwwZnJ0T1ZkWVl1ck01djRPU1l4R2E0djBn?oc=5",
+   "summary": "NVS-03 satellite launch successful: ISRO The Hindu Isro’s GSLV-F18/NVS-03 mission successful: Next-generation navigation satellite placed in orbit; NavIC co The Times of India NVS-03 launched successfully; satellite plac",
    "image": "",
-   "date": "2026-10-30T17:01:09+00:00",
+   "date": "2026-10-30T19:09:21+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "ISRO timelapse video captures Cyclone Arnab's movement towards Andhra coast | India News - Hindustan Times",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWFJBV3NIMkhCZkstOHlKNGdZNmYwUVdVRlh0MUU3UDR5VlNyZWFtRnZHa2h0aGJRUEYySUViQnRRczlPcC1FZXpJVnR4WkRacU1KTkFRTEFjYkQzTzRMaEhEZjRpQ0xOR1dyQ1E2VnBkT2tyNFNQbXFtNHMwWnlUd3lJby01ZGtUejhQcFN3dEpuckFnMWJ3dy1ZSHpyRVk4bFprbkpxeXhtV2VkNzUwSmRCSXJNVlQ5UHpWbkVIdzlLeVJHeU5oQk5yY2dfZkNxYWh5dm1QVHpvVU41TUpqOERYV2FOOTkwYXBoUUlGTWtIYnds0gH6AUFVX3lxTE9Rb2l3bmR4dHVHcDZ6anp3WEh3MVRaY0lDU3NISDdfdEZ5cFVTUmw0OVNOenluZUVUY01JZU5kNnR5Y1lmbFB5UHZDLU5mOExyejVqTjVpS2tTTDR6WmtaQjh0NU5McHB3d0RQS0c4U3lxUEx6MHVxUjRGTXFCVFBNR2Q4UmdrUFZucFNNZk1WeExYTDdxVVdPUjFpMmN1WW14RUJGZWVHSXRGaWFpYTNwSFRIMG95bklHRXlORjdsSEpfci1mTElHdndrUi1hMHRWRmpwZklaMi0xR3luWHc3YTdZdjR5T2Y5TjRFOVBMNTlQUzR2ZGpIeHc?oc=5",
-   "summary": "ISRO timelapse video captures Cyclone Arnab's movement towards Andhra coast | India News Hindustan Times",
+   "title": "In a first, Air Force, Navy, ISRO to showcase equipment at Kurukshetra Gita Mahotsav - The Tribune",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNem9ocVM5UHBUQ3g1NUtJcVBHS0h4MTBkSmZFcjVSR0RGMUJ6MUozczREOGI4WnRXTU0yYllSRTNqMnV3VENaMk11M29ObTRqRGxDN0lOdmE4SEtUYldlQmJGRU8tSTN4Ynp2dkc4LXNBOFBjNmxSTUNueFpYenRIbldMMkhDMnFPcThnQnNJenhJcEN3cVVnMm5qSVRqd2gxSnVTdVdLcS1VbEtJR2pFVWhpRGtKa0J3SXBBamlfOTZuZ9IBxgFBVV95cUxQakRTR3JjN0RXY2pSckJJMHo4MnpPZnZiSTQ1dzVYcUxIeGVaWXlqdWF2dGIwM1E4MTE2SjNmMUxKZlgtWGR2UzhJTnp1NEd4VFJGUHQ3VWhHRVZGaC1qUm5Xb2JEUUplaWxTUEgtQnFDNDU3dzR3RkJDNG5xdnFIeVZrTEppR2hWLV9uYXdkME9yOFNNMjlqc3dqc3d1WFBiS2Fpb3FRajNEQUFFUTBoWVhyQ3pJY0JOS2dxMTE2cWtKQXRzbmc?oc=5",
+   "summary": "In a first, Air Force, Navy, ISRO to showcase equipment at Kurukshetra Gita Mahotsav The Tribune",
    "image": "",
-   "date": "2026-10-30T10:39:17+00:00",
+   "date": "2026-10-29T14:32:10+00:00",
    "source": "ISRO news"
   },
   {
@@ -215,7 +215,15 @@
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDNkFYM2JwMG8xYURPRFpqQkNyVDNwYjZPdVpjb3ROVG5pc28xM3cyRlhFeDBTTHhxM2l0aFBwTGxkLW1PcV9YaUprMUtvOVJMUVVmNVltaw?oc=5",
    "summary": "GSLV-F18/NVS-03 MISSION ISRO",
    "image": "",
-   "date": "2026-10-29T14:50:41+00:00",
+   "date": "2026-10-30T19:17:45+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "'One Nation, One Time': Isro's NVS-03 satellite to carry atomic clock into space; what it means - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPal9GeGVBMlI4dTYzbGZZR25iTGRuQWoxTVRBTU96WGpLcExpUmZvNjYwcGZyOVdhT1BwWmJIS095TzEwOS1qY2E0THR5NzRfWUstMGRCLUZUdlRoV3RFeHhHMkpYT0JQZ09telJkVGJLRmJvQWsxeXBrVDFlNEMxN0pWcVZUOWJ4d1ZGaFRQSXFkVWpmZ05PNHFMblhBNkRuNGdjd2tQVEkzSVE0ZkwyR3NaWVNzemUzRHJ3Y3NjOE4tLUFkUHB6US11VHJYb1kwWDBfaTNGbV9KQk9FbjVlRGJNX3JmNXNBdnc0VEhEcUrSAfYBQVVfeXFMT2pqZ2xVaXVXQ1pUUng2eWc4QXRUVEMzYnFBYkJTS0ExQW5xNFpidEY4dlpWX0xZV3hSOGd2ZjFla0ptdS04MkJmMm5jT2dlQkd3VnBCR1ViU0ExTEZhMWxIVnBLTjMyOU9YelEtdzhCN2ZybTc1NFZjbVNpU1UyNGYzLWs2MGxEV2NlbUVCWXd0YUp5T3NqMkZCTk5wbDRKRm85MU5zM0E3VGhNTzc3c3JKVjdKbDVHeUFpOXd5ajRZaFhRRDM4Q2pqaG5wZEs4b203dTNnSnFZbXlVeWtWVVFhOWNKeFl2SXJJQ0tLVDJkQ2VTSGh3?oc=5",
+   "summary": "'One Nation, One Time': Isro's NVS-03 satellite to carry atomic clock into space; what it means The Times of India",
+   "image": "",
+   "date": "2026-10-30T07:32:00+00:00",
    "source": "ISRO news"
   },
   {
@@ -223,39 +231,31 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdjZjMmNEZnc0TkotR01pcXZCS3QwSXdqb1pISFY1cUhLb3o2SFFJZkN4V0M3ZXA5ZXR0Z1Z4VmtKMlpraFRqVU9EbHpnSWg3OUZwdXBlV3FxeUViNmVwRXhyNTludFR1ejhDLXJvd0NJaUczNTVEYVZMNFRISzVlNGxUS3kzNmRJOXM5V1BiQ0lmYVp5bzc0VVptS0dMcll6SENQMUF3?oc=5",
    "summary": "India news: Space agency to boost GPS alternative with new satellite DW.com",
    "image": "",
-   "date": "2026-10-30T07:32:55+00:00",
+   "date": "2026-10-30T16:42:08+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "How ISRO’s new satellite could restore India’s regional GPS alternative - The Indian Express",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaDlBNWt2X19JQTNBWVo1ajhpWFZfeGg3T0dwX28tRkx4b3pBZ1B5MVFMQmNVUkVCdy1mVERWRDlNNmZMOURFYWVuQUFtLUJ0dUtQX0I1Sl9YakRWNDE2eVdwc04xcUx4N2ZLWTdmc1otQWNXZ0tCTDl6di1kYl9JcFNhZ1NBbjh0V0pWcXhOaWJhdFpKekJzQVVub2NTTWgzNkNKdG5DTlNSN3lQQ2JEQ21tUmlpcTNLd0Fj0gHCAUFVX3lxTE9ucW53NzBUWGdiTFpwamNTY0dHU1NoRTJKaTE5S0RGSzZFc2Ytc3lsbm8wakJjaVIwTDRzaWpvb3Q4dlBaMllwd1ZJVU9ydWtxRmhaYWx6cExrSHYxejFhdVVTcjJsd1lNVDM1VFpvM083TWY2eGV0ckZ2QUtUdGJvM3VnZHdTUU5jbkxBQjlYMmxHbXpQbjlLR3dKVm9VVkVrcGVXVHhxLTNWakNVQXVZdzF6NmNtSkUybmR6V2ZfaUN3?oc=5",
-   "summary": "How ISRO’s new satellite could restore India’s regional GPS alternative The Indian Express",
+   "title": "ISRO places NVS-03 satellite in orbit, restores NavIC to minimum operational configuration - ANI News",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVXVfMWYyUVdvSlNTRnFMZUFndnhscDNrZ1VZVmdoQ0FKakt3ejdseGN6d01jWTItc0hGZDhFVmV6aDluZHJDbkZiQng4S1g0V2YxMnFFSHFMT0lQX1F2MjYway1lOGQtTDlwZ21feEpkclJKN3I4Z2FnYkk0Njlrb3BYUFNjRWpXTmVhM1AycHJIRjgxbWVkb09haGFtbHR3bmRoMFZSeEtBanJSQUlIbV8tUlVFNTBuTngyZEoyN29DSFJnUTl2dUdaeFhDbTllajFpSWZQa0RhbVdaQjVGQlVfdE1KOWV3?oc=5",
+   "summary": "ISRO places NVS-03 satellite in orbit, restores NavIC to minimum operational configuration ANI News",
    "image": "",
-   "date": "2026-10-29T12:31:00+00:00",
+   "date": "2026-10-30T19:43:00+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "ISRO launches GSLV-F18 rocket carrying NVS-03 satellite to strengthen NavIC - Moneycontrol.com",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTFFHZXdiUjZqaVIweXg0d1NkS00yV2RKNldfSDlQZmpNdWVfcXNCWnF0ZUVjMHZCcVM1TWQ5Q3FYYnA4YmZvZEk0LUZ6N3VudUhkNFBYOXBlc2xiS2haVHk4eEItLVpRQnlKX0J6UGZvMHpEODlqT0JBN0RxUnRqNVNGQ01vUXptaHhsc0dDemNObUdKOUtXdHliZ2lORk9faFM4OVJTZG52RTdJekdWV01Tbk1OLXJWMGZKWkk0ZWdTeHBtck5rU9IBzgFBVV95cUxQdGYyRTI4MllTZ2VmUnAwcUNuLVBZcFE4eDhpcF9LTmxWQk9nN0xhZXREVVRtbnlqSlZkRXBSNkRrMUdrY210Snlub21vbkdMR2R6X2RCdWcyVml0VnFqbmw0TzdaMFFreWdjMzZIN1M0QWpnLXFsbzMyWFZMTkplbEpZX19rOVVMR05NWEZCZzhvN3BfWFBEdFpRTlN6T3FxTE9laGRJSlJJTDNzelZhbnBRSXV6WC0yVUc1LW5kNU5ydkg1WWRwUzQ1bXctZw?oc=5",
-   "summary": "ISRO launches GSLV-F18 rocket carrying NVS-03 satellite to strengthen NavIC Moneycontrol.com",
+   "title": "Isro NVS-03 satellite launch: The science and setbacks behind NavIC, India’s version of GPS | HT Explainers - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNajZMbEVuUDZQMmtCWDg1YTYxR3hwekY5aVMtOG5uazkwVlE1ckJLYmNCcHpTN3lWdElKSTZCb212TUpCVWJJYTUyR0lHQWN5c1ExMEY3bzllUFdkY3pqZEhBc2N6ekQ4ZXVXRWpVU2xFU2Y0bHZuVmR0ZDBPemFldE5Ja2haUm5tbFBvSFpScmtOZjlBcGZLc01xcndGdTZHcHVCXzJ6UnZ5eFl5Wm4zd2I1cjdkNXJqTU40RnU5ZHA0QkM3R2gtY3k2NXNZQnhvVjJCc21IU29iWGoxWU1tTjc2YklJb3VwaVdnTC1vbGNwUk1WbGVqc3ZJYV91UUtTaXlyekpnY0hwZG5ncS15adIBlgJBVV95cUxNN2liRFZKbE5MLXpIVzktN1hmMl9Oc0tzUWU3akVUcnRIYl9sd0dqeE5NTWVTMG9RZ3FKd25UR1JZTF9ReXN1MUdhaHpvVlRlTy1qX25qajlSNDBFMjNuUVJMbkkyeDBzZV81cDJ5VEdra0Fka2FRU3VNdDg5RzY4eTZoLU5wc0I5TWUwRjAwOG1hcXdITk41TjZwUDFxSGRhcEFNd0VNdzlVV2hmX1JFSkEwcmFzYU5TcktHZGlyNVo1SS1MYWRGaFBFYXpzSWEydmlhX3FVVW1YUnZnVGhYSVVMUV9OSjF4NUVjYnpPTUxZdVNGcDNqM0ZJcW4zQUVPR1haU29mQ053d3BNbVNEcEUtTXBndw?oc=5",
+   "summary": "Isro NVS-03 satellite launch: The science and setbacks behind NavIC, India’s version of GPS | HT Explainers Hindustan Times",
    "image": "",
-   "date": "2026-10-30T18:32:20+00:00",
+   "date": "2026-10-30T03:29:38+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "Why is ISRO’s NVS-03 satellite launch crucial? | Explained - The Hindu",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOElNNmhsR3hiZnVRbTBWT1pIQWJCY3dzNnE4Q3VsUGl5U1M2T1pvU2Z0aVdnckI2ZXVtV0dIMDJpYktPUUY3TVRPdDhrR04yVHA4ODBCOFRsZVlVVHo1VXFyMUEwUWpxTjNpVlpvMi1OSFI0bUFFcEdmRUJ1dmNBOHJUZldKUTZyb0JKMm5UTUNlaldDME9tZTFBM0hFLUNwbGs3MUJBa2l5b2J5SG90MDlubjFvMU3SAb4BQVVfeXFMTzNNM3BRTWxLTEMydlZicTlkTUNOazk5VktnZ19lVklGVWxZc1pWclViSlVnRjAzTWZTd3BrbWNsUzRGWEcwakRTYmhXSllKbFo5RGdadGdRYWoyTjQ3ZmNtVlREZzdIUVJQLTNYTE9xSTF6WFctT0EwOE80QjluQ3l6RkRPUTVESl9vX1FOQlU2ZkhROFB0aHJldlBqX1RodHpTc1UxamtDU0hkZW9VcDFIVVNqYUlUd0IwNExwQQ?oc=5",
-   "summary": "Why is ISRO’s NVS-03 satellite launch crucial? | Explained The Hindu",
+   "title": "Watch: ISRO launches NVS-03 satellite to strengthen India’s NavIC navigation network - Telangana Today",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkhUMHk1R3lubkVoMGR3OEZjM25QNzVvVzByYml6a0Z4OTBITi1CZEYyY0s5amVUeHl2QmFYa0daWU1Xa1ZIMVd1eUp6cnFQdUt6N0VzZDhFal9GYXExSWlLVGdDLU1LN25DTkdWMUtHTmhKRndyS1RjcC1rSUdxaVk0OF9SaVlUVlp0N0t0eGpqMHQwRTVKQ1ZTanZwZHFWM1E4ZmI4ZHlKb0M0eXc?oc=5",
+   "summary": "Watch: ISRO launches NVS-03 satellite to strengthen India’s NavIC navigation network Telangana Today",
    "image": "",
-   "date": "2026-10-30T05:43:55+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "ISRO's 'Smart Boy' Rocket To Launch Key 'Swadeshi' GPS Satellite Today. Why It Matters - NDTV",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSklRSk9fRmIxSFM5NTFUTVJkSEJ0R3hHOENZQ0EwbjFHcW9UQnR1MzV1dld1U3p0S1BXcHRVRDJjZHRaT21ETnhSVnVaeDdQck04UFR6b2RPWWxKT2x1XzQ3TnhZajU0NzdKSThVbWo1eTZ0NjBRalpNX0Zwd3dQelp6Q291ZnVNZ1dfYnBwbWNrVG1XZFN1QXVPZmhfWUsxYlZUMjRCZ2c4UVhoR0lESGprWlRwZWNDdHV2LXRYUXRlZmd4VmtwR2tMcVJyaHJNUWQw0gHbAUFVX3lxTE5jUW03ZWMzUENoQzItS1pGRzV2VEstRldNOGllbXVCWW1GUnJRSDRaLTNCUzJzbk16NFJqSzRvN19sU3pOaExUZnJjcGtmbng2YjNELTRrZ0JWR1NTVVJRTTlDWTBtQjhzTFE4X1FOTGEwRDF5UVRlV3pFUG9DYk9HNkc3bExOYW5UR2pnUW80LWJLRUxLLWllbHk4dEpkVmVlZ1NUQjAybElZMHRHdHMwWFZEd0x2a1RzN0IyMl9SdTVVTmw5eWxBV052N2FKLThEcU4zOENna2hmcw?oc=5",
-   "summary": "ISRO's 'Smart Boy' Rocket To Launch Key 'Swadeshi' GPS Satellite Today. Why It Matters NDTV",
-   "image": "",
-   "date": "2026-10-30T05:52:18+00:00",
+   "date": "2026-10-30T19:13:52+00:00",
    "source": "ISRO news"
   },
   {
@@ -263,7 +263,15 @@
    "link": "https://www.thehindu.com/sci-tech/science/isro-gslv-f18-nvs-03-navigation-satellite-launch-sriharikota-october-30-2026-live-updates/article71645088.ece",
    "summary": "NVS-03 satellite is equipped with an indigenous atomic clock alongside procured atomic clocks",
    "image": "",
-   "date": "2026-10-30T18:44:52+00:00",
+   "date": "2026-10-30T19:22:52+00:00",
+   "source": "The Hindu (Science)"
+  },
+  {
+   "title": "NVS-03 satellite launch successful: ISRO",
+   "link": "https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.ece",
+   "summary": "The 2250 kg NVS-03 is the third satellite in the next-generation navigation satellite system envisaged for providing continuity of navigation services for the Indian Regional Navigation Satellite System series",
+   "image": "https://th-i.thgim.com/public/incoming/a4l0z0/article71646826.ece/alternates/LANDSCAPE_1200/PTI10_31_2026_000005A.jpg",
+   "date": "2026-10-30T19:20:32+00:00",
    "source": "The Hindu (Science)"
   },
   {
@@ -271,7 +279,7 @@
    "link": "https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece",
    "summary": "The mission could help restore the functioning of India’s regional satellite navigation system NavIC; its development began following the 1999 Kargil War, when the U.S reportedly clamped down on GPS data access",
    "image": "https://th-i.thgim.com/public/incoming/c8kuir/article71643817.ece/alternates/LANDSCAPE_1200/20261028225L.jpg",
-   "date": "2026-10-30T05:44:47+00:00",
+   "date": "2026-10-30T19:18:28+00:00",
    "source": "The Hindu (Science)"
   },
   {
@@ -315,14 +323,6 @@
    "source": "The Hindu (Science)"
   },
   {
-   "title": "ISRO will not be privatised, says chairperson Narayanan",
-   "link": "https://www.thehindu.com/news/cities/chennai/isro-will-not-be-privatised-says-chairperson-narayanan/article71620020.ece",
-   "summary": "Contributions from private companies should not be misinterpreted as privatisation of the space agency, says the chairperson",
-   "image": "https://th-i.thgim.com/public/incoming/s2itza/article71621081.ece/alternates/LANDSCAPE_1200/BVR_9657.JPG",
-   "date": "2026-10-24T16:30:18+00:00",
-   "source": "The Hindu (Science)"
-  },
-  {
    "title": "GDAI launches India gaming report, highlights need for stronger funding",
    "link": "https://www.thehindu.com/business/Industry/gdai-launches-india-gaming-report-highlights-need-for-stronger-funding/article71639326.ece",
    "summary": "The report — developed in partnership with PhonePe Appstore and research partner The Dialogue — examines the structural challenges facing Indian game developers and identifies priorities for building globally competitive",
@@ -359,8 +359,16 @@
    "link": "https://timesofindia.indiatimes.com/science/space/nasa-astronauts-anil-menon-and-joshua-kutryk-install-the-seventh-solar-array-on-the-iss-during-the-100th-us-spacewalk-spend-7-hours-upgrading-the-power-supply-outside-the-space-station/articleshow/135347000.cms",
    "summary": "",
    "image": "https://static.toiimg.com/photo/msid-135347135,imgsize-1051403.cms",
-   "date": "2026-10-30T18:54:09.987694+00:00",
+   "date": "2026-10-30T19:53:53.455229+00:00",
    "source": "Times of India (Science)"
+  },
+  {
+   "title": "ESI supplying solar array components to missile defense programs",
+   "link": "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/",
+   "summary": "Oct. 30, 2026 – ESI Motion Inc. is proud to announce that it is supplying the Solar Array Drive Electronics (SADE) to Lockheed Martin for its work on the Space […] The post ESI supplying solar array components to missile",
+   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/ESI-Motion-Square-Logo-Blue-PNG.png?fit=969%2C1024&amp;ssl=1",
+   "date": "2026-10-30T18:54:34+00:00",
+   "source": "SpaceNews"
   },
   {
    "title": "Advice for optimizing the space industry with Laura Crabtree",
@@ -416,14 +424,6 @@
    "summary": "Join us to explore how emerging technologies and commercial capabilities are transforming satellite operations The post Nov. 5: Satellite Mission Management at the Edge appeared first on SpaceNews .",
    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-11-05-RTX-SpaceNews-2000-1500-update-scaled.jpg?fit=1024%2C768&amp;ssl=1",
    "date": "2026-10-23T19:53:25+00:00",
-   "source": "SpaceNews"
-  },
-  {
-   "title": "Rethinking networks in space with Aalyria’s Brian Barritt",
-   "link": "https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/",
-   "summary": "In this episode, SpaceNews’ Mike Gruss talks with the CEO of Aalyria Brian Barritt about how networks are evolving, what scaling the company means and the role of software interoperability […] The post Rethinking network",
-   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-Aalyria-2000-1500.jpg?fit=1024%2C768&amp;ssl=1",
-   "date": "2026-10-22T18:13:38+00:00",
    "source": "SpaceNews"
   }
  ]
