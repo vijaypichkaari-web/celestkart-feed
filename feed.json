@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T19:58:28.786184+00:00",
+ "updated": "2026-11-02T20:52:58.265051+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "TB 26-09 Measured Hammer-Tap Inputs",
+   "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
+   "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download the PDF version An instrumented hammer test does not require an idealized single half-sine waveform. When the complete",
+   "image": "",
+   "date": "2026-11-02T20:47:41+00:00",
+   "source": "NASA"
+  },
   {
    "title": "NASA’s CHAPEA Crew “Returns” to Earth",
    "link": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/",
@@ -56,14 +64,6 @@
    "summary": "APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograp",
    "image": "",
    "date": "2026-11-01T04:05:00+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
-   "link": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
-   "summary": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograp",
-   "image": "",
-   "date": "2026-10-31T04:05:00+00:00",
    "source": "NASA"
   },
   {
@@ -131,6 +131,14 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "New 'Star Trek: The Original Voyages' book traces the stellar legacy of the bold sci-fi brand",
+   "link": "https://www.space.com/entertainment/space-books/new-star-trek-the-original-voyages-book-traces-the-stellar-legacy-of-the-bold-sci-fi-brand",
+   "summary": "Keep the 60th anniversary party going with this visual salute to the series that launched a legacy",
+   "image": "https://cdn.mos.cms.futurecdn.net/tNaLrqsTubRcYeZhvZeqyk-1920-80.jpg",
+   "date": "2026-11-02T20:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "Viltrox AF 35mm f/1.8 II EVO FE (APO) lens review — how good is this budget lens for astrophotography?",
    "link": "https://www.space.com/stargazing/skywatching-kit/viltrox-af-35mm-f-1-8-ii-evo-fe-apo-lens-review-how-good-is-this-budget-lens-for-astrophotography",
    "summary": "The Viltrox AF 35mm f/1.8 II FE (APO) is an inexpensive prime that works well for astrophotography thanks to its focal length and maximum aperture.",
@@ -147,18 +155,18 @@
    "source": "Space.com"
   },
   {
-   "title": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station",
-   "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-2-2026",
-   "summary": "Expedition 1 crewmates Bill Shepherd, Yuri Gidzenko and Sergei Krikalev pose with a model of the space station as it appeared in 2000.",
-   "image": "https://cdn.mos.cms.futurecdn.net/RzwirmhNNpEbPek9bATDg4-1920-80.png",
-   "date": "2026-11-02T15:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
    "title": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026",
    "link": "https://www.space.com/astronomy/mars/a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-for-nov-2-2026",
    "summary": "In this image, we can see a colorful view of an ancient, rocky Martian hill.",
    "image": "https://cdn.mos.cms.futurecdn.net/qrVGgKSEJE8WP8FDPfjT3h-1920-80.png",
+   "date": "2026-11-02T15:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station",
+   "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-2-2026",
+   "summary": "Expedition 1 crewmates Bill Shepherd, Yuri Gidzenko and Sergei Krikalev pose with a model of the space station as it appeared in 2000.",
+   "image": "https://cdn.mos.cms.futurecdn.net/RzwirmhNNpEbPek9bATDg4-1920-80.png",
    "date": "2026-11-02T15:00:00+00:00",
    "source": "Space.com"
   },
@@ -187,19 +195,11 @@
    "source": "Space.com"
   },
   {
-   "title": "'Metroid Prime' needs some 'Resident Evil'-style remakes to rediscover its sci-fi shooter mojo",
-   "link": "https://www.space.com/entertainment/space-games/metroid-prime-needs-some-resident-evil-style-remakes-to-rediscover-its-sci-fi-shooter-mojo",
-   "summary": "Nintendo's sci-fi shooter franchise is in dire straits, but we've got the solution to Samus's problems.",
-   "image": "https://cdn.mos.cms.futurecdn.net/FvcvGPhkRB6yaLphJfaVgA-1920-80.jpg",
-   "date": "2026-11-01T17:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "To overcome technical hurdles, ISRO flew NVS-03 satellite with pyro valves open: Narayanan - The Hindu",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOb2RHTU41MV9kSkFhS2gxYV9lZ2liUkxQYndQdFQyczFYeEc0RDVSMjkxNldqcnBRMEptV3pLVEZSWEtqMXgxaDhhbkdyTXJrSzZOc1ZrekliTWhvZnN6Ym9ta0R5cXVXWU5HYWxIV2dNc0JTc0ZDWW4zZVRTRFU5RVVjLXc4SDFDMlVyUmJ0bWZCOXhwN252NVNZcGtmY1J3R3VBc3M5Z0Npc2NxWExRbFhLVy1hOW9jUWpVZ1Z4dFJ4a3RwQWpNX1piUDc1VzVJN3oxa2gzYnl5RVM4R21fTzJCNWLSAesBQVVfeXFMT1JqMk52c18zMkNtek5yT002V2E1SVBmYm9NdUJoa1NBNVp0RFV4VWVieHpsWmhOa0J2TnAxRzdGZ2FFaXB2ckpicGNYbk5ZR3NSLUZjVlNjelR6TGJGQTh3b0VmZk43ZjZ3eVExRmN6NV9hVXpQYnpDdE50Tnhjd3NRRjhrNkNkMmZHVjUwcDdUai00ZVpralJWQnpXVGNJZzlteW5hdnFtNGtkdEl1R1hBNUpGMEhKV2lkZkhlUmdYa01nRncyMHJpT2l4Z3hzS25uRnZKVnctbFAwVmZKTWFUb0xYSXlOUm4zMA?oc=5",
-   "summary": "To overcome technical hurdles, ISRO flew NVS-03 satellite with pyro valves open: Narayanan The Hindu Editorial: From setbacks to success — ISRO’s desi navigation system gets a boost Telangana Today ISRO launches NVS | Ak",
+   "title": "ISRO launches NVS | Akashvani News - News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUJYcmNSa0F4Qmw2eW02MElQcmlfQ1FhZXNfNUk5MXY5dmFCelhsRGtzTE1Jb21kWURHV2RHTkhlY0pJRV9ObGswN2lnejlJMER2aE0wa2xjd1ZmSmZ5ZHpmVlNsVktHRnBkdjNBLURpdmpNMm1ial93TDlzbExlc3ljbXB6Q3VRdkRtMkVlVnlQd2xpNGRTdlRnR2FDWkFzeFREZDdxSlpOeUx0eTRzbGl3?oc=5",
+   "summary": "ISRO launches NVS | Akashvani News News On AIR Editorial: From setbacks to success — ISRO’s desi navigation system gets a boost Telangana Today Live: Isro's GSLV-F18 deploys NVS-03 in orbit after picture-perfect launch I",
    "image": "",
-   "date": "2026-10-31T06:26:39+00:00",
+   "date": "2026-10-31T05:15:00+00:00",
    "source": "ISRO news"
   },
   {
@@ -219,11 +219,27 @@
    "source": "ISRO news"
   },
   {
+   "title": "Strengthening India’s Space Sovereignty - www.pib.gov.in",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HekFocy1TVjNIaHhMUFR6bWc5ZE9rc2huWmxLSFhTVkVWa0x1WnBmRFdkZWlWb1JlV0lDNEdkQ0NHQ0NCblNxN2hPaWt6R09oU0VpazVabVpsdzEyOEJ1ajRYNmsyYTRxOXRtOE1uUTU5Z3VYRjJ4Rg?oc=5",
+   "summary": "Strengthening India’s Space Sovereignty www.pib.gov.in",
+   "image": "",
+   "date": "2026-11-02T14:37:43+00:00",
+   "source": "ISRO news"
+  },
+  {
    "title": "Why IISc should be Isro’s JPL - The Times of India",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcW9RU2dCMktnVktBTGVwaXExOTk5dGlfRGEwTl9POVdrTGhCb0VHUTRjeHdvaEtJN0txYklxMEwtWXFuWUk3aEFRQUdlVVhfY2VZZEdiVkgwRlA4R2xzMHhNNTF0enNWZmVLbFpiUnppbFpDTTBVOFItYWxtelFiUlozZklJb2xacGJheWNiR3ZlRGYwYnA0aWxVMU96WnPSAaQBQVVfeXFMTzdTbldMVVl0S0tlakdiT3ItMEwwRzZMNG1KeWlQZ2VKMUNuMU9tam5feE9laTZsQkc4NWRzT0k4TmVaT2dyamNCUjg5TmdTOTB0VklVcmxTc0ZSTU1nZE5MZ01PaENtb2RkMWpRLTlLUGNHdXRPREQ3eUlQbVp1VzU4QmZ1TktrdWRfQmdQYVRFYW4yN3VwYXQ2UEJsMzVpXzJvaGo?oc=5",
    "summary": "Why IISc should be Isro’s JPL The Times of India",
    "image": "",
    "date": "2026-10-25T07:00:00+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "Isro to launch much-delayed indigenous navigation satellite NVS-03 on Oct 30 - The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPamQ3VVRfOVc2WjJKZ05sX2NrQmVrWldYQWt1d0RnOW8yUmpYQks3ZVk0a2ozd2FzYVI2MFIxakFibkd1V1owLXlxVDFnWVpJS3ZUeU1IaFlGMlFTaW1hVDN1aUEzem1PanY2OXJpWlpSMmQyTGxzOFpVbUo1N3hJdHZnTGpyYm40b3puTjA4cEVwZTZOdDN5R3VB0gGgAUFVX3lxTFA0Q3hja2FNZkk5VzNKOXl3bDM0a0V0WHpTVHFFS2xVYV9yT0JqeTBKYi1xQjhVNlZLSEF6SG11cDNyVExNdDNtRGxKRk1rX0NxcGJVV3pvSlRxaURURElfRWZ3US0wRmo5QkZSNUtUaFQ0X3hUOE9BNGEtaHlXTDNkSXNoYkZDLUFhUDRXeks0aHpMbnpiTzlXRGtPZEJ6WE4?oc=5",
+   "summary": "Isro to launch much-delayed indigenous navigation satellite NVS-03 on Oct 30 The Indian Express",
+   "image": "",
+   "date": "2026-10-30T07:00:00+00:00",
    "source": "ISRO news"
   },
   {
@@ -235,27 +251,11 @@
    "source": "ISRO news"
   },
   {
-   "title": "ISRO Launches NVS-03 to Strengthen India’s NavIC Navigation System - The Policy Edge",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd1lYTVRlOXZZZGFzTWRrMnlCbW14X3RfWGhEOUg0Y3pZbXh3Vmd3blN5eXhVdndBUzJSeV95ZWhxSkRTRXA5RjQzbWduY0NkYnJEN3NsQzRtWUhEUjhGQUVYWldoTkY1TmN3MWU3UFp1RVJxVjF2Z1hpN0ltNE90cUlZQ2dSSmFtY3U3WXU1WHlQbkhBTHJDdQ?oc=5",
-   "summary": "ISRO Launches NVS-03 to Strengthen India’s NavIC Navigation System The Policy Edge",
-   "image": "",
-   "date": "2026-11-02T13:08:09+00:00",
-   "source": "ISRO news"
-  },
-  {
    "title": "Once Called 'Naughty Boy', ISRO Rocket Launches Next-Gen Satellite. Watch - NDTV",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY09aZVM3UjFhNGNWSTRueWw3WUM1blBnaEw5eWhGbEd5Qm5VQ3duYnVBbjVPYzZZRmI0LVNmZEhfNU1Nbll1dDJJbHZ5TWJoRi14VmdFTFM2NWFPalkxb2FNaEhNRWs1eWV3emRWaERXcGM0S2R0LVVtNks5LTItWHZudU02NTE5WWdvQkhDZlB6TDBZVVpLRzB4WnpJWXZSR0FQN29mcUJtUHNCMmZUVC1oMUVmcm_SAb8BQVVfeXFMUEl2WnFZWHlwaVFBSWZ4dW5BZzZodmZSUDVoSk5FUjR3NFpmYWxwWmVlOTlReElseGE3X3lKU1lLNmstVFd5Uklubjgxb1dGTlNuaThPTHY1Y2tnNUxmdGRxVS0tbVVLVV85VWFiNlV5ZTV2MVh5Nzg1WFhXQ3BUWnFQV0xxTTR5N20wS01HM2tnSzl2RWxCVmQ3Zk50akptbmxuSk9iQW1oMXlHb1loNjdDNlJGWlBwbGUwZVpqczA?oc=5",
    "summary": "Once Called 'Naughty Boy', ISRO Rocket Launches Next-Gen Satellite. Watch NDTV",
    "image": "",
    "date": "2026-10-30T18:22:00+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "Watch | ISRO restores India's navigation system NAVIC to minimum strength - The Federal",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZmhubEw1VUtWX3l6TERqSXJIQXUzRzh5NjNWdVJkVWNOMEZDQ2NQSXd5SUlINVJwRlR0Y19YeWRlb0hyMUdDdVR4STl6WnBSZ0x2MDFZTGppTmh6TzB1cHlsMU9xZGxkQkpoVjBkdTZqMlZHOUx6dWlaVE82SXZBYmYwT3o3blRlcXNvUHZ5aE9Fb2NBOURNUmhZRmxpMFQ0SlV1OW9Ea3RpOG1OSTRFUVBsWkhMWFVM?oc=5",
-   "summary": "Watch | ISRO restores India's navigation system NAVIC to minimum strength The Federal",
-   "image": "",
-   "date": "2026-11-02T12:51:13+00:00",
    "source": "ISRO news"
   },
   {
