@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-02T17:11:15.900076+00:00",
+ "updated": "2026-11-02T18:04:11.075548+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
+   "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
+   "summary": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the o",
+   "image": "",
+   "date": "2026-11-02T17:33:22+00:00",
+   "source": "NASA"
+  },
   {
    "title": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
    "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
@@ -56,14 +64,6 @@
    "summary": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sc",
    "image": "",
    "date": "2026-10-30T15:56:26+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-   "link": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-   "summary": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
-   "image": "",
-   "date": "2026-10-30T14:51:21+00:00",
    "source": "NASA"
   },
   {
@@ -139,18 +139,18 @@
    "source": "Space.com"
   },
   {
-   "title": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station",
-   "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-2-2026",
-   "summary": "Expedition 1 crewmates Bill Shepherd, Yuri Gidzenko and Sergei Krikalev pose with a model of the space station as it appeared in 2000.",
-   "image": "https://cdn.mos.cms.futurecdn.net/RzwirmhNNpEbPek9bATDg4-1920-80.png",
-   "date": "2026-11-02T15:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
    "title": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026",
    "link": "https://www.space.com/astronomy/mars/a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-for-nov-2-2026",
    "summary": "In this image, we can see a colorful view of an ancient, rocky Martian hill.",
    "image": "https://cdn.mos.cms.futurecdn.net/qrVGgKSEJE8WP8FDPfjT3h-1920-80.png",
+   "date": "2026-11-02T15:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station",
+   "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-2-2026",
+   "summary": "Expedition 1 crewmates Bill Shepherd, Yuri Gidzenko and Sergei Krikalev pose with a model of the space station as it appeared in 2000.",
+   "image": "https://cdn.mos.cms.futurecdn.net/RzwirmhNNpEbPek9bATDg4-1920-80.png",
    "date": "2026-11-02T15:00:00+00:00",
    "source": "Space.com"
   },
@@ -195,11 +195,11 @@
    "source": "Space.com"
   },
   {
-   "title": "ISRO launches NVS | Akashvani News - News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUJYcmNSa0F4Qmw2eW02MElQcmlfQ1FhZXNfNUk5MXY5dmFCelhsRGtzTE1Jb21kWURHV2RHTkhlY0pJRV9ObGswN2lnejlJMER2aE0wa2xjd1ZmSmZ5ZHpmVlNsVktHRnBkdjNBLURpdmpNMm1ial93TDlzbExlc3ljbXB6Q3VRdkRtMkVlVnlQd2xpNGRTdlRnR2FDWkFzeFREZDdxSlpOeUx0eTRzbGl3?oc=5",
-   "summary": "ISRO launches NVS | Akashvani News News On AIR ISRO NVS-03 launch: 5 things to know about India’s new navigation satellite The Hindu Live: Isro's GSLV-F18 deploys NVS-03 in orbit after picture-perfect launch India Today ",
+   "title": "GSLV places next-generation navigation satellite NVS-03 into orbit - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbFQxU3kwUzdybnBib0l1U1BmZzZ1aF9FYlVJQjlJUHhxRkxRelRrUVFYRzdDZDMxMHpuTkhxXzEyY0FRU1I1d01YOHBMZzhRT2d1T1d1azFqalBQX0h5Z25wVWlxemhoS1dIVUJDb3NOTTVMSVdOSHlXQk0ydGYxS2ctd3RjZGtFLU8xb1hCSHA4NU42T3dUeFRVLWkxd3o2SFRv0gGqAUFVX3lxTE8zdU5LNFZLZzFHcTU4WDRuNmt3cGlMUjdRbnkzcl9WVDlSYjhhelpaT0twQlprRzROSXl5S3IwY3lCZkZTOERlNnB0c1A4SDVCR1U5ZGlMaVlmcFNZRWNBY1RmYjdyMHdISmIwZVZKdkVuM1A2Nmg2ZGI2bk1KOEhHWHNINEtFWEtxMlhYR3J4REwwZnJ0T1ZkWVl1ck01djRPU1l4R2E0djBn?oc=5",
+   "summary": "GSLV places next-generation navigation satellite NVS-03 into orbit The Hindu ISRO launches NVS | Akashvani News News On AIR Live: Isro's GSLV-F18 deploys NVS-03 in orbit after picture-perfect launch India Today 'Dedicati",
    "image": "",
-   "date": "2026-10-31T05:15:00+00:00",
+   "date": "2026-10-30T19:09:21+00:00",
    "source": "ISRO news"
   },
   {
@@ -211,19 +211,19 @@
    "source": "ISRO news"
   },
   {
-   "title": "Strengthening India’s Space Sovereignty - www.pib.gov.in",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HekFocy1TVjNIaHhMUFR6bWc5ZE9rc2huWmxLSFhTVkVWa0x1WnBmRFdkZWlWb1JlV0lDNEdkQ0NHQ0NCblNxN2hPaWt6R09oU0VpazVabVpsdzEyOEJ1ajRYNmsyYTRxOXRtOE1uUTU5Z3VYRjJ4Rg?oc=5",
-   "summary": "Strengthening India’s Space Sovereignty www.pib.gov.in",
-   "image": "",
-   "date": "2026-11-02T14:37:43+00:00",
-   "source": "ISRO news"
-  },
-  {
    "title": "GSLV-F18/NVS-03 MISSION - ISRO",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDNkFYM2JwMG8xYURPRFpqQkNyVDNwYjZPdVpjb3ROVG5pc28xM3cyRlhFeDBTTHhxM2l0aFBwTGxkLW1PcV9YaUprMUtvOVJMUVVmNVltaw?oc=5",
    "summary": "GSLV-F18/NVS-03 MISSION ISRO",
    "image": "",
    "date": "2026-10-31T04:05:37+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "Explainer: How ISRO’s NVS-03 Mission Strengthens India’s Indigenous Navigation System - DD India",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0szc1A3Rk9rNTJXSVF1WVNJNHU1ZjJ6cGtseWR5eDlCTWYzdTB1cUs1QTNCOG1aaEFqQ0R0N1k1MWF3eUIwNndVSkJIc21abkgtekFrWVhuX3pJWGExcXFWQTZPMjhHemFSRThaRm5mTnVqT3dPWGtpZjN4SHhkWGZUSnNReUt0b0o1Rk82U0J2QTRlRjhIeXRmQk5VZVFCYjlxYzE4ajNDY0pRZk9CNFdqaw?oc=5",
+   "summary": "Explainer: How ISRO’s NVS-03 Mission Strengthens India’s Indigenous Navigation System DD India",
+   "image": "",
+   "date": "2026-11-02T13:24:28+00:00",
    "source": "ISRO news"
   },
   {
@@ -235,14 +235,6 @@
    "source": "ISRO news"
   },
   {
-   "title": "Isro to launch much-delayed indigenous navigation satellite NVS-03 on Oct 30 - The Indian Express",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPamQ3VVRfOVc2WjJKZ05sX2NrQmVrWldYQWt1d0RnOW8yUmpYQks3ZVk0a2ozd2FzYVI2MFIxakFibkd1V1owLXlxVDFnWVpJS3ZUeU1IaFlGMlFTaW1hVDN1aUEzem1PanY2OXJpWlpSMmQyTGxzOFpVbUo1N3hJdHZnTGpyYm40b3puTjA4cEVwZTZOdDN5R3VB0gGgAUFVX3lxTFA0Q3hja2FNZkk5VzNKOXl3bDM0a0V0WHpTVHFFS2xVYV9yT0JqeTBKYi1xQjhVNlZLSEF6SG11cDNyVExNdDNtRGxKRk1rX0NxcGJVV3pvSlRxaURURElfRWZ3US0wRmo5QkZSNUtUaFQ0X3hUOE9BNGEtaHlXTDNkSXNoYkZDLUFhUDRXeks0aHpMbnpiTzlXRGtPZEJ6WE4?oc=5",
-   "summary": "Isro to launch much-delayed indigenous navigation satellite NVS-03 on Oct 30 The Indian Express",
-   "image": "",
-   "date": "2026-10-30T07:00:00+00:00",
-   "source": "ISRO news"
-  },
-  {
    "title": "Once Called 'Naughty Boy', ISRO Rocket Launches Next-Gen Satellite. Watch - NDTV",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY09aZVM3UjFhNGNWSTRueWw3WUM1blBnaEw5eWhGbEd5Qm5VQ3duYnVBbjVPYzZZRmI0LVNmZEhfNU1Nbll1dDJJbHZ5TWJoRi14VmdFTFM2NWFPalkxb2FNaEhNRWs1eWV3emRWaERXcGM0S2R0LVVtNks5LTItWHZudU02NTE5WWdvQkhDZlB6TDBZVVpLRzB4WnpJWXZSR0FQN29mcUJtUHNCMmZUVC1oMUVmcm_SAb8BQVVfeXFMUEl2WnFZWHlwaVFBSWZ4dW5BZzZodmZSUDVoSk5FUjR3NFpmYWxwWmVlOTlReElseGE3X3lKU1lLNmstVFd5Uklubjgxb1dGTlNuaThPTHY1Y2tnNUxmdGRxVS0tbVVLVV85VWFiNlV5ZTV2MVh5Nzg1WFhXQ3BUWnFQV0xxTTR5N20wS01HM2tnSzl2RWxCVmQ3Zk50akptbmxuSk9iQW1oMXlHb1loNjdDNlJGWlBwbGUwZVpqczA?oc=5",
    "summary": "Once Called 'Naughty Boy', ISRO Rocket Launches Next-Gen Satellite. Watch NDTV",
@@ -251,11 +243,19 @@
    "source": "ISRO news"
   },
   {
-   "title": "PM congratulates ISRO scientists and engineers on successful launch of GSLV-F18 carrying NVS-03 - PM India",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQTI1SzVkaFNvQ0p0SFh6V3pYM2VSZTJVVUdjUVRWOXNIeUhwQV9IdTNOeWpzbHFhXzVrS2xCaS1SZHFvYTlfRC1qNlY5T3ZJX1UyT2lFTVlKTkp6NzMwaUpDQW9OSV9JTUNINXJWS3pncFY5SzhfbV83SEwwNGtrUG1DX0owWk5rN2FlSHRQQWpkY3RURUI5UThLUks4ZW5aNlZvTUk4RG5FUm41XzR2VjlWQ1VwekhaTE1VZlcwNml1czFpVHFwZm9ZRFBFRkpRN2F5aXFR?oc=5",
-   "summary": "PM congratulates ISRO scientists and engineers on successful launch of GSLV-F18 carrying NVS-03 PM India",
+   "title": "Watch | ISRO restores India's navigation system NAVIC to minimum strength - The Federal",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZmhubEw1VUtWX3l6TERqSXJIQXUzRzh5NjNWdVJkVWNOMEZDQ2NQSXd5SUlINVJwRlR0Y19YeWRlb0hyMUdDdVR4STl6WnBSZ0x2MDFZTGppTmh6TzB1cHlsMU9xZGxkQkpoVjBkdTZqMlZHOUx6dWlaVE82SXZBYmYwT3o3blRlcXNvUHZ5aE9Fb2NBOURNUmhZRmxpMFQ0SlV1OW9Ea3RpOG1OSTRFUVBsWkhMWFVM?oc=5",
+   "summary": "Watch | ISRO restores India's navigation system NAVIC to minimum strength The Federal",
    "image": "",
-   "date": "2026-10-31T05:43:06+00:00",
+   "date": "2026-11-02T12:51:13+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "ISRO Launches NVS-03 to Strengthen India’s NavIC Navigation System - The Policy Edge",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd1lYTVRlOXZZZGFzTWRrMnlCbW14X3RfWGhEOUg0Y3pZbXh3Vmd3blN5eXhVdndBUzJSeV95ZWhxSkRTRXA5RjQzbWduY0NkYnJEN3NsQzRtWUhEUjhGQUVYWldoTkY1TmN3MWU3UFp1RVJxVjF2Z1hpN0ltNE90cUlZQ2dSSmFtY3U3WXU1WHlQbkhBTHJDdQ?oc=5",
+   "summary": "ISRO Launches NVS-03 to Strengthen India’s NavIC Navigation System The Policy Edge",
+   "image": "",
+   "date": "2026-11-02T13:08:18+00:00",
    "source": "ISRO news"
   },
   {
