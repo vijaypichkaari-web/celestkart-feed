@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T10:21:05.904607+00:00",
+ "updated": "2026-11-02T12:00:10.981871+00:00",
  "errors": [],
  "items": [
   {
@@ -131,6 +131,14 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "What is Starshield? A look at SpaceX's military satellite network",
+   "link": "https://www.space.com/space-exploration/satellites/what-is-starshield-a-look-at-spacexs-military-satellite-network",
+   "summary": "SpaceX is building and operating two satellite networks at the moment, Starlink and Starshield. What’s the difference between the two, and who uses them?",
+   "image": "https://cdn.mos.cms.futurecdn.net/p7KZrawCQ7PwRZSm3QGzkY-1920-80.jpg",
+   "date": "2026-11-02T11:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "'The Sea God Surveys': Watch Rocket Lab launch Japanese Earth-observing satellite today",
    "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-sea-god-surveys-iqps-radar-satellite",
    "summary": "Rocket Lab will launch its 99th mission to date today (Nov. 2), sending a private Japanese Earth-observing satellite to orbit. Here's how to watch live.",
@@ -187,17 +195,9 @@
    "source": "Space.com"
   },
   {
-   "title": "This Week In Space podcast: Episode 234 — Living in Lunar Caves",
-   "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-234-living-in-lunar-caves",
-   "summary": "On Episode 234 of This Week In Space, Tariq Malik and Mike Wall are joined by Than Putzig of the Planetary Science Institute about a NASA-backed payload bound for the Marius Hills Pit on the moon.",
-   "image": "https://cdn.mos.cms.futurecdn.net/dzt42xPBYCwWmBWnZa5gBE-1920-80.jpg",
-   "date": "2026-10-31T13:36:59+00:00",
-   "source": "Space.com"
-  },
-  {
    "title": "NVS-03 launched successfully; satellite placed in intended orbit | Highlights - The Hindu",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMVktUGpfejN5cXVRNHdLZDdibmUxZUF1Sl9iZEdHLU1XUHlZMHFoN2pWR01BcWE4bFJFLUo0ZTNhOVZsVUVTNm5OUldtQjM2U2FXMFhORWUzWUJnUkFsck5vWGhNZ0Z2NGJFci1PaUwwRnNpWEJmYk8wQ2NaRkJLenAwYUpoUy1XdHFyVExIY0VTZW54R0lIR001ZVpJXzJfMERtQnlRZHNfcmZ5TERFV2JBUlQtNm0xTTV3ZW1sMG1Mdjl5OTJyWS0wNmItY1lHSFVzeFBsblRxV1NkcW1HRWhTNnJHUdIB7AFBVV95cUxNRmRlZGMyMjZHVFNfaXcwOHhaWklKVVB4TWpmWFBySTBENUd4eXUzTTk2Y3libGFQdXVqRE1VNjFnalJMa0NYMWd3TzdWdzk1NmI3T0ZuZ005anJxUVRlY2gwTzBuTTRzTFVtSHhBVHBDMzFxMzFkZWlDS0ZWN2ZDZ1NGb2hzVEQydFVsNTZXUnJXVWlfVnlBNldnZnVsOXh2TXctaXg0Y2xXZTN0cW9XVW5DQzlyX1lTWldpRlJEc1hRUGxNYVBVZ0J4MGNTR3BGNVh5Q01ERW9MTnNxMTNNcUNUOTFUaTlVZUpqNw?oc=5",
-   "summary": "NVS-03 launched successfully; satellite placed in intended orbit | Highlights The Hindu Isro’s GSLV-F18/NVS-03 mission successful: Next-generation navigation satellite placed in orbit; NavIC co The Times of India Why ISR",
+   "summary": "NVS-03 launched successfully; satellite placed in intended orbit | Highlights The Hindu ISRO launches NVS | Akashvani News News On AIR 'Dedication and ingenuity of our space scientists': PM Modi hails ISRO after successf",
    "image": "",
    "date": "2026-10-31T00:41:29+00:00",
    "source": "ISRO news"
@@ -219,22 +219,6 @@
    "source": "ISRO news"
   },
   {
-   "title": "ISRO to launch navigation satellite NVS-03 aboard GSLV-F18 rocket from Sriharikota - News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdWw3UTNnSXNLUVRDWkZKcEdUd3NfeDNScVZYamFqX3JFX280aTZtS3VIYUVIN3QxVHFTa2ZJeWpPM1dxVWNqZDkwQzBvRDk0VHVLZGpWdnI1YmdINGV1Y3ljWTBIS3dPdjhTVXJXZEpsd3BzY09ybWp0R0JoU3FaRXJIdV85MENDRV9seVQtYlhaVDB5UWUxbGc2RkxHak1jcEhLRTRDYnVyNjA1?oc=5",
-   "summary": "ISRO to launch navigation satellite NVS-03 aboard GSLV-F18 rocket from Sriharikota News On AIR",
-   "image": "",
-   "date": "2026-11-01T19:08:42+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "Isro to launch much-delayed indigenous navigation satellite NVS-03 on Oct 30 - The Indian Express",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPamQ3VVRfOVc2WjJKZ05sX2NrQmVrWldYQWt1d0RnOW8yUmpYQks3ZVk0a2ozd2FzYVI2MFIxakFibkd1V1owLXlxVDFnWVpJS3ZUeU1IaFlGMlFTaW1hVDN1aUEzem1PanY2OXJpWlpSMmQyTGxzOFpVbUo1N3hJdHZnTGpyYm40b3puTjA4cEVwZTZOdDN5R3VB0gGgAUFVX3lxTFA0Q3hja2FNZkk5VzNKOXl3bDM0a0V0WHpTVHFFS2xVYV9yT0JqeTBKYi1xQjhVNlZLSEF6SG11cDNyVExNdDNtRGxKRk1rX0NxcGJVV3pvSlRxaURURElfRWZ3US0wRmo5QkZSNUtUaFQ0X3hUOE9BNGEtaHlXTDNkSXNoYkZDLUFhUDRXeks0aHpMbnpiTzlXRGtPZEJ6WE4?oc=5",
-   "summary": "Isro to launch much-delayed indigenous navigation satellite NVS-03 on Oct 30 The Indian Express",
-   "image": "",
-   "date": "2026-10-30T07:00:00+00:00",
-   "source": "ISRO news"
-  },
-  {
    "title": "Why IISc should be Isro’s JPL - The Times of India",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcW9RU2dCMktnVktBTGVwaXExOTk5dGlfRGEwTl9POVdrTGhCb0VHUTRjeHdvaEtJN0txYklxMEwtWXFuWUk3aEFRQUdlVVhfY2VZZEdiVkgwRlA4R2xzMHhNNTF0enNWZmVLbFpiUnppbFpDTTBVOFItYWxtelFiUlozZklJb2xacGJheWNiR3ZlRGYwYnA0aWxVMU96WnPSAaQBQVVfeXFMTzdTbldMVVl0S0tlakdiT3ItMEwwRzZMNG1KeWlQZ2VKMUNuMU9tam5feE9laTZsQkc4NWRzT0k4TmVaT2dyamNCUjg5TmdTOTB0VklVcmxTc0ZSTU1nZE5MZ01PaENtb2RkMWpRLTlLUGNHdXRPREQ3eUlQbVp1VzU4QmZ1TktrdWRfQmdQYVRFYW4yN3VwYXQ2UEJsMzVpXzJvaGo?oc=5",
    "summary": "Why IISc should be Isro’s JPL The Times of India",
@@ -251,11 +235,27 @@
    "source": "ISRO news"
   },
   {
-   "title": "PM congratulates ISRO scientists and engineers on successful launch of GSLV-F18 carrying NVS-03 - PM India",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQTI1SzVkaFNvQ0p0SFh6V3pYM2VSZTJVVUdjUVRWOXNIeUhwQV9IdTNOeWpzbHFhXzVrS2xCaS1SZHFvYTlfRC1qNlY5T3ZJX1UyT2lFTVlKTkp6NzMwaUpDQW9OSV9JTUNINXJWS3pncFY5SzhfbV83SEwwNGtrUG1DX0owWk5rN2FlSHRQQWpkY3RURUI5UThLUks4ZW5aNlZvTUk4RG5FUm41XzR2VjlWQ1VwekhaTE1VZlcwNml1czFpVHFwZm9ZRFBFRkpRN2F5aXFR?oc=5",
-   "summary": "PM congratulates ISRO scientists and engineers on successful launch of GSLV-F18 carrying NVS-03 PM India",
+   "title": "India gets its GPS boost: Isro launches NVS-03 to strengthen homegrown navigation - India Today",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTEpDX1VtNF9fSWtScFlSV2ZBeUE4NlcwWFFUREJQVjIyc2F1WFRZT3luaS11SGlSaDYtQkZUQ0tqSXU0RGNWX2xvSWdTc3lwWW5UTmpWNV9DRXp3QmdOTWxaLWZ3TTNDY1lMV1hQNjNJQk55WVM3X0RWb29mOFB1R1U3azRKcVlycXJoSG1zcnBMZ0tzd3RFX2FwN1JpNU9vRlJReFNRRHNoa2VKYml3TFMySWVOT01ZcGxPNkJwbTBqYTJSalhFdkVZN0RCVzM0NlB2WmFZSXdVek93UGdXLTdR0gHnAUFVX3lxTE5IaTVmQ3ZoQnhqMU9zazlEdmxONUhRMHRGSWZuWGEyVnM4Zzltb2dReFZBbmpLWnNscGxubFNsblMxYlNlOC1iLUdRVF9zZ1E2clN3eGwzeUQtd2hfaXI5ckhFeVZtemdkZnpLazFXX1h5NGl4bTZBcEVxMnk2UW1vRHFkeHB4TEl5c3NXZTFIRXktSy1QNUU0a0ZmNXRlTERNMVhrT1c5WnQxaHJhaUV0Wm1NcXBVVGZVdWk2Z0VzTm5KdzVWVXl0ZXBLTTEyMGpCZlpxM2M1QVZTLTZnRm5fU1NrZ3NzUQ?oc=5",
+   "summary": "India gets its GPS boost: Isro launches NVS-03 to strengthen homegrown navigation India Today",
    "image": "",
-   "date": "2026-10-31T05:43:06+00:00",
+   "date": "2026-10-30T18:21:39+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "ISRO Chairman V. Narayanan is 'Mr Go-Getter' - Whispers in the Corridors",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaC1aZGY4X3BxV0FCajNndGxURmRwQ19TVkwwcEFjcGs0aldUYVo4SzBRMUhuVF9sOXJrTXgxRFNTQVZPQjhMT3FyVWtBLUVtbFlpRGtMajRzOFB0TmZPRG93T3AtZ3JMbnN6ZXN6S1VSYjVfUVBBQk11RkRGUHB1ZTROZkR4Z00?oc=5",
+   "summary": "ISRO Chairman V. Narayanan is 'Mr Go-Getter' Whispers in the Corridors",
+   "image": "",
+   "date": "2026-11-02T10:10:49+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "GSLV-F18/NVS-03 Gallery - ISRO",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWQm1DNmpCYU1zc3diLWJmVEdYVndrN0FkaFZoQUZmOENSVGVwUEU4QzY0VGR4WWM5SUM4T3FOcG9mWDNLNlNJVDRSN2h2d2NLYTU3Q0lIa2owdHdaYnFiQ1h3?oc=5",
+   "summary": "GSLV-F18/NVS-03 Gallery ISRO",
+   "image": "",
+   "date": "2026-10-31T04:05:37+00:00",
    "source": "ISRO news"
   },
   {
