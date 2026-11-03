@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T13:11:49.597351+00:00",
+ "updated": "2026-11-03T14:24:44.084140+00:00",
  "errors": [],
  "items": [
   {
@@ -67,6 +67,14 @@
    "source": "NASA"
   },
   {
+   "title": "NASA’s Neil Gehrels Swift Observatory to burn up this week after more than two decades in space",
+   "link": "https://spaceflightnow.com/2026/11/03/nasas-neil-gehrels-swift-observatory-to-burn-up-this-week-after-two-decades-in-space/",
+   "summary": "As of Monday, the U.S. Space Force predicted Swift would re-enter Earth's atmosphere at approximately 3:30 a.m. EST Wednesday, Nov. 4, somewhere within about 21 degrees north or south of the equator — a band that is most",
+   "image": "",
+   "date": "2026-11-03T13:35:33+00:00",
+   "source": "Spaceflight Now"
+  },
+  {
    "title": "SpaceX closes out October with 700th Falcon 9 launch to date",
    "link": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
    "summary": "The Starlink 15-18 mission will add another 27 Starlink V2 Mini Optimized satellites to SpaceX’s megaconstellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 9:04 p.m. PDT (12:04 a.m. EDT / 0404",
@@ -120,14 +128,6 @@
    "summary": "Liftoff of the Starlink 15-16 mission from Space Launch Complex 4E happened Tuesday, October 27, 2026, at 12:25 a.m. PDT (3:25 a.m. EDT / 0825 UTC).",
    "image": "",
    "date": "2026-10-27T00:50:37+00:00",
-   "source": "Spaceflight Now"
-  },
-  {
-   "title": "SpaceX launches Starlink 15-15 mission following a trio of scrubs",
-   "link": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
-   "summary": "SpaceX succeeded in its fourth attempt to launch a Falcon 9 rocket from Vandenberg Space Force Base. Liftoff happened at 3:48 p.m. PDT (6:48 p.m. EDT / 2248 UTC) on Friday, Oct. 23.",
-   "image": "",
-   "date": "2026-10-20T21:18:11+00:00",
    "source": "Spaceflight Now"
   },
   {
@@ -197,7 +197,7 @@
   {
    "title": "The Hindu's Editorial, November 2, 2026 Slow recovery: On the ISRO’s GSLV-F18 mission - The Hindu",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVldfWXI5QXRTSktPSW1GVjhnZTNNX0V5SW5lMnllS2VvU2RYU3JJMVBkZ2E4a2F0TlZ5XzhwQVREdmJZV2Z6TjZqNnd0VWc4cTdMZUFZbFpKSlZlWkU1OC15aUVyWHI4TlNCdXQ5c2tqSmM4cGllNGZtNFU0WFE2cmRqN1ktdDZtaC1iazdOU1NkSlFGMDNSLURUS0pYem93V3NLMm1nOTg4VXpjTnJ6ZEFXY0l6aVg1UUhYaDZxTmVkS2lMeHU0bHNmSVNsVFg3aE1VM2MyS1R0Z9IB4AFBVV95cUxPdWl1dFV4VDJPTmF6clYwTUdLbm94bGF0bzY3YWRoOUNyNDU5TjFYcVJadlJxSGE0ellXcVdxd3VMdWJjRmdjNy1IcWxYdUVEWEMxM0xORkxYUWUyUlBQUzZaSXhydGRqeEUyMkpjME1qMDFINWZXVU43QVhHZm5uZTBjaGhVWFFnZVdWankzcTJsd2xFWjlIanVKR2VDRjlCakFwUkdOY2tQZ2JoZ0lIdzJEZV9jNGp4MklGV3dEbmFyV2V1dFlfaWhwbXBkVWpVNnk3QVFKVmxhYVVUal9mNA?oc=5",
-   "summary": "The Hindu's Editorial, November 2, 2026 Slow recovery: On the ISRO’s GSLV-F18 mission The Hindu NVS-03 launched successfully; satellite placed in intended orbit | Highlights The Hindu Ananth Technologies supplies avionic",
+   "summary": "The Hindu's Editorial, November 2, 2026 Slow recovery: On the ISRO’s GSLV-F18 mission The Hindu Ananth Technologies supplies avionics for ISRO's GSLV-F18 mission electronics.economictimes.indiatimes.com ISRO's NavIC Gets",
    "image": "",
    "date": "2026-11-01T19:23:27+00:00",
    "source": "ISRO news"
@@ -339,6 +339,14 @@
    "source": "The Hindu (Industry)"
   },
   {
+   "title": "DETUMBLER: Airbus’ Passive Spin Stabilization Solution",
+   "link": "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/",
+   "summary": "The tumbling crisis: why dead satellites threaten orbit Every year, hundreds of satellites reach end-of-life, most are deorbited, but some fail abruptly. Yet, even when properly decommissioned, some dead satellites […] T",
+   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/AIRBUS_Blue.png?fit=1024%2C1024&amp;ssl=1",
+   "date": "2026-11-03T13:30:00+00:00",
+   "source": "SpaceNews"
+  },
+  {
    "title": "How to Expand Reliable, Flexible Access to Space",
    "link": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/",
    "summary": "The space industry launched more rockets into orbit last year than ever before, yet satellite operators are confronting an unexpected problem: There still aren’t enough rides to go around. And […] The post How to Expand ",
@@ -392,14 +400,6 @@
    "summary": "– Paris-based FLEXELL SPACE FRANCE SAS creates a local business hub in Europe– New entity to support ongoing contract and volume-production discussions with European customers, from technical reviews to supply […] The po",
    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/LOGO_FLEXELLBlack.png?fit=1024%2C1024&amp;ssl=1",
    "date": "2026-10-26T20:00:00+00:00",
-   "source": "SpaceNews"
-  },
-  {
-   "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
-   "link": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
-   "summary": "SAN FRANCISCO —October 26, 2026—Today, Astranis announced it has upgraded its 4th launch to a dedicated mission aboard a SpaceX Falcon 9 rocket set to launch in 2028, allowing it […] The post Astranis Upgrades Falcon 9 L",
-   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/astranis-square.png?fit=1024%2C1014&amp;ssl=1",
-   "date": "2026-10-26T13:00:00+00:00",
    "source": "SpaceNews"
   }
  ]
