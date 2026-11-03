@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-03T15:59:24.861873+00:00",
+ "updated": "2026-11-03T17:04:04.105731+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "Astronaut and Earth",
+   "link": "https://www.nasa.gov/image-article/astronaut-and-earth/",
+   "summary": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Ku",
+   "image": "",
+   "date": "2026-11-03T16:37:42+00:00",
+   "source": "NASA"
+  },
   {
    "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
    "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
@@ -56,14 +64,6 @@
    "summary": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew M",
    "image": "",
    "date": "2026-11-02T18:50:42+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "What’s Up: November 2026 Skywatching Tips from NASA",
-   "link": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
-   "summary": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights Transcrip",
-   "image": "",
-   "date": "2026-11-02T18:19:58+00:00",
    "source": "NASA"
   },
   {
@@ -131,6 +131,14 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "The Star Wars Eclipse — Want to see the 2027 total solar eclipse on Tatooine? Head to Tunisia",
+   "link": "https://www.space.com/stargazing/solar-eclipses/the-star-wars-eclipse-want-to-see-the-2027-total-solar-eclipse-on-tatooine-head-to-tunisia",
+   "summary": "From Mos Eisley to Mos Espa and the Jundland Wastes, here's where to experience the Aug. 2, 2027 total solar eclipse from Tunisia's Star Wars filming locations.",
+   "image": "https://cdn.mos.cms.futurecdn.net/jn7RUmgebdybs9i4hyLD8M-1920-80.jpg",
+   "date": "2026-11-03T16:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "On this day in space! Nov. 3, 1957: Laika the dog launches with Sputnik 2",
    "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-3-2026",
    "summary": "On Nov. 3, 1957, a Soviet space dog named Laika became the first animal to orbit Earth.",
@@ -187,14 +195,6 @@
    "source": "Space.com"
   },
   {
-   "title": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station",
-   "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-2-2026",
-   "summary": "Expedition 1 crewmates Bill Shepherd, Yuri Gidzenko and Sergei Krikalev pose with a model of the space station as it appeared in 2000.",
-   "image": "https://cdn.mos.cms.futurecdn.net/RzwirmhNNpEbPek9bATDg4-1920-80.png",
-   "date": "2026-11-02T15:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
    "title": "The Hindu's Editorial, November 2, 2026 Slow recovery: On the ISRO’s GSLV-F18 mission - The Hindu",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVldfWXI5QXRTSktPSW1GVjhnZTNNX0V5SW5lMnllS2VvU2RYU3JJMVBkZ2E4a2F0TlZ5XzhwQVREdmJZV2Z6TjZqNnd0VWc4cTdMZUFZbFpKSlZlWkU1OC15aUVyWHI4TlNCdXQ5c2tqSmM4cGllNGZtNFU0WFE2cmRqN1ktdDZtaC1iazdOU1NkSlFGMDNSLURUS0pYem93V3NLMm1nOTg4VXpjTnJ6ZEFXY0l6aVg1UUhYaDZxTmVkS2lMeHU0bHNmSVNsVFg3aE1VM2MyS1R0Z9IB4AFBVV95cUxPdWl1dFV4VDJPTmF6clYwTUdLbm94bGF0bzY3YWRoOUNyNDU5TjFYcVJadlJxSGE0ellXcVdxd3VMdWJjRmdjNy1IcWxYdUVEWEMxM0xORkxYUWUyUlBQUzZaSXhydGRqeEUyMkpjME1qMDFINWZXVU43QVhHZm5uZTBjaGhVWFFnZVdWankzcTJsd2xFWjlIanVKR2VDRjlCakFwUkdOY2tQZ2JoZ0lIdzJEZV9jNGp4MklGV3dEbmFyV2V1dFlfaWhwbXBkVWpVNnk3QVFKVmxhYVVUal9mNA?oc=5",
    "summary": "The Hindu's Editorial, November 2, 2026 Slow recovery: On the ISRO’s GSLV-F18 mission The Hindu Ananth Technologies supplies avionics for ISRO's GSLV-F18 mission electronics.economictimes.indiatimes.com Editorial: From s",
@@ -235,14 +235,6 @@
    "source": "ISRO news"
   },
   {
-   "title": "Once Called 'Naughty Boy', ISRO Rocket Launches Next-Gen Satellite. Watch - NDTV",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY09aZVM3UjFhNGNWSTRueWw3WUM1blBnaEw5eWhGbEd5Qm5VQ3duYnVBbjVPYzZZRmI0LVNmZEhfNU1Nbll1dDJJbHZ5TWJoRi14VmdFTFM2NWFPalkxb2FNaEhNRWs1eWV3emRWaERXcGM0S2R0LVVtNks5LTItWHZudU02NTE5WWdvQkhDZlB6TDBZVVpLRzB4WnpJWXZSR0FQN29mcUJtUHNCMmZUVC1oMUVmcm_SAb8BQVVfeXFMUEl2WnFZWHlwaVFBSWZ4dW5BZzZodmZSUDVoSk5FUjR3NFpmYWxwWmVlOTlReElseGE3X3lKU1lLNmstVFd5Uklubjgxb1dGTlNuaThPTHY1Y2tnNUxmdGRxVS0tbVVLVV85VWFiNlV5ZTV2MVh5Nzg1WFhXQ3BUWnFQV0xxTTR5N20wS01HM2tnSzl2RWxCVmQ3Zk50akptbmxuSk9iQW1oMXlHb1loNjdDNlJGWlBwbGUwZVpqczA?oc=5",
-   "summary": "Once Called 'Naughty Boy', ISRO Rocket Launches Next-Gen Satellite. Watch NDTV",
-   "image": "",
-   "date": "2026-10-30T18:22:00+00:00",
-   "source": "ISRO news"
-  },
-  {
    "title": "Vikram-1 Ends the ISRO Monopoly on Indian Orbital Launch - KeepTrack",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WSGg0eGVTOXE4NTZwSW9FdFM2ckh5WW9KbndxTXBWTWFpaExlbjZzLTVJWDFTTDJMb3J4R18wQ3YzR2k5aEVlNy1EUXA5UTJFRFhLV2YtZlNhWmdwT1Q0?oc=5",
    "summary": "Vikram-1 Ends the ISRO Monopoly on Indian Orbital Launch KeepTrack",
@@ -256,6 +248,14 @@
    "summary": "GSLV-F18/NVS-03 Gallery ISRO",
    "image": "",
    "date": "2026-10-31T04:05:37+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "ISRO launches third next-gen NavIC satellite after NVS-02 setback - ThePrint",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HajhHUWdPMTNyOU5iTFhmaEl6cktqdGFaRVRhT3lPN0RkSVVmV3dQN2phb2VWYUlNTmo0blphTTVuMWgybVp5bmhCZEJLeE5CcE9IT1VKWXh4UUNvaHJvYldRRFlrNHVRRFhIOFlvSEtwTThjdnZRVDVoNNIBgAFBVV95cUxPdlppX0tPYUcwbUJtVGlSSFB5UG5OMk9RMmg4YW1wT1VVc0pzQmhFMkFNdWZfWE1ySUNPRzgzOFdMZkN0V19pWW55RXppQWtMcDZGalB1OG1JWHZuNk1NZmZLbzludU92eTE3YU9HdzlaQ3I1emNwdGxfUWN5UnFiaQ?oc=5",
+   "summary": "ISRO launches third next-gen NavIC satellite after NVS-02 setback ThePrint",
+   "image": "",
+   "date": "2026-10-30T18:25:57+00:00",
    "source": "ISRO news"
   },
   {
@@ -331,6 +331,14 @@
    "source": "The Hindu (Industry)"
   },
   {
+   "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
+   "link": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/",
+   "summary": "Czech company Spacemanic and Belgian optical leader Simera Sense are teaming up to deliver a new dual-use satellite solution that can compete with bigger and heavier satellites. Simera Sense xScape200 […] The post Simera",
+   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/simera-space.png?fit=1024%2C1024&amp;ssl=1",
+   "date": "2026-11-03T16:59:43+00:00",
+   "source": "SpaceNews"
+  },
+  {
    "title": "DETUMBLER: Airbus’ Passive Spin Stabilization Solution",
    "link": "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/",
    "summary": "The tumbling crisis: why dead satellites threaten orbit Every year, hundreds of satellites reach end-of-life, most are deorbited, but some fail abruptly. Yet, even when properly decommissioned, some dead satellites […] T",
@@ -384,14 +392,6 @@
    "summary": "Craft Prospect is working with Fraunhofer Centre for Applied Photonics (Fraunhofer CAP) and Vector Photonics on a new project exploring the potential of next-generation laser technology for high-performance optical commu",
    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/Logos.png?fit=1024%2C1024&amp;ssl=1",
    "date": "2026-10-27T12:00:00+00:00",
-   "source": "SpaceNews"
-  },
-  {
-   "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
-   "link": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/",
-   "summary": "– Paris-based FLEXELL SPACE FRANCE SAS creates a local business hub in Europe– New entity to support ongoing contract and volume-production discussions with European customers, from technical reviews to supply […] The po",
-   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/LOGO_FLEXELLBlack.png?fit=1024%2C1024&amp;ssl=1",
-   "date": "2026-10-26T20:00:00+00:00",
    "source": "SpaceNews"
   }
  ]
