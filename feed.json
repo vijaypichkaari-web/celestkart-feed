@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-03T05:01:53.603484+00:00",
+ "updated": "2026-11-03T06:00:08.358109+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
+   "link": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
+   "summary": "APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograp",
+   "image": "",
+   "date": "2026-11-03T05:05:00+00:00",
+   "source": "NASA"
+  },
+  {
+   "title": "The Pacific’s Busy Storm Season",
+   "link": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
+   "summary": "Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska.",
+   "image": "",
+   "date": "2026-11-03T05:01:00+00:00",
+   "source": "NASA"
+  },
   {
    "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
    "link": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
@@ -48,22 +64,6 @@
    "summary": "NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing.",
    "image": "",
    "date": "2026-11-02T15:00:39+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
-   "link": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
-   "summary": "APODScienceAPODAPOD: 2026 November 2 – A…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fa",
-   "image": "",
-   "date": "2026-11-02T05:05:00+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "Pennsylvania’s Grand Canyon",
-   "link": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
-   "summary": "Amid the warm hues of fall foliage, Pine Creek Gorge forms a deep scar in the Allegheny Plateau.",
-   "image": "",
-   "date": "2026-11-02T05:01:00+00:00",
    "source": "NASA"
   },
   {
@@ -195,11 +195,11 @@
    "source": "Space.com"
   },
   {
-   "title": "GSLV places next-generation navigation satellite NVS-03 into orbit - The Hindu",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbFQxU3kwUzdybnBib0l1U1BmZzZ1aF9FYlVJQjlJUHhxRkxRelRrUVFYRzdDZDMxMHpuTkhxXzEyY0FRU1I1d01YOHBMZzhRT2d1T1d1azFqalBQX0h5Z25wVWlxemhoS1dIVUJDb3NOTTVMSVdOSHlXQk0ydGYxS2ctd3RjZGtFLU8xb1hCSHA4NU42T3dUeFRVLWkxd3o2SFRv?oc=5",
-   "summary": "GSLV places next-generation navigation satellite NVS-03 into orbit The Hindu Editorial: From setbacks to success — ISRO’s desi navigation system gets a boost Telangana Today PM lauds space scientists for successful launc",
+   "title": "The Hindu's Editorial, November 2, 2026 Slow recovery: On the ISRO’s GSLV-F18 mission - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVldfWXI5QXRTSktPSW1GVjhnZTNNX0V5SW5lMnllS2VvU2RYU3JJMVBkZ2E4a2F0TlZ5XzhwQVREdmJZV2Z6TjZqNnd0VWc4cTdMZUFZbFpKSlZlWkU1OC15aUVyWHI4TlNCdXQ5c2tqSmM4cGllNGZtNFU0WFE2cmRqN1ktdDZtaC1iazdOU1NkSlFGMDNSLURUS0pYem93V3NLMm1nOTg4VXpjTnJ6ZEFXY0l6aVg1UUhYaDZxTmVkS2lMeHU0bHNmSVNsVFg3aE1VM2MyS1R0Z9IB4AFBVV95cUxPdWl1dFV4VDJPTmF6clYwTUdLbm94bGF0bzY3YWRoOUNyNDU5TjFYcVJadlJxSGE0ellXcVdxd3VMdWJjRmdjNy1IcWxYdUVEWEMxM0xORkxYUWUyUlBQUzZaSXhydGRqeEUyMkpjME1qMDFINWZXVU43QVhHZm5uZTBjaGhVWFFnZVdWankzcTJsd2xFWjlIanVKR2VDRjlCakFwUkdOY2tQZ2JoZ0lIdzJEZV9jNGp4MklGV3dEbmFyV2V1dFlfaWhwbXBkVWpVNnk3QVFKVmxhYVVUal9mNA?oc=5",
+   "summary": "The Hindu's Editorial, November 2, 2026 Slow recovery: On the ISRO’s GSLV-F18 mission The Hindu Editorial: From setbacks to success — ISRO’s desi navigation system gets a boost Telangana Today ISRO launches NVS | Akashva",
    "image": "",
-   "date": "2026-10-30T19:09:21+00:00",
+   "date": "2026-11-01T19:23:27+00:00",
    "source": "ISRO news"
   },
   {
@@ -235,6 +235,14 @@
    "source": "ISRO news"
   },
   {
+   "title": "India gets its GPS boost: Isro launches NVS-03 to strengthen homegrown navigation - India Today",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTEpDX1VtNF9fSWtScFlSV2ZBeUE4NlcwWFFUREJQVjIyc2F1WFRZT3luaS11SGlSaDYtQkZUQ0tqSXU0RGNWX2xvSWdTc3lwWW5UTmpWNV9DRXp3QmdOTWxaLWZ3TTNDY1lMV1hQNjNJQk55WVM3X0RWb29mOFB1R1U3azRKcVlycXJoSG1zcnBMZ0tzd3RFX2FwN1JpNU9vRlJReFNRRHNoa2VKYml3TFMySWVOT01ZcGxPNkJwbTBqYTJSalhFdkVZN0RCVzM0NlB2WmFZSXdVek93UGdXLTdR0gHnAUFVX3lxTE5IaTVmQ3ZoQnhqMU9zazlEdmxONUhRMHRGSWZuWGEyVnM4Zzltb2dReFZBbmpLWnNscGxubFNsblMxYlNlOC1iLUdRVF9zZ1E2clN3eGwzeUQtd2hfaXI5ckhFeVZtemdkZnpLazFXX1h5NGl4bTZBcEVxMnk2UW1vRHFkeHB4TEl5c3NXZTFIRXktSy1QNUU0a0ZmNXRlTERNMVhrT1c5WnQxaHJhaUV0Wm1NcXBVVGZVdWk2Z0VzTm5KdzVWVXl0ZXBLTTEyMGpCZlpxM2M1QVZTLTZnRm5fU1NrZ3NzUQ?oc=5",
+   "summary": "India gets its GPS boost: Isro launches NVS-03 to strengthen homegrown navigation India Today",
+   "image": "",
+   "date": "2026-10-30T18:21:39+00:00",
+   "source": "ISRO news"
+  },
+  {
    "title": "Explainer: How ISRO’s NVS-03 Mission Strengthens India’s Indigenous Navigation System - DD India",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0szc1A3Rk9rNTJXSVF1WVNJNHU1ZjJ6cGtseWR5eDlCTWYzdTB1cUs1QTNCOG1aaEFqQ0R0N1k1MWF3eUIwNndVSkJIc21abkgtekFrWVhuX3pJWGExcXFWQTZPMjhHemFSRThaRm5mTnVqT3dPWGtpZjN4SHhkWGZUSnNReUt0b0o1Rk82U0J2QTRlRjhIeXRmQk5VZVFCYjlxYzE4ajNDY0pRZk9CNFdqaw?oc=5",
    "summary": "Explainer: How ISRO’s NVS-03 Mission Strengthens India’s Indigenous Navigation System DD India",
@@ -248,14 +256,6 @@
    "summary": "ISRO Chairman V. Narayanan is 'Mr Go-Getter' Whispers in the Corridors",
    "image": "",
    "date": "2026-11-03T03:59:36+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "India gets its GPS boost: Isro launches NVS-03 to strengthen homegrown navigation - India Today",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTEpDX1VtNF9fSWtScFlSV2ZBeUE4NlcwWFFUREJQVjIyc2F1WFRZT3luaS11SGlSaDYtQkZUQ0tqSXU0RGNWX2xvSWdTc3lwWW5UTmpWNV9DRXp3QmdOTWxaLWZ3TTNDY1lMV1hQNjNJQk55WVM3X0RWb29mOFB1R1U3azRKcVlycXJoSG1zcnBMZ0tzd3RFX2FwN1JpNU9vRlJReFNRRHNoa2VKYml3TFMySWVOT01ZcGxPNkJwbTBqYTJSalhFdkVZN0RCVzM0NlB2WmFZSXdVek93UGdXLTdR0gHnAUFVX3lxTE5IaTVmQ3ZoQnhqMU9zazlEdmxONUhRMHRGSWZuWGEyVnM4Zzltb2dReFZBbmpLWnNscGxubFNsblMxYlNlOC1iLUdRVF9zZ1E2clN3eGwzeUQtd2hfaXI5ckhFeVZtemdkZnpLazFXX1h5NGl4bTZBcEVxMnk2UW1vRHFkeHB4TEl5c3NXZTFIRXktSy1QNUU0a0ZmNXRlTERNMVhrT1c5WnQxaHJhaUV0Wm1NcXBVVGZVdWk2Z0VzTm5KdzVWVXl0ZXBLTTEyMGpCZlpxM2M1QVZTLTZnRm5fU1NrZ3NzUQ?oc=5",
-   "summary": "India gets its GPS boost: Isro launches NVS-03 to strengthen homegrown navigation India Today",
-   "image": "",
-   "date": "2026-10-30T18:21:39+00:00",
    "source": "ISRO news"
   },
   {
