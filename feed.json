@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T19:05:02.174051+00:00",
+ "updated": "2026-11-04T20:04:14.850186+00:00",
  "errors": [],
  "items": [
   {
@@ -35,14 +35,6 @@
    "source": "NASA"
   },
   {
-   "title": "NASA, NOAA Track 2026 Antarctic Ozone Hole",
-   "link": "https://science.nasa.gov/earth/2026-ozone-hole/",
-   "summary": "Weather provided ideal conditions for enhanced ozone depletion",
-   "image": "",
-   "date": "2026-11-04T15:00:14+00:00",
-   "source": "NASA"
-  },
-  {
    "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
    "link": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
    "summary": "APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photo",
@@ -64,6 +56,14 @@
    "summary": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Ku",
    "image": "",
    "date": "2026-11-03T16:37:42+00:00",
+   "source": "NASA"
+  },
+  {
+   "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
+   "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
+   "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental",
+   "image": "",
+   "date": "2026-11-03T15:35:14+00:00",
    "source": "NASA"
   },
   {
@@ -131,6 +131,30 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "'Trials and Tribble-ations' at 30: The classic 'Star Trek: Deep Space Nine' episode that brought Captains Kirk and Sisko face-to-face",
+   "link": "https://www.space.com/entertainment/space-movies-shows/trials-and-tribble-ations-at-30-the-classic-star-trek-deep-space-nine-episode-that-brought-captains-kirk-and-sisko-face-to-face",
+   "summary": "How \"Forrest Gump\", pizza, and a massive supporting cast of furballs came together to make one of \"Star Trek\"'s finest hours.",
+   "image": "https://cdn.mos.cms.futurecdn.net/vbzQgpuEfLsVKqYqysqum8-1920-80.jpg",
+   "date": "2026-11-04T20:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "NASA's Swift space telescope crashes back to Earth after failed rescue attempt",
+   "link": "https://www.space.com/space-exploration/missions/nasa-swift-space-telescope-crashes-to-earth",
+   "summary": "NASA's Swift space telescope crashed back to Earth today (Nov. 4), three months after a private spacecraft was supposed to boost the observatory to a higher orbit.",
+   "image": "https://cdn.mos.cms.futurecdn.net/FPZUTd9PY8i9Q9d4pN8f6B-1920-80.jpg",
+   "date": "2026-11-04T19:06:08+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "Mars isn't dead — recent volcanic activity reveals it's just sleeping",
+   "link": "https://www.space.com/astronomy/mars/mars-isnt-dead-recent-volcanic-activity-reveals-its-just-sleeping",
+   "summary": "Scientists have long suspected that Mars is geologically \"dead\" but new spacecraft observations suggests the Red Planet's volcanoes are merely sleeping.",
+   "image": "https://cdn.mos.cms.futurecdn.net/H8GVsV7MCBNjGQuBJVBqxn-1920-80.png",
+   "date": "2026-11-04T19:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "NASA's Artemis II moon launch tore a hole in Earth's upper atmosphere so huge it disrupted GPS signals",
    "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals",
    "summary": "\"It could have a strong impact not only on self-driving cars but also on drone positioning.\"",
@@ -168,30 +192,6 @@
    "summary": "The Taurid meteor shower could spawn dazzling fireballs in the coming weeks! Here's when and where to look.",
    "image": "https://cdn.mos.cms.futurecdn.net/UyHFJpp3BWEoFpwKbQ5uzQ-1920-80.jpg",
    "date": "2026-11-04T11:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "NASA asks industry for ideas about saving Hubble Space Telescope",
-   "link": "https://www.space.com/astronomy/hubble-space-telescope/nasa-asks-industry-for-ideas-about-saving-hubble-space-telescope",
-   "summary": "The Hubble Space Telescope is healthy but is being pulled down toward Earth by atmospheric drag. NASA is considering options to extend the iconic telescope's work.",
-   "image": "https://cdn.mos.cms.futurecdn.net/EKqZZcpMeKzaDib4vuvNpS-1920-80.jpg",
-   "date": "2026-11-03T22:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "Ancient star collisions could explain mysterious Little Red Dots and 'impossible' black holes",
-   "link": "https://www.space.com/astronomy/stars/ancient-star-collisions-could-explain-mysterious-little-red-dots-and-impossible-black-holes",
-   "summary": "Collisions between stars in the early universe were common, and this could explain the growth of supermassive black holes and the existence of strange Little Red Dots seen by the James Webb Space Telescope.",
-   "image": "https://cdn.mos.cms.futurecdn.net/KckHSz3cKUaFQJHGiYko5E-1920-80.png",
-   "date": "2026-11-03T21:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "Voting in space: NASA astronauts cast ballots from International Space Station",
-   "link": "https://www.space.com/space-exploration/international-space-station/voting-in-space-nasa-astronauts-cast-ballots-from-international-space-station",
-   "summary": "The three Americans currently living off Earth made sure their voices were heard, voting in the midterm election from the International Space Station.",
-   "image": "https://cdn.mos.cms.futurecdn.net/byYSzbjGdja3wYE4YsFdn8-1920-80.jpg",
-   "date": "2026-11-03T20:46:36+00:00",
    "source": "Space.com"
   },
   {
