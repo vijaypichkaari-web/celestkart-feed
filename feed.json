@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-04T20:58:46.032563+00:00",
+ "updated": "2026-11-04T21:55:52.450990+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+   "link": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+   "summary": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously annou",
+   "image": "",
+   "date": "2026-11-04T21:04:10+00:00",
+   "source": "NASA"
+  },
   {
    "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
    "link": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
@@ -56,14 +64,6 @@
    "summary": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Ku",
    "image": "",
    "date": "2026-11-03T16:37:42+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
-   "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
-   "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental",
-   "image": "",
-   "date": "2026-11-03T15:35:14+00:00",
    "source": "NASA"
   },
   {
@@ -131,6 +131,14 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "Upcoming Marvel movies and TV shows: Avengers: Doomsday, Secret Wars, X-Men & more",
+   "link": "https://www.space.com/entertainment/space-movies-shows/upcoming-marvel-movies-and-tv-shows",
+   "summary": "The MCU’s Multiverse Saga is nearly over, but there are plenty more Marvel movies and shows on the horizon.",
+   "image": "https://cdn.mos.cms.futurecdn.net/NXUnCZgghVQu5SvUmfB69Q-1920-80.jpg",
+   "date": "2026-11-04T21:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "'Trials and Tribble-ations' at 30: The classic 'Star Trek: Deep Space Nine' episode that brought Captains Kirk and Sisko face-to-face",
    "link": "https://www.space.com/entertainment/space-movies-shows/trials-and-tribble-ations-at-30-the-classic-star-trek-deep-space-nine-episode-that-brought-captains-kirk-and-sisko-face-to-face",
    "summary": "How \"Forrest Gump\", pizza, and a massive supporting cast of furballs came together to make one of \"Star Trek\"'s finest hours.",
@@ -187,19 +195,27 @@
    "source": "Space.com"
   },
   {
-   "title": "The Taurid meteor shower peaks tonight — and fireballs could steal the show",
-   "link": "https://www.space.com/stargazing/meteor-showers/the-taurid-meteor-shower-2026-peaks-tonight-and-fireballs-could-steal-the-show",
-   "summary": "The Taurid meteor shower could spawn dazzling fireballs in the coming weeks! Here's when and where to look.",
-   "image": "https://cdn.mos.cms.futurecdn.net/UyHFJpp3BWEoFpwKbQ5uzQ-1920-80.jpg",
-   "date": "2026-11-04T11:00:00+00:00",
-   "source": "Space.com"
+   "title": "NVS-03 reaches geosynchronous orbit; satellite in good health - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVG8xeXFJX2RJeno0eWRVYWlCMXlXVnZURm9JbjhWM2gwTkJFNzF5SlJGdGFqcDJKTXJOWnpVSC1tMGZwdl9hZTk1ZVJqYWtTVERJckVCdkRFMmJ4cmdwVEpGbWltMlBVRk1HZE81dHdrdDhlNnpmSEJrb1A4TkhnTW9jcE4yUWdpcWV2NDFYaEdJYVpzcWlaLUVsZGdGNGJHVjF0TU5rVFRCQkdMU2hTMWJTWGVLdjBBeFc4REdSb9IBxgFBVV95cUxPRVVsQnJ1T0swU2JqbnBlQ3FjSFFoYjFPcXQ2Q1JZMk9UOTRIYXpJaG5kMk5pdmlmYTNLaUt1LUx2dks2MW10cFMzTDMtWUZTMl9UMlRxWGlzVXd2NnozWjN3eFg5RE4zVmhQTjJWTWoydkVKRHQwcFB3RmJHdERtRFJXOUNYLU14S0lQQmgwY2FkenZudzN3QnZhdjdzU0dpQ2ZhTk15MGxESy1YVVdlTm1VNlZsS2p5ZkthQXhyRGFaeVZ2Z3c?oc=5",
+   "summary": "NVS-03 reaches geosynchronous orbit; satellite in good health The Hindu",
+   "image": "",
+   "date": "2026-11-04T17:30:19+00:00",
+   "source": "ISRO news"
   },
   {
-   "title": "The Hindu's Editorial, November 2, 2026 Slow recovery: On the ISRO’s GSLV-F18 mission - The Hindu",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVldfWXI5QXRTSktPSW1GVjhnZTNNX0V5SW5lMnllS2VvU2RYU3JJMVBkZ2E4a2F0TlZ5XzhwQVREdmJZV2Z6TjZqNnd0VWc4cTdMZUFZbFpKSlZlWkU1OC15aUVyWHI4TlNCdXQ5c2tqSmM4cGllNGZtNFU0WFE2cmRqN1ktdDZtaC1iazdOU1NkSlFGMDNSLURUS0pYem93V3NLMm1nOTg4VXpjTnJ6ZEFXY0l6aVg1UUhYaDZxTmVkS2lMeHU0bHNmSVNsVFg3aE1VM2MyS1R0Z9IB4AFBVV95cUxPdWl1dFV4VDJPTmF6clYwTUdLbm94bGF0bzY3YWRoOUNyNDU5TjFYcVJadlJxSGE0ellXcVdxd3VMdWJjRmdjNy1IcWxYdUVEWEMxM0xORkxYUWUyUlBQUzZaSXhydGRqeEUyMkpjME1qMDFINWZXVU43QVhHZm5uZTBjaGhVWFFnZVdWankzcTJsd2xFWjlIanVKR2VDRjlCakFwUkdOY2tQZ2JoZ0lIdzJEZV9jNGp4MklGV3dEbmFyV2V1dFlfaWhwbXBkVWpVNnk3QVFKVmxhYVVUal9mNA?oc=5",
-   "summary": "The Hindu's Editorial, November 2, 2026 Slow recovery: On the ISRO’s GSLV-F18 mission The Hindu NVS-03 launched successfully; satellite placed in intended orbit | Highlights The Hindu Ananth Technologies supplies avionic",
+   "title": "Ananth Technologies supplies avionics for ISRO's GSLV-F18 mission - electronics.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRFA0ODVSMml5aERzZEh0ZFM2WWpDUGxmYml6WWNHMlhrWHRvWFZYRF9oRUFpUWgxOFpIZlB0dlBnNHlJaWlhc1JIdnhySFNRYnJZYXIxc2tTYkZpazBxRTIwVE8zc09JcUgxUUFhYnpvaHJmZUxxWDZwUWp5azg3RmNYQTNoZ3JadWRJRmxIMng1SjJ5MDNNLVlQdGJOVms1aS1MUWpVMEN1Sk9WNHR1UDJHc2prSnhXSmFnbVhySE4ydkJHdXd4LXYxZ2pob3l0cmFmNTBtNTNJVVpRcFBnRNIB5gFBVV95cUxOYmdsNW9WTzJDb1BWd3VVZHRwTVNDM2k2aTVtYzdBWUhDMlNYaFEyNzBiSF9hWWw4TXBWR2NaNDFJQlZYOEZldnFyc1RpZ1hNYUFyWE1KaE5pYTB3SEZuQmJiTDdzUmhhNUJhckVubXY2M2lWa21pTHRZenZLM2prRFhjaDBNMFNDY3hGdUFSbTVPX2pUZ1BrZV9RaVZNbUdGMkFhTEZER2pFcFNHZnNSMVRYOGZaR3pxX3Bmck84WU84U0xrWEJGNEJ0b25neHdlZDNkNjdSWVc1QjVWaFFVdndvWElQZw?oc=5",
+   "summary": "Ananth Technologies supplies avionics for ISRO's GSLV-F18 mission electronics.economictimes.indiatimes.com",
    "image": "",
-   "date": "2026-11-01T19:23:27+00:00",
+   "date": "2026-10-31T07:00:00+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "Editorial: From setbacks to success — ISRO’s desi navigation system gets a boost - Telangana Today",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMEVPb3owc0N3T2VCRkNaQzZpOUNkSlBPTEozRWJXOUozY0VfNmx1SHpPcE9NWmpjb2wwaTY2TmFrR1lXNEZLUlNldEtqSkltYTU5Qmhqdm1nYkkyUU1FV1plTjV4QzNhbnBiRXFEdXNOM1VhT1llem91SFJwd1JmV0pvZlFLdlFFNjRhRHRyNVVWVnk2X1ltOWx4Z1cxTUtQT195SGlR?oc=5",
+   "summary": "Editorial: From setbacks to success — ISRO’s desi navigation system gets a boost Telangana Today",
+   "image": "",
+   "date": "2026-11-02T17:44:17+00:00",
    "source": "ISRO news"
   },
   {
@@ -211,51 +227,35 @@
    "source": "ISRO news"
   },
   {
-   "title": "GSLV-F18/NVS-03 MISSION - ISRO",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDNkFYM2JwMG8xYURPRFpqQkNyVDNwYjZPdVpjb3ROVG5pc28xM3cyRlhFeDBTTHhxM2l0aFBwTGxkLW1PcV9YaUprMUtvOVJMUVVmNVltaw?oc=5",
-   "summary": "GSLV-F18/NVS-03 MISSION ISRO",
+   "title": "First Rocket Launch From Kulasekarapattinam Likely in Next March-April: ISRO Chief - Deccan Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMjVuR2V2QkhGS2hnRVZUWk5qTHdyeXdhckM2c01TMWJvdVdmbDVUcHNabm1Mdy1mRExaZ1R2UG1yLV9BVG5HczU5enp5MEpGWnduYVBoNTNJNU9zSzVGd3JVZWdITkN0RUtVSVFYemd1YnBxbHo2QWdNcjh4aGI3VXlBZDdoR1B4cTBaTEtwWXBYbHc3cG1OMDdtNGxBX3VReEhiVFJ3aTg4Ujg5azFQRHFyQ01hb3kwbF96Nzk0Ql9YVldRM3ZGRdIBzgFBVV95cUxOMUNTdHlPUGdwMmF0YjlfZGIyVFhuN1BaWmhtZHZDQkFSVzJYTUNlMV9EdE1lXzJ5MENCa2pMUWpMckRMcHM2bFdkMkpNa0pQYmZCZzlzWkI1bjlacVRNaVBWVk05cDUtX1NUa1JIT3RoUVF4b0Z6ZmxxbE9LSTROVnVPXzl6QW5ralVlYW1OQ2JrN2k2ZkZybkRiQUtCRHJza29BRS1sV0JDVS1zSXVwdEo4d1FmX2VGY3QzVXQtZ1RRSU9hZ3AxQVdZaTBwZw?oc=5",
+   "summary": "First Rocket Launch From Kulasekarapattinam Likely in Next March-April: ISRO Chief Deccan Chronicle",
    "image": "",
-   "date": "2026-10-31T04:05:37+00:00",
+   "date": "2026-11-02T06:37:59+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "Indian Space Research Organisation (ISRO) | History, Structure, Facilities, & Facts - Britannica",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04Zm1FZHM5WnZJYWJXSnFUeHRuMWRVUjI0eEdHSWluUHVFbFMtRlE1UG53akdMTnFaSU5WS1NyRVpOS3BxRTBjclcySkloRGVEOEM5TkhWSVBOWTNoemZ2T1hRM0RTSHFVRDNoTGVlbkRLbnlZOXc?oc=5",
-   "summary": "Indian Space Research Organisation (ISRO) | History, Structure, Facilities, & Facts Britannica",
+   "title": "The Hindu's Editorial, November 2, 2026 Slow recovery: On the ISRO’s GSLV-F18 mission - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVldfWXI5QXRTSktPSW1GVjhnZTNNX0V5SW5lMnllS2VvU2RYU3JJMVBkZ2E4a2F0TlZ5XzhwQVREdmJZV2Z6TjZqNnd0VWc4cTdMZUFZbFpKSlZlWkU1OC15aUVyWHI4TlNCdXQ5c2tqSmM4cGllNGZtNFU0WFE2cmRqN1ktdDZtaC1iazdOU1NkSlFGMDNSLURUS0pYem93V3NLMm1nOTg4VXpjTnJ6ZEFXY0l6aVg1UUhYaDZxTmVkS2lMeHU0bHNmSVNsVFg3aE1VM2MyS1R0Z9IB4AFBVV95cUxPdWl1dFV4VDJPTmF6clYwTUdLbm94bGF0bzY3YWRoOUNyNDU5TjFYcVJadlJxSGE0ellXcVdxd3VMdWJjRmdjNy1IcWxYdUVEWEMxM0xORkxYUWUyUlBQUzZaSXhydGRqeEUyMkpjME1qMDFINWZXVU43QVhHZm5uZTBjaGhVWFFnZVdWankzcTJsd2xFWjlIanVKR2VDRjlCakFwUkdOY2tQZ2JoZ0lIdzJEZV9jNGp4MklGV3dEbmFyV2V1dFlfaWhwbXBkVWpVNnk3QVFKVmxhYVVUal9mNA?oc=5",
+   "summary": "The Hindu's Editorial, November 2, 2026 Slow recovery: On the ISRO’s GSLV-F18 mission The Hindu",
    "image": "",
-   "date": "2026-11-02T08:00:00+00:00",
+   "date": "2026-11-01T19:23:27+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "ISRO launches NVS | Akashvani News - News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUJYcmNSa0F4Qmw2eW02MElQcmlfQ1FhZXNfNUk5MXY5dmFCelhsRGtzTE1Jb21kWURHV2RHTkhlY0pJRV9ObGswN2lnejlJMER2aE0wa2xjd1ZmSmZ5ZHpmVlNsVktHRnBkdjNBLURpdmpNMm1ial93TDlzbExlc3ljbXB6Q3VRdkRtMkVlVnlQd2xpNGRTdlRnR2FDWkFzeFREZDdxSlpOeUx0eTRzbGl3?oc=5",
-   "summary": "ISRO launches NVS | Akashvani News News On AIR",
+   "title": "NVS-03 launched successfully; satellite placed in intended orbit | Highlights - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMVktUGpfejN5cXVRNHdLZDdibmUxZUF1Sl9iZEdHLU1XUHlZMHFoN2pWR01BcWE4bFJFLUo0ZTNhOVZsVUVTNm5OUldtQjM2U2FXMFhORWUzWUJnUkFsck5vWGhNZ0Z2NGJFci1PaUwwRnNpWEJmYk8wQ2NaRkJLenAwYUpoUy1XdHFyVExIY0VTZW54R0lIR001ZVpJXzJfMERtQnlRZHNfcmZ5TERFV2JBUlQtNm0xTTV3ZW1sMG1Mdjl5OTJyWS0wNmItY1lHSFVzeFBsblRxV1NkcW1HRWhTNnJHUdIB7AFBVV95cUxNRmRlZGMyMjZHVFNfaXcwOHhaWklKVVB4TWpmWFBySTBENUd4eXUzTTk2Y3libGFQdXVqRE1VNjFnalJMa0NYMWd3TzdWdzk1NmI3T0ZuZ005anJxUVRlY2gwTzBuTTRzTFVtSHhBVHBDMzFxMzFkZWlDS0ZWN2ZDZ1NGb2hzVEQydFVsNTZXUnJXVWlfVnlBNldnZnVsOXh2TXctaXg0Y2xXZTN0cW9XVW5DQzlyX1lTWldpRlJEc1hRUGxNYVBVZ0J4MGNTR3BGNVh5Q01ERW9MTnNxMTNNcUNUOTFUaTlVZUpqNw?oc=5",
+   "summary": "NVS-03 launched successfully; satellite placed in intended orbit | Highlights The Hindu",
    "image": "",
-   "date": "2026-10-31T05:15:00+00:00",
+   "date": "2026-10-31T00:41:29+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "Once Called 'Naughty Boy', ISRO Rocket Launches Next-Gen Satellite. Watch - NDTV",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY09aZVM3UjFhNGNWSTRueWw3WUM1blBnaEw5eWhGbEd5Qm5VQ3duYnVBbjVPYzZZRmI0LVNmZEhfNU1Nbll1dDJJbHZ5TWJoRi14VmdFTFM2NWFPalkxb2FNaEhNRWs1eWV3emRWaERXcGM0S2R0LVVtNks5LTItWHZudU02NTE5WWdvQkhDZlB6TDBZVVpLRzB4WnpJWXZSR0FQN29mcUJtUHNCMmZUVC1oMUVmcm_SAb8BQVVfeXFMUEl2WnFZWHlwaVFBSWZ4dW5BZzZodmZSUDVoSk5FUjR3NFpmYWxwWmVlOTlReElseGE3X3lKU1lLNmstVFd5Uklubjgxb1dGTlNuaThPTHY1Y2tnNUxmdGRxVS0tbVVLVV85VWFiNlV5ZTV2MVh5Nzg1WFhXQ3BUWnFQV0xxTTR5N20wS01HM2tnSzl2RWxCVmQ3Zk50akptbmxuSk9iQW1oMXlHb1loNjdDNlJGWlBwbGUwZVpqczA?oc=5",
-   "summary": "Once Called 'Naughty Boy', ISRO Rocket Launches Next-Gen Satellite. Watch NDTV",
+   "title": "Why ISRO’s latest success matters more than it appears | The Hindu Editorial - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbFVTV0VFdjVjdERHTXRaUEVzaDA0MHZwNG9uXzVidTVrYUJBWHBWbnU3OEFjREFRNmxhZnhGNU9TVEZuYWNNZ1F4d2YzaDRScDZUSlRUZVdyaS05QVltQ2ROLVdQVEdqR1V2blJ2Y2x0RU5CWjh2UHIyWmY1RTJzMDg3QjB0dmZjazFzUzRmeUVYb0FOakpjdHl6Q3FvNUVRWGVlX01qemdrMEFPZnBhdWhCLTY2T2dwUVlyZldlelk5anfSAcoBQVVfeXFMTU9GN2xwcE5vMjNxeG9Nb2djY3ZraU1fd2h0MllWU1V1dWdqdC1QTjdoamdyTDlzZkVROUlqVWRYRHhfYmpfcTRxeU5vNjZMMldES193V01MWGtlOUhDeFIxVHBvQXJRM29sX2ZMRGRWVlM0T1BjdldVdld3TjhUd2hUeS03c3p2eVRMQktFYzFObVJYcVFhVjdtUXRPZ3ZUY2VhYkxSTHoydnFpb1RmYjBtZy0xbDIyaXNsTTJHTm9za1VVS194ODlhQQ?oc=5",
+   "summary": "Why ISRO’s latest success matters more than it appears | The Hindu Editorial The Hindu",
    "image": "",
-   "date": "2026-10-30T18:22:00+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "India gets its GPS boost: Isro launches NVS-03 to strengthen homegrown navigation - India Today",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTEpDX1VtNF9fSWtScFlSV2ZBeUE4NlcwWFFUREJQVjIyc2F1WFRZT3luaS11SGlSaDYtQkZUQ0tqSXU0RGNWX2xvSWdTc3lwWW5UTmpWNV9DRXp3QmdOTWxaLWZ3TTNDY1lMV1hQNjNJQk55WVM3X0RWb29mOFB1R1U3azRKcVlycXJoSG1zcnBMZ0tzd3RFX2FwN1JpNU9vRlJReFNRRHNoa2VKYml3TFMySWVOT01ZcGxPNkJwbTBqYTJSalhFdkVZN0RCVzM0NlB2WmFZSXdVek93UGdXLTdR0gHnAUFVX3lxTE5IaTVmQ3ZoQnhqMU9zazlEdmxONUhRMHRGSWZuWGEyVnM4Zzltb2dReFZBbmpLWnNscGxubFNsblMxYlNlOC1iLUdRVF9zZ1E2clN3eGwzeUQtd2hfaXI5ckhFeVZtemdkZnpLazFXX1h5NGl4bTZBcEVxMnk2UW1vRHFkeHB4TEl5c3NXZTFIRXktSy1QNUU0a0ZmNXRlTERNMVhrT1c5WnQxaHJhaUV0Wm1NcXBVVGZVdWk2Z0VzTm5KdzVWVXl0ZXBLTTEyMGpCZlpxM2M1QVZTLTZnRm5fU1NrZ3NzUQ?oc=5",
-   "summary": "India gets its GPS boost: Isro launches NVS-03 to strengthen homegrown navigation India Today",
-   "image": "",
-   "date": "2026-10-30T18:21:39+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "GSLV-F18/NVS-03 Gallery - ISRO",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWQm1DNmpCYU1zc3diLWJmVEdYVndrN0FkaFZoQUZmOENSVGVwUEU4QzY0VGR4WWM5SUM4T3FOcG9mWDNLNlNJVDRSN2h2d2NLYTU3Q0lIa2owdHdaYnFiQ1h3?oc=5",
-   "summary": "GSLV-F18/NVS-03 Gallery ISRO",
-   "image": "",
-   "date": "2026-10-31T04:05:37+00:00",
+   "date": "2026-11-02T08:32:48+00:00",
    "source": "ISRO news"
   },
   {
