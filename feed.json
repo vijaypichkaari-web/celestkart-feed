@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T17:02:36.436807+00:00",
+ "updated": "2026-11-04T17:58:16.291157+00:00",
  "errors": [],
  "items": [
   {
@@ -24,14 +24,6 @@
    "summary": "This photo released on Nov. 2, 2026, showcases NGC 4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of milli",
    "image": "",
    "date": "2026-11-04T15:59:36+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "NASA, NOAA Track 2026 Antarctic Ozone Hole",
-   "link": "https://science.nasa.gov/earth/2026-ozone-hole/",
-   "summary": "Weather provided ideal conditions for enhanced ozone depletion",
-   "image": "",
-   "date": "2026-11-04T15:00:14+00:00",
    "source": "NASA"
   },
   {
@@ -64,6 +56,14 @@
    "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental",
    "image": "",
    "date": "2026-11-03T15:35:14+00:00",
+   "source": "NASA"
+  },
+  {
+   "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
+   "link": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
+   "summary": "Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator ",
+   "image": "",
+   "date": "2026-11-03T15:15:50+00:00",
    "source": "NASA"
   },
   {
@@ -131,6 +131,14 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "NASA's Artemis II moon launch tore a hole in Earth's upper atmosphere so huge it disrupted GPS signals",
+   "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals",
+   "summary": "\"It could have a strong impact not only on self-driving cars but also on drone positioning.\"",
+   "image": "https://cdn.mos.cms.futurecdn.net/jCTxGyAkTNHDNQViyQuhVj-1920-80.jpg",
+   "date": "2026-11-04T17:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "Students gather to explore Hawaii's glorious night sky | Space photo of the day for Nov. 4, 2026",
    "link": "https://www.space.com/stargazing/students-gather-to-explore-hawaiis-glorious-night-sky-space-photo-of-the-day-for-nov-4-2026",
    "summary": "Over 1,400 students gathered in Hawaii recently to learn about astronomy as part of the annual Journey Through the Universe program.",
@@ -187,14 +195,6 @@
    "source": "Space.com"
   },
   {
-   "title": "'OGame' developers explain how the browser-based sci-fi game has lasted 24 years ahead of the huge Orion update",
-   "link": "https://www.space.com/entertainment/space-games/ogame-developers-explain-how-the-browser-based-sci-fi-game-has-lasted-24-years-ahead-of-the-huge-orion-update",
-   "summary": "The OG sci-fi browser game is still going strong.",
-   "image": "https://cdn.mos.cms.futurecdn.net/vgJjaBND589GTN48p5hjjn-1920-80.jpg",
-   "date": "2026-11-03T20:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
    "title": "The Hindu's Editorial, November 2, 2026 Slow recovery: On the ISRO’s GSLV-F18 mission - The Hindu",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVldfWXI5QXRTSktPSW1GVjhnZTNNX0V5SW5lMnllS2VvU2RYU3JJMVBkZ2E4a2F0TlZ5XzhwQVREdmJZV2Z6TjZqNnd0VWc4cTdMZUFZbFpKSlZlWkU1OC15aUVyWHI4TlNCdXQ5c2tqSmM4cGllNGZtNFU0WFE2cmRqN1ktdDZtaC1iazdOU1NkSlFGMDNSLURUS0pYem93V3NLMm1nOTg4VXpjTnJ6ZEFXY0l6aVg1UUhYaDZxTmVkS2lMeHU0bHNmSVNsVFg3aE1VM2MyS1R0Z9IB4AFBVV95cUxPdWl1dFV4VDJPTmF6clYwTUdLbm94bGF0bzY3YWRoOUNyNDU5TjFYcVJadlJxSGE0ellXcVdxd3VMdWJjRmdjNy1IcWxYdUVEWEMxM0xORkxYUWUyUlBQUzZaSXhydGRqeEUyMkpjME1qMDFINWZXVU43QVhHZm5uZTBjaGhVWFFnZVdWankzcTJsd2xFWjlIanVKR2VDRjlCakFwUkdOY2tQZ2JoZ0lIdzJEZV9jNGp4MklGV3dEbmFyV2V1dFlfaWhwbXBkVWpVNnk3QVFKVmxhYVVUal9mNA?oc=5",
    "summary": "The Hindu's Editorial, November 2, 2026 Slow recovery: On the ISRO’s GSLV-F18 mission The Hindu NVS-03 launched successfully; satellite placed in intended orbit | Highlights The Hindu Ananth Technologies supplies avionic",
@@ -203,11 +203,11 @@
    "source": "ISRO news"
   },
   {
-   "title": "ISRO Chairman V. Narayanan is 'Mr Go-Getter' - Whispers in the Corridors",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaC1aZGY4X3BxV0FCajNndGxURmRwQ19TVkwwcEFjcGs0aldUYVo4SzBRMUhuVF9sOXJrTXgxRFNTQVZPQjhMT3FyVWtBLUVtbFlpRGtMajRzOFB0TmZPRG93T3AtZ3JMbnN6ZXN6S1VSYjVfUVBBQk11RkRGUHB1ZTROZkR4Z00?oc=5",
-   "summary": "ISRO Chairman V. Narayanan is 'Mr Go-Getter' Whispers in the Corridors",
+   "title": "ISRO Successfully Places NVS-03 Navigation Satellite In Geosynchronous Orbit - Deccan Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZVhrb3V1MkJiOHB0Q1BrVjVJWW1qU0J2MHlfdjhTcFJRYk5MS3g2OUdjMXoyVnNMVVA4RDBwZnJDcVNBOUxqaFZwenN2RUVFeW5CdlpDTXJoVUF1OTc4S0tHb1pTSlpzRHBWeDZISDZoUWhHUmxfSV9aTkVTT2k2SjJEU0xSSTVuNTk4YzhKS2xNdFozU3VzWUJZRy1DVU9saTNxMnVKOHBiYmxIM1NUVllzb3Vubi0tVjFzejZ0VVFHODFYNmdMZWJqazllelRYTXVGVXBtVzZSelNIUGVDRtIB5gFBVV95cUxQTTY4SGJybkdKTXhPX2otM1R4LXU0WXlQMk55WndxTDFzeTFfd29yMWtmTHNDelFuNUZoT3k4Q2djRW1YVkZQUHVReVAxVkllcWFDVFZIMHpnRFAxUEYtaEtkNHFoRzRWV3hHYnBTdEVRTnRTZkIxWW9pNklZMi1zUjBFdFA2RU9TZDlRb0RRVVp6amJZRHdHaDRjbVNSclowQTVTYVZueU1RNzh1MzE0WHI3UWNhUWMtWkxOVENvclkzZF91SDVmazJqNTZ1M0U4VEpORlVHU3VOdlFiOHZ1M25UV1VNdw?oc=5",
+   "summary": "ISRO Successfully Places NVS-03 Navigation Satellite In Geosynchronous Orbit Deccan Chronicle",
    "image": "",
-   "date": "2026-11-02T04:10:33+00:00",
+   "date": "2026-11-04T17:49:40+00:00",
    "source": "ISRO news"
   },
   {
@@ -257,6 +257,14 @@
    "image": "",
    "date": "2026-10-31T04:05:37+00:00",
    "source": "ISRO news"
+  },
+  {
+   "title": "NVS-03 reaches geosynchronous orbit; satellite in good health",
+   "link": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
+   "summary": "‘Four orbit manoeuvres have been successfully completed with a cumulative LAM engine burn of 6164 seconds; with this the satellite has reached Geo Synchronous Orbit at an inclination of 29.980,’ said ISRO",
+   "image": "https://th-i.thgim.com/public/incoming/m0zltm/article71667253.ece/alternates/LANDSCAPE_1200/PTI10_31_2026_000045B.jpg",
+   "date": "2026-11-04T17:30:19+00:00",
+   "source": "The Hindu (Science)"
   },
   {
    "title": "Back to back GSLV successes help ISRO win back some pride",
@@ -312,14 +320,6 @@
    "summary": "Mr. Modi also said that equipped with enhanced capabilities, NVS-03 will further India’s pursuit of self-reliance in critical technologies and support navigation services that benefit the people",
    "image": "https://th-i.thgim.com/public/news/national/dj97zx/article71648565.ece/alternates/LANDSCAPE_1200/gslv%20f18%20nvs%2003%20nabin.png",
    "date": "2026-10-31T07:22:55+00:00",
-   "source": "The Hindu (Science)"
-  },
-  {
-   "title": "To overcome technical hurdles, ISRO flew NVS-03 satellite with pyro valves open: Narayanan",
-   "link": "https://www.thehindu.com/sci-tech/science/to-overcome-technical-hurdles-isro-flew-nvs-03-satellite-with-pyro-valves-open-narayanan/article71648408.ece",
-   "summary": "Pyro valves are crucial in spacecraft propulsion, and it may be recalled that the NVS-02 (launched in 2025), the second spacecraft in the NVS series, was a failure",
-   "image": "https://th-i.thgim.com/public/incoming/iatlf9/article71648447.ece/alternates/LANDSCAPE_1200/PTI10_31_2026_000064B.jpg",
-   "date": "2026-10-31T06:26:57+00:00",
    "source": "The Hindu (Science)"
   },
   {
