@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-05T15:06:11.241609+00:00",
+ "updated": "2026-11-05T16:11:18.192299+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "Midwestern City Lights",
+   "link": "https://www.nasa.gov/image-article/midwestern-city-lights/",
+   "summary": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detro",
+   "image": "",
+   "date": "2026-11-05T15:17:19+00:00",
+   "source": "NASA"
+  },
+  {
+   "title": "NASA Astronauts to Answer Questions from Florida Students",
+   "link": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/",
+   "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 10:40 a.m.",
+   "image": "",
+   "date": "2026-11-05T15:11:25+00:00",
+   "source": "NASA"
+  },
   {
    "title": "Hubble Learns Galactic History From Stars",
    "link": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
@@ -48,22 +64,6 @@
    "summary": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft withou",
    "image": "",
    "date": "2026-11-04T18:00:02+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
-   "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
-   "summary": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – In",
-   "image": "",
-   "date": "2026-11-04T16:52:43+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
-   "link": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
-   "summary": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leaders",
-   "image": "",
-   "date": "2026-11-04T16:16:41+00:00",
    "source": "NASA"
   },
   {
@@ -131,6 +131,14 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "NASA's Voyager 1 probe bounces back from communications glitch in interstellar space",
+   "link": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space",
+   "summary": "NASA's Voyager 1 probe is back in communication after the 49-year-old spacecraft briefly fell silent last month, during its interstellar-space mission.",
+   "image": "https://cdn.mos.cms.futurecdn.net/bUP6ipSPwRnVPNkNak7LD7-1920-80.jpg",
+   "date": "2026-11-05T15:18:15+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "Earth photobombs spacewalking Canadian astronaut | Space photo of the day for Nov. 5, 2026",
    "link": "https://www.space.com/space-exploration/human-spaceflight/earth-photobombs-spacewalking-canadian-astronaut-space-photo-of-the-day-for-nov-5-2026",
    "summary": "Canadian astronaut Joshua Kutryk poses for a photo mid-spacewalk on Oct. 29, 2026.",
@@ -187,19 +195,11 @@
    "source": "Space.com"
   },
   {
-   "title": "Trump declares 'American space superiority for all eternity' in election night proclamation",
-   "link": "https://www.space.com/space-exploration/trump-declares-american-space-superiority-for-all-eternity-in-new-white-house-proclamation",
-   "summary": "President Trump has declared space a frontier for all humanity, asserting America's right to develop and settle the solar system under U.S. law.",
-   "image": "https://cdn.mos.cms.futurecdn.net/6WMpQATRqvrCoSBmkEZu2Z-1920-80.jpg",
-   "date": "2026-11-04T22:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "The Hindu's Editorial, November 2, 2026 Slow recovery: On the ISRO’s GSLV-F18 mission - The Hindu",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVldfWXI5QXRTSktPSW1GVjhnZTNNX0V5SW5lMnllS2VvU2RYU3JJMVBkZ2E4a2F0TlZ5XzhwQVREdmJZV2Z6TjZqNnd0VWc4cTdMZUFZbFpKSlZlWkU1OC15aUVyWHI4TlNCdXQ5c2tqSmM4cGllNGZtNFU0WFE2cmRqN1ktdDZtaC1iazdOU1NkSlFGMDNSLURUS0pYem93V3NLMm1nOTg4VXpjTnJ6ZEFXY0l6aVg1UUhYaDZxTmVkS2lMeHU0bHNmSVNsVFg3aE1VM2MyS1R0Z9IB4AFBVV95cUxPdWl1dFV4VDJPTmF6clYwTUdLbm94bGF0bzY3YWRoOUNyNDU5TjFYcVJadlJxSGE0ellXcVdxd3VMdWJjRmdjNy1IcWxYdUVEWEMxM0xORkxYUWUyUlBQUzZaSXhydGRqeEUyMkpjME1qMDFINWZXVU43QVhHZm5uZTBjaGhVWFFnZVdWankzcTJsd2xFWjlIanVKR2VDRjlCakFwUkdOY2tQZ2JoZ0lIdzJEZV9jNGp4MklGV3dEbmFyV2V1dFlfaWhwbXBkVWpVNnk3QVFKVmxhYVVUal9mNA?oc=5",
-   "summary": "The Hindu's Editorial, November 2, 2026 Slow recovery: On the ISRO’s GSLV-F18 mission The Hindu NVS-03 launched successfully; satellite placed in intended orbit | Highlights The Hindu Karnataka: NVS-03 now in its intende",
+   "title": "ISRO’s latest navigation satellite NVS-03 is fully healthy, says Chairman V. Narayanan - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeDAyalRMNFZQNjBhakF5blFOM0RyR3pwZnFDbXE0VGlBdS11ZUNOSUJTeXEwOTZydHNCcmpnWTB6RTdPWW40ZUhMblZpU3M4WEpIWkZnS0ZQSGF1RWw4T0lzcmFsS3ZXSGFzcWEzOWtZSDRqdm5RX3h6a01QLXlMR2hqVTJCVTI1cVhXZzd6eGRwSDVTc21TRWtTWktGOWdRdjVSRUg4TmxLY3dHMF8yUjFSQ0RmZlRHcXRMRkhRNnByWm5NQk1rVjBwR21kV25veTBURlhQdDJpRExoR29UajBn0gHoAUFVX3lxTE1GV2N5VFhsNW1RbnQ0dFVubjZOcFZYUkRVY2Z0LWJ3Mng2WmtuMzNPX2lmaXY5RVRzb3dXNm14NVdZdVozV3BRcm5LMmNWZ3d4TmxYMGxUbVpiMWNFQW10UUVhWTlPWkhQcjA1OHNCc0NZWG1Hd2JVZ3F4QU9ZQ0pCa2NPZ3NDZHNGODVmcUd6aWdHMGlabTBJcG1xb1pOUXVsaTFXMDI3QXJzQVJCMXk0Vndhb043R0tQVTBVT0R0YU1YLWlJZ0s4dElqdGVsOUxmZGZnTlNZLWZ2OEw3S2lnWWpaS3pUVFU?oc=5",
+   "summary": "ISRO’s latest navigation satellite NVS-03 is fully healthy, says Chairman V. Narayanan The Hindu",
    "image": "",
-   "date": "2026-11-01T19:23:27+00:00",
+   "date": "2026-11-05T15:30:20+00:00",
    "source": "ISRO news"
   },
   {
@@ -211,59 +211,75 @@
    "source": "ISRO news"
   },
   {
-   "title": "GSLV-F18/NVS-03 MISSION - ISRO",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDNkFYM2JwMG8xYURPRFpqQkNyVDNwYjZPdVpjb3ROVG5pc28xM3cyRlhFeDBTTHhxM2l0aFBwTGxkLW1PcV9YaUprMUtvOVJMUVVmNVltaw?oc=5",
-   "summary": "GSLV-F18/NVS-03 MISSION ISRO",
+   "title": "There was no Mangalyaan. But a failed Russian plan put India on road to Mars - India Today",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbUNKcHFjY2Znc19kamtISnpxb0pHYTRrczhFeDBvU0tHUjlYU0pUeFdISm1fWXg5R25xU1lpMWFsUENXUXFIRFlIeGp5Mlg2VFNlb2dKOHduMG5mSm1DSWJhX2Z3Ykp5RDJjV0xGNDVWS3Vob2RINXRyS0hqM1hudUZ4ZlBWV1RpeUF3RjhISnVTanJ2b3VvRTZPS1NUODQzbmJXZXN5Y2pXZmdJV3p0aUhQVTRGTF9TT0thSXpCbzFkTkZnWEpfUlV4eWVNQ2NmMTQ2U1d4NVJaQ1E1bG1SRHZ30gHnAUFVX3lxTFBhNlF6MWJVcjVaRFFwNkM2ZHFWbmE5MkU0d1ItN1JROTRGdk9XbUh4MkNsbUpjaDdOdTA3UEFlMVBBQTdGU21rRkZjbTRNNHFPNlpTRTVuakNhWi05ekhzZWk1MTNXUW5QMDVnMTAzbVdjWFJkYjAzRE9ZdHZsRllfTWp5UzVvMU83SEZMdE91Ni01SV9PTDh5aEYwTDBuQ29MS1RMUlFNcVdfelVISlROODR5RmR1bFpEYmxRWlFDb0dZS1JJR3UyUVFwallOU2VaaXg4a1FvZzIyand2aVN0Q0dDMVpOYw?oc=5",
+   "summary": "There was no Mangalyaan. But a failed Russian plan put India on road to Mars India Today",
    "image": "",
-   "date": "2026-10-31T04:05:37+00:00",
+   "date": "2026-11-05T06:40:00+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "Russia Helped India When Other Countries Refused To Share Space Technology: ISRO Chief Narayanan - ETV Bharat",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaUJNLTNDTXBGUEtmVGxIRXdkR01LZ0lXUHdzTDRfUzdkekJnYmI1XzAzQ3BnS1locElrbWdzLXpwajZkdWJONzF4blc3anRpTWxndkJ1cTRQRzVpb0FkYWNuRmhXckJ5YTllYmNSRnlMck4xcS1hVnlKanVuRWpDZVZUZE84QjQtRWVic0s2S2h6dkdtdjZZa3l1dDRlX3FUU09YeDhobkEtVE1GTWFsN0p4ZGJ1SDZuUlA1X2diOXhrNU1KMFlxenlzNkVTSDhfZG5taThQU3J3T25JQjBF0gHkAUFVX3lxTE9keUwwRWZVdHBKRUltbVNaMUtNaHQzaDh0X0RlYlNQVFFqbDhfc1J5ZTY1Y0lkTFFnaGVKRnZZdXpLVkxTU3RkRzhkYmVhRnlMZWhhc3A2TmVDaFRaNVlsNnNheXpFS0RsLVBUZ1lEMGRPYVVxS0w5a01oNHBqMEtEMzRkSUs5aTNRWndmR01UaTYtT0RnSUJRd1BYOFVyaGM0RHpacS1TMGNlWFRUR1JCV3l3OXlOczlQaVZaNm9DZ3FPa2NhUmtvSl82TGxqeVBLVFRyUV9rcWZUY0VlVUtEX3VaNw?oc=5",
-   "summary": "Russia Helped India When Other Countries Refused To Share Space Technology: ISRO Chief Narayanan ETV Bharat",
+   "title": "Breaking News Live Updates: Isro launches NVS-03 satellite to strengthen India's NavIC system - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa09ZMjFaQW5OWnZ4UkswOEw2dG4zcjNLc3ZWeUNyRE1xQ2pDUVo0SXY1UkJtNUxqUmhYNWRFNUNmWllPVTAyb1pwZUROa3lRRjBXZGpFaGlUTmVQdGljWVZzSE9EN0pCaHhhVm5FM0p1aWtGbExkZVZxLXg0eGNLcUhiUDRzLXVPcGRQazhHRk05NVllR3dqZkhEOV9Ub0NzUXVYb2tzb3BxNmg1YnhqMzRrQ3B0QdIBuwFBVV95cUxONzlqTzF4clhCMVNqeV9OQXp4MXltZHFRQWFtc3lVNkFmZERNcUZZdzNHOUZXU2EtNldaY3djQ2JMVTVHOGRzYWlnU0RVZnJiZDA0NklLSzNsczJnRzJwYnJKS0J6UlBfOUdwYzhOVXRzZXZYbTZ6NnlrbHhoSHlZbS0yZXMzcEd0Njd4RkM0eDVhYXlPNzBpWnRpVk1KUnJUUG81cXlEUW5KeFNrYms0REp6Y3hDVEZmWEhn?oc=5",
+   "summary": "Breaking News Live Updates: Isro launches NVS-03 satellite to strengthen India's NavIC system The Times of India",
    "image": "",
-   "date": "2026-11-05T12:31:01+00:00",
+   "date": "2026-10-30T18:41:13+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "Indian Space Research Organisation (ISRO) | History, Structure, Facilities, & Facts - Britannica",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04Zm1FZHM5WnZJYWJXSnFUeHRuMWRVUjI0eEdHSWluUHVFbFMtRlE1UG53akdMTnFaSU5WS1NyRVpOS3BxRTBjclcySkloRGVEOEM5TkhWSVBOWTNoemZ2T1hRM0RTSHFVRDNoTGVlbkRLbnlZOXc?oc=5",
-   "summary": "Indian Space Research Organisation (ISRO) | History, Structure, Facilities, & Facts Britannica",
+   "title": "Karnataka: NVS-03 now in its intended orbit - The New Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNEp1VGp4NUdUMU54X0NFTkdETlYxcFlOVm9BX1ItWGhGTnY4LVlqTl9zd0hESzM3WWUwOG91VWNqTTUwUVhWeDFiT2EwV21nNGdQc1ZaODlESlAyWVBaenk2Smt1WEZPeEZZTmJWRjV1TWRWVlNpbDhfekRadERrYWZILWEtb1hmdE9lcC1XTXBuMWRkbXdQZFRUU29xQS1MMUNLdWlCa9IBtAFBVV95cUxNRnlxbG9nTWk5aURJMGszZTdPcHNSRklZTHk5SGZ0ZWJPNHRXdXd0ckVva25rS25GZE1pY1psOXNmckNIRnJ5bUZrRXN0TXM5V3VaeEdPbTBCa3NPVkpIWUs2TVJVaDNIY1gwZjFwVHNYWkxsY2ZTd0xiTHhLMkxvc1RQa1dEYTRkeFhyTHBYNUl0cWJYV2NWVzM2ZDZ3VHh6ZXlLRHdhblhwYTViM2trNTZwdmI?oc=5",
+   "summary": "Karnataka: NVS-03 now in its intended orbit The New Indian Express",
    "image": "",
-   "date": "2026-11-02T08:00:00+00:00",
+   "date": "2026-11-05T02:38:52+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "ISRO To Begin Rocket Launches From Tamil Nadu Spaceport Next Year - Deccan Chronicle",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSlF4bGFMQllobUdlWHJ5NjBZcjZMNFFWRW9MYlFibl8waWo2bFV6azlWZkdHeEpfWXZ1RGJqWmwySGVuMXR6aXNSckMyNUNkOTRwY1FWR0Yxd0Z1MlVJbEg4S3BENk1mLTdHdXZsZlctbTZ0SHJJd1FZb1dMeHRFajJ5UTF1VmVHSHk5eG5uQzBGdFZhMEhSNzM0dkgwbmFPd19NdkZMaWg5WXdkOEQ4aDhCazg0QmhFVlFfUXcxU1NydDR1SE9DOUFEaGrSAdIBQVVfeXFMT2ZkMGktZnpuVXgwUTdmckFkOWRKaUlFSXQ1ZkJNZ09sa3IyZjZyenRHV20waTYydXZjeG9OU2dIVFRqRzQzVjI1cHdlUEJRbmlMWnBhVnJWcVB5YXFOd1Vrd29pazRyTnIwV1VKZWlqSENlaGZWSVlrN01SZzVtSmItRWthbkJrSEpQZnc5aE83OTFZNm9qSjU4V19kU3o3T2tMdlFPSERET1hKM19Da1o0ZGRxWlBmRlZCcDhnTjR1MHFhbHhCVEd4WXJGbV83dmJn?oc=5",
-   "summary": "ISRO To Begin Rocket Launches From Tamil Nadu Spaceport Next Year Deccan Chronicle",
+   "title": "Mission ShaktiSAT aims to bring thousands of girls together to reach for the moon - The Week",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYnk5TnVyOUFpNUE3UFlaUmZvR3pzcEpjb2Q0WE5kLWFXaDRLNEJHTER6R3Fhc2l6dGd3em10Vmd4SExhWi1heFlscWxhaV9EdWNmRkdNUTh6eS1NVXlhNmJNMVJ3MHRwMjdWbkdsSklweUtoUWE0REI0cERsM3JFMW5fckFtNl9sUHIzZ05xMFZrQTlrZkhQcWRlSFB5RGhOV3FSUzlNWmjSAa4BQVVfeXFMTjl3aHZrazkzVFQ1b2VhZE5MTWZicmNSVThtLTlUYUZPSjJoclkxU2FLS3A2eGVoZndkVzdPVnFDaktYOGNLUVJLZktOVnB6Nm9jVVJ4R1FieUpwbWZKTVg2c1cyV3d2dGlUbXdqWTZCY0I2cXczeUZDa19NMnN5ZTFHejRBTDBzdnlTRlVzU2VYTHJIYWlNN1ZYQWo4Q3hiS29ROE9wa3M3OThSQWhn?oc=5",
+   "summary": "Mission ShaktiSAT aims to bring thousands of girls together to reach for the moon The Week",
    "image": "",
-   "date": "2026-11-05T11:41:59+00:00",
+   "date": "2026-11-05T12:05:02+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "Isro chief unveils Yuri Gagarin statue, thanks Russia for supporting space programme - India Today",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1dzNDNKSDJ0TTBGVUR3YUFMQU5XZWVrWGtzTll1WEtUWEdwaUdVR0FQZlhLdnVVMUE0YTV6N21JWjRVbWdZN2NyMnhsak92VGk1TzdwU0xMck16Wl91MFN6S0pnaGFQSUxybjdqT0RUbDBIRTBQcDJIVTIyNkdGNXNmU3ZiVmpBWTNQNWY5cUU2OEI3QkE5MmtZSEZiVXVmbjQwZTVDVTh5MFE3Qk130gGvAUFVX3lxTE5jV3M0M0pIMnRNMEZVRHdhQUxBTldlZWtYa3NOWXVYS1RYR3BpR1VHQVBmWEt2dVUxQTRhNXo3bUlaNFVtZ1k3Y3IyeGxqT3ZUaTVPN3BTTExyTXpaX3UwU3pLSmdoYVBJTHJuN2pPRFRsMEhFMFBwMkhVMjI2R0Y1c2ZTdmJWakFZM1A1ZjlxRTY4QjdCQTkya1lIRmJVdWZuNDBlNUNVOHkwUTdCTXc?oc=5",
-   "summary": "Isro chief unveils Yuri Gagarin statue, thanks Russia for supporting space programme India Today",
+   "title": "ISRO Successfully Places NVS-03 Navigation Satellite In Geosynchronous Orbit - Deccan Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZVhrb3V1MkJiOHB0Q1BrVjVJWW1qU0J2MHlfdjhTcFJRYk5MS3g2OUdjMXoyVnNMVVA4RDBwZnJDcVNBOUxqaFZwenN2RUVFeW5CdlpDTXJoVUF1OTc4S0tHb1pTSlpzRHBWeDZISDZoUWhHUmxfSV9aTkVTT2k2SjJEU0xSSTVuNTk4YzhKS2xNdFozU3VzWUJZRy1DVU9saTNxMnVKOHBiYmxIM1NUVllzb3Vubi0tVjFzejZ0VVFHODFYNmdMZWJqazllelRYTXVGVXBtVzZSelNIUGVDRtIB5gFBVV95cUxQTTY4SGJybkdKTXhPX2otM1R4LXU0WXlQMk55WndxTDFzeTFfd29yMWtmTHNDelFuNUZoT3k4Q2djRW1YVkZQUHVReVAxVkllcWFDVFZIMHpnRFAxUEYtaEtkNHFoRzRWV3hHYnBTdEVRTnRTZkIxWW9pNklZMi1zUjBFdFA2RU9TZDlRb0RRVVp6amJZRHdHaDRjbVNSclowQTVTYVZueU1RNzh1MzE0WHI3UWNhUWMtWkxOVENvclkzZF91SDVmazJqNTZ1M0U4VEpORlVHU3VOdlFiOHZ1M25UV1VNdw?oc=5",
+   "summary": "ISRO Successfully Places NVS-03 Navigation Satellite In Geosynchronous Orbit Deccan Chronicle",
    "image": "",
-   "date": "2026-11-05T11:48:49+00:00",
+   "date": "2026-11-04T17:49:40+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "ISRO launches NVS | Akashvani News - AIR News",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUJYcmNSa0F4Qmw2eW02MElQcmlfQ1FhZXNfNUk5MXY5dmFCelhsRGtzTE1Jb21kWURHV2RHTkhlY0pJRV9ObGswN2lnejlJMER2aE0wa2xjd1ZmSmZ5ZHpmVlNsVktHRnBkdjNBLURpdmpNMm1ial93TDlzbExlc3ljbXB6Q3VRdkRtMkVlVnlQd2xpNGRTdlRnR2FDWkFzeFREZDdxSlpOeUx0eTRzbGl3?oc=5",
-   "summary": "ISRO launches NVS | Akashvani News AIR News",
+   "title": "World turned down India, but Russia never did: ISRO Chairman V Narayanan thanks Russia for its space support - DT Next",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeHVBMk5DZGowc0xieV9idHV5VnFoYzhNOFVDcXlzZnZtVlhkQkxNSC1RTC1fRi1zWGE1U25FVl9lVVRaT1g0SEYtM2JBRjl5OVdpQmJNLXRRbWZ3dTBEZ09CYWYxY0xaRzNOTW9RU3h5b0dRZU9MMk5HSWxob3BOdFVuV3o1WmFMUkRyTUdfd2ZleWJCYWVyXzlnR29KaXUzZ0h3anBidGpvRk1nNG1zWEdoU3lUdGRHRTZRVGpoakdJd3NuX3prdVZnbzFVWExLOTJSM055VDFQd9IB5wFBVV95cUxPakdkSVp0QkxWY3FINHh5VlF6UkR0OFg2TXpBOGlOblM2d0huQ3I1aXdmVk5mb1c0LXNJTFVOVktwNm1sZ2hlQUxvMDZ0WHhRS3UtOU1yczUyR0g0S3pJVWJwVzZ2bFZ4STI0cU9OVXJCWVdmLVFJSzdEak5RMVd1UjhYUFNrVXVOVWF6eW9YNVpLLTRKdGR1UDNFSHpGQlB5eWY3c1lpVElESThFOU91RmRfV19acjdjNUkzejFWV2YyQjJ6cWo0Q2hEckhndml3NHV5VFdMZFo3bGpNLUZZbXZMSGxpQ00?oc=5",
+   "summary": "World turned down India, but Russia never did: ISRO Chairman V Narayanan thanks Russia for its space support DT Next",
    "image": "",
-   "date": "2026-10-31T05:15:00+00:00",
+   "date": "2026-11-05T09:05:09+00:00",
    "source": "ISRO news"
+  },
+  {
+   "title": "ISRO’s latest navigation satellite NVS-03 is fully healthy, says Chairman V. Narayanan",
+   "link": "https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece",
+   "summary": "ISRO to conduct in-orbit testing for satellite payload as part of developing NavIC, an indigenous GPS alternative; ISRO chief recalls Indian scientists’ role in saving lives on the Axiom-4 mission; praises Russian suppor",
+   "image": "https://th-i.thgim.com/public/incoming/8bg6t9/article71670942.ece/alternates/LANDSCAPE_1200/4871_5_11_2026_11_50_38_1_DSC_5363_1.JPG",
+   "date": "2026-11-05T15:30:20+00:00",
+   "source": "The Hindu (Science)"
+  },
+  {
+   "title": "Slow recovery: On the ISRO’s GSLV-F18 mission",
+   "link": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-november-2-2026-slow-recovery-on-the-isros-gslv-f18-mission/article71654004.ece",
+   "summary": "ISRO needs more human and material resources to fulfil its mandate",
+   "image": "https://th-i.thgim.com/public/incoming/uiy1y/article71669137.ece/alternates/LANDSCAPE_1200/IMG_4886.JPG%202.jpeg",
+   "date": "2026-11-05T08:11:21+00:00",
+   "source": "The Hindu (Science)"
   },
   {
    "title": "NVS-03 reaches geosynchronous orbit; satellite in good health",
    "link": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
    "summary": "‘Four orbit manoeuvres have been successfully completed with a cumulative LAM engine burn of 6164 seconds; with this the satellite has reached Geo Synchronous Orbit at an inclination of 29.980,’ said ISRO",
    "image": "https://th-i.thgim.com/public/incoming/m0zltm/article71667253.ece/alternates/LANDSCAPE_1200/PTI10_31_2026_000045B.jpg",
-   "date": "2026-11-04T18:03:27+00:00",
+   "date": "2026-11-05T05:34:06+00:00",
    "source": "The Hindu (Science)"
   },
   {
@@ -280,14 +296,6 @@
    "summary": "From the launch of Sputnik 2 to Laika’s historic journey, test your knowledge of one of the most significant and poignant episodes of the early Space Race",
    "image": "https://th-i.thgim.com/public/sci-tech/science/iuzhe7/article71659220.ece/alternates/LANDSCAPE_1200/Laika.jpg",
    "date": "2026-11-03T10:58:21+00:00",
-   "source": "The Hindu (Science)"
-  },
-  {
-   "title": "Slow recovery: On the ISRO’s GSLV-F18 mission",
-   "link": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-november-2-2026-slow-recovery-on-the-isros-gslv-f18-mission/article71654004.ece",
-   "summary": "ISRO needs more human and material resources to fulfil its mandate",
-   "image": "",
-   "date": "2026-11-02T04:07:41+00:00",
    "source": "The Hindu (Science)"
   },
   {
@@ -315,14 +323,6 @@
    "source": "The Hindu (Science)"
   },
   {
-   "title": "Launch of NVS-03: PM Modi congratulates scientists, engineers at ISRO",
-   "link": "https://www.thehindu.com/sci-tech/science/pm-modi-congratulates-isro-scientists-on-gslv-f18-launch-of-nvs-03/article71648465.ece",
-   "summary": "Mr. Modi also said that equipped with enhanced capabilities, NVS-03 will further India’s pursuit of self-reliance in critical technologies and support navigation services that benefit the people",
-   "image": "https://th-i.thgim.com/public/news/national/dj97zx/article71648565.ece/alternates/LANDSCAPE_1200/gslv%20f18%20nvs%2003%20nabin.png",
-   "date": "2026-10-31T07:22:55+00:00",
-   "source": "The Hindu (Science)"
-  },
-  {
    "title": "Alembic Pharma Q2 net surges 81% to ₹335 crore",
    "link": "https://www.thehindu.com/business/Industry/alembic-pharma-q2-net-surges-81-to-335-crore/article71666706.ece",
    "summary": "“U.S. business was driven by strong volume growth and new launches. In U.S. Branded, we are encouraged by the traction building across our existing portfolio,” said",
@@ -343,7 +343,7 @@
    "link": "https://timesofindia.indiatimes.com/science/nature/in-1935-australia-introduced-cane-toads-to-control-pests-now-an-a28-million-project-aims-to-modify-685-infrastructure-items-across-7500-square-kilometres-to-stop-the-invasive-animals-reaching-the-pilbara/articleshow/135535303.cms",
    "summary": "A new project involving Curtin University and Rio Tinto seeks to establish a waterless barrier for cane toads. The initiative intends to protect Western Australia's Pilbara area from the ecologically damaging species. Re",
    "image": "https://static.toiimg.com/photo/msid-135535799,imgsize-131667.cms",
-   "date": "2026-11-05T15:06:11.151707+00:00",
+   "date": "2026-11-05T16:11:18.088568+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -351,7 +351,7 @@
    "link": "https://timesofindia.indiatimes.com/science/space/after-22-years-in-space-nasas-3200-pound-swift-space-telescope-crashes-back-to-earth-over-indonesia-after-failed-30-million-rescue-mission-agency-estimates-1-in-2100-risk-of-debris-harming-someone/articleshow/135557967.cms",
    "summary": "NASA’s Neil Gehrels Swift Observatory re-entered Earth's atmosphere after 22 years in orbit, ending its mission. Swift was crucial for understanding gamma-ray bursts and other cosmic events, detecting over 2,000 bursts. ",
    "image": "https://static.toiimg.com/photo/msid-135558384,imgsize-821931.cms",
-   "date": "2026-11-05T15:06:11.151785+00:00",
+   "date": "2026-11-05T16:11:18.088652+00:00",
    "source": "Times of India (Science)"
   },
   {
