@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T11:16:12.011030+00:00",
+ "updated": "2026-11-05T13:20:44.056565+00:00",
  "errors": [],
  "items": [
   {
@@ -131,6 +131,22 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "China lays out plans to land astronauts on the moon 'before 2030.' Can NASA still win this race?",
+   "link": "https://www.space.com/astronomy/moon/china-lays-out-plans-to-land-astronauts-on-the-moon-before-2030-can-nasa-still-win-this-race",
+   "summary": "China has laid out its roadmap for landing astronauts on the moon \"before 2030,\" a milestone that NASA hopes to achieve in 2028.",
+   "image": "https://cdn.mos.cms.futurecdn.net/cTJYivq9mYM2y7WWZFSME7-1920-80.jpg",
+   "date": "2026-11-05T13:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "Early Black Friday beginner telescope deal — this portable Celestron is now 25% off at Amazon",
+   "link": "https://www.space.com/stargazing/skywatching-kit/early-black-friday-beginner-telescope-deal-this-portable-celestron-is-now-25-percent-off-at-amazon",
+   "summary": "This portable and beginner-friendly telescope is perfect for stargazing newbies or those who want better views but aren't ready to spend thousands.",
+   "image": "https://cdn.mos.cms.futurecdn.net/Y2oRe3rasGbzzDMZYKSiqT-1920-80.jpg",
+   "date": "2026-11-05T12:05:00+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "2 astronauts will finish upgrading ISS solar arrays during spacewalk today: Watch it live",
    "link": "https://www.space.com/space-exploration/international-space-station/2-astronauts-will-finish-upgrading-iss-solar-arrays-during-spacewalk-today-watch-it-live",
    "summary": "NASA's Anil Menon and Canada Joshua Kutryk will install the International Space Station's final roll-out solar array during a spacewalk today (Nov. 5). Here's how to watch it live.",
@@ -179,22 +195,6 @@
    "source": "Space.com"
   },
   {
-   "title": "Mars isn't dead — recent volcanic activity reveals it's just sleeping",
-   "link": "https://www.space.com/astronomy/mars/mars-isnt-dead-recent-volcanic-activity-reveals-its-just-sleeping",
-   "summary": "Scientists have long suspected that Mars is geologically \"dead\" but new spacecraft observations suggests the Red Planet's volcanoes are merely sleeping.",
-   "image": "https://cdn.mos.cms.futurecdn.net/H8GVsV7MCBNjGQuBJVBqxn-1920-80.png",
-   "date": "2026-11-04T19:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "NASA's Artemis II moon launch tore a hole in Earth's upper atmosphere so huge it disrupted GPS signals",
-   "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals",
-   "summary": "\"It could have a strong impact not only on self-driving cars but also on drone positioning.\"",
-   "image": "https://cdn.mos.cms.futurecdn.net/jCTxGyAkTNHDNQViyQuhVj-1920-80.jpg",
-   "date": "2026-11-04T17:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
    "title": "The Hindu's Editorial, November 2, 2026 Slow recovery: On the ISRO’s GSLV-F18 mission - The Hindu",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVldfWXI5QXRTSktPSW1GVjhnZTNNX0V5SW5lMnllS2VvU2RYU3JJMVBkZ2E4a2F0TlZ5XzhwQVREdmJZV2Z6TjZqNnd0VWc4cTdMZUFZbFpKSlZlWkU1OC15aUVyWHI4TlNCdXQ5c2tqSmM4cGllNGZtNFU0WFE2cmRqN1ktdDZtaC1iazdOU1NkSlFGMDNSLURUS0pYem93V3NLMm1nOTg4VXpjTnJ6ZEFXY0l6aVg1UUhYaDZxTmVkS2lMeHU0bHNmSVNsVFg3aE1VM2MyS1R0Z9IB4AFBVV95cUxPdWl1dFV4VDJPTmF6clYwTUdLbm94bGF0bzY3YWRoOUNyNDU5TjFYcVJadlJxSGE0ellXcVdxd3VMdWJjRmdjNy1IcWxYdUVEWEMxM0xORkxYUWUyUlBQUzZaSXhydGRqeEUyMkpjME1qMDFINWZXVU43QVhHZm5uZTBjaGhVWFFnZVdWankzcTJsd2xFWjlIanVKR2VDRjlCakFwUkdOY2tQZ2JoZ0lIdzJEZV9jNGp4MklGV3dEbmFyV2V1dFlfaWhwbXBkVWpVNnk3QVFKVmxhYVVUal9mNA?oc=5",
    "summary": "The Hindu's Editorial, November 2, 2026 Slow recovery: On the ISRO’s GSLV-F18 mission The Hindu NVS-03 launched successfully; satellite placed in intended orbit | Highlights The Hindu Breaking News Live Updates: Isro lau",
@@ -203,11 +203,11 @@
    "source": "ISRO news"
   },
   {
-   "title": "There was no Mangalyaan. But a failed Russian plan put India on road to Mars - India Today",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbUNKcHFjY2Znc19kamtISnpxb0pHYTRrczhFeDBvU0tHUjlYU0pUeFdISm1fWXg5R25xU1lpMWFsUENXUXFIRFlIeGp5Mlg2VFNlb2dKOHduMG5mSm1DSWJhX2Z3Ykp5RDJjV0xGNDVWS3Vob2RINXRyS0hqM1hudUZ4ZlBWV1RpeUF3RjhISnVTanJ2b3VvRTZPS1NUODQzbmJXZXN5Y2pXZmdJV3p0aUhQVTRGTF9TT0thSXpCbzFkTkZnWEpfUlV4eWVNQ2NmMTQ2U1d4NVJaQ1E1bG1SRHZ30gHnAUFVX3lxTFBhNlF6MWJVcjVaRFFwNkM2ZHFWbmE5MkU0d1ItN1JROTRGdk9XbUh4MkNsbUpjaDdOdTA3UEFlMVBBQTdGU21rRkZjbTRNNHFPNlpTRTVuakNhWi05ekhzZWk1MTNXUW5QMDVnMTAzbVdjWFJkYjAzRE9ZdHZsRllfTWp5UzVvMU83SEZMdE91Ni01SV9PTDh5aEYwTDBuQ29MS1RMUlFNcVdfelVISlROODR5RmR1bFpEYmxRWlFDb0dZS1JJR3UyUVFwallOU2VaaXg4a1FvZzIyand2aVN0Q0dDMVpOYw?oc=5",
-   "summary": "There was no Mangalyaan. But a failed Russian plan put India on road to Mars India Today",
+   "title": "Rocket launches from Kulasekharapatnam spaceport will commence next year: ISRO chief - ThePrint",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcWtZN2oyRFBTam1FRFBRd2VlZlQ4VXhwMTNTbEZMUXZod0ctM1BZS3gwMFhYdER4eXFLY1E1cExxUGx6d2FPN3pFV3loQXdIN2VmZ1BHZDRfcHZoT1lZYnNaa1VrSWktVE90bVRjVTM5bC1HQVl0Qm1icnVWUXoxQ2ZNUDdHM0ZZOUpkcXFLMjFZU3Q3cWRrX0hFVDk3dDB3X2pVMWRJZVBXZ1liSVhkV2hpM3R4LVNXM0HSAb8BQVVfeXFMTmJBeWVmUkhKVlVsaHRBTWxIOUlpRUppVkd1UUQtODlHUzRzNXE5ZHpqRzdVS2dsYkg1QzZnaGtGS1p4Yi1IdVUwSzNNRTBMbURkU29LdHRFSFVKN1FBQjZRTWFUOUQteEgxcF9NM2FlZ0JnRDBNcXFEcnZ0TGZrb2xOZElGeVlWVnlycTltODVLZ2hxX3Z2aVNENmZmUUg3akZ1OC1ISHRBTzI1NDJUSW9aZjFQWXdSb0xOSFdLV1E?oc=5",
+   "summary": "Rocket launches from Kulasekharapatnam spaceport will commence next year: ISRO chief ThePrint",
    "image": "",
-   "date": "2026-11-05T06:40:00+00:00",
+   "date": "2026-11-05T11:45:23+00:00",
    "source": "ISRO news"
   },
   {
@@ -227,35 +227,35 @@
    "source": "ISRO news"
   },
   {
-   "title": "ISRO launches NVS | Akashvani News - News On AIR",
+   "title": "Russia Helped India When Other Countries Refused To Share Space Technology: ISRO Chief Narayanan - ETV Bharat",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaUJNLTNDTXBGUEtmVGxIRXdkR01LZ0lXUHdzTDRfUzdkekJnYmI1XzAzQ3BnS1locElrbWdzLXpwajZkdWJONzF4blc3anRpTWxndkJ1cTRQRzVpb0FkYWNuRmhXckJ5YTllYmNSRnlMck4xcS1hVnlKanVuRWpDZVZUZE84QjQtRWVic0s2S2h6dkdtdjZZa3l1dDRlX3FUU09YeDhobkEtVE1GTWFsN0p4ZGJ1SDZuUlA1X2diOXhrNU1KMFlxenlzNkVTSDhfZG5taThQU3J3T25JQjBF0gHkAUFVX3lxTE9keUwwRWZVdHBKRUltbVNaMUtNaHQzaDh0X0RlYlNQVFFqbDhfc1J5ZTY1Y0lkTFFnaGVKRnZZdXpLVkxTU3RkRzhkYmVhRnlMZWhhc3A2TmVDaFRaNVlsNnNheXpFS0RsLVBUZ1lEMGRPYVVxS0w5a01oNHBqMEtEMzRkSUs5aTNRWndmR01UaTYtT0RnSUJRd1BYOFVyaGM0RHpacS1TMGNlWFRUR1JCV3l3OXlOczlQaVZaNm9DZ3FPa2NhUmtvSl82TGxqeVBLVFRyUV9rcWZUY0VlVUtEX3VaNw?oc=5",
+   "summary": "Russia Helped India When Other Countries Refused To Share Space Technology: ISRO Chief Narayanan ETV Bharat",
+   "image": "",
+   "date": "2026-11-05T12:31:01+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "ISRO To Begin Rocket Launches From Tamil Nadu Spaceport Next Year - Deccan Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSlF4bGFMQllobUdlWHJ5NjBZcjZMNFFWRW9MYlFibl8waWo2bFV6azlWZkdHeEpfWXZ1RGJqWmwySGVuMXR6aXNSckMyNUNkOTRwY1FWR0Yxd0Z1MlVJbEg4S3BENk1mLTdHdXZsZlctbTZ0SHJJd1FZb1dMeHRFajJ5UTF1VmVHSHk5eG5uQzBGdFZhMEhSNzM0dkgwbmFPd19NdkZMaWg5WXdkOEQ4aDhCazg0QmhFVlFfUXcxU1NydDR1SE9DOUFEaGrSAdIBQVVfeXFMT2ZkMGktZnpuVXgwUTdmckFkOWRKaUlFSXQ1ZkJNZ09sa3IyZjZyenRHV20waTYydXZjeG9OU2dIVFRqRzQzVjI1cHdlUEJRbmlMWnBhVnJWcVB5YXFOd1Vrd29pazRyTnIwV1VKZWlqSENlaGZWSVlrN01SZzVtSmItRWthbkJrSEpQZnc5aE83OTFZNm9qSjU4V19kU3o3T2tMdlFPSERET1hKM19Da1o0ZGRxWlBmRlZCcDhnTjR1MHFhbHhCVEd4WXJGbV83dmJn?oc=5",
+   "summary": "ISRO To Begin Rocket Launches From Tamil Nadu Spaceport Next Year Deccan Chronicle",
+   "image": "",
+   "date": "2026-11-05T11:41:59+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "Isro chief unveils Yuri Gagarin statue, thanks Russia for supporting space programme - India Today",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1dzNDNKSDJ0TTBGVUR3YUFMQU5XZWVrWGtzTll1WEtUWEdwaUdVR0FQZlhLdnVVMUE0YTV6N21JWjRVbWdZN2NyMnhsak92VGk1TzdwU0xMck16Wl91MFN6S0pnaGFQSUxybjdqT0RUbDBIRTBQcDJIVTIyNkdGNXNmU3ZiVmpBWTNQNWY5cUU2OEI3QkE5MmtZSEZiVXVmbjQwZTVDVTh5MFE3Qk130gGvAUFVX3lxTE5jV3M0M0pIMnRNMEZVRHdhQUxBTldlZWtYa3NOWXVYS1RYR3BpR1VHQVBmWEt2dVUxQTRhNXo3bUlaNFVtZ1k3Y3IyeGxqT3ZUaTVPN3BTTExyTXpaX3UwU3pLSmdoYVBJTHJuN2pPRFRsMEhFMFBwMkhVMjI2R0Y1c2ZTdmJWakFZM1A1ZjlxRTY4QjdCQTkya1lIRmJVdWZuNDBlNUNVOHkwUTdCTXc?oc=5",
+   "summary": "Isro chief unveils Yuri Gagarin statue, thanks Russia for supporting space programme India Today",
+   "image": "",
+   "date": "2026-11-05T11:48:49+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "ISRO launches NVS | Akashvani News - AIR News",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUJYcmNSa0F4Qmw2eW02MElQcmlfQ1FhZXNfNUk5MXY5dmFCelhsRGtzTE1Jb21kWURHV2RHTkhlY0pJRV9ObGswN2lnejlJMER2aE0wa2xjd1ZmSmZ5ZHpmVlNsVktHRnBkdjNBLURpdmpNMm1ial93TDlzbExlc3ljbXB6Q3VRdkRtMkVlVnlQd2xpNGRTdlRnR2FDWkFzeFREZDdxSlpOeUx0eTRzbGl3?oc=5",
-   "summary": "ISRO launches NVS | Akashvani News News On AIR",
+   "summary": "ISRO launches NVS | Akashvani News AIR News",
    "image": "",
    "date": "2026-10-31T05:15:00+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "World turned down India, but Russia never did: ISRO Chairman V Narayanan thanks Russia for its space support - DT Next",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeHVBMk5DZGowc0xieV9idHV5VnFoYzhNOFVDcXlzZnZtVlhkQkxNSC1RTC1fRi1zWGE1U25FVl9lVVRaT1g0SEYtM2JBRjl5OVdpQmJNLXRRbWZ3dTBEZ09CYWYxY0xaRzNOTW9RU3h5b0dRZU9MMk5HSWxob3BOdFVuV3o1WmFMUkRyTUdfd2ZleWJCYWVyXzlnR29KaXUzZ0h3anBidGpvRk1nNG1zWEdoU3lUdGRHRTZRVGpoakdJd3NuX3prdVZnbzFVWExLOTJSM055VDFQd9IB5wFBVV95cUxPakdkSVp0QkxWY3FINHh5VlF6UkR0OFg2TXpBOGlOblM2d0huQ3I1aXdmVk5mb1c0LXNJTFVOVktwNm1sZ2hlQUxvMDZ0WHhRS3UtOU1yczUyR0g0S3pJVWJwVzZ2bFZ4STI0cU9OVXJCWVdmLVFJSzdEak5RMVd1UjhYUFNrVXVOVWF6eW9YNVpLLTRKdGR1UDNFSHpGQlB5eWY3c1lpVElESThFOU91RmRfV19acjdjNUkzejFWV2YyQjJ6cWo0Q2hEckhndml3NHV5VFdMZFo3bGpNLUZZbXZMSGxpQ00?oc=5",
-   "summary": "World turned down India, but Russia never did: ISRO Chairman V Narayanan thanks Russia for its space support DT Next",
-   "image": "",
-   "date": "2026-11-05T09:05:09+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "Once Called 'Naughty Boy', ISRO Rocket Launches Next-Gen Satellite. Watch - NDTV",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY09aZVM3UjFhNGNWSTRueWw3WUM1blBnaEw5eWhGbEd5Qm5VQ3duYnVBbjVPYzZZRmI0LVNmZEhfNU1Nbll1dDJJbHZ5TWJoRi14VmdFTFM2NWFPalkxb2FNaEhNRWs1eWV3emRWaERXcGM0S2R0LVVtNks5LTItWHZudU02NTE5WWdvQkhDZlB6TDBZVVpLRzB4WnpJWXZSR0FQN29mcUJtUHNCMmZUVC1oMUVmcm_SAb8BQVVfeXFMUEl2WnFZWHlwaVFBSWZ4dW5BZzZodmZSUDVoSk5FUjR3NFpmYWxwWmVlOTlReElseGE3X3lKU1lLNmstVFd5Uklubjgxb1dGTlNuaThPTHY1Y2tnNUxmdGRxVS0tbVVLVV85VWFiNlV5ZTV2MVh5Nzg1WFhXQ3BUWnFQV0xxTTR5N20wS01HM2tnSzl2RWxCVmQ3Zk50akptbmxuSk9iQW1oMXlHb1loNjdDNlJGWlBwbGUwZVpqczA?oc=5",
-   "summary": "Once Called 'Naughty Boy', ISRO Rocket Launches Next-Gen Satellite. Watch NDTV",
-   "image": "",
-   "date": "2026-10-30T18:22:00+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "GSLV-F18/NVS-03 Gallery - ISRO",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWQm1DNmpCYU1zc3diLWJmVEdYVndrN0FkaFZoQUZmOENSVGVwUEU4QzY0VGR4WWM5SUM4T3FOcG9mWDNLNlNJVDRSN2h2d2NLYTU3Q0lIa2owdHdaYnFiQ1h3?oc=5",
-   "summary": "GSLV-F18/NVS-03 Gallery ISRO",
-   "image": "",
-   "date": "2026-10-31T04:05:37+00:00",
    "source": "ISRO news"
   },
   {
@@ -323,6 +323,14 @@
    "source": "The Hindu (Science)"
   },
   {
+   "title": "Alembic Pharma Q2 net surges 81% to ₹335 crore",
+   "link": "https://www.thehindu.com/business/Industry/alembic-pharma-q2-net-surges-81-to-335-crore/article71666706.ece",
+   "summary": "“U.S. business was driven by strong volume growth and new launches. In U.S. Branded, we are encouraged by the traction building across our existing portfolio,” said",
+   "image": "https://th-i.thgim.com/public/incoming/2aq9g1/article71669663.ece/alternates/LANDSCAPE_1200/IMG_Manufacturing-banner_2_1_SSCUK6T7.jpg",
+   "date": "2026-11-05T11:46:28+00:00",
+   "source": "The Hindu (Industry)"
+  },
+  {
    "title": "Vultr launches 20-MW AI supercluster in Chennai; aims 1 GW capacity by 2029",
    "link": "https://www.thehindu.com/business/Industry/vultr-launches-20-mw-ai-supercluster-in-chennai-aims-1-gw-capacity-by-2029/article71656654.ece",
    "summary": "The facility is expected to house around 10,000 GPUs initially. Global enterprises have pre-reserved a large portion of its capacity, the company said",
@@ -335,7 +343,7 @@
    "link": "https://timesofindia.indiatimes.com/science/nature/in-1935-australia-introduced-cane-toads-to-control-pests-now-an-a28-million-project-aims-to-modify-685-infrastructure-items-across-7500-square-kilometres-to-stop-the-invasive-animals-reaching-the-pilbara/articleshow/135535303.cms",
    "summary": "A new project involving Curtin University and Rio Tinto seeks to establish a waterless barrier for cane toads. The initiative intends to protect Western Australia's Pilbara area from the ecologically damaging species. Re",
    "image": "https://static.toiimg.com/photo/msid-135535799,imgsize-131667.cms",
-   "date": "2026-11-05T11:16:11.955883+00:00",
+   "date": "2026-11-05T13:20:43.855397+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -343,7 +351,7 @@
    "link": "https://timesofindia.indiatimes.com/science/space/after-22-years-in-space-nasas-3200-pound-swift-space-telescope-crashes-back-to-earth-over-indonesia-after-failed-30-million-rescue-mission-agency-estimates-1-in-2100-risk-of-debris-harming-someone/articleshow/135557967.cms",
    "summary": "NASA’s Neil Gehrels Swift Observatory re-entered Earth's atmosphere after 22 years in orbit, ending its mission. Swift was crucial for understanding gamma-ray bursts and other cosmic events, detecting over 2,000 bursts. ",
    "image": "https://static.toiimg.com/photo/msid-135558384,imgsize-821931.cms",
-   "date": "2026-11-05T11:16:11.955965+00:00",
+   "date": "2026-11-05T13:20:43.855467+00:00",
    "source": "Times of India (Science)"
   },
   {
