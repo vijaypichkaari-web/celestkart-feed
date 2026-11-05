@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-05T05:07:00.447435+00:00",
+ "updated": "2026-11-05T06:08:52.288830+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+   "link": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
+   "summary": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograp",
+   "image": "",
+   "date": "2026-11-05T05:05:00+00:00",
+   "source": "NASA"
+  },
+  {
+   "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+   "link": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
+   "summary": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
+   "image": "",
+   "date": "2026-11-05T05:01:00+00:00",
+   "source": "NASA"
+  },
   {
    "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
    "link": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
@@ -48,22 +64,6 @@
    "summary": "This photo released on Nov. 2, 2026, showcases NGC 4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of milli",
    "image": "",
    "date": "2026-11-04T15:59:36+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
-   "link": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
-   "summary": "APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photo",
-   "image": "",
-   "date": "2026-11-04T05:05:00+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "Before the Dawn in America’s Heartland",
-   "link": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
-   "summary": "With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest.",
-   "image": "",
-   "date": "2026-11-04T05:01:00+00:00",
    "source": "NASA"
   },
   {
@@ -211,6 +211,14 @@
    "source": "ISRO news"
   },
   {
+   "title": "Ananth Technologies supplies avionics for ISRO's GSLV-F18 mission - electronics.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRFA0ODVSMml5aERzZEh0ZFM2WWpDUGxmYml6WWNHMlhrWHRvWFZYRF9oRUFpUWgxOFpIZlB0dlBnNHlJaWlhc1JIdnhySFNRYnJZYXIxc2tTYkZpazBxRTIwVE8zc09JcUgxUUFhYnpvaHJmZUxxWDZwUWp5azg3RmNYQTNoZ3JadWRJRmxIMng1SjJ5MDNNLVlQdGJOVms1aS1MUWpVMEN1Sk9WNHR1UDJHc2prSnhXSmFnbVhySE4ydkJHdXd4LXYxZ2pob3l0cmFmNTBtNTNJVVpRcFBnRNIB5gFBVV95cUxOYmdsNW9WTzJDb1BWd3VVZHRwTVNDM2k2aTVtYzdBWUhDMlNYaFEyNzBiSF9hWWw4TXBWR2NaNDFJQlZYOEZldnFyc1RpZ1hNYUFyWE1KaE5pYTB3SEZuQmJiTDdzUmhhNUJhckVubXY2M2lWa21pTHRZenZLM2prRFhjaDBNMFNDY3hGdUFSbTVPX2pUZ1BrZV9RaVZNbUdGMkFhTEZER2pFcFNHZnNSMVRYOGZaR3pxX3Bmck84WU84U0xrWEJGNEJ0b25neHdlZDNkNjdSWVc1QjVWaFFVdndvWElQZw?oc=5",
+   "summary": "Ananth Technologies supplies avionics for ISRO's GSLV-F18 mission electronics.economictimes.indiatimes.com",
+   "image": "",
+   "date": "2026-10-31T07:00:00+00:00",
+   "source": "ISRO news"
+  },
+  {
    "title": "ISRO Successfully Places NVS-03 Navigation Satellite In Geosynchronous Orbit - Deccan Chronicle",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZVhrb3V1MkJiOHB0Q1BrVjVJWW1qU0J2MHlfdjhTcFJRYk5MS3g2OUdjMXoyVnNMVVA4RDBwZnJDcVNBOUxqaFZwenN2RUVFeW5CdlpDTXJoVUF1OTc4S0tHb1pTSlpzRHBWeDZISDZoUWhHUmxfSV9aTkVTT2k2SjJEU0xSSTVuNTk4YzhKS2xNdFozU3VzWUJZRy1DVU9saTNxMnVKOHBiYmxIM1NUVllzb3Vubi0tVjFzejZ0VVFHODFYNmdMZWJqazllelRYTXVGVXBtVzZSelNIUGVDRtIB5gFBVV95cUxQTTY4SGJybkdKTXhPX2otM1R4LXU0WXlQMk55WndxTDFzeTFfd29yMWtmTHNDelFuNUZoT3k4Q2djRW1YVkZQUHVReVAxVkllcWFDVFZIMHpnRFAxUEYtaEtkNHFoRzRWV3hHYnBTdEVRTnRTZkIxWW9pNklZMi1zUjBFdFA2RU9TZDlRb0RRVVp6amJZRHdHaDRjbVNSclowQTVTYVZueU1RNzh1MzE0WHI3UWNhUWMtWkxOVENvclkzZF91SDVmazJqNTZ1M0U4VEpORlVHU3VOdlFiOHZ1M25UV1VNdw?oc=5",
    "summary": "ISRO Successfully Places NVS-03 Navigation Satellite In Geosynchronous Orbit Deccan Chronicle",
@@ -248,14 +256,6 @@
    "summary": "NVS-03 reaches geosynchronous orbit; satellite in good health The Hindu",
    "image": "",
    "date": "2026-11-04T17:30:19+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "Why ISRO’s latest success matters more than it appears | The Hindu Editorial - The Hindu",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbFVTV0VFdjVjdERHTXRaUEVzaDA0MHZwNG9uXzVidTVrYUJBWHBWbnU3OEFjREFRNmxhZnhGNU9TVEZuYWNNZ1F4d2YzaDRScDZUSlRUZVdyaS05QVltQ2ROLVdQVEdqR1V2blJ2Y2x0RU5CWjh2UHIyWmY1RTJzMDg3QjB0dmZjazFzUzRmeUVYb0FOakpjdHl6Q3FvNUVRWGVlX01qemdrMEFPZnBhdWhCLTY2T2dwUVlyZldlelk5anfSAcoBQVVfeXFMTU9GN2xwcE5vMjNxeG9Nb2djY3ZraU1fd2h0MllWU1V1dWdqdC1QTjdoamdyTDlzZkVROUlqVWRYRHhfYmpfcTRxeU5vNjZMMldES193V01MWGtlOUhDeFIxVHBvQXJRM29sX2ZMRGRWVlM0T1BjdldVdld3TjhUd2hUeS03c3p2eVRMQktFYzFObVJYcVFhVjdtUXRPZ3ZUY2VhYkxSTHoydnFpb1RmYjBtZy0xbDIyaXNsTTJHTm9za1VVS194ODlhQQ?oc=5",
-   "summary": "Why ISRO’s latest success matters more than it appears | The Hindu Editorial The Hindu",
-   "image": "",
-   "date": "2026-11-02T08:32:48+00:00",
    "source": "ISRO news"
   },
   {
