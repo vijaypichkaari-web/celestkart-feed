@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T16:11:18.192299+00:00",
+ "updated": "2026-11-05T17:23:58.326963+00:00",
  "errors": [],
  "items": [
   {
@@ -131,6 +131,14 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "You don't have to go to the moon to see Earth differently: Artemis II astronaut Victor Glover on what really matters",
+   "link": "https://www.space.com/space-exploration/artemis/the-greatest-reason-to-go-to-space-artemis-ii-astronaut-victor-glover-reveals-what-he-discovered-on-his-journey-to-the-moon",
+   "summary": "After a record-breaking journey around the moon, Artemis 2 astronaut Victor Glover explains why you don't need to travel into space to see Earth differently.",
+   "image": "https://cdn.mos.cms.futurecdn.net/U2PDPzZUMVdreB2FZaWuRe-1920-80.jpg",
+   "date": "2026-11-05T17:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "NASA's Voyager 1 probe bounces back from communications glitch in interstellar space",
    "link": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space",
    "summary": "NASA's Voyager 1 probe is back in communication after the 49-year-old spacecraft briefly fell silent last month, during its interstellar-space mission.",
@@ -187,19 +195,11 @@
    "source": "Space.com"
   },
   {
-   "title": "On this day in space! Nov. 4, 2015: A rail-launched Super Strypi rocket carrying 13 baby satellites failed during its debut launch for the US Air Force",
-   "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-4-2026",
-   "summary": "On Nov. 4, 2015, the United States Air Force launched an experimental Super Strypi rail-launched rocket carrying 13 tiny satellites, but it failed just after liftoff from Hawaii.",
-   "image": "https://cdn.mos.cms.futurecdn.net/RLwiYvR97AgM2qiaxieDDg-1920-80.jpg",
-   "date": "2026-11-04T23:00:36+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "ISRO’s latest navigation satellite NVS-03 is fully healthy, says Chairman V. Narayanan - The Hindu",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeDAyalRMNFZQNjBhakF5blFOM0RyR3pwZnFDbXE0VGlBdS11ZUNOSUJTeXEwOTZydHNCcmpnWTB6RTdPWW40ZUhMblZpU3M4WEpIWkZnS0ZQSGF1RWw4T0lzcmFsS3ZXSGFzcWEzOWtZSDRqdm5RX3h6a01QLXlMR2hqVTJCVTI1cVhXZzd6eGRwSDVTc21TRWtTWktGOWdRdjVSRUg4TmxLY3dHMF8yUjFSQ0RmZlRHcXRMRkhRNnByWm5NQk1rVjBwR21kV25veTBURlhQdDJpRExoR29UajBn0gHoAUFVX3lxTE1GV2N5VFhsNW1RbnQ0dFVubjZOcFZYUkRVY2Z0LWJ3Mng2WmtuMzNPX2lmaXY5RVRzb3dXNm14NVdZdVozV3BRcm5LMmNWZ3d4TmxYMGxUbVpiMWNFQW10UUVhWTlPWkhQcjA1OHNCc0NZWG1Hd2JVZ3F4QU9ZQ0pCa2NPZ3NDZHNGODVmcUd6aWdHMGlabTBJcG1xb1pOUXVsaTFXMDI3QXJzQVJCMXk0Vndhb043R0tQVTBVT0R0YU1YLWlJZ0s4dElqdGVsOUxmZGZnTlNZLWZ2OEw3S2lnWWpaS3pUVFU?oc=5",
-   "summary": "ISRO’s latest navigation satellite NVS-03 is fully healthy, says Chairman V. Narayanan The Hindu",
+   "title": "NVS-03 reaches geosynchronous orbit; satellite in good health - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVG8xeXFJX2RJeno0eWRVYWlCMXlXVnZURm9JbjhWM2gwTkJFNzF5SlJGdGFqcDJKTXJOWnpVSC1tMGZwdl9hZTk1ZVJqYWtTVERJckVCdkRFMmJ4cmdwVEpGbWltMlBVRk1HZE81dHdrdDhlNnpmSEJrb1A4TkhnTW9jcE4yUWdpcWV2NDFYaEdJYVpzcWlaLUVsZGdGNGJHVjF0TU5rVFRCQkdMU2hTMWJTWGVLdjBBeFc4REdSb9IBxgFBVV95cUxPRVVsQnJ1T0swU2JqbnBlQ3FjSFFoYjFPcXQ2Q1JZMk9UOTRIYXpJaG5kMk5pdmlmYTNLaUt1LUx2dks2MW10cFMzTDMtWUZTMl9UMlRxWGlzVXd2NnozWjN3eFg5RE4zVmhQTjJWTWoydkVKRHQwcFB3RmJHdERtRFJXOUNYLU14S0lQQmgwY2FkenZudzN3QnZhdjdzU0dpQ2ZhTk15MGxESy1YVVdlTm1VNlZsS2p5ZkthQXhyRGFaeVZ2Z3c?oc=5",
+   "summary": "NVS-03 reaches geosynchronous orbit; satellite in good health The Hindu",
    "image": "",
-   "date": "2026-11-05T15:30:20+00:00",
+   "date": "2026-11-04T17:30:19+00:00",
    "source": "ISRO news"
   },
   {
@@ -243,14 +243,6 @@
    "source": "ISRO news"
   },
   {
-   "title": "ISRO Successfully Places NVS-03 Navigation Satellite In Geosynchronous Orbit - Deccan Chronicle",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZVhrb3V1MkJiOHB0Q1BrVjVJWW1qU0J2MHlfdjhTcFJRYk5MS3g2OUdjMXoyVnNMVVA4RDBwZnJDcVNBOUxqaFZwenN2RUVFeW5CdlpDTXJoVUF1OTc4S0tHb1pTSlpzRHBWeDZISDZoUWhHUmxfSV9aTkVTT2k2SjJEU0xSSTVuNTk4YzhKS2xNdFozU3VzWUJZRy1DVU9saTNxMnVKOHBiYmxIM1NUVllzb3Vubi0tVjFzejZ0VVFHODFYNmdMZWJqazllelRYTXVGVXBtVzZSelNIUGVDRtIB5gFBVV95cUxQTTY4SGJybkdKTXhPX2otM1R4LXU0WXlQMk55WndxTDFzeTFfd29yMWtmTHNDelFuNUZoT3k4Q2djRW1YVkZQUHVReVAxVkllcWFDVFZIMHpnRFAxUEYtaEtkNHFoRzRWV3hHYnBTdEVRTnRTZkIxWW9pNklZMi1zUjBFdFA2RU9TZDlRb0RRVVp6amJZRHdHaDRjbVNSclowQTVTYVZueU1RNzh1MzE0WHI3UWNhUWMtWkxOVENvclkzZF91SDVmazJqNTZ1M0U4VEpORlVHU3VOdlFiOHZ1M25UV1VNdw?oc=5",
-   "summary": "ISRO Successfully Places NVS-03 Navigation Satellite In Geosynchronous Orbit Deccan Chronicle",
-   "image": "",
-   "date": "2026-11-04T17:49:40+00:00",
-   "source": "ISRO news"
-  },
-  {
    "title": "World turned down India, but Russia never did: ISRO Chairman V Narayanan thanks Russia for its space support - DT Next",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeHVBMk5DZGowc0xieV9idHV5VnFoYzhNOFVDcXlzZnZtVlhkQkxNSC1RTC1fRi1zWGE1U25FVl9lVVRaT1g0SEYtM2JBRjl5OVdpQmJNLXRRbWZ3dTBEZ09CYWYxY0xaRzNOTW9RU3h5b0dRZU9MMk5HSWxob3BOdFVuV3o1WmFMUkRyTUdfd2ZleWJCYWVyXzlnR29KaXUzZ0h3anBidGpvRk1nNG1zWEdoU3lUdGRHRTZRVGpoakdJd3NuX3prdVZnbzFVWExLOTJSM055VDFQd9IB5wFBVV95cUxPakdkSVp0QkxWY3FINHh5VlF6UkR0OFg2TXpBOGlOblM2d0huQ3I1aXdmVk5mb1c0LXNJTFVOVktwNm1sZ2hlQUxvMDZ0WHhRS3UtOU1yczUyR0g0S3pJVWJwVzZ2bFZ4STI0cU9OVXJCWVdmLVFJSzdEak5RMVd1UjhYUFNrVXVOVWF6eW9YNVpLLTRKdGR1UDNFSHpGQlB5eWY3c1lpVElESThFOU91RmRfV19acjdjNUkzejFWV2YyQjJ6cWo0Q2hEckhndml3NHV5VFdMZFo3bGpNLUZZbXZMSGxpQ00?oc=5",
    "summary": "World turned down India, but Russia never did: ISRO Chairman V Narayanan thanks Russia for its space support DT Next",
@@ -259,11 +251,19 @@
    "source": "ISRO news"
   },
   {
+   "title": "ISRO's NavIC Gets New Lease Of Life - Rediff",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV1RRSjZ4YURZTWRCRnRvSkNFb2VWM0R4THpDeVZTdlJsam80MmNoVlZ1VXhhYWViZGU4TGJEOEZyZGNjNXQ2SDZnZ0hfcGZjMlhHd1FaZkRDRy1tMUJtb1VNQk9sWWFpU3VNY0NWazBORFFaMzBaaWhzMlhHU29NaXJLUnVsQ2xWcnfSAYwBQVVfeXFMT1J1c1pYbC1iU1RvYjVJaEZ2X3FLaW4xOUw4TnBNWFdyUEFVRnczT0c2dmt3dHhkMXI4UFlDUWRSVG5ITm1wQXU5U25SZ010NnlTQlZUbUNGdnFBcW5ZZl9yT2pXYWhHeWgxWVNaZmhIckFUTURGNkNhbWRrN1didDMzQTRTUDBZMThpekg?oc=5",
+   "summary": "ISRO's NavIC Gets New Lease Of Life Rediff",
+   "image": "",
+   "date": "2026-11-03T07:27:15+00:00",
+   "source": "ISRO news"
+  },
+  {
    "title": "ISRO’s latest navigation satellite NVS-03 is fully healthy, says Chairman V. Narayanan",
    "link": "https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece",
    "summary": "ISRO to conduct in-orbit testing for satellite payload as part of developing NavIC, an indigenous GPS alternative; ISRO chief recalls Indian scientists’ role in saving lives on the Axiom-4 mission; praises Russian suppor",
    "image": "https://th-i.thgim.com/public/incoming/8bg6t9/article71670942.ece/alternates/LANDSCAPE_1200/4871_5_11_2026_11_50_38_1_DSC_5363_1.JPG",
-   "date": "2026-11-05T15:30:20+00:00",
+   "date": "2026-11-05T17:14:46+00:00",
    "source": "The Hindu (Science)"
   },
   {
@@ -343,7 +343,7 @@
    "link": "https://timesofindia.indiatimes.com/science/nature/in-1935-australia-introduced-cane-toads-to-control-pests-now-an-a28-million-project-aims-to-modify-685-infrastructure-items-across-7500-square-kilometres-to-stop-the-invasive-animals-reaching-the-pilbara/articleshow/135535303.cms",
    "summary": "A new project involving Curtin University and Rio Tinto seeks to establish a waterless barrier for cane toads. The initiative intends to protect Western Australia's Pilbara area from the ecologically damaging species. Re",
    "image": "https://static.toiimg.com/photo/msid-135535799,imgsize-131667.cms",
-   "date": "2026-11-05T16:11:18.088568+00:00",
+   "date": "2026-11-05T17:23:58.134492+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -351,8 +351,16 @@
    "link": "https://timesofindia.indiatimes.com/science/space/after-22-years-in-space-nasas-3200-pound-swift-space-telescope-crashes-back-to-earth-over-indonesia-after-failed-30-million-rescue-mission-agency-estimates-1-in-2100-risk-of-debris-harming-someone/articleshow/135557967.cms",
    "summary": "NASA’s Neil Gehrels Swift Observatory re-entered Earth's atmosphere after 22 years in orbit, ending its mission. Swift was crucial for understanding gamma-ray bursts and other cosmic events, detecting over 2,000 bursts. ",
    "image": "https://static.toiimg.com/photo/msid-135558384,imgsize-821931.cms",
-   "date": "2026-11-05T16:11:18.088652+00:00",
+   "date": "2026-11-05T17:23:58.134550+00:00",
    "source": "Times of India (Science)"
+  },
+  {
+   "title": "Cork Takes the Heat So DRACO’s Data Can Survive",
+   "link": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/",
+   "summary": "Mozelos, Portugal, September 2, 2026 – Amorim Cork Solutions is contributing its P50 cork-based thermal protection material to DRACO, a European Space Agency (ESA) mission designed to capture rare in-flight […] The post ",
+   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/2019-99-Amorim-Logos-UN-Vertical-Cork-Solutions-Green-scaled.png?fit=1024%2C500&amp;ssl=1",
+   "date": "2026-11-05T17:05:59+00:00",
+   "source": "SpaceNews"
   },
   {
    "title": "Building a ‘highway to the moon and back’ with Winnie Lai",
@@ -408,14 +416,6 @@
    "summary": "– Two demonstration missions planned aboard SpaceX Falcon 9, one each in 2027 and 2028 – Satoro to provide “Satellite-as-a-service” solution; Flexell Space to supply solar cells and test modules […] The post Flexell Spac",
    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/LOGO_FLEXELLBlack.png?fit=1024%2C1024&amp;ssl=1",
    "date": "2026-10-28T14:43:08+00:00",
-   "source": "SpaceNews"
-  },
-  {
-   "title": "Ukrainian startup, GomSpace test satellite for future communications network",
-   "link": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/",
-   "summary": "The companies said the experimental spacecraft, launched Oct. 1, could lead to a Ukrainian-controlled satellite network The post Ukrainian startup, GomSpace test satellite for future communications network appeared first",
-   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-3.41.11-PM.png?fit=1024%2C588&amp;ssl=1",
-   "date": "2026-10-27T20:21:30+00:00",
    "source": "SpaceNews"
   }
  ]
