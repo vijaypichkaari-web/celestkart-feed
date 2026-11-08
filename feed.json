@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-08T14:48:04.862592+00:00",
+ "updated": "2026-11-08T15:44:54.115766+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
+   "link": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
+   "summary": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites",
+   "image": "",
+   "date": "2026-11-08T15:26:38+00:00",
+   "source": "NASA"
+  },
   {
    "title": "APOD: 2026 November 8 – Major Fireball Meteor",
    "link": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
@@ -56,14 +64,6 @@
    "summary": "APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photogr",
    "image": "",
    "date": "2026-11-06T05:05:00+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "Taking a Gander at Utah’s Goosenecks",
-   "link": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
-   "summary": "The San Juan River has carved deep, improbably curvy meanders into the desert landscape.",
-   "image": "",
-   "date": "2026-11-06T05:01:00+00:00",
    "source": "NASA"
   },
   {
@@ -131,6 +131,14 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "On this day in space! Nov. 8, 2005: Europe launches Venus Express, its first mission to Venus",
+   "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-8-2026",
+   "summary": "On Nov. 8, 2005, Europe launched its first mission to Venus. Here's why Venus Express mattered.",
+   "image": "https://cdn.mos.cms.futurecdn.net/gUQLiwF4A7bRhWYo27zFGg-1920-80.jpg",
+   "date": "2026-11-08T15:25:42+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "Who is King Ghidorah? The cosmic connections of Godzilla Minus Zero's foe",
    "link": "https://www.space.com/entertainment/space-movies-shows/who-is-king-ghidorah-the-cosmic-connections-of-godzilla-minus-zeros-foe",
    "summary": "Godzilla will go toe-to-toe with long-time foe King Ghidorah in Godzilla Minus Zero. This three-headed Kaiju's origins aren't just space-based; one of the largest structures in the universe shares its name.",
@@ -184,14 +192,6 @@
    "summary": "NASA Administrator Jared Isaacman during a a Dec. 3, 2025 confirmation hearing. In October of 2026, Isaacman sat down with Space.com to discuss the future of the space agency.",
    "image": "https://cdn.mos.cms.futurecdn.net/hdXEWy2dVNKmQrF4BoLQZW-1920-80.png",
    "date": "2026-11-07T11:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (video, photos)",
-   "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
-   "summary": "SpaceX launched a classified mission for the U.S. Space Force from California this evening (Nov. 6). It was the company's 125th liftoff of 2026.",
-   "image": "https://cdn.mos.cms.futurecdn.net/q9Z9sqFyvcTuBggqZ6hKgV-1920-80.jpg",
-   "date": "2026-11-07T01:41:58+00:00",
    "source": "Space.com"
   },
   {
@@ -343,7 +343,7 @@
    "link": "https://timesofindia.indiatimes.com/science/nature/a-landfill-near-istanbul-generates-electricity-from-captured-waste-gas-yet-satellites-detect-methane-escaping-at-about-7-4-tons-an-hour-on-average-new-reporting-finds-as-turkey-prepares-to-host-cop31/articleshow/135635730.cms",
    "summary": "",
    "image": "https://static.toiimg.com/photo/msid-135635856,imgsize-1011050.cms",
-   "date": "2026-11-08T14:48:04.756615+00:00",
+   "date": "2026-11-08T15:44:53.986514+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -351,7 +351,7 @@
    "link": "https://timesofindia.indiatimes.com/science/pakistan-to-send-astronaut-to-chinas-space-station-aboard-shenzhou-24-mission/articleshow/135628961.cms",
    "summary": "",
    "image": "https://static.toiimg.com/photo/msid-135629406,imgsize-179198.cms",
-   "date": "2026-11-08T14:48:04.756778+00:00",
+   "date": "2026-11-08T15:44:53.986729+00:00",
    "source": "Times of India (Science)"
   },
   {
