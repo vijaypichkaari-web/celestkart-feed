@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T16:59:24.219074+00:00",
+ "updated": "2026-11-10T17:54:18.102757+00:00",
  "errors": [],
  "items": [
   {
@@ -131,6 +131,14 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "Were there 'lost cosmonauts' in the early Soviet space program?",
+   "link": "https://www.space.com/space-exploration/launches-spacecraft/were-there-lost-cosmonauts-in-the-early-soviet-space-program",
+   "summary": "At the height of the Cold War, two amateur radio operators alleged they intercepted signals from Soviet cosmonauts who perished during missions that remained secret.",
+   "image": "https://cdn.mos.cms.futurecdn.net/y7EFELxAmXdjgq2jwrnJBE-1920-80.jpg",
+   "date": "2026-11-10T17:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "A robot just built a structure autonomously in space for the 1st time ever",
    "link": "https://www.space.com/technology/a-robot-just-built-a-structure-autonomously-in-space-for-the-1st-time-ever",
    "summary": "A robot built part of an antenna in orbit recently, showcasing skills that could potentially allow the assembly of space telescopes and other large structures off Earth.",
@@ -187,22 +195,6 @@
    "source": "Space.com"
   },
   {
-   "title": "Are the James Webb Space Telescope's mysterious Little Red Dots actually tiny black holes left over from the Big Bang era?",
-   "link": "https://www.space.com/astronomy/black-holes/are-the-james-webb-space-telescopes-mysterious-little-red-dots-actually-tiny-black-holes-left-over-from-the-big-bang-era",
-   "summary": "New research suggests that Little Red Dots, which have puzzled astronomers since the JWST began discovering them, could host primordial black holes born during the Big Bang.",
-   "image": "https://cdn.mos.cms.futurecdn.net/Sjqn3DfUoJ6tRWxth4TR3T-1920-80.png",
-   "date": "2026-11-09T21:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "ISRO conducts flight acceptance test of Cryogenic engine for next GSLV mission - ISRO",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtNVhUQXdDbWNwLUZ1c2tQbWhzMEZwbXlBTUN6dERkdENub2pYUjZmcjEwZThQaWEtSTh0QUZSNkNQdm1WRUJNWlZZR0xCTWRjeWRhQVNYUXA0VWpDVXhQeENuRE13dw?oc=5",
-   "summary": "ISRO conducts flight acceptance test of Cryogenic engine for next GSLV mission ISRO",
-   "image": "",
-   "date": "2026-11-10T11:39:29+00:00",
-   "source": "ISRO news"
-  },
-  {
    "title": "ISRO's LPSC to hold pension adalat on November 19 - Deccan Herald",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc0ljRkVaUkgxZ0VEaTUwWENNUTVNbC0xdjlRdzJXLWN0akp0Y2doSTNTQmVsTnhVSHFZa253MTVBZmJma0lKeE1ua1lsQm83eG5ITVl0MlFfYm11THFUQ1hURy11SEpXWUxtMUZ1NlNCdUtRMEpKQXI4WnQzMUlONGJsUkszRVQ2Qk1aTTlITy03TTdTZTBzTU9JWG1SYTNuR3RoN2N0S3NsbS15X3dkcQ?oc=5",
    "summary": "ISRO's LPSC to hold pension adalat on November 19 Deccan Herald",
@@ -211,8 +203,16 @@
    "source": "ISRO news"
   },
   {
+   "title": "Space won't wait for those who fall behind - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOERtc1Zyb3hySjE3bUplMWRQLS10NGF0cl9udmRuWTlwNm9CT09DY0FuRzBJc2wtbFZkbmlPLVprOUZFTTVaRUtBeHdUVEJhY0oxMVhyVVNCdmoxZ0g3ZkNxbW9aUHZQc2xWSi16OUotM1BheWhLd0NGbHI1VkwzeEhnRllZVUdmaFFOSng0TzNjMzV6TjYweE9pUkpyUHNKMENwazRtZzNZQmt5dXhtNdIBtgFBVV95cUxPUnEzOVp4ang0Y05UVnZxbmNHOU9LN1BrbVBaaUtOdVVkdmt3dEhSNkgzVmZTMlY5WC1GbENleEtRTXRVN1lla18wTTlBd294cVRJblhJU3dQOURoanB6cVZqVFdtdnFmZXdXUzRULUs4aXZiak9LV1pJSVJpRVpZMFRoaEZZRnpiVmdYNEE3aTdDWEhuQTVoY0RXaHFjNjlLbzNHaTMwSUNvLWdCckhDQlhSZVFjdw?oc=5",
+   "summary": "Space won't wait for those who fall behind The Times of India",
+   "image": "",
+   "date": "2026-11-08T10:11:00+00:00",
+   "source": "ISRO news"
+  },
+  {
    "title": "ISRO conducts flight acceptance test for cryogenic engine for GSLV mission to launch fourth next navigation satellite - The Tribune",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNaGZITnZ5blFRcldKWDJUSFZEWlRKRVgwdWI0WkZ2dmV2X3ZBR2NuWkNnVjk5UHF6VjNHeWdYeEdYMTM2UVdfNjczRnl0clJ6djY1R0RqM0N5bWdjWjNTSEpnV1d2VDFXWUplM1NMdl9aQ2dYX3VwSFMwa2hlem9KRm1ObmFPa0FTODhINXFSWldQMlB0bEE2dk9HUV9nb0hxdDNHWU5veGNQYVVkYjV0d1VOLWNGWHVlQ3paV2tEUk9PcFdUUTBNNXFsOGdEdW1RRmcxX3hZQUZpZURqeHB3Unh2aFc0RWtsazBIbE9qTnJXdl9HV25ZWWxjdWVyMW9RRWlzdWctSllNNzFrT2JHbGFB0gGSAkFVX3lxTE1oZkhOdnluUVFyV0pYMlRIVkRaVEpFWDB1YjRaRnZ2ZXZfdkFHY25aQ2dWOTlQcXpWM0d5Z1h4R1gxMzZRV182NzNGeXRyUnp2NjVHRGozQ3ltZ2NaM1NISmdXV3ZUMVdZSmUzU0x2X1pDZ1hfdXBIUzBraGV6b0pGbU5uYU9rQVM4OEg1cVJaV1AyUHRsQTZ2T0dRX2dvSHF0M0dZTm94Y1BhVWRiNXR3VU4tY0ZYdWVDelpXa0RST09wV1RRME01cWw4Z0R1bVFGZzFfeFlBRmllRGp4cHdSeHZoVzRFa2xrMEhsT2pOcld2X0dXbllZbGN1ZXIxb1FFaXN1Zy1KWU03MWtPYkdsYUE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVTJITTQwbUNsLUVKaUxEM2ZrQ1BERkNPUXlsTTNCcWw1QXBHVlhXeFBIMFA3MXozN2tQWnJWb0xtTm5tZFgyTlF3QVRGWlhZbmlDUnJnNmNRS040aEp5d0Fac1Z5SHNuc1Y2R3pUZjlwS3ZlZXE5ZWs5VW5yZFR1dEI5UXdjejBJMjRBZmdzcDI5WFBYS0dOOHFqYXhiWVdhSmljMUpkMnNKV1BxdmNNRnVZSTRuVWtydXJZNnN6ZDl4QkFKX3FOQzFrM21RQkNzYlNDNUxRcVMxWFcydTBCSFBGU2NsUE1PQ2dGRTVvSWhMZ9IB9gFBVV95cUxOY2ZfcHpEUTR2clQtVHVkcEdtc19QNFhURDBCV2xPR2FSbGJpdDFLeGw1cW82OUFsRm5NdU9RZGhnWGt2MkxEcXlLVV9MVW1yRGlBYjRmQ1pySnJmUmNrdkc0c0pnRm5PeFliVjh0bk80aFRuR3RyRE02RW5YcXRXdVpwY2dBX0ZBZlUxclVKUFcwR0FfazZuQmZFNXhjY25HVmVVcjQ3OEZNTlVaSW1qLVMzczBtZDBlWjlpVDdpd1hrV29LVjZ3d2NDSVp1aG5DZVpIUlNqZkdzOVg1NnN6UG9uNHp2NHZza1I3QWVkcXhsUTlDNkE?oc=5",
    "summary": "ISRO conducts flight acceptance test for cryogenic engine for GSLV mission to launch fourth next navigation satellite The Tribune",
    "image": "",
    "date": "2026-11-10T14:16:36+00:00",
@@ -227,35 +227,35 @@
    "source": "ISRO news"
   },
   {
-   "title": "Indian Space Research Organisation (ISRO) | History, Structure, Facilities, & Facts - Britannica",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04Zm1FZHM5WnZJYWJXSnFUeHRuMWRVUjI0eEdHSWluUHVFbFMtRlE1UG53akdMTnFaSU5WS1NyRVpOS3BxRTBjclcySkloRGVEOEM5TkhWSVBOWTNoemZ2T1hRM0RTSHFVRDNoTGVlbkRLbnlZOXc?oc=5",
-   "summary": "Indian Space Research Organisation (ISRO) | History, Structure, Facilities, & Facts Britannica",
+   "title": "Isro gears up for NVS-03 launch between October 15 and 20 - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONzN4RE42bnktaUV4UWNKSnhRLVA3bnRabWhuRzJsTFFORGhHVE9lbTF5QlhjSWIzcm5rMmRncEQ3VFVYU2J0bXFFaF9ZZnFUeWZMeU1Vd2lyajhSeVJLTExSUjRPa1lUbUp4ME8wUzZvWDZxQkhzMjVWbmw5MjFoQ2xnT2J4SkhBUFJFdVpGSFhFcXJDelBqWW5Vc3poRmVoZi15M19rckx6TkY4SU9kX2ZPcHJXNk1wRnYyMF9zcDdQSndqTnfSAcsBQVVfeXFMTWJKbnBiTzlmTnhxUVZ4TTR3WmYtN2JGQlBOSmhqdHhhZWw5ZThrVjNxa01OSVRDVnFReVNYRHpUYVJSV0o0S0NJdHpiWTdmbGNhMmZuZHRKUWljYUpNa09nZU5pRHhpajZZOXJYVDdoUHdqRVBWSUxaOGp2UXZScC1RVmk3bEl2YlJTZ2NWN29iYmJnTndaMGlXNWtkdTNNUGNDTEZ4RWdwSEZNWk9ZLUxuNmh6QjhQcEZNVmxreEpoeGlya1pNb3RjQkk?oc=5",
+   "summary": "Isro gears up for NVS-03 launch between October 15 and 20 The Times of India",
    "image": "",
-   "date": "2026-11-02T08:00:00+00:00",
+   "date": "2026-09-21T07:00:00+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "ISRO successfully completes Crew Module-Service Module Separation Tests for Gaganyaan Programme - ISRO",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yTlRKYUU1RkpfU3REbTIxQ3pMMDFhRV9aTFh6a19nZF94LUlSSXU2eXRVYWt0QVFqeV84TWdVcUlwWnMxQ1pISXNGS0ZQa202WGhGNzhIYlhDNVgzV2M5VFJrZHRoNmJzUUZ0YUdCVm4xMGNHOTN6aWxGd1c?oc=5",
-   "summary": "ISRO successfully completes Crew Module-Service Module Separation Tests for Gaganyaan Programme ISRO",
+   "title": "Why is ISRO’s NVS-03 satellite launch crucial? | Explained - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOElNNmhsR3hiZnVRbTBWT1pIQWJCY3dzNnE4Q3VsUGl5U1M2T1pvU2Z0aVdnckI2ZXVtV0dIMDJpYktPUUY3TVRPdDhrR04yVHA4ODBCOFRsZVlVVHo1VXFyMUEwUWpxTjNpVlpvMi1OSFI0bUFFcEdmRUJ1dmNBOHJUZldKUTZyb0JKMm5UTUNlaldDME9tZTFBM0hFLUNwbGs3MUJBa2l5b2J5SG90MDlubjFvMU3SAb4BQVVfeXFMTzNNM3BRTWxLTEMydlZicTlkTUNOazk5VktnZ19lVklGVWxZc1pWclViSlVnRjAzTWZTd3BrbWNsUzRGWEcwakRTYmhXSllKbFo5RGdadGdRYWoyTjQ3ZmNtVlREZzdIUVJQLTNYTE9xSTF6WFctT0EwOE80QjluQ3l6RkRPUTVESl9vX1FOQlU2ZkhROFB0aHJldlBqX1RodHpTc1UxamtDU0hkZW9VcDFIVVNqYUlUd0IwNExwQQ?oc=5",
+   "summary": "Why is ISRO’s NVS-03 satellite launch crucial? | Explained The Hindu",
    "image": "",
-   "date": "2026-10-16T07:00:00+00:00",
+   "date": "2026-10-30T07:00:00+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "ISRO Apprentice Recruitment 2026 Out, Apply Online For 400 Vacancies - Adda247",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82aFgtYTdVUjJiRDlvQVI1Qzh3d3BoWXEteHlfUUd5MHFzU2hPVG00R0RPX292U0pHb1dyRm14QmhMSnh1SWhFVDRLRzBGUlhaQkdSeHVrZE9TQnY5Mkl0aUNoMVRZOHhrMDBHMEhPcVRESjRHSmd0alZkdDNzQQ?oc=5",
-   "summary": "ISRO Apprentice Recruitment 2026 Out, Apply Online For 400 Vacancies Adda247",
+   "title": "ISRO NVS-03 launch: 5 things to know about India’s new navigation satellite - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNR2paT0FIRjlFai1pUHJ4VG81bDNlTUFFVTdzRXVVa09vcl9UR0UtY3A0amRldGJ6UC1GRGlQd09MdmxiOGVnNmZGREhKc3RnYlpIS0xtZ2xfZXVNV2dOanFFMVR3YWJ0QzUzbHd2bXFpZkotdDhSNUtrWW1QTEtPdDhNaE0tblpXdlVnSlhhR19PTVpXZXN5RncwY3ItTmZQaG1aRTRWOXg1ZWFNNnlZbjdIMURtempiVVYyeXcxalBWMVVScFphZDlTRGRGNzNrb3ZHTjNfRU1iTzk5aEpOYWlueUU4Z3pFSlA00gHyAUFVX3lxTE95bjdvVEtXWm9CMlZTazladDJUaG1oa2JOZHBZMU9oMVZQR3pFOEtkVnh4VUpVdVpNOWRCc3N6YmdKOTRwT1VqM2ZPVlNHcDdHSkhqRkNlUndaUk1TR1NzOWlrVl9UYUEzeXVpYnlobFV5WHVaS3EzUldTV29ybGdjM3luUHRpUktiUFoyS2VOcFEtVmQxb25DRjBfQlFrY1otZXVqZkk5Sndad1ZUTFFfWjF3YVN1NFkwT2FabVhRNF9PS01GVkxVbjlELXJ5RUJiSEZJeUxBRUNvRUZfdTZYZWp5NUxnZ0dYUUNwNFA4WTdB?oc=5",
+   "summary": "ISRO NVS-03 launch: 5 things to know about India’s new navigation satellite The Hindu",
    "image": "",
-   "date": "2026-11-05T13:10:26+00:00",
+   "date": "2026-10-31T07:00:00+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "Space won't wait for those who fall behind - The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOERtc1Zyb3hySjE3bUplMWRQLS10NGF0cl9udmRuWTlwNm9CT09DY0FuRzBJc2wtbFZkbmlPLVprOUZFTTVaRUtBeHdUVEJhY0oxMVhyVVNCdmoxZ0g3ZkNxbW9aUHZQc2xWSi16OUotM1BheWhLd0NGbHI1VkwzeEhnRllZVUdmaFFOSng0TzNjMzV6TjYweE9pUkpyUHNKMENwazRtZzNZQmt5dXhtNdIBtgFBVV95cUxPUnEzOVp4ang0Y05UVnZxbmNHOU9LN1BrbVBaaUtOdVVkdmt3dEhSNkgzVmZTMlY5WC1GbENleEtRTXRVN1lla18wTTlBd294cVRJblhJU3dQOURoanB6cVZqVFdtdnFmZXdXUzRULUs4aXZiak9LV1pJSVJpRVpZMFRoaEZZRnpiVmdYNEE3aTdDWEhuQTVoY0RXaHFjNjlLbzNHaTMwSUNvLWdCckhDQlhSZVFjdw?oc=5",
-   "summary": "Space won't wait for those who fall behind The Times of India",
+   "title": "ISRO conducts flight acceptance test of Cryogenic engine for next GSLV mission - ISRO",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtNVhUQXdDbWNwLUZ1c2tQbWhzMEZwbXlBTUN6dERkdENub2pYUjZmcjEwZThQaWEtSTh0QUZSNkNQdm1WRUJNWlZZR0xCTWRjeWRhQVNYUXA0VWpDVXhQeENuRE13dw?oc=5",
+   "summary": "ISRO conducts flight acceptance test of Cryogenic engine for next GSLV mission ISRO",
    "image": "",
-   "date": "2026-11-08T10:11:00+00:00",
+   "date": "2026-11-10T11:39:29+00:00",
    "source": "ISRO news"
   },
   {
@@ -345,14 +345,6 @@
    "image": "https://th-i.thgim.com/public/incoming/2aq9g1/article71669663.ece/alternates/LANDSCAPE_1200/IMG_Manufacturing-banner_2_1_SSCUK6T7.jpg",
    "date": "2026-11-05T11:46:28+00:00",
    "source": "The Hindu (Industry)"
-  },
-  {
-   "title": "River otters had not been known on California’s San Mateo coast since the 1800s",
-   "link": "https://timesofindia.indiatimes.com/science/wildlife/river-otters-had-not-been-known-on-californias-san-mateo-coast-since-the-1800s-but-wildlife-cameras-set-up-to-watch-foxes-on-a-pescadero-preserve-photographed-one-over-three-months-this-summer-surprising-researchers/articleshow/135565386.cms",
-   "summary": "In an astonishing discovery, researchers have spotted a North American river otter at the Cloverdale Ranch Open Space Preserve for the first time in a century. Initially aimed at monitoring foxes, the wildlife cameras re",
-   "image": "https://static.toiimg.com/photo/msid-135565386,imgsize-146766.cms",
-   "date": "2026-11-10T16:59:24.090021+00:00",
-   "source": "Times of India (Science)"
   },
   {
    "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
