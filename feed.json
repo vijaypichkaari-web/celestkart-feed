@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-10T19:02:11.296361+00:00",
+ "updated": "2026-11-10T19:59:06.905497+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+   "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+   "summary": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human",
+   "image": "",
+   "date": "2026-11-10T19:22:45+00:00",
+   "source": "NASA"
+  },
   {
    "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
    "link": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
@@ -56,14 +64,6 @@
    "summary": "Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Oct. 23, 2026 As regular readers of this blog will know, we returned to the area where we found d",
    "image": "",
    "date": "2026-11-10T01:05:48+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "Rubies on Mars?",
-   "link": "https://science.nasa.gov/blog/rubies-on-mars/",
-   "summary": "Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov. 4, 2026 Exploration on Mars turns up the unexpected. Perseverance is equipped with a fantastic set of ins",
-   "image": "",
-   "date": "2026-11-09T22:27:12+00:00",
    "source": "NASA"
   },
   {
@@ -131,6 +131,14 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "SpaceX Starship Flight 15 live updates: Super Heavy rocket moved to launch pad for 1st Starship double landing test",
+   "link": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-10-2026-starship-first-double-landing-attempt",
+   "summary": "Follow live updates as SpaceX attempts its Starship Flight 15 test flight with first double landings.",
+   "image": "https://cdn.mos.cms.futurecdn.net/bdHKBGYDk9vQ58gCeTzvgW-1920-80.jpg",
+   "date": "2026-11-10T19:46:21+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "Uranus has a weird magnetic field that's stumped scientists for 40 years — we may finally know why",
    "link": "https://www.space.com/astronomy/uranus/scientists-may-finally-understand-the-weird-magnetic-fields-of-uranus-and-neptune",
    "summary": "The lopsided magnetic fields of Uranus and Neptune could be the product of extreme conditions inside the planets, increasing the electrical conductivity that enhances the dynamo effect.",
@@ -187,14 +195,6 @@
    "source": "Space.com"
   },
   {
-   "title": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard",
-   "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-9-2026",
-   "summary": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard",
-   "image": "https://cdn.mos.cms.futurecdn.net/hUSPTRGCxYkCF5ChXZL9aF-1920-80.jpg",
-   "date": "2026-11-09T22:11:05+00:00",
-   "source": "Space.com"
-  },
-  {
    "title": "ISRO conducts flight acceptance test of Cryogenic engine for next GSLV mission - ISRO",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtNVhUQXdDbWNwLUZ1c2tQbWhzMEZwbXlBTUN6dERkdENub2pYUjZmcjEwZThQaWEtSTh0QUZSNkNQdm1WRUJNWlZZR0xCTWRjeWRhQVNYUXA0VWpDVXhQeENuRE13dw?oc=5",
    "summary": "ISRO conducts flight acceptance test of Cryogenic engine for next GSLV mission ISRO",
@@ -203,11 +203,27 @@
    "source": "ISRO news"
   },
   {
-   "title": "ISRO's LPSC to hold pension adalat on November 19 - Deccan Herald",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc0ljRkVaUkgxZ0VEaTUwWENNUTVNbC0xdjlRdzJXLWN0akp0Y2doSTNTQmVsTnhVSHFZa253MTVBZmJma0lKeE1ua1lsQm83eG5ITVl0MlFfYm11THFUQ1hURy11SEpXWUxtMUZ1NlNCdUtRMEpKQXI4WnQzMUlONGJsUkszRVQ2Qk1aTTlITy03TTdTZTBzTU9JWG1SYTNuR3RoN2N0S3NsbS15X3dkcQ?oc=5",
-   "summary": "ISRO's LPSC to hold pension adalat on November 19 Deccan Herald",
+   "title": "GSLV-F18/NVS-03 MISSION - ISRO",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDNkFYM2JwMG8xYURPRFpqQkNyVDNwYjZPdVpjb3ROVG5pc28xM3cyRlhFeDBTTHhxM2l0aFBwTGxkLW1PcV9YaUprMUtvOVJMUVVmNVltaw?oc=5",
+   "summary": "GSLV-F18/NVS-03 MISSION ISRO",
    "image": "",
-   "date": "2026-11-10T00:55:55+00:00",
+   "date": "2026-10-30T07:00:00+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "India, France discuss space collaboration, review ISRO-CNES cooperation at Strategic Dialogue - India Tribune - Chicago",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaU5PMi1UczZwbXF1aElQcnFfQ3ZXNHR3UjdyVVhRbVNpNjIwYWgyaEZiNXU3QXpWYTdtdWNEVm5WS0o4TE5PWjRtbEd3N1NNN0xoRks5b2hSWUFJMGcyc0JjZjU4bkMtZEdyTlIwVDJTaUo0SU1zNkM4dlVTWmVEZWVNMXhJQmVYZU94SVhGX0tYaGN6NjA4OUFmc2E5UU5yQk9oYUlKVnA0VTE4OVlGNWxhdTI0R3dSbGlvOUhraUptU09DVVE?oc=5",
+   "summary": "India, France discuss space collaboration, review ISRO-CNES cooperation at Strategic Dialogue India Tribune - Chicago",
+   "image": "",
+   "date": "2026-11-10T19:50:17+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "ISRO successfully completes Crew Module-Service Module Separation Tests for Gaganyaan Programme - ISRO",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yTlRKYUU1RkpfU3REbTIxQ3pMMDFhRV9aTFh6a19nZF94LUlSSXU2eXRVYWt0QVFqeV84TWdVcUlwWnMxQ1pISXNGS0ZQa202WGhGNzhIYlhDNVgzV2M5VFJrZHRoNmJzUUZ0YUdCVm4xMGNHOTN6aWxGd1c?oc=5",
+   "summary": "ISRO successfully completes Crew Module-Service Module Separation Tests for Gaganyaan Programme ISRO",
+   "image": "",
+   "date": "2026-10-16T07:00:00+00:00",
    "source": "ISRO news"
   },
   {
@@ -227,35 +243,19 @@
    "source": "ISRO news"
   },
   {
+   "title": "ISRO's LPSC to hold pension adalat on November 19 - Deccan Herald",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc0ljRkVaUkgxZ0VEaTUwWENNUTVNbC0xdjlRdzJXLWN0akp0Y2doSTNTQmVsTnhVSHFZa253MTVBZmJma0lKeE1ua1lsQm83eG5ITVl0MlFfYm11THFUQ1hURy11SEpXWUxtMUZ1NlNCdUtRMEpKQXI4WnQzMUlONGJsUkszRVQ2Qk1aTTlITy03TTdTZTBzTU9JWG1SYTNuR3RoN2N0S3NsbS15X3dkcQ?oc=5",
+   "summary": "ISRO's LPSC to hold pension adalat on November 19 Deccan Herald",
+   "image": "",
+   "date": "2026-11-10T00:55:55+00:00",
+   "source": "ISRO news"
+  },
+  {
    "title": "ISRO conducts flight acceptance test for cryogenic engine for GSLV mission to launch fourth next navigation satellite - The Tribune",
    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNaGZITnZ5blFRcldKWDJUSFZEWlRKRVgwdWI0WkZ2dmV2X3ZBR2NuWkNnVjk5UHF6VjNHeWdYeEdYMTM2UVdfNjczRnl0clJ6djY1R0RqM0N5bWdjWjNTSEpnV1d2VDFXWUplM1NMdl9aQ2dYX3VwSFMwa2hlem9KRm1ObmFPa0FTODhINXFSWldQMlB0bEE2dk9HUV9nb0hxdDNHWU5veGNQYVVkYjV0d1VOLWNGWHVlQ3paV2tEUk9PcFdUUTBNNXFsOGdEdW1RRmcxX3hZQUZpZURqeHB3Unh2aFc0RWtsazBIbE9qTnJXdl9HV25ZWWxjdWVyMW9RRWlzdWctSllNNzFrT2JHbGFB0gGSAkFVX3lxTE1oZkhOdnluUVFyV0pYMlRIVkRaVEpFWDB1YjRaRnZ2ZXZfdkFHY25aQ2dWOTlQcXpWM0d5Z1h4R1gxMzZRV182NzNGeXRyUnp2NjVHRGozQ3ltZ2NaM1NISmdXV3ZUMVdZSmUzU0x2X1pDZ1hfdXBIUzBraGV6b0pGbU5uYU9rQVM4OEg1cVJaV1AyUHRsQTZ2T0dRX2dvSHF0M0dZTm94Y1BhVWRiNXR3VU4tY0ZYdWVDelpXa0RST09wV1RRME01cWw4Z0R1bVFGZzFfeFlBRmllRGp4cHdSeHZoVzRFa2xrMEhsT2pOcld2X0dXbllZbGN1ZXIxb1FFaXN1Zy1KWU03MWtPYkdsYUE?oc=5",
    "summary": "ISRO conducts flight acceptance test for cryogenic engine for GSLV mission to launch fourth next navigation satellite The Tribune",
    "image": "",
    "date": "2026-11-10T14:16:36+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "ISRO successfully completes Crew Module-Service Module Separation Tests for Gaganyaan Programme - ISRO",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yTlRKYUU1RkpfU3REbTIxQ3pMMDFhRV9aTFh6a19nZF94LUlSSXU2eXRVYWt0QVFqeV84TWdVcUlwWnMxQ1pISXNGS0ZQa202WGhGNzhIYlhDNVgzV2M5VFJrZHRoNmJzUUZ0YUdCVm4xMGNHOTN6aWxGd1c?oc=5",
-   "summary": "ISRO successfully completes Crew Module-Service Module Separation Tests for Gaganyaan Programme ISRO",
-   "image": "",
-   "date": "2026-10-16T07:00:00+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "ISRO Apprentice Recruitment 2026 Out, Apply Online For 400 Vacancies - Adda247",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82aFgtYTdVUjJiRDlvQVI1Qzh3d3BoWXEteHlfUUd5MHFzU2hPVG00R0RPX292U0pHb1dyRm14QmhMSnh1SWhFVDRLRzBGUlhaQkdSeHVrZE9TQnY5Mkl0aUNoMVRZOHhrMDBHMEhPcVRESjRHSmd0alZkdDNzQQ?oc=5",
-   "summary": "ISRO Apprentice Recruitment 2026 Out, Apply Online For 400 Vacancies Adda247",
-   "image": "",
-   "date": "2026-11-05T13:10:26+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "Space won't wait for those who fall behind - The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOERtc1Zyb3hySjE3bUplMWRQLS10NGF0cl9udmRuWTlwNm9CT09DY0FuRzBJc2wtbFZkbmlPLVprOUZFTTVaRUtBeHdUVEJhY0oxMVhyVVNCdmoxZ0g3ZkNxbW9aUHZQc2xWSi16OUotM1BheWhLd0NGbHI1VkwzeEhnRllZVUdmaFFOSng0TzNjMzV6TjYweE9pUkpyUHNKMENwazRtZzNZQmt5dXhtNdIBtgFBVV95cUxPUnEzOVp4ang0Y05UVnZxbmNHOU9LN1BrbVBaaUtOdVVkdmt3dEhSNkgzVmZTMlY5WC1GbENleEtRTXRVN1lla18wTTlBd294cVRJblhJU3dQOURoanB6cVZqVFdtdnFmZXdXUzRULUs4aXZiak9LV1pJSVJpRVpZMFRoaEZZRnpiVmdYNEE3aTdDWEhuQTVoY0RXaHFjNjlLbzNHaTMwSUNvLWdCckhDQlhSZVFjdw?oc=5",
-   "summary": "Space won't wait for those who fall behind The Times of India",
-   "image": "",
-   "date": "2026-11-08T10:11:00+00:00",
    "source": "ISRO news"
   },
   {
