@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-12T11:16:28.665108+00:00",
+ "updated": "2026-11-12T13:23:07.463618+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
+   "link": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/",
+   "summary": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while milli",
+   "image": "https://www.youtube.com/embed/RrkH0jfX-4Y",
+   "date": "2026-11-12T13:00:00+00:00",
+   "source": "NASA"
+  },
   {
    "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
    "link": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
@@ -56,14 +64,6 @@
    "summary": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack H",
    "image": "",
    "date": "2026-11-10T18:06:33+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
-   "link": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
-   "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show i",
-   "image": "",
-   "date": "2026-11-10T16:00:26+00:00",
    "source": "NASA"
   },
   {
@@ -131,7 +131,15 @@
    "source": "Spaceflight Now"
   },
   {
-   "title": "SpaceX launches 2nd mystery mission for US Space Force in 6-day span (photos)",
+   "title": "Astronomers stunned after James Webb Space Telescope discovers the earliest pair of black hole-powered quasars",
+   "link": "https://www.space.com/astronomy/black-holes/astronomers-stunned-after-james-webb-space-telescope-discovers-the-earliest-pair-of-black-hole-powered-quasars",
+   "summary": "Using the James Webb Space Telescope, astronomers have discovered the oldest pair of black hole-powered quasars ever seen. There's just one problem: they shouldn't exist!",
+   "image": "https://cdn.mos.cms.futurecdn.net/PGf7N6dzk34osSj9dniJ4a-1920-80.png",
+   "date": "2026-11-12T13:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "SpaceX launches 2nd mystery mission for US Space Force in 6-day span (video, photos)",
    "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-2nd-mystery-mission-for-us-space-force-in-6-day-span-photos",
    "summary": "SpaceX launched a classified mission for the U.S. Space Force from California tonight (Nov. 11), the second such mission for the company in a six-day span.",
    "image": "https://cdn.mos.cms.futurecdn.net/gDwgZoSFkyCxGWqePyME9X-1920-80.jpg",
@@ -184,14 +192,6 @@
    "summary": "Rocket Lab has raised the launch cost of its next-gen Neutron rocket by more than 25%, an increase that reflects high demand amid a looming liftoff bottleneck.",
    "image": "https://cdn.mos.cms.futurecdn.net/neFw9UFTgDGhQ4vwyg2zpD-1920-80.jpg",
    "date": "2026-11-11T16:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "Hubble Space Telescope reveals glittering stars with mysterious origins | Space photo of the day for Nov. 11, 2026",
-   "link": "https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-reveals-glittering-stars-with-mysterious-origins-space-photo-of-the-day-for-nov-11-2026",
-   "summary": "This dazzling collection of ancient stars could hold clues to the Milky Way's past.",
-   "image": "https://cdn.mos.cms.futurecdn.net/sUscbyNcGzAkq7QeXUWQJn-1920-80.jpg",
-   "date": "2026-11-11T15:00:00+00:00",
    "source": "Space.com"
   },
   {
@@ -351,7 +351,7 @@
    "link": "https://timesofindia.indiatimes.com/science/nature/scientists-studying-the-great-pacific-garbage-patch-found-that-parts-of-the-ocean-brightened-in-blue-and-green-wavelengths-over-20-years-satellite-data-suggest-tiny-plastic-particles-may-be-changing-its-colour/articleshow/135741034.cms",
    "summary": "Research indicates that microplastics in the Great Pacific Garbage Patch may be changing ocean color. This change creates a subtle blue-green tint that satellites have detected over twenty years. Scientists analyzed how ",
    "image": "https://static.toiimg.com/photo/msid-135741206,imgsize-346524.cms",
-   "date": "2026-11-12T11:16:28.534538+00:00",
+   "date": "2026-11-12T13:23:07.333554+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -359,7 +359,7 @@
    "link": "https://timesofindia.indiatimes.com/technology/tech-news/nasas-artemis-ii-moon-launch-made-two-huge-holes-in-earths-upper-atmosphere-these-holes-stretched-across-the-american-continent-from-east-to-west-like-giant-/articleshow/135741897.cms",
    "summary": "NASA's Artemis II mission resulted in significant disturbances in Earth's ionosphere, which impacted satellite navigation systems. Researchers identified two elongated areas of reduced electron density across North Ameri",
    "image": "https://static.toiimg.com/photo/msid-135741913,imgsize-57924.cms",
-   "date": "2026-11-12T11:16:28.534583+00:00",
+   "date": "2026-11-12T13:23:07.333600+00:00",
    "source": "Times of India (Science)"
   },
   {
