@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T23:55:28.337800+00:00",
+ "updated": "2026-11-12T01:22:53.193151+00:00",
  "errors": [],
  "items": [
   {
@@ -351,7 +351,7 @@
    "link": "https://timesofindia.indiatimes.com/science/nature/scientists-studying-the-great-pacific-garbage-patch-found-that-parts-of-the-ocean-brightened-in-blue-and-green-wavelengths-over-20-years-satellite-data-suggest-tiny-plastic-particles-may-be-changing-its-colour/articleshow/135741034.cms",
    "summary": "Research indicates that microplastics in the Great Pacific Garbage Patch may be changing ocean color. This change creates a subtle blue-green tint that satellites have detected over twenty years. Scientists analyzed how ",
    "image": "https://static.toiimg.com/photo/msid-135741206,imgsize-346524.cms",
-   "date": "2026-11-11T23:55:28.293442+00:00",
+   "date": "2026-11-12T01:22:53.093639+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -359,8 +359,16 @@
    "link": "https://timesofindia.indiatimes.com/technology/tech-news/nasas-artemis-ii-moon-launch-made-two-huge-holes-in-earths-upper-atmosphere-these-holes-stretched-across-the-american-continent-from-east-to-west-like-giant-/articleshow/135741897.cms",
    "summary": "NASA's Artemis II mission resulted in significant disturbances in Earth's ionosphere, which impacted satellite navigation systems. Researchers identified two elongated areas of reduced electron density across North Ameri",
    "image": "https://static.toiimg.com/photo/msid-135741913,imgsize-57924.cms",
-   "date": "2026-11-11T23:55:28.293500+00:00",
+   "date": "2026-11-12T01:22:53.093815+00:00",
    "source": "Times of India (Science)"
+  },
+  {
+   "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
+   "link": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/",
+   "summary": "A Senate committee is set to advance nominations for NASA’s chief financial officer and inspector general. The post Senate committee takes up nominees for NASA chief financial officer and inspector general appeared first",
+   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/steinau.jpeg?fit=1024%2C576&amp;ssl=1",
+   "date": "2026-11-12T00:00:18+00:00",
+   "source": "SpaceNews"
   },
   {
    "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
@@ -416,14 +424,6 @@
    "summary": "Mozelos, Portugal, September 2, 2026 – Amorim Cork Solutions is contributing its P50 cork-based thermal protection material to DRACO, a European Space Agency (ESA) mission designed to capture rare in-flight […] The post ",
    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/2019-99-Amorim-Logos-UN-Vertical-Cork-Solutions-Green-scaled.png?fit=1024%2C500&amp;ssl=1",
    "date": "2026-11-05T17:05:59+00:00",
-   "source": "SpaceNews"
-  },
-  {
-   "title": "Building a ‘highway to the moon and back’ with Winnie Lai",
-   "link": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/",
-   "summary": "In this episode, SpaceNews’ Mike Gruss speaks with Winnie Lai, CEO of Auriga Space. They talk about how electromagnetic launch technology that “catapults” small launch vehicles could cut down on […] The post Building a ‘",
-   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/space-minds-podcast-auriga-2000-1500.jpg?fit=1024%2C768&amp;ssl=1",
-   "date": "2026-11-05T14:15:38+00:00",
    "source": "SpaceNews"
   }
  ]
