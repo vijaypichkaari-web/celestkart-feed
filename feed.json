@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T17:57:38.837556+00:00",
+ "updated": "2026-11-13T19:01:57.773132+00:00",
  "errors": [],
  "items": [
   {
@@ -131,6 +131,14 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "'Martian Isolation' is an upcoming sci-fi survival horror game that looks like 'The Martian' and 'Event Horizon' had a horrific child",
+   "link": "https://www.space.com/entertainment/space-games/martian-isolation-is-an-upcoming-sci-fi-survival-horror-game-that-looks-like-the-martian-and-event-horizon-had-a-horrific-child",
+   "summary": "It looks like 'The Martian,' but due to international copyright laws, it's not.",
+   "image": "https://cdn.mos.cms.futurecdn.net/RZ6FdmhsNxmoXKSSJ2iKNd-1920-80.jpg",
+   "date": "2026-11-13T18:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "Astronomers trace mystery radio signals back to cosmic odd couple of white dwarf and sun-like star",
    "link": "https://www.space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star",
    "summary": "\"It’s amazing that by using radio wavelengths, we can detect the storms on a star over 5,000 light-years away.\"",
@@ -184,14 +192,6 @@
    "summary": "SpaceX has inked a familiar phrase on the Starship rocket that will fly a historic mission today (Nov. 13) — \"Don't panic.\" And the company has invoked those words before.",
    "image": "https://cdn.mos.cms.futurecdn.net/wPeeKCdF2RvbiNJiDsUjER-1920-80.jpg",
    "date": "2026-11-13T08:03:59+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "Watch SpaceX attempt a historic Starship launch and double-catch landing today (Nov. 13)",
-   "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live",
-   "summary": "SpaceX plans to launch its Starship megarocket on an unprecedented double-catch mission today (Nov. 13), and you can watch the action live.",
-   "image": "https://cdn.mos.cms.futurecdn.net/2Bd2iSfNPm9ugmCJu55V3P-1920-80.jpg",
-   "date": "2026-11-13T05:05:00+00:00",
    "source": "Space.com"
   },
   {
@@ -351,8 +351,16 @@
    "link": "https://timesofindia.indiatimes.com/science/space/nasa-deliberately-crashed-a-spacecraft-into-an-asteroid-in-2022-europes-hera-probe-has-now-reached-the-impact-site-to-measure-how-successfully-humanity-can-deflect-a-space-rock/articleshow/135792858.cms",
    "summary": "ESA's Hera spacecraft has initiated its observations of the Didymos asteroid system following NASA's DART mission's collision with Dimorphos. This investigation seeks to analyze the impact's effects on Dimorphos' structu",
    "image": "https://static.toiimg.com/photo/msid-135793221,imgsize-289261.cms",
-   "date": "2026-11-13T17:57:38.788295+00:00",
+   "date": "2026-11-13T19:01:57.704344+00:00",
    "source": "Times of India (Science)"
+  },
+  {
+   "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
+   "link": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/",
+   "summary": "November 13, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome CesiumAstro as its newest Associate Member. A global leader in advanced connectivity solutions for the space and […] The pos",
+   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Anniversary-Logo.jpg?fit=1024%2C883&amp;ssl=1",
+   "date": "2026-11-13T18:00:00+00:00",
+   "source": "SpaceNews"
   },
   {
    "title": "AST SpaceMobile presses case for developing own launch vehicle",
@@ -408,14 +416,6 @@
    "summary": "SAN DIEGO, CA, November 10, 2026 – Kratos Defense & Security Solutions, Inc., a technology company in defense, national security, and global markets, today announced a long-term agreement with Seagate […] The post Kratos",
    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/seagate-space-kratos-logo-square.png?fit=976%2C978&amp;ssl=1",
    "date": "2026-11-10T14:00:00+00:00",
-   "source": "SpaceNews"
-  },
-  {
-   "title": "ESCAPADE on its way to Mars after Earth flybys",
-   "link": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/",
-   "summary": "Two NASA smallsats are headed toward Mars after completing flybys of Earth nearly a year after their launch. The post ESCAPADE on its way to Mars after Earth flybys appeared first on SpaceNews .",
-   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/escapade_twins_Mars.jpg?fit=1024%2C482&amp;ssl=1",
-   "date": "2026-11-10T08:01:39+00:00",
    "source": "SpaceNews"
   }
  ]
