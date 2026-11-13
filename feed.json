@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T07:26:17.240262+00:00",
+ "updated": "2026-11-13T09:06:47.833492+00:00",
  "errors": [],
  "items": [
   {
@@ -131,6 +131,14 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "'Don't panic': SpaceX pens familiar message on Starship ahead of historic double-catch test flight",
+   "link": "https://www.space.com/space-exploration/launches-spacecraft/dont-panic-spacex-pens-familiar-message-on-starship-ahead-of-historic-double-catch-test-flight",
+   "summary": "SpaceX has inked a familiar phrase on the Starship rocket that will fly a historic mission today (Nov. 13) — \"Don't panic.\" And the company has invoked those words before.",
+   "image": "https://cdn.mos.cms.futurecdn.net/wPeeKCdF2RvbiNJiDsUjER-1920-80.jpg",
+   "date": "2026-11-13T08:03:59+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "Watch SpaceX attempt a historic Starship launch and double-catch landing today (Nov. 13)",
    "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live",
    "summary": "SpaceX plans to launch its Starship megarocket on an unprecedented double-catch mission today (Nov. 13), and you can watch the action live.",
@@ -184,14 +192,6 @@
    "summary": "The Euclid space telescope released its first major batch of data, capturing the light of more than a billion objects over an area of sky as big as 9,500 full moons.",
    "image": "https://cdn.mos.cms.futurecdn.net/6zArwyGLXXZHN5caJ3ZXtN-1920-80.png",
    "date": "2026-11-12T17:28:20+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "Pakistani astronaut set to become 1st international visitor to China's Tiangong space station this month",
-   "link": "https://www.space.com/space-exploration/human-spaceflight/pakistani-astronaut-set-to-become-1st-international-visitor-to-chinas-tiangong-space-station-this-month",
-   "summary": "China will fly its first foreign astronaut on the Shenzhou 24 mission, with a Pakistani pilot set for a roughly week-long stay aboard the Tiangong space station.",
-   "image": "https://cdn.mos.cms.futurecdn.net/Wjr6XH6LRoffJxG5s9M485-1920-80.jpg",
-   "date": "2026-11-12T17:00:00+00:00",
    "source": "Space.com"
   },
   {
@@ -251,11 +251,11 @@
    "source": "ISRO news"
   },
   {
-   "title": "ISRO at a crossroads: The unease over India’s space sector reforms - The News Minute",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2R0YnRDaGxxUENTcXVzM2t3c1BKdHBiZkNuZmNOVGhVLVRYRlUxd1JXTmZXNVdVZTh5Z2V4MlVIbDRGSDlaMmgxUE0wQjBFWlYzQ0ZmT01JTlVna0N6ZE9ZUks0MDBONjhXbEdWOVJRR243alFweGd3NmtCZnlsaUJfQTdMbEdsWnJFWk5ReFNqamo4SFlVOWtncl9JRng4?oc=5",
-   "summary": "ISRO at a crossroads: The unease over India’s space sector reforms The News Minute",
+   "title": "Two PSLV failures, one modified rocket stage: How ISRO is trying to restore launch vehicle reliability - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdVZTZlhyNWtrLUkyWDhGekFIYTZXRDJ0WDZSTWxINERWUTExa1ZTb2JXMXplQWlLUDhVSzNnWDZfWHRiMlNvOEZHUExfLVM3T2hfR2pUZ0g4UzA3WjJTZm9KU0ZzYUlhXzVXSjdxREE5R3hmdlU3cnV2VmVnS3ZsOUl6S25ucGhOOHM1S2pscHNOSGVMVGFIbEhDM1JEaTRXSVhTSmVLc1BublFXTmN0dU8wZmxmdU0ybE82UnRrQVcwdkRENXIzTDZfMXFtdkw1bFpzRDJGMzhLZ0xmUGJDTlNhMmlGRGhqN3I0ck5CNFBRUWZQQjBCNmV3NVFqWlls0gGGAkFVX3lxTE1wMHVHdXBZTEpqNzJnN1ZWWTN2OWVCWlBQam1YdUZfckl5SlNzalVpaUk5YVNyYzJiMzRIUENNN2h2ZFlWV3YwY0IxeFhpZkhGR2plai0xMzBLeFd4cmpyT1IyVkFvQVRvT0UydlY4clVLa0NFTTQ2cG1TNTl0S3YyWEhHbkhkajQ5S3N5OXFIalBXTDE0VHlwOUV0ekdfNXhqY2VLNURaY2ljMGJ4NWtOTXdjWE5jWmtnNmJSVzdVQzB0RlV3SDJWaGhSUFZ0RWg5WDdLQ1VCVEJoWUJxYTNRckt0bGVxRk5TNFY4LXpjUkF0M2F5YjVpTWlVMVRLcmlhUVJnd2c?oc=5",
+   "summary": "Two PSLV failures, one modified rocket stage: How ISRO is trying to restore launch vehicle reliability The Economic Times",
    "image": "",
-   "date": "2026-11-12T06:30:00+00:00",
+   "date": "2026-11-13T08:40:02+00:00",
    "source": "ISRO news"
   },
   {
@@ -347,11 +347,19 @@
    "source": "The Hindu (Industry)"
   },
   {
+   "title": "NASA crashed a spacecraft into an asteroid in 2022; Europe's Hera probe reaches impact site to investigate if Earth can be saved from space rocks",
+   "link": "https://timesofindia.indiatimes.com/science/space/nasa-deliberately-crashed-a-spacecraft-into-an-asteroid-in-2022-europes-hera-probe-has-now-reached-the-impact-site-to-measure-how-successfully-humanity-can-deflect-a-space-rock/articleshow/135792858.cms",
+   "summary": "ESA's Hera spacecraft has initiated its observations of the Didymos asteroid system following NASA's DART mission's collision with Dimorphos. This investigation seeks to analyze the impact's effects on Dimorphos' structu",
+   "image": "https://static.toiimg.com/photo/msid-135793221,imgsize-289261.cms",
+   "date": "2026-11-13T09:06:47.687042+00:00",
+   "source": "Times of India (Science)"
+  },
+  {
    "title": "Microplastics may be changing the colour of the Pacific Ocean",
    "link": "https://timesofindia.indiatimes.com/science/nature/scientists-studying-the-great-pacific-garbage-patch-found-that-parts-of-the-ocean-brightened-in-blue-and-green-wavelengths-over-20-years-satellite-data-suggest-tiny-plastic-particles-may-be-changing-its-colour/articleshow/135741034.cms",
    "summary": "Research indicates that microplastics in the Great Pacific Garbage Patch may be changing ocean color. This change creates a subtle blue-green tint that satellites have detected over twenty years. Scientists analyzed how ",
    "image": "https://static.toiimg.com/photo/msid-135741206,imgsize-346524.cms",
-   "date": "2026-11-13T07:26:17.188619+00:00",
+   "date": "2026-11-13T09:06:47.687643+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -359,7 +367,7 @@
    "link": "https://timesofindia.indiatimes.com/technology/tech-news/nasas-artemis-ii-moon-launch-made-two-huge-holes-in-earths-upper-atmosphere-these-holes-stretched-across-the-american-continent-from-east-to-west-like-giant-/articleshow/135741897.cms",
    "summary": "NASA's Artemis II mission resulted in significant disturbances in Earth's ionosphere, which impacted satellite navigation systems. Researchers identified two elongated areas of reduced electron density across North Ameri",
    "image": "https://static.toiimg.com/photo/msid-135741913,imgsize-57924.cms",
-   "date": "2026-11-13T07:26:17.188716+00:00",
+   "date": "2026-11-13T09:06:47.687665+00:00",
    "source": "Times of India (Science)"
   },
   {
