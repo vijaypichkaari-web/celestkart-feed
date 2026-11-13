@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-13T15:56:51.277819+00:00",
+ "updated": "2026-11-13T17:01:51.550935+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "Outbursts from a Massive Star",
+   "link": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
+   "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile star,",
+   "image": "",
+   "date": "2026-11-13T16:39:33+00:00",
+   "source": "NASA"
+  },
+  {
+   "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+   "link": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
+   "summary": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneu",
+   "image": "",
+   "date": "2026-11-13T16:05:54+00:00",
+   "source": "NASA"
+  },
   {
    "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
    "link": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
@@ -48,22 +64,6 @@
    "summary": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope.",
    "image": "",
    "date": "2026-11-12T13:18:40+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
-   "link": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/",
-   "summary": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while milli",
-   "image": "https://www.youtube.com/embed/RrkH0jfX-4Y",
-   "date": "2026-11-12T13:00:00+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
-   "link": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
-   "summary": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photogra",
-   "image": "",
-   "date": "2026-11-12T05:05:00+00:00",
    "source": "NASA"
   },
   {
@@ -131,6 +131,14 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "Netflix’s ‘Ray Gunn’ gets 2nd trailer, and we're hyped for this animated sci-fi noir from ‘Incredibles’ director Brad Bird",
+   "link": "https://www.space.com/entertainment/space-movies-shows/netflixs-ray-gunn-gets-2nd-trailer-and-were-hyped-for-this-animated-sci-fi-noir-from-incredibles-director-brad-bird",
+   "summary": "'This city has corruption, secrets and murder. It's my job to discover the truth'",
+   "image": "https://cdn.mos.cms.futurecdn.net/rgRe2CTrVLqFQTGzMVBm9V-1920-80.png",
+   "date": "2026-11-13T16:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "Astronaut Suni Williams rides through NYC as Grand Marshal of the Veterans Day Parade | Space photo of the day for Nov. 13, 2026",
    "link": "https://www.space.com/space-exploration/human-spaceflight/astronaut-suni-williams-rides-through-nyc-as-grand-marshal-of-the-veterans-day-parade-space-photo-of-the-day-for-nov-13-2026",
    "summary": "NASA astronaut Suni Williams rides through New York City as the Grand Marshal of the Veterans Day Parade on Nov. 11, 2026.",
@@ -184,14 +192,6 @@
    "summary": "James Gunn's new DC universe might be done, but the follow-up to 2025's Superman is still on the way.",
    "image": "https://cdn.mos.cms.futurecdn.net/VbfnRXS9Cw8qFuwUkATtfL-1920-80.png",
    "date": "2026-11-12T22:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "This supernova impostor baffled astronomers for 15 years — until they found a hidden black hole feeding on an unstable star",
-   "link": "https://www.space.com/astronomy/black-holes/this-supernova-impostor-baffled-astronomers-for-15-years-until-they-found-a-hidden-black-hole-feeding-on-an-unstable-star",
-   "summary": "A hidden black hole or neutron star companion to an unstable massive star is causing the system to erupt in light that mimics a supernova explosion.",
-   "image": "https://cdn.mos.cms.futurecdn.net/XhVSpaadCYj8cYmJK5faFo-1920-80.png",
-   "date": "2026-11-12T21:00:00+00:00",
    "source": "Space.com"
   },
   {
@@ -351,7 +351,7 @@
    "link": "https://timesofindia.indiatimes.com/science/space/nasa-deliberately-crashed-a-spacecraft-into-an-asteroid-in-2022-europes-hera-probe-has-now-reached-the-impact-site-to-measure-how-successfully-humanity-can-deflect-a-space-rock/articleshow/135792858.cms",
    "summary": "ESA's Hera spacecraft has initiated its observations of the Didymos asteroid system following NASA's DART mission's collision with Dimorphos. This investigation seeks to analyze the impact's effects on Dimorphos' structu",
    "image": "https://static.toiimg.com/photo/msid-135793221,imgsize-289261.cms",
-   "date": "2026-11-13T15:56:51.259160+00:00",
+   "date": "2026-11-13T17:01:51.417405+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -359,7 +359,7 @@
    "link": "https://timesofindia.indiatimes.com/science/nature/scientists-studying-the-great-pacific-garbage-patch-found-that-parts-of-the-ocean-brightened-in-blue-and-green-wavelengths-over-20-years-satellite-data-suggest-tiny-plastic-particles-may-be-changing-its-colour/articleshow/135741034.cms",
    "summary": "Research indicates that microplastics in the Great Pacific Garbage Patch may be changing ocean color. This change creates a subtle blue-green tint that satellites have detected over twenty years. Scientists analyzed how ",
    "image": "https://static.toiimg.com/photo/msid-135741206,imgsize-346524.cms",
-   "date": "2026-11-13T15:56:51.260319+00:00",
+   "date": "2026-11-13T17:01:51.418332+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -367,7 +367,7 @@
    "link": "https://timesofindia.indiatimes.com/technology/tech-news/nasas-artemis-ii-moon-launch-made-two-huge-holes-in-earths-upper-atmosphere-these-holes-stretched-across-the-american-continent-from-east-to-west-like-giant-/articleshow/135741897.cms",
    "summary": "NASA's Artemis II mission resulted in significant disturbances in Earth's ionosphere, which impacted satellite navigation systems. Researchers identified two elongated areas of reduced electron density across North Ameri",
    "image": "https://static.toiimg.com/photo/msid-135741913,imgsize-57924.cms",
-   "date": "2026-11-13T15:56:51.260357+00:00",
+   "date": "2026-11-13T17:01:51.418361+00:00",
    "source": "Times of India (Science)"
   },
   {
