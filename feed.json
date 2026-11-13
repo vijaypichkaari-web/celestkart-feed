@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T12:02:21.396196+00:00",
+ "updated": "2026-11-13T13:18:18.866611+00:00",
  "errors": [],
  "items": [
   {
@@ -67,6 +67,14 @@
    "source": "NASA"
   },
   {
+   "title": "ULA’s Vulcan rocket plans return to flight with launch of 40 Leo satellites for Amazon",
+   "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
+   "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is scheduled for 12:54 p.m. EST (1754 UTC), at the opening of a 29-minute window.",
+   "image": "",
+   "date": "2026-11-13T12:25:06+00:00",
+   "source": "Spaceflight Now"
+  },
+  {
    "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
    "link": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
    "summary": "The company behind the Bluebird direct-to-cell satellite constellation said the addition of its own heavy-lift rocket is the final piece of its plans for vertical integration.",
@@ -123,12 +131,12 @@
    "source": "Spaceflight Now"
   },
   {
-   "title": "SpaceX closes out October with 700th Falcon 9 launch to date",
-   "link": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
-   "summary": "The Starlink 15-18 mission will add another 27 Starlink V2 Mini Optimized satellites to SpaceX’s megaconstellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 9:04 p.m. PDT (12:04 a.m. EDT / 0404",
-   "image": "",
-   "date": "2026-10-30T22:46:02+00:00",
-   "source": "Spaceflight Now"
+   "title": "Double-catch drama: Why Starship's Flight 15 is so important to SpaceX",
+   "link": "https://www.space.com/space-exploration/launches-spacecraft/double-catch-drama-why-starships-flight-15-is-so-important-to-spacex",
+   "summary": "SpaceX plans to launch its Starship megarocket on an unprecedented double-catch mission today (Nov. 13), and you can watch the action live.",
+   "image": "https://cdn.mos.cms.futurecdn.net/sffkFhsSvZteVyVhHrKG77-1920-80.jpg",
+   "date": "2026-11-13T13:00:00+00:00",
+   "source": "Space.com"
   },
   {
    "title": "Powerful Vulcan Centaur rocket launching for 1st time in 9 months today: Watch it live",
@@ -187,14 +195,6 @@
    "source": "Space.com"
   },
   {
-   "title": "'Warhammer Survivors' is the perfect gateway into the 40K universe",
-   "link": "https://www.space.com/entertainment/space-games/warhammer-survivors-is-the-perfect-gateway-into-the-40k-universe",
-   "summary": "This Vampire Survivors spin-off has a lot of love for the famous grimdark sci-fi universe, but without the intimidatingly dense lore and complex systems.",
-   "image": "https://cdn.mos.cms.futurecdn.net/58EPSeorXB5iKooScZpoaV-1920-80.jpg",
-   "date": "2026-11-12T19:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
    "title": "ISRO successfully carries out ground static test of PSLV third stage - The Hindu",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkRLbk5rVlBZT2N2RXpnTWtaTTlNTHJ3Q002clpGcEs2czdHZHRtQkM3SV9GU19TYkFxZEwwY0RXeDFiNW9HcDJCc05UNkIyNVVVOGlGWlhEX1BQMDdJaVNmZmp3bU0zaFB1NFpSV25yV3RKZ0FKdG5YRXk0X2NQaFA2OEd2TmZSd0lnYkRMZE8xejRvRnF5UlNRVHU3NUlwa2JqdTN1WU5BcUdLaUE2Wi1EU1YwR2s1UkNPdlZFdmJCRlhVT2pjWUxB0gHQAUFVX3lxTE1JQ05TM0xaaDdhTGRGdUV5ckpYWkVuQk1FX0lYcWRUR1hUOXFIRTQ4ckJWSlpta0lIWTJPbERqbkc0OHNpNnlNRWNNcDgxYldhQU5vRWc0dWZxNjVQTlowdUpyNENaSlVDanlZNzllbWlLcjM1aVNSYXc3TGFyLTlabzhBaEFjbkFWZC02dFVlbEJUZi0xckpudVBsdkpFbVA5bmtWVUxjM2lXWkJWYVVoOE44dnk3WGxPbF9nd2ZMdmhHakhmUFd1Yl9QUlB4Zzk?oc=5",
    "summary": "ISRO successfully carries out ground static test of PSLV third stage The Hindu ISRO PSLV Third Stage Test 2026, Key Highlights and Significance Vajiram & Ravi After back-to-back failures, Isro successfully tests modified",
@@ -216,6 +216,14 @@
    "summary": "ISRO conducts flight acceptance test of Cryogenic engine for next GSLV mission ISRO",
    "image": "",
    "date": "2026-11-10T11:39:29+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "Cyclone alerts to train tracking: PM Modi explains how Isro tech serves Indians - India Today",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOalA1WG9YeURCMHpOc2I2U3BiWmpYLTVDdnllQW5kOFN1QUNLS2JsUXl6TlowRjlZQXQ4SXlyUlRPSjNIRHAtOHMydkR5bkNOUEZMTDltUk10UXpYdVpsOW96TGZfYjZndm1zdEhVMHNFNHUzQWh5VThLYWhYbUM0aWZ5X01iRDNmTXZuLWl2ZUxDM004Z1g2NDRwVGNWXzI0T05OTjhaUXFOa3pqVnVvTm5mazBQS05hQVlLU0Z6aGw5X2hLcnBsOGs1bV9JVC1FOGdJ0gHYAUFVX3lxTE1WeTBIejQ0Y2pyY2hmOXY5eGNWVHFldXR0eUxWQ3l4NkhWM2ZRazA3bkx5M3VzLXJkNXVoaFJaNVdnMXNkWWdqZ3c4ck5fZGkteDVQa1VKSVZxUjBPbzhmWGltdnV2Y1BNOENSSjRNTkRfOUh4dmhMRzBidjJvX1A1NU1ZWDFRczlfSmdHeHVld1FiNGdpcURrN3hYcGRoUC1TRDlTaFNFVU93WUF4MVR4TFlBVkNDZGUzY3BuNTRqREU1VmNRdVBsLXJjeG1YQ09RSk1DenJfeA?oc=5",
+   "summary": "Cyclone alerts to train tracking: PM Modi explains how Isro tech serves Indians India Today",
+   "image": "",
+   "date": "2026-11-13T11:45:50+00:00",
    "source": "ISRO news"
   },
   {
@@ -248,14 +256,6 @@
    "summary": "ISRO completes key test for GSLV rocket’s cryogenic engine for next navigation satellite launch Starlust.org",
    "image": "",
    "date": "2026-11-12T12:07:43+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "ISRO Tests Upgraded PSLV Third Stage After Two Mission Anomalies - GK Today",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcG9lc3RZVVJEdW96OHBicS0yNXc0Q3lJWWNQdERLNDZsQW9yUk5JeEI2Vl9mX2c5Q1lIeW1KZGEyZ0VBV3dOa0NEeWo1SGtXc0JPc3NaTFhJQ01IOXZ2RlZlZmx6NjV1VUtNVzVZUl9UM3Y4TEJoTU9aNmxFOS1PZmNoaC1xczVuQ01CeE9iZ3NOdw?oc=5",
-   "summary": "ISRO Tests Upgraded PSLV Third Stage After Two Mission Anomalies GK Today",
-   "image": "",
-   "date": "2026-11-13T05:28:21+00:00",
    "source": "ISRO news"
   },
   {
@@ -351,7 +351,7 @@
    "link": "https://timesofindia.indiatimes.com/science/space/nasa-deliberately-crashed-a-spacecraft-into-an-asteroid-in-2022-europes-hera-probe-has-now-reached-the-impact-site-to-measure-how-successfully-humanity-can-deflect-a-space-rock/articleshow/135792858.cms",
    "summary": "ESA's Hera spacecraft has initiated its observations of the Didymos asteroid system following NASA's DART mission's collision with Dimorphos. This investigation seeks to analyze the impact's effects on Dimorphos' structu",
    "image": "https://static.toiimg.com/photo/msid-135793221,imgsize-289261.cms",
-   "date": "2026-11-13T12:02:21.302138+00:00",
+   "date": "2026-11-13T13:18:18.738075+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -359,7 +359,7 @@
    "link": "https://timesofindia.indiatimes.com/science/nature/scientists-studying-the-great-pacific-garbage-patch-found-that-parts-of-the-ocean-brightened-in-blue-and-green-wavelengths-over-20-years-satellite-data-suggest-tiny-plastic-particles-may-be-changing-its-colour/articleshow/135741034.cms",
    "summary": "Research indicates that microplastics in the Great Pacific Garbage Patch may be changing ocean color. This change creates a subtle blue-green tint that satellites have detected over twenty years. Scientists analyzed how ",
    "image": "https://static.toiimg.com/photo/msid-135741206,imgsize-346524.cms",
-   "date": "2026-11-13T12:02:21.303083+00:00",
+   "date": "2026-11-13T13:18:18.738850+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -367,7 +367,7 @@
    "link": "https://timesofindia.indiatimes.com/technology/tech-news/nasas-artemis-ii-moon-launch-made-two-huge-holes-in-earths-upper-atmosphere-these-holes-stretched-across-the-american-continent-from-east-to-west-like-giant-/articleshow/135741897.cms",
    "summary": "NASA's Artemis II mission resulted in significant disturbances in Earth's ionosphere, which impacted satellite navigation systems. Researchers identified two elongated areas of reduced electron density across North Ameri",
    "image": "https://static.toiimg.com/photo/msid-135741913,imgsize-57924.cms",
-   "date": "2026-11-13T12:02:21.303113+00:00",
+   "date": "2026-11-13T13:18:18.738880+00:00",
    "source": "Times of India (Science)"
   },
   {
