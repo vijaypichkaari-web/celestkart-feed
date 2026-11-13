@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T10:08:22.863516+00:00",
+ "updated": "2026-11-13T11:08:30.687581+00:00",
  "errors": [],
  "items": [
   {
@@ -131,6 +131,14 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "Powerful Vulcan Centaur rocket launching for 1st time in 9 months today: Watch it live",
+   "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+   "summary": "United Launch Alliance's Vulcan Centaur rocket will launch 40 Amazon internet satellites to orbit today (Nov. 13). You can watch the liftoff — Vulcan's first since February —live here at Space.com.",
+   "image": "https://cdn.mos.cms.futurecdn.net/vhvNRBhtiDYC4TYL6m5zpf-1920-80.jpg",
+   "date": "2026-11-13T11:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "'Don't panic': SpaceX pens familiar message on Starship ahead of historic double-catch test flight",
    "link": "https://www.space.com/space-exploration/launches-spacecraft/dont-panic-spacex-pens-familiar-message-on-starship-ahead-of-historic-double-catch-test-flight",
    "summary": "SpaceX has inked a familiar phrase on the Starship rocket that will fly a historic mission today (Nov. 13) — \"Don't panic.\" And the company has invoked those words before.",
@@ -184,14 +192,6 @@
    "summary": "This Vampire Survivors spin-off has a lot of love for the famous grimdark sci-fi universe, but without the intimidatingly dense lore and complex systems.",
    "image": "https://cdn.mos.cms.futurecdn.net/58EPSeorXB5iKooScZpoaV-1920-80.jpg",
    "date": "2026-11-12T19:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video)",
-   "link": "https://www.space.com/astronomy/dark-matter-breakthrough-coming-euclid-space-telescope-unveils-its-1st-look-into-the-dark-universe-video",
-   "summary": "The Euclid space telescope released its first major batch of data, capturing the light of more than a billion objects over an area of sky as big as 9,500 full moons.",
-   "image": "https://cdn.mos.cms.futurecdn.net/6zArwyGLXXZHN5caJ3ZXtN-1920-80.png",
-   "date": "2026-11-12T17:28:20+00:00",
    "source": "Space.com"
   },
   {
@@ -351,7 +351,7 @@
    "link": "https://timesofindia.indiatimes.com/science/space/nasa-deliberately-crashed-a-spacecraft-into-an-asteroid-in-2022-europes-hera-probe-has-now-reached-the-impact-site-to-measure-how-successfully-humanity-can-deflect-a-space-rock/articleshow/135792858.cms",
    "summary": "ESA's Hera spacecraft has initiated its observations of the Didymos asteroid system following NASA's DART mission's collision with Dimorphos. This investigation seeks to analyze the impact's effects on Dimorphos' structu",
    "image": "https://static.toiimg.com/photo/msid-135793221,imgsize-289261.cms",
-   "date": "2026-11-13T10:08:22.743588+00:00",
+   "date": "2026-11-13T11:08:30.574899+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -359,7 +359,7 @@
    "link": "https://timesofindia.indiatimes.com/science/nature/scientists-studying-the-great-pacific-garbage-patch-found-that-parts-of-the-ocean-brightened-in-blue-and-green-wavelengths-over-20-years-satellite-data-suggest-tiny-plastic-particles-may-be-changing-its-colour/articleshow/135741034.cms",
    "summary": "Research indicates that microplastics in the Great Pacific Garbage Patch may be changing ocean color. This change creates a subtle blue-green tint that satellites have detected over twenty years. Scientists analyzed how ",
    "image": "https://static.toiimg.com/photo/msid-135741206,imgsize-346524.cms",
-   "date": "2026-11-13T10:08:22.744518+00:00",
+   "date": "2026-11-13T11:08:30.575482+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -367,7 +367,7 @@
    "link": "https://timesofindia.indiatimes.com/technology/tech-news/nasas-artemis-ii-moon-launch-made-two-huge-holes-in-earths-upper-atmosphere-these-holes-stretched-across-the-american-continent-from-east-to-west-like-giant-/articleshow/135741897.cms",
    "summary": "NASA's Artemis II mission resulted in significant disturbances in Earth's ionosphere, which impacted satellite navigation systems. Researchers identified two elongated areas of reduced electron density across North Ameri",
    "image": "https://static.toiimg.com/photo/msid-135741913,imgsize-57924.cms",
-   "date": "2026-11-13T10:08:22.744547+00:00",
+   "date": "2026-11-13T11:08:30.575502+00:00",
    "source": "Times of India (Science)"
   },
   {
