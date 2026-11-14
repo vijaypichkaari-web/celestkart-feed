@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:59:12.996347+00:00",
+ "updated": "2026-11-14T04:59:51.447037+00:00",
  "errors": [],
  "items": [
   {
@@ -259,6 +259,14 @@
    "source": "ISRO news"
   },
   {
+   "title": "SpaceX launches 15th Starship flight with hopes of achieving first round trip",
+   "link": "https://www.thehindu.com/sci-tech/science/spacex-launches-15th-starship-flight-with-hopes-of-achieving-first-round-trip/article71700818.ece",
+   "summary": "Starship expected to descend from space after completing 14 orbits around Earth, setting up its debut catch landing for ​Saturday afternoon; the Super Heavy booster was diverted from its return flight path to a fixed poi",
+   "image": "https://th-i.thgim.com/public/incoming/4by6yd/article71700846.ece/alternates/LANDSCAPE_1200/AP11_14_2026_000010A.jpg",
+   "date": "2026-11-14T04:17:31+00:00",
+   "source": "The Hindu (Science)"
+  },
+  {
    "title": "ISRO successfully carries out ground static test of PSLV third stage",
    "link": "https://www.thehindu.com/sci-tech/science/isro-successfully-carries-out-ground-static-test-of-pslv-third-stage/article71694068.ece",
    "summary": "The configuration of the third stage was revisited comprehensively with respect to the design margins, raw material acceptance criteria, assembly procedures, and the quality checks that were followed so far",
@@ -315,14 +323,6 @@
    "source": "The Hindu (Science)"
   },
   {
-   "title": "Explained | What is the Gaia space mission and what has it revealed about the Milky Way?",
-   "link": "https://www.thehindu.com/sci-tech/science/explained-what-is-the-gaia-space-mission-and-what-has-it-revealed-about-the-milky-way/article65527518.ece",
-   "summary": "The new data released by the European Space Agency’s Gaia mission has revealed the surprise phenomena of ‘starquakes’—massive tsunami-like movements on the surface of stars",
-   "image": "https://th-i.thgim.com/public/incoming/bzyqz6/article65527046.ece/alternates/LANDSCAPE_1200/2013-12-19T140512Z_1761907765_GF2E9CJ0ZRK01_RTRMADP_3_EUROPE-SPACE.JPG",
-   "date": "2026-11-01T13:03:46+00:00",
-   "source": "The Hindu (Science)"
-  },
-  {
    "title": "Google launches two AI chips as it seeks to challenge NVIDIA’s dominance",
    "link": "https://www.thehindu.com/business/Industry/google-launches-two-ai-chips-as-it-seeks-to-challenge-nvidias-dominance/article71686071.ece",
    "summary": "New systems target secure AI inference and memory-intensive workloads as Google seeks to expand enterprise adoption of its in-house AI processors",
@@ -351,7 +351,7 @@
    "link": "https://timesofindia.indiatimes.com/science/space/nasa-deliberately-crashed-a-spacecraft-into-an-asteroid-in-2022-europes-hera-probe-has-now-reached-the-impact-site-to-measure-how-successfully-humanity-can-deflect-a-space-rock/articleshow/135792858.cms",
    "summary": "ESA's Hera spacecraft has initiated its observations of the Didymos asteroid system following NASA's DART mission's collision with Dimorphos. This investigation seeks to analyze the impact's effects on Dimorphos' structu",
    "image": "https://static.toiimg.com/photo/msid-135793221,imgsize-289261.cms",
-   "date": "2026-11-14T03:59:12.794964+00:00",
+   "date": "2026-11-14T04:59:51.404005+00:00",
    "source": "Times of India (Science)"
   },
   {
