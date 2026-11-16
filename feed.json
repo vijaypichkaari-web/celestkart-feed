@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-16T09:41:21.942930+00:00",
+ "updated": "2026-11-16T20:27:57.431455+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "Sentinel-6B in Orbit Around Earth",
+   "link": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/",
+   "summary": "Description This artist’s concept shows the Sentinel-6B satellite, which will become the reference satellite for other missions studying sea surface height.",
+   "image": "",
+   "date": "2026-11-16T18:52:32+00:00",
+   "source": "NASA"
+  },
+  {
+   "title": "Thunderbirds in Formation",
+   "link": "https://www.nasa.gov/image-article/thunderbirds-in-formation/",
+   "summary": "U.S. Air Force Thunderbirds fighter jets pass overhead during the agency’s MAX POWER expo and air show on Saturday, Nov. 7, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s inaugural MAX POWER was an aerospace fes",
+   "image": "",
+   "date": "2026-11-16T18:34:47+00:00",
+   "source": "NASA"
+  },
+  {
+   "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
+   "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
+   "summary": "The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life. Mirandy has grown up with NASA as a constant presence, and his path to becoming a civil servant at NASA’s Stennis Space Center near B",
+   "image": "",
+   "date": "2026-11-16T15:22:09+00:00",
+   "source": "NASA"
+  },
   {
    "title": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
    "link": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
@@ -40,30 +64,6 @@
    "summary": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or phot",
    "image": "",
    "date": "2026-11-13T05:05:00+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "A Global Rebound for Mangroves",
-   "link": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
-   "summary": "After decades of decline, this ecologically significant type of forest is making a comeback.",
-   "image": "",
-   "date": "2026-11-13T05:01:00+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "I Am Artemis Katie Spicer",
-   "link": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
-   "summary": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided hu",
-   "image": "",
-   "date": "2026-11-12T20:10:02+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "Heart in the Sky at NASA Kennedy",
-   "link": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/",
-   "summary": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy ",
-   "image": "",
-   "date": "2026-11-12T19:12:49+00:00",
    "source": "NASA"
   },
   {
@@ -131,75 +131,83 @@
    "source": "Spaceflight Now"
   },
   {
-   "title": "30 years ago, 'Space Jam' proposed the best way to resolve interplanetary disputes",
-   "link": "https://www.space.com/entertainment/space-movies-shows/30-years-ago-space-jam-proposed-the-best-way-to-resolve-interplanetary-disputes",
-   "summary": "Sufferin' succotash! The Monstars and Tune Squad interplanetary slam arrived 30 years ago, and it's still a clinic in interplanetary conflict resolution.",
-   "image": "https://cdn.mos.cms.futurecdn.net/xJK5chfjW9PoPrdK5KsTyN-1920-80.jpg",
-   "date": "2026-11-15T17:00:00+00:00",
+   "title": "Elon Musk says SpaceX’s Starship, already the largest rocket on Earth, will get even bigger with next-gen V4 model",
+   "link": "https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model",
+   "summary": "Just a day after SpaceX caught the upper stage of its Starship megarocket back at the launch pad for the first time ever, Elon Musk told us that the spacecraft will get even bigger.",
+   "image": "https://cdn.mos.cms.futurecdn.net/3Fkrm7hcfY8Smci3nzStBA-1920-80.jpg",
+   "date": "2026-11-16T20:04:22+00:00",
    "source": "Space.com"
   },
   {
-   "title": "On this day in space! Nov. 15, 1988: The 300-foot Green Bank Telescope collapses suddenly, leaving a huge pile of wreckage in West Virginia",
-   "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-15-2026",
-   "summary": "On Nov. 15, 1988, a 300-foot radio telescope in Green Bank, West Virginia suddenly collapsed. Here's why it mattered.",
-   "image": "https://cdn.mos.cms.futurecdn.net/ZQvVXg7My9J7RQ6ZT3RsyF-1920-80.jpg",
-   "date": "2026-11-15T15:34:00+00:00",
+   "title": "What exactly is a light-day? Here's what Voyager 1's latest milestone means for the interstellar probe",
+   "link": "https://www.space.com/space-exploration/voyager/what-exactly-is-a-light-day-heres-what-voyager-1s-latest-milestone-means-for-the-interstellar-probe",
+   "summary": "Voyager 1 is approaching a distance of one light-day from Earth, a milestone that highlights the enormous distances involved in deep-space exploration.",
+   "image": "https://cdn.mos.cms.futurecdn.net/V2VwaZ35KwrhuT5CZCWXhR-1920-80.jpg",
+   "date": "2026-11-16T19:00:00+00:00",
    "source": "Space.com"
   },
   {
-   "title": "Why hasn't the 'Blaze Star' exploded yet? Astronomers weigh in on what to expect",
-   "link": "https://www.space.com/stargazing/why-hasnt-the-blaze-star-exploded-yet-astronomers-weigh-in-on-what-to-expect",
-   "summary": "\"T CrB *will* erupt sometime soon. Everyone is very confident on this.\"",
-   "image": "https://cdn.mos.cms.futurecdn.net/Csp6Uze99ETyWPNPNUP2K4-1920-80.jpg",
-   "date": "2026-11-15T15:00:00+00:00",
+   "title": "'Maybe the scariest thing I've heard in my life': Artemis II astronaut Victor Glover reveals his toughest challenge before flying to the moon",
+   "link": "https://www.space.com/space-exploration/artemis/maybe-the-scariest-thing-ive-heard-in-my-life-artemis-ii-astronaut-victor-glover-reveals-his-toughest-challenge-before-flying-to-the-moon",
+   "summary": "For Artemis II astronaut Victor Glover, one of the hardest parts of traveling to the moon happened before he even left Earth.",
+   "image": "https://cdn.mos.cms.futurecdn.net/BUmVWRPLd5qnr8PFhBmTw-1920-80.jpg",
+   "date": "2026-11-16T18:00:00+00:00",
    "source": "Space.com"
   },
   {
-   "title": "How escaping gases ripped apart a comet and caused it to become thousands of times brighter",
-   "link": "https://www.space.com/astronomy/comets/how-escaping-gases-ripped-apart-a-comet-and-caused-it-to-become-thousands-of-times-brighter",
-   "summary": "This summer, comet 220P/McNaught burst into life out of nowhere to become one of the year’s highlights for amateur astronomers.",
-   "image": "https://cdn.mos.cms.futurecdn.net/fntRg5YofsForRVjX4YSs-1920-80.png",
-   "date": "2026-11-15T13:00:00+00:00",
+   "title": "The Leonid meteor shower peaks Nov. 17-18! Here's what you need to know",
+   "link": "https://www.space.com/stargazing/meteor-showers/the-leonid-meteor-shower-peaks-nov-17-18-heres-what-you-need-to-know",
+   "summary": "The Leonid meteor shower peaks overnight on Nov. 17-18, sending shooting stars racing across the night sky from the direction of the constellation Leo.",
+   "image": "https://cdn.mos.cms.futurecdn.net/NAsZfCfCmdo4HYro9w4Qfb-1920-80.jpg",
+   "date": "2026-11-16T17:00:00+00:00",
    "source": "Space.com"
   },
   {
-   "title": "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch?",
-   "link": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-epic-flight-15-chopsticks-catch",
-   "summary": "SpaceX just made spaceflight history, catching the upper stage of its Starship megarocket when it returned to Earth. But Starship still has some pretty big boxes left to check.",
-   "image": "https://cdn.mos.cms.futurecdn.net/T38fmGMPT8J5XSbVo6Ud9L-1920-80.jpg",
-   "date": "2026-11-15T11:00:00+00:00",
+   "title": "Could there be an ancient alien satellite in Earth's orbit? How the 'Black Knight' conspiracy theory has survived for over 100 years",
+   "link": "https://www.space.com/space-exploration/satellites/could-there-be-an-ancient-alien-satellite-in-earths-orbit-how-the-black-knight-conspiracy-theory-has-survived-for-over-100-years",
+   "summary": "The legend of the Black Knight satellite offers an example of how a collection of unconnected events and speculative interpretations can accumulate into a single conspiracy theory over time.",
+   "image": "https://cdn.mos.cms.futurecdn.net/of5F852CDzKzs3wwHFrPxR-1920-80.jpg",
+   "date": "2026-11-16T16:00:00+00:00",
    "source": "Space.com"
   },
   {
-   "title": "This Week In Space podcast: Episode 236 — Alienspotting",
-   "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-236-alienspotting",
-   "summary": "On Episode 236 of This Week In Space, Tariq Malik and Rod Pyle are joined by Mikhail Tikhonov to talk about how life can take more unusual forms, ones we might not even recognize.",
-   "image": "https://cdn.mos.cms.futurecdn.net/jBez42WoJZfjg7Pg27pWbS-1920-80.jpg",
-   "date": "2026-11-14T15:56:33+00:00",
+   "title": "Euclid space telescope discovers its 1st comet | Space photo of the day for Nov. 16, 2026",
+   "link": "https://www.space.com/astronomy/comets/euclid-discovers-its-1st-comet-space-photo-of-the-day-for-nov-16-2026",
+   "summary": "The new observatory managed to catch this comet whirling between the orbits of Jupiter and Saturn.",
+   "image": "https://cdn.mos.cms.futurecdn.net/f9ETjaXCDDnRXBGg7qwLYK-1920-80.jpg",
+   "date": "2026-11-16T15:00:00+00:00",
    "source": "Space.com"
   },
   {
-   "title": "'Alien: Fireteam Elite 2' is a good old-fashioned bug hunt, ironically plagued by bugs",
-   "link": "https://www.space.com/entertainment/space-games/alien-fireteam-elite-2-is-a-good-old-fashioned-bug-hunt-ironically-plagued-by-bugs",
-   "summary": "We're scared of the Xenomorphs again, but Aliens: Fireteam Elite 2 knows old-fashioned bug hunts shouldn't be a thing of the past.",
-   "image": "https://cdn.mos.cms.futurecdn.net/5Mp3y4JfJcpYtqUmfvUjGm-1920-80.jpg",
-   "date": "2026-11-14T15:00:00+00:00",
+   "title": "Dream Chaser space plane gets landing approval for debut mission in 2027",
+   "link": "https://www.space.com/space-exploration/launches-spacecraft/dream-chaser-space-plane-gets-landing-approval-for-debut-mission-in-2027",
+   "summary": "Sierra Space's Dream Chaser is aiming for its first spaceflight after more than 20 years of development, and the space plane now has FAA approval to come home.",
+   "image": "https://cdn.mos.cms.futurecdn.net/LQpMwEUC2feMnV8gLrQjXU-1920-80.jpg",
+   "date": "2026-11-16T14:00:00+00:00",
    "source": "Space.com"
   },
   {
-   "title": "Why did Starship Flight 15 booster abort 'chopsticks' landing catch? SpaceX still investigating (video)",
-   "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
-   "summary": "SpaceX is looking into why its latest Starship megarocket test flight missed the first of two planned landings on Friday (Nov. 13) during the Starship Flight 15 test.",
-   "image": "https://cdn.mos.cms.futurecdn.net/zL7m9oeA7WKcG6pLoC3NTB-1920-80.jpg",
-   "date": "2026-11-14T14:53:00+00:00",
+   "title": "‘Avengers Endgame: Encore’ is now streaming on Disney+, with 4 minutes of bonus footage and a special ‘Doomsday’ preview",
+   "link": "https://www.space.com/entertainment/space-movies-shows/avengers-endgame-encore-is-now-streaming-on-disney-with-4-minutes-of-bonus-footage-and-a-special-doomsday-preview",
+   "summary": "Armed with bonus scenes and extras, Marvel Studios' updated version of its 2019 blockbuster just landed on Disney+",
+   "image": "https://cdn.mos.cms.futurecdn.net/MRfu5VbF4Hv2E8Se2ycjGo-1920-80.jpg",
+   "date": "2026-11-16T13:30:00+00:00",
    "source": "Space.com"
   },
   {
-   "title": "PSLV’s comeback is too important to rush - The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVTlTZWVkMWtJMEJUdmhtZ0MyVEFCa1JVeHMzeFlBMUVBcWNxdWk3YkdkaFluYjBLVEduQ3FzSllNOW95QmNtS1hZU0JtLXlpMjJ5VUswVm5pWHhSX3cxODhkMFVIVTVQeVJPWVdpREotbTM0dUlqSHB6SW11dENTSjBTQ0RyeEs3Z19tRE90NXcyMmJmMTBqVl84dE00djE4U0F6TEM2QWlpZnoyaEHSAbMBQVVfeXFMT0doQVNpMUFKX2p6dUFXanV0ckhheWlfY2d0cVFpN3ZNUGVMTldsQnpWVUdFRmYtRVR2aVNLM0pSNFJEeDN6RHJiOXpkMUtBVlhJMFh0OHpmVnBiMUl6RVNMMGpSRmw0VUEySnBlUjc2MGdFeXM1UTVOejZtbG1wcC04VTJCUnd4cHQ0SW5pNTdSd29TenBVblI1bXhmNXY4NVFyRi1zZmhaU1ZlWlRtQ3ZXOGM?oc=5",
-   "summary": "PSLV’s comeback is too important to rush The Times of India",
+   "title": "PM shares an article by former ISRO Chairman Shri Somanath Sreedhara Panicker highlighting India’s space achievements and roadmap for future missions - PM India",
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNVHVZTm90aXZOazJlZVN5Wl9DZVB5dEJVRU91cW82MUdybURLVlJXNUVjNHJRNk5nd1c2bGRPWGdVTDVWZllzeUs3X3ZMZU44VVlsdjZLM25fQk91TE9va2RzTFpSTmRkQ3ZFYnN5QmM2dkkzSGRNTXhsY2x1Skc4VnZWdzRjbzh2NEhmdENINjMyVWJTUjNqR2U5cmEtY1pKMV9CWkhLblQwVjgwM1Fpb0sxbkwybHB6ajYxSWRyd01UTFl4QTBHWkdqMHBXbkEzbUVwbmdvdmZldHVjZUNIdTk4Ungxbko3OFVHbElEZTVoODBDam5NNGZTemtCaHdXWEpncDZrbnE4VWVmTVk5RV9WdXhqZzZqeEJvdw?oc=5",
+   "summary": "PM shares an article by former ISRO Chairman Shri Somanath Sreedhara Panicker highlighting India’s space achievements and roadmap for future missions PM India",
    "image": "",
-   "date": "2026-11-15T03:06:00+00:00",
+   "date": "2026-11-16T11:19:25+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "Third cyclone within a month to hit India: Isro satellite captures massive buildup - India Today",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTnp1Z0IwTy1mVUZZT3ZESWFzWGtTaWZfbkU1WU1tNThZUS1mUnlHeTVZcEJ3cW5WbEZfREtNdm1tMTRhaVNoTHF1Q3FZYmN0aDgybDBvX2hQX2dYa05IYXlrVmFyWEZhcFpDM3NLbWI1Ti0tNXlOdjZ4Q19GMUZ4dDBWc3VKOEVfNGZNY0RkU01ZT3VVeUx2c3lZZU5ENTdNMU9sRDJhRGVFaW1SNmI1a3BIT0hSOUI4SzI4LVVpRE5jSzhWQ29wSklsdlFHaWhaYnZhYzVrVdIB3AFBVV95cUxQclNJOXZEd0pKS1FqVEEycG5RdkpuRkRld1JSYTAtdHFEajh0OUNQLTVBdmdMWi1mcDVib0Z3QXhJQnJhM0MzMXRCU0N4ajZTbWZyMWlOQS1vT1h5enhpUjloYlJ0WGdjZTltSGdTWG84SkZKdktlcWROU0w0WUlTaUtsNDNwOFdXNm45RURfc0hsZ09yS1ZfOWs3ZlJPWjhuZDNwQnJPUHg2UnB4dm9BM05iakdsMnpEMmRmZnZZZXhTUWt5OXdaVFozTUtHTWp5M2xiTFprZWQ3NU14?oc=5",
+   "summary": "Third cyclone within a month to hit India: Isro satellite captures massive buildup India Today",
+   "image": "",
+   "date": "2026-11-16T12:53:12+00:00",
    "source": "ISRO news"
   },
   {
@@ -219,19 +227,19 @@
    "source": "ISRO news"
   },
   {
-   "title": "Jio Platforms Opens Talks With Skyroot, ISRO on Domestic Satellite Launches - BigGo Finance",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wU2Mtc05kWWhtOXlmVXRJaVBnWVV3OGdCV1V0eHJGZlFiUVIzZFpHMUUtaWNPNjNLYjNoNzFSZHhodlVqcGhRaWdoekxNLVgxVjRRTmVhaHJzYlpEMTZ4alNzUmlCSDl5YVdWMlRtRFYtV3BEUGc?oc=5",
-   "summary": "Jio Platforms Opens Talks With Skyroot, ISRO on Domestic Satellite Launches BigGo Finance",
-   "image": "",
-   "date": "2026-11-16T01:35:00+00:00",
-   "source": "ISRO news"
-  },
-  {
    "title": "CDS cites ISRO example to explain how India can learn from setbacks | 'Our long-range distance weapons rely on P&T' | Inshorts - Inshorts",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQREp3TUNuVkxZSkJMd1N6TGVfQ1NrNkNuWnJaWjA2OF9ZeGhvZWV4cGJXZFZwOWhIRnBWX0JoRGR2RjRoSUNvQjN6Q3FfT1l3eEx4LW8zcnN6MzM4REdPZ2hVU2k4MUNiWnp5V2FxamVNcTRFaUF2RUJybGFja3dRMnExbl80WEhHZ1FJNGtkMDRQYTd4a1owTWQ0VzdONXNHZzlZcDJQZXdKNmZOYUZj0gG0AUFVX3lxTE1KdTk4Sm1kZlhvYmFwX09VOHo4RHlVMExLZjBRNVVmOVRWTGx5S0ZadzVBaWdFaXlDUENnNDFwbF91UGVjaGdpYTJGcTEyVmFFQ09STDV5VGZkSDRXYkNNSElVZFYwb2Z0b1BXUWxWZnh3c3VIYWcxZ0NiOW8tckVuaWZndTk4cnh1OW1wXzhLMHlQTWlvcE9mdm1hMnkxWVB1R1FtQUp0cEtiazhfNDRxOEF4Mw?oc=5",
    "summary": "CDS cites ISRO example to explain how India can learn from setbacks | 'Our long-range distance weapons rely on P&T' | Inshorts Inshorts",
    "image": "",
    "date": "2026-11-16T05:58:17+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "Jio Platforms Opens Talks With Skyroot, ISRO on Domestic Satellite Launches - BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wU2Mtc05kWWhtOXlmVXRJaVBnWVV3OGdCV1V0eHJGZlFiUVIzZFpHMUUtaWNPNjNLYjNoNzFSZHhodlVqcGhRaWdoekxNLVgxVjRRTmVhaHJzYlpEMTZ4alNzUmlCSDl5YVdWMlRtRFYtV3BEUGc?oc=5",
+   "summary": "Jio Platforms Opens Talks With Skyroot, ISRO on Domestic Satellite Launches BigGo Finance",
+   "image": "",
+   "date": "2026-11-16T01:35:00+00:00",
    "source": "ISRO news"
   },
   {
@@ -243,19 +251,11 @@
    "source": "ISRO news"
   },
   {
-   "title": "Isro satellite captures new rain system rising in Andaman Sea, packing gusty winds - India Today",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVzV0WEV0SXkyZHFFNE0wYThHYzdJNU9pS2xhaVl5TTRKZFBPSFBkY2VHbllySnNIRktmbERadU53dEI2Y2xwTmgwWG1XVGwySEYxR3VYMVdwdUlwUHVnc3IxVmZpc25yWktubHN6WFQ3Tmt0Z25JZE05MmpUR2k4WHhab1Z4SW5PQWdxQkYySS1rZmNGWEpXX1VUczlTQjNpS0JKUjh2S1laa3hlM1FaeTd2M3FSX0NhMXRoMlhNanh3N1dUUVFRUmR3SUtqSDlzOFRuaFpQQdIB3AFBVV95cUxPT0R5bFF2WERqd01YUDQzRGVaSXg4OEF5LTBvaXZiWE1HdXF5X0YwQXRHRmg1aFhCanpRdGNuZFZWMGFSdmIycS1LcEFmdGFtQUF6ZGJfRk1FNzBjZFNKZk41UHNiLVU5MFZCLUIzei1VUHF5UmN0WTNjVGhyb0Q0aUdsT0xCWUtYay1NVy00Y3BSMy04NFN2SEZpN1BXdVBHbDhkZGtkeHNQa3pDaG91Qm1iYzItbkk2cjNvZkVXcmhST2w4aGp1R1oxblJiUk1DY21URm03QV9weTk0?oc=5",
-   "summary": "Isro satellite captures new rain system rising in Andaman Sea, packing gusty winds India Today",
+   "title": "PSLV’s comeback is too important to rush - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVTlTZWVkMWtJMEJUdmhtZ0MyVEFCa1JVeHMzeFlBMUVBcWNxdWk3YkdkaFluYjBLVEduQ3FzSllNOW95QmNtS1hZU0JtLXlpMjJ5VUswVm5pWHhSX3cxODhkMFVIVTVQeVJPWVdpREotbTM0dUlqSHB6SW11dENTSjBTQ0RyeEs3Z19tRE90NXcyMmJmMTBqVl84dE00djE4U0F6TEM2QWlpZnoyaEHSAbMBQVVfeXFMT0doQVNpMUFKX2p6dUFXanV0ckhheWlfY2d0cVFpN3ZNUGVMTldsQnpWVUdFRmYtRVR2aVNLM0pSNFJEeDN6RHJiOXpkMUtBVlhJMFh0OHpmVnBiMUl6RVNMMGpSRmw0VUEySnBlUjc2MGdFeXM1UTVOejZtbG1wcC04VTJCUnd4cHQ0SW5pNTdSd29TenBVblI1bXhmNXY4NVFyRi1zZmhaU1ZlWlRtQ3ZXOGM?oc=5",
+   "summary": "PSLV’s comeback is too important to rush The Times of India",
    "image": "",
-   "date": "2026-11-13T05:41:43+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "Jio begins talks with Isro, Skyroot Aerospace and other homegrown companies amid satellite launch prep | Business News - Hindustan Times",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRFd4NmE0LUxVZk14ZXVUVERQUnNnbW8waC1VOFdPR19fbDdkbE5IMjdIMU5JZUV2Yy1hMk1aNzZMdXBUWWowRUlmMmQ1MHlhb01KNXk1emJNeU55TC1XT1k1WnZBT2dDMDdvWFlBY0ZueEFjdVFTMjdmMXVTWEJNOERTV1QwU1F4VnZtcTVUUV9nN1p1ckNkSTJfUFpxa1VTeVNnN1hIMG5mbXB2RzU4dlhVNG1feHJLTUxldE9IRFp5TFJabFMwRFRpdGFKZmFEOUJmWUdrLXd4WUVPSEltNzJUUWpwUWPSAewBQVVfeXFMTXdhRFJKNzVEc1dFeTBiMkEySXh1VUpHaDZBc1B5ZjhxVGJ0ckRFTVBYZDNOWWJaSkpoTExLOGNfQ3U3UTZvdXpDUTRwQ2VqOEwwWDFSbTZrQ21HYndjX0VjX2E3ZHZxbHd5Y09DaVFfcVFJd2N1WjVzdTkySEhNYzBuZ0JrTWM0ZWpnMXhLbDFTMF9IVHpJaHZKTmY5TnR0YkIwYkZhdTc4VVdtTGxRSWtqdFVSTzh2NnctNndSeE1NUVNENWNPX2RUeXNKSVJoOHJudGRjX1RlMGttamhSRmJJcnloN01yaXNlZmo?oc=5",
-   "summary": "Jio begins talks with Isro, Skyroot Aerospace and other homegrown companies amid satellite launch prep | Business News Hindustan Times",
-   "image": "",
-   "date": "2026-11-16T04:16:38+00:00",
+   "date": "2026-11-15T03:06:00+00:00",
    "source": "ISRO news"
   },
   {
@@ -343,7 +343,7 @@
    "link": "https://timesofindia.indiatimes.com/science/spacex-pulls-off-first-ever-spaceship-catch/articleshow/135869210.cms",
    "summary": "",
    "image": "https://static.toiimg.com/photo/msid-135869209,imgsize-1969733.cms",
-   "date": "2026-11-16T09:41:21.822902+00:00",
+   "date": "2026-11-16T20:27:57.343024+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -351,7 +351,7 @@
    "link": "https://timesofindia.indiatimes.com/world/us/suffered-an-anomaly-amazon-loses-40-leo-satellites-as-ulas-vulcan-rocket-fails-minutes-after-launch/articleshow/135869099.cms",
    "summary": "Amazon's planned launch of 40 satellites for its Leo internet network failed after the Vulcan rocket malfunctioned. The Vulcan rocket, operated by United Launch Alliance, experienced an anomaly 10 minutes after liftoff. ",
    "image": "https://static.toiimg.com/photo/msid-135869155,imgsize-99214.cms",
-   "date": "2026-11-16T09:41:21.822931+00:00",
+   "date": "2026-11-16T20:27:57.343068+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -359,16 +359,16 @@
    "link": "https://timesofindia.indiatimes.com/science/watch-spacexs-starship-completes-first-ever-midair-catch-on-return-from-orbit/articleshow/135844940.cms",
    "summary": "SpaceX's Starship spacecraft returned from its mission with a successful midair recovery by mechanical arms. The spacecraft completed 14 orbits while deploying 26 satellites before returning to Earth. However, the Super ",
    "image": "https://static.toiimg.com/photo/msid-135845025,imgsize-10371101.cms",
-   "date": "2026-11-16T09:41:21.823292+00:00",
+   "date": "2026-11-16T20:27:57.343426+00:00",
    "source": "Times of India (Science)"
   },
   {
-   "title": "In 2024, New Jersey began restoring a 290-acre marsh and former industrial site",
-   "link": "https://timesofindia.indiatimes.com/science/nature/in-2024-new-jersey-began-restoring-a-290-acre-marsh-and-former-industrial-site-by-excavating-tidal-channels-and-building-bird-islands-by-2026-ospreys-bald-eagles-and-herons-were-using-the-habitat/articleshow/135838372.cms",
-   "summary": "Cape May County has launched an ambitious restoration project aimed at revitalizing its local ecosystem. By focusing on rejuvenating tidal flow and creating new wildlife habitats, the area is already witnessing the retur",
-   "image": "https://static.toiimg.com/photo/msid-135838372,imgsize-128196.cms",
-   "date": "2026-11-16T09:41:21.823347+00:00",
-   "source": "Times of India (Science)"
+   "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
+   "link": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
+   "summary": "LOS ALAMOS, N.M., Nov. 16, 2026 — Space Nuclear Power Corp. (SpaceNukes) opened its Manufacture and Materials Development Facility at 150 Central Park Square in Los Alamos on Nov. 13. […] The post SpaceNukes Opens Los Al",
+   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/spacenukes-logo-scaled.png?fit=1024%2C1021&amp;ssl=1",
+   "date": "2026-11-16T20:00:00+00:00",
+   "source": "SpaceNews"
   },
   {
    "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
@@ -424,14 +424,6 @@
    "summary": "(Karlsruhe, Germany, September 29th 2026) Horizon Microtechnologies is accelerating industrialisation of its metallised polymer micro-additive manufacturing platform through IP-MASS, a two-year scale-up project supported",
    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/horizon-microtechnologies.png?fit=1021%2C1024&amp;ssl=1",
    "date": "2026-11-11T13:00:00+00:00",
-   "source": "SpaceNews"
-  },
-  {
-   "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
-   "link": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/",
-   "summary": "SAN DIEGO, CA, November 10, 2026 – Kratos Defense & Security Solutions, Inc., a technology company in defense, national security, and global markets, today announced a long-term agreement with Seagate […] The post Kratos",
-   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/seagate-space-kratos-logo-square.png?fit=976%2C978&amp;ssl=1",
-   "date": "2026-11-10T14:00:00+00:00",
    "source": "SpaceNews"
   }
  ]
