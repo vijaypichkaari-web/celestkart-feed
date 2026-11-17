@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-16T20:27:57.431455+00:00",
+ "updated": "2026-11-17T03:53:13.447292+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
+   "link": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
+   "summary": "Written by Candice Bedford, Research Scientist at Purdue University Date: Nov. 16, 2026 During the Perseverance rover’s investigation of “Idubi” — an area of ancient Martian crust exposed in the “Lac de Charmes” region, ",
+   "image": "",
+   "date": "2026-11-16T23:12:45+00:00",
+   "source": "NASA"
+  },
+  {
+   "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
+   "link": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+   "summary": "Description This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end ",
+   "image": "",
+   "date": "2026-11-16T22:05:23+00:00",
+   "source": "NASA"
+  },
+  {
+   "title": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
+   "link": "https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/",
+   "summary": "For the 16th consecutive year, NASA has received an unmodified, or “clean,” opinion from an external auditor on its fiscal year 2026 financial statements. The rating is the best possible audit opinion, certifying that NA",
+   "image": "",
+   "date": "2026-11-16T20:30:40+00:00",
+   "source": "NASA"
+  },
   {
    "title": "Sentinel-6B in Orbit Around Earth",
    "link": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/",
@@ -40,30 +64,6 @@
    "summary": "Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers.",
    "image": "",
    "date": "2026-11-16T05:00:00+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "Outbursts from a Massive Star",
-   "link": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
-   "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile star,",
-   "image": "",
-   "date": "2026-11-13T16:39:33+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
-   "link": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
-   "summary": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneu",
-   "image": "",
-   "date": "2026-11-13T16:05:54+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
-   "link": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
-   "summary": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or phot",
-   "image": "",
-   "date": "2026-11-13T05:05:00+00:00",
    "source": "NASA"
   },
   {
@@ -131,6 +131,22 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
+   "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-16-2026",
+   "summary": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
+   "image": "https://cdn.mos.cms.futurecdn.net/fsUicFVD4jgiZ2EbS7pCQK-1920-80.jpg",
+   "date": "2026-11-16T21:34:36+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch",
+   "link": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch",
+   "summary": "See the most epic photos from SpaceX's Starship Flight 15 test flight and historic launch tower catch.",
+   "image": "https://cdn.mos.cms.futurecdn.net/YttcVYXYfcRTqnR6tXAC2B-1920-80.jpg",
+   "date": "2026-11-16T21:26:29+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "Elon Musk says SpaceX’s Starship, already the largest rocket on Earth, will get even bigger with next-gen V4 model",
    "link": "https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model",
    "summary": "Just a day after SpaceX caught the upper stage of its Starship megarocket back at the launch pad for the first time ever, Elon Musk told us that the spacecraft will get even bigger.",
@@ -179,20 +195,12 @@
    "source": "Space.com"
   },
   {
-   "title": "Dream Chaser space plane gets landing approval for debut mission in 2027",
-   "link": "https://www.space.com/space-exploration/launches-spacecraft/dream-chaser-space-plane-gets-landing-approval-for-debut-mission-in-2027",
-   "summary": "Sierra Space's Dream Chaser is aiming for its first spaceflight after more than 20 years of development, and the space plane now has FAA approval to come home.",
-   "image": "https://cdn.mos.cms.futurecdn.net/LQpMwEUC2feMnV8gLrQjXU-1920-80.jpg",
-   "date": "2026-11-16T14:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "‘Avengers Endgame: Encore’ is now streaming on Disney+, with 4 minutes of bonus footage and a special ‘Doomsday’ preview",
-   "link": "https://www.space.com/entertainment/space-movies-shows/avengers-endgame-encore-is-now-streaming-on-disney-with-4-minutes-of-bonus-footage-and-a-special-doomsday-preview",
-   "summary": "Armed with bonus scenes and extras, Marvel Studios' updated version of its 2019 blockbuster just landed on Disney+",
-   "image": "https://cdn.mos.cms.futurecdn.net/MRfu5VbF4Hv2E8Se2ycjGo-1920-80.jpg",
-   "date": "2026-11-16T13:30:00+00:00",
-   "source": "Space.com"
+   "title": "Jio In Talks With ISRO, Skyroot For 1,600-Satellite Constellation: Report - Inc42",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVXo1aGhMLVh6YkZiX1FFblFJVzJlMTJLQTVDSmVyYU1Nbm5wZDdsUkJrSE5MbUdkdjhjQTlKNGRKSU9wSVVFUUpfeUhTV0x0Z1pkUFRubzU1RE9fMmFDNl9IMXZqYkVlWDdKNXNoQ0syOEcxeW1xNVppRnl3LXJ4UWFIN2lzR2Nqc2hJRW81RFRpekoxUWJNR0xR?oc=5",
+   "summary": "Jio In Talks With ISRO, Skyroot For 1,600-Satellite Constellation: Report Inc42",
+   "image": "",
+   "date": "2026-11-16T07:10:12+00:00",
+   "source": "ISRO news"
   },
   {
    "title": "PM shares an article by former ISRO Chairman Shri Somanath Sreedhara Panicker highlighting India’s space achievements and roadmap for future missions - PM India",
@@ -208,14 +216,6 @@
    "summary": "Third cyclone within a month to hit India: Isro satellite captures massive buildup India Today",
    "image": "",
    "date": "2026-11-16T12:53:12+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "Jio In Talks With ISRO, Skyroot For 1,600-Satellite Constellation: Report - Inc42",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVXo1aGhMLVh6YkZiX1FFblFJVzJlMTJLQTVDSmVyYU1Nbm5wZDdsUkJrSE5MbUdkdjhjQTlKNGRKSU9wSVVFUUpfeUhTV0x0Z1pkUFRubzU1RE9fMmFDNl9IMXZqYkVlWDdKNXNoQ0syOEcxeW1xNVppRnl3LXJ4UWFIN2lzR2Nqc2hJRW81RFRpekoxUWJNR0xR?oc=5",
-   "summary": "Jio In Talks With ISRO, Skyroot For 1,600-Satellite Constellation: Report Inc42",
-   "image": "",
-   "date": "2026-11-16T07:10:12+00:00",
    "source": "ISRO news"
   },
   {
@@ -243,20 +243,28 @@
    "source": "ISRO news"
   },
   {
-   "title": "Video | 60 Years Of ISRO vs SUPARCO: India Aims For Moon & Space Station While Pakistan Rents A Seat - NDTV",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVI0b2g1c09Zb3dkU1NPWk5PaHJnNFlqOWNVV3I3amsxUV8waTRPWllVSUE3OXVKeDZEOXdIMGFpVUJfX3k0MlNCckNFUU9NTU1UaFh2Y3Z3N0FaYUhOaE5NTkZSYXZIZlFqMVJhUTVhU3ZmaGFwTkJiU2lXWUVIUlBONUw4d3VIbzF1VVpUcGdPZWcwem55XzlXZUt1NTRuU2FQdlFxeEhMbm5pcThLSFZxRWFoRVhEVXozNEtnQjdOZw?oc=5",
-   "summary": "Video | 60 Years Of ISRO vs SUPARCO: India Aims For Moon & Space Station While Pakistan Rents A Seat NDTV",
-   "image": "",
-   "date": "2026-11-14T04:02:41+00:00",
-   "source": "ISRO news"
-  },
-  {
    "title": "PSLV’s comeback is too important to rush - The Times of India",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVTlTZWVkMWtJMEJUdmhtZ0MyVEFCa1JVeHMzeFlBMUVBcWNxdWk3YkdkaFluYjBLVEduQ3FzSllNOW95QmNtS1hZU0JtLXlpMjJ5VUswVm5pWHhSX3cxODhkMFVIVTVQeVJPWVdpREotbTM0dUlqSHB6SW11dENTSjBTQ0RyeEs3Z19tRE90NXcyMmJmMTBqVl84dE00djE4U0F6TEM2QWlpZnoyaEHSAbMBQVVfeXFMT0doQVNpMUFKX2p6dUFXanV0ckhheWlfY2d0cVFpN3ZNUGVMTldsQnpWVUdFRmYtRVR2aVNLM0pSNFJEeDN6RHJiOXpkMUtBVlhJMFh0OHpmVnBiMUl6RVNMMGpSRmw0VUEySnBlUjc2MGdFeXM1UTVOejZtbG1wcC04VTJCUnd4cHQ0SW5pNTdSd29TenBVblI1bXhmNXY4NVFyRi1zZmhaU1ZlWlRtQ3ZXOGM?oc=5",
    "summary": "PSLV’s comeback is too important to rush The Times of India",
    "image": "",
    "date": "2026-11-15T03:06:00+00:00",
    "source": "ISRO news"
+  },
+  {
+   "title": "Jio begins talks with Isro, Skyroot Aerospace and other homegrown companies amid satellite launch prep | Business News - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRFd4NmE0LUxVZk14ZXVUVERQUnNnbW8waC1VOFdPR19fbDdkbE5IMjdIMU5JZUV2Yy1hMk1aNzZMdXBUWWowRUlmMmQ1MHlhb01KNXk1emJNeU55TC1XT1k1WnZBT2dDMDdvWFlBY0ZueEFjdVFTMjdmMXVTWEJNOERTV1QwU1F4VnZtcTVUUV9nN1p1ckNkSTJfUFpxa1VTeVNnN1hIMG5mbXB2RzU4dlhVNG1feHJLTUxldE9IRFp5TFJabFMwRFRpdGFKZmFEOUJmWUdrLXd4WUVPSEltNzJUUWpwUWPSAewBQVVfeXFMTXdhRFJKNzVEc1dFeTBiMkEySXh1VUpHaDZBc1B5ZjhxVGJ0ckRFTVBYZDNOWWJaSkpoTExLOGNfQ3U3UTZvdXpDUTRwQ2VqOEwwWDFSbTZrQ21HYndjX0VjX2E3ZHZxbHd5Y09DaVFfcVFJd2N1WjVzdTkySEhNYzBuZ0JrTWM0ZWpnMXhLbDFTMF9IVHpJaHZKTmY5TnR0YkIwYkZhdTc4VVdtTGxRSWtqdFVSTzh2NnctNndSeE1NUVNENWNPX2RUeXNKSVJoOHJudGRjX1RlMGttamhSRmJJcnloN01yaXNlZmo?oc=5",
+   "summary": "Jio begins talks with Isro, Skyroot Aerospace and other homegrown companies amid satellite launch prep | Business News Hindustan Times",
+   "image": "",
+   "date": "2026-11-16T04:16:38+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "Orbital computing could let scientists rent ‘brainpower’ in space",
+   "link": "https://www.thehindu.com/sci-tech/science/orbital-computing-could-let-scientists-rent-brainpower-in-space/article71707329.ece",
+   "summary": "To bridge the gap between data being recorded by satellites and data being available to users on the ground, operators are pursuing a solution called in-orbit computing: the basic idea is to analyse some data onboard the",
+   "image": "https://th-i.thgim.com/public/news/national/f1eooi/article70782821.ece/alternates/LANDSCAPE_1200/iStock-1194330555.jpg",
+   "date": "2026-11-16T13:01:30+00:00",
+   "source": "The Hindu (Science)"
   },
   {
    "title": "SpaceX pulls off first-ever spaceship ‘catch’",
@@ -315,14 +323,6 @@
    "source": "The Hindu (Science)"
   },
   {
-   "title": "NVS-03 reaches geosynchronous orbit; satellite in good health",
-   "link": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
-   "summary": "‘Four orbit manoeuvres have been successfully completed with a cumulative LAM engine burn of 6164 seconds; with this the satellite has reached Geo Synchronous Orbit at an inclination of 29.980,’ said ISRO",
-   "image": "https://th-i.thgim.com/public/incoming/m0zltm/article71667253.ece/alternates/LANDSCAPE_1200/PTI10_31_2026_000045B.jpg",
-   "date": "2026-11-05T05:34:06+00:00",
-   "source": "The Hindu (Science)"
-  },
-  {
    "title": "Google launches two AI chips as it seeks to challenge NVIDIA’s dominance",
    "link": "https://www.thehindu.com/business/Industry/google-launches-two-ai-chips-as-it-seeks-to-challenge-nvidias-dominance/article71686071.ece",
    "summary": "New systems target secure AI inference and memory-intensive workloads as Google seeks to expand enterprise adoption of its in-house AI processors",
@@ -339,11 +339,19 @@
    "source": "The Hindu (Industry)"
   },
   {
+   "title": "Madagascar has taken a step towards funding the protection of 4 million hectares of forests across 13 regions, nearly 55% of its forest cover, under a carbon-credit programme targeting 6 million tonnes of annual emissions reductions.",
+   "link": "https://timesofindia.indiatimes.com/science/nature/madagascar-has-taken-a-step-towards-funding-the-protection-of-4-million-hectares-of-forests-across-13-regions-nearly-55-of-its-forest-cover-under-a-carbon-credit-programme-targeting-6-million-tonnes-of-annual-emissions-reductions-/articleshow/135856772.cms",
+   "summary": "Madagascar has launched the Ala Velona initiative to safeguard its precious forests and tackle climate change. This ambitious project aims to conserve 4 million hectares of woodland while also generating valuable carbon ",
+   "image": "https://static.toiimg.com/photo/msid-135858134,imgsize-68302.cms",
+   "date": "2026-11-17T03:53:13.407637+00:00",
+   "source": "Times of India (Science)"
+  },
+  {
    "title": "SpaceX pulls off first-ever spaceship 'catch'",
    "link": "https://timesofindia.indiatimes.com/science/spacex-pulls-off-first-ever-spaceship-catch/articleshow/135869210.cms",
    "summary": "",
    "image": "https://static.toiimg.com/photo/msid-135869209,imgsize-1969733.cms",
-   "date": "2026-11-16T20:27:57.343024+00:00",
+   "date": "2026-11-17T03:53:13.408026+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -351,15 +359,7 @@
    "link": "https://timesofindia.indiatimes.com/world/us/suffered-an-anomaly-amazon-loses-40-leo-satellites-as-ulas-vulcan-rocket-fails-minutes-after-launch/articleshow/135869099.cms",
    "summary": "Amazon's planned launch of 40 satellites for its Leo internet network failed after the Vulcan rocket malfunctioned. The Vulcan rocket, operated by United Launch Alliance, experienced an anomaly 10 minutes after liftoff. ",
    "image": "https://static.toiimg.com/photo/msid-135869155,imgsize-99214.cms",
-   "date": "2026-11-16T20:27:57.343068+00:00",
-   "source": "Times of India (Science)"
-  },
-  {
-   "title": "Watch: SpaceX's Starship completes first-ever midair catch on return from orbit",
-   "link": "https://timesofindia.indiatimes.com/science/watch-spacexs-starship-completes-first-ever-midair-catch-on-return-from-orbit/articleshow/135844940.cms",
-   "summary": "SpaceX's Starship spacecraft returned from its mission with a successful midair recovery by mechanical arms. The spacecraft completed 14 orbits while deploying 26 satellites before returning to Earth. However, the Super ",
-   "image": "https://static.toiimg.com/photo/msid-135845025,imgsize-10371101.cms",
-   "date": "2026-11-16T20:27:57.343426+00:00",
+   "date": "2026-11-17T03:53:13.408057+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -376,14 +376,6 @@
    "summary": "November 13, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome CesiumAstro as its newest Associate Member. A global leader in advanced connectivity solutions for the space and […] The pos",
    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Anniversary-Logo.jpg?fit=1024%2C883&amp;ssl=1",
    "date": "2026-11-13T18:00:00+00:00",
-   "source": "SpaceNews"
-  },
-  {
-   "title": "AST SpaceMobile presses case for developing own launch vehicle",
-   "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
-   "summary": "AST SpaceMobile executives expressed confidence in the company’s ability to field a new reusable launch vehicle in just two years despite widespread industry skepticism. The post AST SpaceMobile presses case for developi",
-   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/blacklift2.jpeg?fit=1024%2C577&amp;ssl=1",
-   "date": "2026-11-13T01:15:21+00:00",
    "source": "SpaceNews"
   },
   {
@@ -424,6 +416,14 @@
    "summary": "(Karlsruhe, Germany, September 29th 2026) Horizon Microtechnologies is accelerating industrialisation of its metallised polymer micro-additive manufacturing platform through IP-MASS, a two-year scale-up project supported",
    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/horizon-microtechnologies.png?fit=1021%2C1024&amp;ssl=1",
    "date": "2026-11-11T13:00:00+00:00",
+   "source": "SpaceNews"
+  },
+  {
+   "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
+   "link": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/",
+   "summary": "SAN DIEGO, CA, November 10, 2026 – Kratos Defense & Security Solutions, Inc., a technology company in defense, national security, and global markets, today announced a long-term agreement with Seagate […] The post Kratos",
+   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/seagate-space-kratos-logo-square.png?fit=976%2C978&amp;ssl=1",
+   "date": "2026-11-10T14:00:00+00:00",
    "source": "SpaceNews"
   }
  ]
