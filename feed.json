@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-17T03:53:13.447292+00:00",
+ "updated": "2026-11-17T13:24:28.505166+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
+   "link": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/",
+   "summary": "APOD Science APOD APOD: 2026 November 17 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photogra",
+   "image": "",
+   "date": "2026-11-17T05:05:00+00:00",
+   "source": "NASA"
+  },
+  {
+   "title": "Tossing Fireworks from Cloud to Cloud",
+   "link": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
+   "summary": "For many astronauts, the spectacular sight of lightning stands out when looking back at Earth from the International Space Station.",
+   "image": "",
+   "date": "2026-11-17T05:01:00+00:00",
+   "source": "NASA"
+  },
   {
    "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
    "link": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
@@ -48,22 +64,6 @@
    "summary": "The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life. Mirandy has grown up with NASA as a constant presence, and his path to becoming a civil servant at NASA’s Stennis Space Center near B",
    "image": "",
    "date": "2026-11-16T15:22:09+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
-   "link": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
-   "summary": "APOD Science APOD APOD: 2026 November 16 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or phot",
-   "image": "",
-   "date": "2026-11-16T05:05:00+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "The Last Ice on Puncak Jaya",
-   "link": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
-   "summary": "Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers.",
-   "image": "",
-   "date": "2026-11-16T05:00:00+00:00",
    "source": "NASA"
   },
   {
@@ -131,6 +131,22 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "Reflect Orbital wants to launch thousands of sunlight-beaming mirrors to space — and the 1st will go up next year",
+   "link": "https://www.space.com/space-exploration/satellites/reflect-orbital-wants-to-launch-thousands-of-sunlight-beaming-mirrors-to-space-and-the-1st-will-go-up-next-year",
+   "summary": "Reflect Orbital is moving forward with its ambitious plan to place thousands of mirrors in Earth orbit and sell redirected sunlight after dark.",
+   "image": "https://cdn.mos.cms.futurecdn.net/MRhdMG3q8bz95bR77qWjCh-1920-80.webp",
+   "date": "2026-11-17T13:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "Satellites now outnumber the visible stars above most towns",
+   "link": "https://www.space.com/space-exploration/satellites/satellites-now-outnumber-the-visible-stars-above-most-towns",
+   "summary": "More than 700 satellites are crossing the sky over an average mid-latitude town at any moment of the night, outnumbering in many cases the stars visible to the naked eye.",
+   "image": "https://cdn.mos.cms.futurecdn.net/Sq8YoimJ4x8q7dGQSJwaLf-1920-80.jpg",
+   "date": "2026-11-17T11:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
    "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-16-2026",
    "summary": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
@@ -139,7 +155,7 @@
    "source": "Space.com"
   },
   {
-   "title": "Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch",
+   "title": "Relive Starship's historic Flight 15 with our best photos from launch and 'Mechazilla' tower catch",
    "link": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch",
    "summary": "See the most epic photos from SpaceX's Starship Flight 15 test flight and historic launch tower catch.",
    "image": "https://cdn.mos.cms.futurecdn.net/YttcVYXYfcRTqnR6tXAC2B-1920-80.jpg",
@@ -171,27 +187,11 @@
    "source": "Space.com"
   },
   {
-   "title": "The Leonid meteor shower peaks Nov. 17-18! Here's what you need to know",
+   "title": "The Leonid meteor shower peaks tonight! Here's what you need to know",
    "link": "https://www.space.com/stargazing/meteor-showers/the-leonid-meteor-shower-peaks-nov-17-18-heres-what-you-need-to-know",
-   "summary": "The Leonid meteor shower peaks overnight on Nov. 17-18, sending shooting stars racing across the night sky from the direction of the constellation Leo.",
+   "summary": "The Leonid meteor shower peaks overnight tonight (Nov. 17-18), sending shooting stars racing across the night sky from the direction of the constellation Leo.",
    "image": "https://cdn.mos.cms.futurecdn.net/NAsZfCfCmdo4HYro9w4Qfb-1920-80.jpg",
    "date": "2026-11-16T17:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "Could there be an ancient alien satellite in Earth's orbit? How the 'Black Knight' conspiracy theory has survived for over 100 years",
-   "link": "https://www.space.com/space-exploration/satellites/could-there-be-an-ancient-alien-satellite-in-earths-orbit-how-the-black-knight-conspiracy-theory-has-survived-for-over-100-years",
-   "summary": "The legend of the Black Knight satellite offers an example of how a collection of unconnected events and speculative interpretations can accumulate into a single conspiracy theory over time.",
-   "image": "https://cdn.mos.cms.futurecdn.net/of5F852CDzKzs3wwHFrPxR-1920-80.jpg",
-   "date": "2026-11-16T16:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "Euclid space telescope discovers its 1st comet | Space photo of the day for Nov. 16, 2026",
-   "link": "https://www.space.com/astronomy/comets/euclid-discovers-its-1st-comet-space-photo-of-the-day-for-nov-16-2026",
-   "summary": "The new observatory managed to catch this comet whirling between the orbits of Jupiter and Saturn.",
-   "image": "https://cdn.mos.cms.futurecdn.net/f9ETjaXCDDnRXBGg7qwLYK-1920-80.jpg",
-   "date": "2026-11-16T15:00:00+00:00",
    "source": "Space.com"
   },
   {
@@ -211,6 +211,22 @@
    "source": "ISRO news"
   },
   {
+   "title": "India aims to raise share in global space economy to 8-9%: Former Isro chief S Somanath - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNllNdjJrTThmb0d6M2YwemxaUGktMnpDUkdmVHNOUXlzYTdQVG54enlyTi1vMkJIMVBTclBUYThqYm5tby1WdFF6WURjaWw5TUdNVTk4b2xVc0xsODNFMU9Ba3A3RmtSa1RuS3EtRXV1Sm1mR0Y3SC05dS1QSEZ4OERMaHNobUhvMVVQZVQxVnJZUzY4N0pBSnMxZG1vRDhKejRwZEg0STMyd0NzRnlEWnJKaWNFdXRBRlhvcGg5LWZJdFBOSzRIWXNQSjhMNzdaNFNjSDBhOVhneU5qVElkOF95UXV2YkxZ0gHuAUFVX3lxTE95bHAyZ1ZMYVE4VnJTbXNodlktdXJJUWhYTVZJLXd0Vm8zU0E4c0xJSDVObmhrYV9UTWk5WURGMGgwRVJJX2x0M2lUZkN3RnZmZG9Yal8yRWh2UERkVjdRVkMyYjBGNkFBcFJXeWpRd0pYblZaNFdDNDVXMUlpQzRkb1VqemZpZUo5bjhEZElhaDJVenQ2WFRJYnlwXzgyUndIMVJPQmxhLXhneWExWTkyUmduLVRaOWdHOEk0SzRqNWkxajI2clhZWVRfcWlield5RVVqV0pCakhxWUVqblBVUUExTUdJOUJ4LTlXZ1E?oc=5",
+   "summary": "India aims to raise share in global space economy to 8-9%: Former Isro chief S Somanath The Times of India",
+   "image": "",
+   "date": "2026-11-17T11:01:00+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "ISRO satellites capture massive cloud buildup over Bay of Bengal before Cyclone 'Akvan' | Rain alert has been issued for 5 states/UTs | Inshorts - Inshorts",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVzd3bFRIbFRheVlNZUhiTTM3ZmZDUkFxb2hoS0lNWW9lV0NsOE1xTExkbHhrWU9KV2FESW1zdzdqdVZNUElnMG1sMWx4MkpvZlhnbkVtZVdnQ0psX3RMVDItejFmRjl1QU94Zlh4ZDlfTXM5dWFyelRPT0tvTkhiYkVJaU5UT25MYzRoVFA4N29WdGlfS1pQOF84d2NxWXdYYVltRnNjcUtwYjU1eDJDZ2RKVTZWRzFEMmFRUGt2RDhOSk5PVVFIM3p30gHPAUFVX3lxTE1mYUE4YnFHWjNSVWl1cUozcEJWRV9ydXpwT3JFNHlyS3UtbUlFdzI2dC1qYUJvaEV4S01TNy1LNVFEYXNWRXlUaHViOGdXZUtzZnhXTmFXUjBTb1phX2pFMDZXZnM2anlsaEtOUVFHYzVJTnBnQ0lSemd4NVVFdkdCcUYwSGpjYmIxTjh6d1NXNTdpYXdTSHM3R3prdTc3LVMtV3VXUUQ2X3paNnZzaTQxdEtwSW1vMDZBbGVGX01vN2VLbUF0a2hpSDFVdFZ4WQ?oc=5",
+   "summary": "ISRO satellites capture massive cloud buildup over Bay of Bengal before Cyclone 'Akvan' | Rain alert has been issued for 5 states/UTs | Inshorts Inshorts",
+   "image": "",
+   "date": "2026-11-16T14:53:03+00:00",
+   "source": "ISRO news"
+  },
+  {
    "title": "Third cyclone within a month to hit India: Isro satellite captures massive buildup - India Today",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTnp1Z0IwTy1mVUZZT3ZESWFzWGtTaWZfbkU1WU1tNThZUS1mUnlHeTVZcEJ3cW5WbEZfREtNdm1tMTRhaVNoTHF1Q3FZYmN0aDgybDBvX2hQX2dYa05IYXlrVmFyWEZhcFpDM3NLbWI1Ti0tNXlOdjZ4Q19GMUZ4dDBWc3VKOEVfNGZNY0RkU01ZT3VVeUx2c3lZZU5ENTdNMU9sRDJhRGVFaW1SNmI1a3BIT0hSOUI4SzI4LVVpRE5jSzhWQ29wSklsdlFHaWhaYnZhYzVrVdIB3AFBVV95cUxQclNJOXZEd0pKS1FqVEEycG5RdkpuRkRld1JSYTAtdHFEajh0OUNQLTVBdmdMWi1mcDVib0Z3QXhJQnJhM0MzMXRCU0N4ajZTbWZyMWlOQS1vT1h5enhpUjloYlJ0WGdjZTltSGdTWG84SkZKdktlcWROU0w0WUlTaUtsNDNwOFdXNm45RURfc0hsZ09yS1ZfOWs3ZlJPWjhuZDNwQnJPUHg2UnB4dm9BM05iakdsMnpEMmRmZnZZZXhTUWt5OXdaVFozTUtHTWp5M2xiTFprZWQ3NU14?oc=5",
    "summary": "Third cyclone within a month to hit India: Isro satellite captures massive buildup India Today",
@@ -227,27 +243,11 @@
    "source": "ISRO news"
   },
   {
-   "title": "CDS cites ISRO example to explain how India can learn from setbacks | 'Our long-range distance weapons rely on P&T' | Inshorts - Inshorts",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQREp3TUNuVkxZSkJMd1N6TGVfQ1NrNkNuWnJaWjA2OF9ZeGhvZWV4cGJXZFZwOWhIRnBWX0JoRGR2RjRoSUNvQjN6Q3FfT1l3eEx4LW8zcnN6MzM4REdPZ2hVU2k4MUNiWnp5V2FxamVNcTRFaUF2RUJybGFja3dRMnExbl80WEhHZ1FJNGtkMDRQYTd4a1owTWQ0VzdONXNHZzlZcDJQZXdKNmZOYUZj0gG0AUFVX3lxTE1KdTk4Sm1kZlhvYmFwX09VOHo4RHlVMExLZjBRNVVmOVRWTGx5S0ZadzVBaWdFaXlDUENnNDFwbF91UGVjaGdpYTJGcTEyVmFFQ09STDV5VGZkSDRXYkNNSElVZFYwb2Z0b1BXUWxWZnh3c3VIYWcxZ0NiOW8tckVuaWZndTk4cnh1OW1wXzhLMHlQTWlvcE9mdm1hMnkxWVB1R1FtQUp0cEtiazhfNDRxOEF4Mw?oc=5",
-   "summary": "CDS cites ISRO example to explain how India can learn from setbacks | 'Our long-range distance weapons rely on P&T' | Inshorts Inshorts",
-   "image": "",
-   "date": "2026-11-16T05:58:17+00:00",
-   "source": "ISRO news"
-  },
-  {
    "title": "Jio Platforms Opens Talks With Skyroot, ISRO on Domestic Satellite Launches - BigGo Finance",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wU2Mtc05kWWhtOXlmVXRJaVBnWVV3OGdCV1V0eHJGZlFiUVIzZFpHMUUtaWNPNjNLYjNoNzFSZHhodlVqcGhRaWdoekxNLVgxVjRRTmVhaHJzYlpEMTZ4alNzUmlCSDl5YVdWMlRtRFYtV3BEUGc?oc=5",
    "summary": "Jio Platforms Opens Talks With Skyroot, ISRO on Domestic Satellite Launches BigGo Finance",
    "image": "",
    "date": "2026-11-16T01:35:00+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "PSLV’s comeback is too important to rush - The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVTlTZWVkMWtJMEJUdmhtZ0MyVEFCa1JVeHMzeFlBMUVBcWNxdWk3YkdkaFluYjBLVEduQ3FzSllNOW95QmNtS1hZU0JtLXlpMjJ5VUswVm5pWHhSX3cxODhkMFVIVTVQeVJPWVdpREotbTM0dUlqSHB6SW11dENTSjBTQ0RyeEs3Z19tRE90NXcyMmJmMTBqVl84dE00djE4U0F6TEM2QWlpZnoyaEHSAbMBQVVfeXFMT0doQVNpMUFKX2p6dUFXanV0ckhheWlfY2d0cVFpN3ZNUGVMTldsQnpWVUdFRmYtRVR2aVNLM0pSNFJEeDN6RHJiOXpkMUtBVlhJMFh0OHpmVnBiMUl6RVNMMGpSRmw0VUEySnBlUjc2MGdFeXM1UTVOejZtbG1wcC04VTJCUnd4cHQ0SW5pNTdSd29TenBVblI1bXhmNXY4NVFyRi1zZmhaU1ZlWlRtQ3ZXOGM?oc=5",
-   "summary": "PSLV’s comeback is too important to rush The Times of India",
-   "image": "",
-   "date": "2026-11-15T03:06:00+00:00",
    "source": "ISRO news"
   },
   {
@@ -257,6 +257,14 @@
    "image": "",
    "date": "2026-11-16T04:16:38+00:00",
    "source": "ISRO news"
+  },
+  {
+   "title": "Three space companies selected to develop high-resolution 3D reconstruction techniques for Indian cities",
+   "link": "https://www.thehindu.com/news/national/karnataka/three-space-companies-selected-to-develop-high-resolution-3d-reconstruction-techniques-for-indian-cities/article71711538.ece",
+   "summary": "The pilot demonstrations will cover Bengaluru and Shimla, and the deliverables will include the horizontal and vertical dimensions of urban settlements, offering a more comprehensive understanding of how Indian cities ar",
+   "image": "https://th-i.thgim.com/public/incoming/t15xt2/article71711794.ece/alternates/LANDSCAPE_1200/IMG_Aerial_View_2_1_HCDNA26N.jpg",
+   "date": "2026-11-17T12:32:52+00:00",
+   "source": "The Hindu (Science)"
   },
   {
    "title": "Orbital computing could let scientists rent ‘brainpower’ in space",
@@ -315,14 +323,6 @@
    "source": "The Hindu (Science)"
   },
   {
-   "title": "Slow recovery: On the ISRO’s GSLV-F18 mission",
-   "link": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-november-2-2026-slow-recovery-on-the-isros-gslv-f18-mission/article71654004.ece",
-   "summary": "ISRO needs more human and material resources to fulfil its mandate",
-   "image": "https://th-i.thgim.com/public/incoming/uiy1y/article71669137.ece/alternates/LANDSCAPE_1200/IMG_4886.JPG%202.jpeg",
-   "date": "2026-11-05T08:11:21+00:00",
-   "source": "The Hindu (Science)"
-  },
-  {
    "title": "Google launches two AI chips as it seeks to challenge NVIDIA’s dominance",
    "link": "https://www.thehindu.com/business/Industry/google-launches-two-ai-chips-as-it-seeks-to-challenge-nvidias-dominance/article71686071.ece",
    "summary": "New systems target secure AI inference and memory-intensive workloads as Google seeks to expand enterprise adoption of its in-house AI processors",
@@ -343,7 +343,7 @@
    "link": "https://timesofindia.indiatimes.com/science/nature/madagascar-has-taken-a-step-towards-funding-the-protection-of-4-million-hectares-of-forests-across-13-regions-nearly-55-of-its-forest-cover-under-a-carbon-credit-programme-targeting-6-million-tonnes-of-annual-emissions-reductions-/articleshow/135856772.cms",
    "summary": "Madagascar has launched the Ala Velona initiative to safeguard its precious forests and tackle climate change. This ambitious project aims to conserve 4 million hectares of woodland while also generating valuable carbon ",
    "image": "https://static.toiimg.com/photo/msid-135858134,imgsize-68302.cms",
-   "date": "2026-11-17T03:53:13.407637+00:00",
+   "date": "2026-11-17T13:24:28.419827+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -351,7 +351,7 @@
    "link": "https://timesofindia.indiatimes.com/science/spacex-pulls-off-first-ever-spaceship-catch/articleshow/135869210.cms",
    "summary": "",
    "image": "https://static.toiimg.com/photo/msid-135869209,imgsize-1969733.cms",
-   "date": "2026-11-17T03:53:13.408026+00:00",
+   "date": "2026-11-17T13:24:28.420054+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -359,8 +359,16 @@
    "link": "https://timesofindia.indiatimes.com/world/us/suffered-an-anomaly-amazon-loses-40-leo-satellites-as-ulas-vulcan-rocket-fails-minutes-after-launch/articleshow/135869099.cms",
    "summary": "Amazon's planned launch of 40 satellites for its Leo internet network failed after the Vulcan rocket malfunctioned. The Vulcan rocket, operated by United Launch Alliance, experienced an anomaly 10 minutes after liftoff. ",
    "image": "https://static.toiimg.com/photo/msid-135869155,imgsize-99214.cms",
-   "date": "2026-11-17T03:53:13.408057+00:00",
+   "date": "2026-11-17T13:24:28.420072+00:00",
    "source": "Times of India (Science)"
+  },
+  {
+   "title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
+   "link": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/",
+   "summary": "Daejeon, Republic of Korea – October 14, 2026: South Korean space electric propulsion startup Cosmo Bee plans to conduct an in-orbit flight test of its 10 mN-class Honeybee Hall thruster […] The post Cosmo Bee to flight-",
+   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/cosmo-bee-scaled.jpg?fit=1024%2C1024&amp;ssl=1",
+   "date": "2026-11-17T08:00:00+00:00",
+   "source": "SpaceNews"
   },
   {
    "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
@@ -416,14 +424,6 @@
    "summary": "(Karlsruhe, Germany, September 29th 2026) Horizon Microtechnologies is accelerating industrialisation of its metallised polymer micro-additive manufacturing platform through IP-MASS, a two-year scale-up project supported",
    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/horizon-microtechnologies.png?fit=1021%2C1024&amp;ssl=1",
    "date": "2026-11-11T13:00:00+00:00",
-   "source": "SpaceNews"
-  },
-  {
-   "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
-   "link": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/",
-   "summary": "SAN DIEGO, CA, November 10, 2026 – Kratos Defense & Security Solutions, Inc., a technology company in defense, national security, and global markets, today announced a long-term agreement with Seagate […] The post Kratos",
-   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/seagate-space-kratos-logo-square.png?fit=976%2C978&amp;ssl=1",
-   "date": "2026-11-10T14:00:00+00:00",
    "source": "SpaceNews"
   }
  ]
