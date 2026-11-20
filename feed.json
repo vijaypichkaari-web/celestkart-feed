@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-20T03:13:50.346035+00:00",
+ "updated": "2026-11-20T11:46:55.836180+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "APOD: 2026 November 20 – V-G-R",
+   "link": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
+   "summary": "APOD Science APOD APOD: 2026 November… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of",
+   "image": "",
+   "date": "2026-11-20T05:05:00+00:00",
+   "source": "NASA"
+  },
+  {
+   "title": "The Stormy Southwest Pacific",
+   "link": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
+   "summary": "Tropical Cyclone Xavier launched the basin’s storm season with a bang.",
+   "image": "",
+   "date": "2026-11-20T05:01:00+00:00",
+   "source": "NASA"
+  },
   {
    "title": "Challenge: Public Input on Life and the World in 2075",
    "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
@@ -51,25 +67,9 @@
    "source": "NASA"
   },
   {
-   "title": "El Niño Rains Paint the Atacama",
-   "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
-   "summary": "Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era.",
-   "image": "",
-   "date": "2026-11-19T05:00:00+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
-   "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
-   "summary": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The age",
-   "image": "",
-   "date": "2026-11-18T22:19:17+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+   "title": "SpaceX scrubs launch of classified payload for the U.S. Space Force, targets Friday",
    "link": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
-   "summary": "The mission is the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East is scheduled for 8:32 p.m. PST (11:32 p.m. EST / 432 UTC).",
+   "summary": "The mission is the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East is scheduled for Friday, Nov. 20, during a window that opens at 6:32 p.m. PST (9:32 p.m. EST / 0232 UTC).",
    "image": "",
    "date": "2026-11-19T23:51:47+00:00",
    "source": "Spaceflight Now"
@@ -131,6 +131,30 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "I handpicked every Star Trek Blu-Ray discounted on Amazon for Black Friday 2026 that I think is worth buying right now",
+   "link": "https://www.space.com/entertainment/space-movies-shows/i-handpicked-every-star-trek-blu-ray-discounted-on-amazon-for-black-friday-2026-that-i-think-is-worth-buying-right-now",
+   "summary": "From The Original Series through The Next Generation to Starfleet Academy, beam up our favorite Black Friday 2026 Star Trek deals available at Amazon.",
+   "image": "https://cdn.mos.cms.futurecdn.net/fPZenShuZTwTUr8jU3ET3o-1920-80.jpg",
+   "date": "2026-11-20T11:00:32+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "Einstein was right! Scientists verify 1st image of a black hole ever captured",
+   "link": "https://www.space.com/astronomy/black-holes/einstein-was-right-scientists-verify-1st-image-of-a-black-hole-ever-captured",
+   "summary": "An independent team of researchers has validated the first image of a supermassive black hole captured by humanity, and that verifies Einstein's greatest theory.",
+   "image": "https://cdn.mos.cms.futurecdn.net/B6udrvzScShF4sK8KB6sLT-1920-80.png",
+   "date": "2026-11-20T11:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "Watch SpaceX Dragon cargo capsule head home to Earth from the ISS today",
+   "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss-cargo-mission-return-to-earth",
+   "summary": "SpaceX's 35th Dragon cargo mission is scheduled to undock from the International Space Station today (Nov. 20), and you can watch the off-Earth action live.",
+   "image": "https://cdn.mos.cms.futurecdn.net/vo7P7LxSB6g2GZiyz4XNqb-1920-80.jpg",
+   "date": "2026-11-20T11:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "Voyager 1 team, unbowed by communications glitch, celebrates epic 1-light-day distance milestone",
    "link": "https://www.space.com/space-exploration/voyager/voyager-1-team-unbowed-by-communications-glitch-celebrates-epic-1-light-day-distance-milestone",
    "summary": "The Voyager 1 team celebrated the probe's big distance milestone on Thursday (Nov. 19), even while dealing with a communication anomaly that recently cropped up on the probe.",
@@ -171,51 +195,27 @@
    "source": "Space.com"
   },
   {
-   "title": "Get $400 off the first Vaonis Vespera Pro model ahead of Black Friday — only eight left in stock",
-   "link": "https://www.space.com/stargazing/skywatching-kit/get-400-off-the-first-vaonis-vespera-pro-model-ahead-of-black-friday-2026",
-   "summary": "Amazon is selling the Vaonis Vespera Pro for $2,549, ahead of Black Friday on Nov. 27. It's a great model for professional astrophotography with high-quality imagery of deep space objects.",
-   "image": "https://cdn.mos.cms.futurecdn.net/Jr9fpVZX8EQbMC79c5X9MS-1920-80.jpg",
-   "date": "2026-11-19T17:08:25+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "Don't miss Saturn shine close to the moon on Nov. 20",
-   "link": "https://www.space.com/stargazing/dont-miss-saturn-shine-close-to-the-moon-on-nov-20",
-   "summary": "The moon shines with Saturn in the constellation Pisces after sunset on Nov. 20",
-   "image": "https://cdn.mos.cms.futurecdn.net/uyuB8CbDgvkMvsRakAizzg-1920-80.jpg",
-   "date": "2026-11-19T17:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "Netflix's '3 Body Problem' season 2 trailer gives us a release date and a chilling warning: 'They are coming to exterminate us'",
-   "link": "https://www.space.com/entertainment/space-movies-shows/netflixs-3-body-problem-season-2-trailer-gives-us-a-release-date-and-a-chilling-warning-they-are-coming-to-exterminate-us",
-   "summary": "'They haven’t traveled 24 trillion miles to negotiate. They are coming to exterminate us.'",
-   "image": "https://cdn.mos.cms.futurecdn.net/HPyVLEEBBMJoK5djaLFUiB-1920-80.jpg",
-   "date": "2026-11-19T16:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "Ground test of third stage of PSLV (PS3) conducted successfully - ISRO",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jM0FPazVCR09FcTd0VmdvQmhReXVfaDVpa1ZDemlQbHJqTVhNUVBfU2V5TTFHS3pGTkFicXhIck1UUUl2R0FXNVFvdHVSeGlKemh1eUFEMV9hX1pNTEo0S3dlTTVQdUxsZ096MS1tRURSeGZzNVE?oc=5",
-   "summary": "Ground test of third stage of PSLV (PS3) conducted successfully ISRO",
+   "title": "How did ISRO pick astronaut candidates for the Gaganyaan mission? - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb3dWYm9sSW5PQW9pN05KRmg5a2FGYWZqWUFlLTV3SVRab2t6RnpHVjZnTWd6X3l0OE04Ni1fME9XSk5FeE9QSzdYSVl6bDF5N3djMkJYcDAxQ1M4VkZVSmFDZGZ6X20xaDN4NE0wd1JFRFRMZnNfdDF1OXhBeG1leGJ2WjIyQm4wejhZd1BDVWtKMlNUb2pWMHZZU1FjWjRZbE5pWW1Db3QyRWRFRXhRNmYyUDFPUnhyd0U0dzJYMmZ3dVpT0gHLAUFVX3lxTFBZRnk4ekRXcEQtOWZINXV1Ty0tUVBIQ1ViUWhweUtZTXBHM3hPX3lhRnpTdXZWNUcweU5uVmprWi1fLTNoZ0dOTFIzTGNzSlZKS1hkSnBFOWwtTmp2LW1WOW43MWlfV1MxbnF1ckhuVjdvQ2hEcERhX3ZlUkoxQXhrTHdfa01yYWxaUWJwMDJBRTkzcUNDTHZnQnlvQjZKb2xIWGhmZG5qQzVKa1R3UExDWnp2YXZpbUd4U18yRVV4N1ZfVXlGU2s3QTFr?oc=5",
+   "summary": "How did ISRO pick astronaut candidates for the Gaganyaan mission? The Hindu",
    "image": "",
-   "date": "2026-11-12T12:37:12+00:00",
+   "date": "2026-11-19T01:30:00+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "ISRO conducts flight acceptance test of Cryogenic engine for next GSLV mission - ISRO",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtNVhUQXdDbWNwLUZ1c2tQbWhzMEZwbXlBTUN6dERkdENub2pYUjZmcjEwZThQaWEtSTh0QUZSNkNQdm1WRUJNWlZZR0xCTWRjeWRhQVNYUXA0VWpDVXhQeENuRE13dw?oc=5",
-   "summary": "ISRO conducts flight acceptance test of Cryogenic engine for next GSLV mission ISRO",
+   "title": "Gaganyaan mission delayed again: First uncrewed launch unlikely before February 2027 - India Today",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVGg5UzVWY0Y1TzN2cWtUTlBiYVo4SWtLQXdvWkQ5RzFjX1hQcjZtazBXU0Rra1VPS19Ia1VDcmlNc3l0WEp3MnVqeGdjV2JsZ2JVSHZhbUJtSmNJcGtLMmp3emhrendiR01BU3pXT1JkR3NwRy1qQVZOS18tME5QZUVLQUdTelU3SF9McjU5dElkNjFGV0RrN1hQSjZjYUJHRnBDaERoVUJFOHZMQUtqWXVqYVl2ODNfaDJwWmx4NjBhV1EySklqZEttcnl2Q3VsMmxBLXVR0gHbAUFVX3lxTFA5NVVNWXctVmMwV2cyZE1GVDNudlZLaUU4ZjRIM0t4WG85b3E5U0ZrM2NKM05GWnVaU0ZDdFRXSWE1V2ZWMzN5MFhGOGdaeGV3ZlRNNW5Zb3JTdEx3YS1qWFR4UjBzdy1HNURzWlZRVnJvbVZsV2RDekZtcmE3UXNla3BJaFA4dVo1TTZJWHlxOXVlMTFSUF9tWHAweDM2dGw2Ym9zNjVqLXhrcU4tbEtTMDJHZEVjdVNSQk1hQW4yWk1XVHNiQlF5b3BmS2FSVERvLW8wdVNDYl9XRQ?oc=5",
+   "summary": "Gaganyaan mission delayed again: First uncrewed launch unlikely before February 2027 India Today",
    "image": "",
-   "date": "2026-11-10T08:00:00+00:00",
+   "date": "2026-11-20T09:16:13+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "GSLV-F18/NVS-03 MISSION - ISRO",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDNkFYM2JwMG8xYURPRFpqQkNyVDNwYjZPdVpjb3ROVG5pc28xM3cyRlhFeDBTTHhxM2l0aFBwTGxkLW1PcV9YaUprMUtvOVJMUVVmNVltaw?oc=5",
-   "summary": "GSLV-F18/NVS-03 MISSION ISRO",
+   "title": "Kerala boy left school after Class 4 to join a Gurukula and study Yajurveda, years later cracked JEE and got selected by ISRO: His unusual journey will surprise you - Education Times",
+   "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPbF9oSV9UVE93VWxsU29tTlU2QVBRTXhiMTFZY2cyaWdtNU0xdkd5MjhGczV3dUVVZnI0NXNaUm12eG80MmZ1bVVZMmpuVU9KUXROT1N5SGVPR0Y3dlhlZVZqZld3dnFSX3RkdFVFcllhZFRkYWJGbWRCVGYyVGRSUGVKTnFuZ2Q5U2phZktpeUNnVXhaY2dKTlFHUlFNX0JpT0dCNFhyNnFPc3pITVRTOXdBeGlUdktLdTAyNmxlTTZjTi12UDNJTThnbTlUNDMwU1o5ZEdQams2U2V3bk1Rd21UM0pfTUwtQkFNdmVPUEVCWnlXb0stc3Q2eFZTNTliQUlERHJvTWNZOHVzMUlqenlEeUxpZGNiTFVCVC1pVno0RDUwcjRBeXluSlhvWkdjN2JJNEN4dWdLQU1RYlBlN0VpVS1sdmN1bnZxdw?oc=5",
+   "summary": "Kerala boy left school after Class 4 to join a Gurukula and study Yajurveda, years later cracked JEE and got selected by ISRO: His unusual journey will surprise you Education Times",
    "image": "",
-   "date": "2026-10-30T07:00:00+00:00",
+   "date": "2026-11-19T04:46:00+00:00",
    "source": "ISRO news"
   },
   {
@@ -227,35 +227,35 @@
    "source": "ISRO news"
   },
   {
-   "title": "ISRO, Pondicherry University Launch Andaman Mangrove Study - The Wave Andaman",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaGdBaVdsWElYa1FMTEs3YXZiUWlvMEZaTUVORV94OVQtdWRjNnBZZ19PSVM4QTN2MmtzbGFOeEJRTWRkNG1GUDB5dkl1U1FURGJycG9KZjJqeWNUMXlyTVotcFAwTkNHbkxvWlI5M3U1cEVhVFBTVFJjZFc1UjhTSGk3NkVJVkJEbG5NTzZLVVBuaXM?oc=5",
-   "summary": "ISRO, Pondicherry University Launch Andaman Mangrove Study The Wave Andaman",
+   "title": "India aims to raise share in global space economy to 8-9%: Former Isro chief S Somanath - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNllNdjJrTThmb0d6M2YwemxaUGktMnpDUkdmVHNOUXlzYTdQVG54enlyTi1vMkJIMVBTclBUYThqYm5tby1WdFF6WURjaWw5TUdNVTk4b2xVc0xsODNFMU9Ba3A3RmtSa1RuS3EtRXV1Sm1mR0Y3SC05dS1QSEZ4OERMaHNobUhvMVVQZVQxVnJZUzY4N0pBSnMxZG1vRDhKejRwZEg0STMyd0NzRnlEWnJKaWNFdXRBRlhvcGg5LWZJdFBOSzRIWXNQSjhMNzdaNFNjSDBhOVhneU5qVElkOF95UXV2YkxZ0gHuAUFVX3lxTE95bHAyZ1ZMYVE4VnJTbXNodlktdXJJUWhYTVZJLXd0Vm8zU0E4c0xJSDVObmhrYV9UTWk5WURGMGgwRVJJX2x0M2lUZkN3RnZmZG9Yal8yRWh2UERkVjdRVkMyYjBGNkFBcFJXeWpRd0pYblZaNFdDNDVXMUlpQzRkb1VqemZpZUo5bjhEZElhaDJVenQ2WFRJYnlwXzgyUndIMVJPQmxhLXhneWExWTkyUmduLVRaOWdHOEk0SzRqNWkxajI2clhZWVRfcWlield5RVVqV0pCakhxWUVqblBVUUExTUdJOUJ4LTlXZ1E?oc=5",
+   "summary": "India aims to raise share in global space economy to 8-9%: Former Isro chief S Somanath The Times of India",
    "image": "",
-   "date": "2026-11-20T02:56:10+00:00",
+   "date": "2026-11-17T11:01:00+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "How did ISRO pick astronaut candidates for the Gaganyaan mission? - The Hindu",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb3dWYm9sSW5PQW9pN05KRmg5a2FGYWZqWUFlLTV3SVRab2t6RnpHVjZnTWd6X3l0OE04Ni1fME9XSk5FeE9QSzdYSVl6bDF5N3djMkJYcDAxQ1M4VkZVSmFDZGZ6X20xaDN4NE0wd1JFRFRMZnNfdDF1OXhBeG1leGJ2WjIyQm4wejhZd1BDVWtKMlNUb2pWMHZZU1FjWjRZbE5pWW1Db3QyRWRFRXhRNmYyUDFPUnhyd0U0dzJYMmZ3dVpT0gHLAUFVX3lxTFBZRnk4ekRXcEQtOWZINXV1Ty0tUVBIQ1ViUWhweUtZTXBHM3hPX3lhRnpTdXZWNUcweU5uVmprWi1fLTNoZ0dOTFIzTGNzSlZKS1hkSnBFOWwtTmp2LW1WOW43MWlfV1MxbnF1ckhuVjdvQ2hEcERhX3ZlUkoxQXhrTHdfa01yYWxaUWJwMDJBRTkzcUNDTHZnQnlvQjZKb2xIWGhmZG5qQzVKa1R3UExDWnp2YXZpbUd4U18yRVV4N1ZfVXlGU2s3QTFr?oc=5",
-   "summary": "How did ISRO pick astronaut candidates for the Gaganyaan mission? The Hindu",
+   "title": "Kerala man left school after Class 4 to study veda in Thrissur gurukula, later cracked JEE and got selecte - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOQVd2aWFWekpnQmpXSDlrbmJQMlUza1hJRDhyXzRSZGI2clZsN0FCY3NoOFo2X3RacC12ZlpXd1lOV3lEMWZ3c2ZQWUFubVdDbS1ia3JrbzdTZjJTUmh1cWFSME1DMmxCZ2VLV0pNbGFvNm1yTkFkdVhEVTBFdmlpS2FxX0ZqbVhJcnF6bTRsY1Ntam9aeFNxWWRjV2NxbGlmczB3emZ2dmtiMW4wa1RzUklwMGhVQUdrcmlCRWhHMVBKVUlubkEyVUxNTVNpQ0FWaXNQT1oyOHhzS1pxaWlyNFNyRmhleFhuaE1yUkI0Y2paWUVoMVY4OEFvVGZtZmZWOXZ0NW93Q1YxR0VrenVTVXdwWEQyRnVZOVHSAZ8CQVVfeXFMTVJMZDBaYXJhTFRWVG9hYzhoOTl0cDdjYWoyQTZpNUJZNFdmb05kVklKaGxZbFFobXJlcVNvd2Z4YzI1SUpxbzNyYmFEWGVtb2hHdlUwNHU2OXBkeVY0ZE5qQVV1WENuRzJURWFRaEpLY0xGZTNHTE82bEMyb2VoWlJQM18xeGk3Q0FSZWRSVWVOUlYxalN6TWRsMWVXeTFVSHNla3l6anZrTnR1U1N1andZXzByR3ltbFN3Q2VwLWREbjJneVlXcnVfVWlDRldhaTlkaElGd3V2NE1sZTFUUGVBSHdKNldwLUc2M3ljWExYcTFBN1FPOU5IYTkya0ZqVnplZFkwcjM3U3daZVFlUm5wUmVYdUxkcWplS0c3cnM?oc=5",
+   "summary": "Kerala man left school after Class 4 to study veda in Thrissur gurukula, later cracked JEE and got selecte The Economic Times",
    "image": "",
-   "date": "2026-11-19T01:30:00+00:00",
+   "date": "2026-11-18T10:57:39+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "Pondicherry University, ISRO’s Regional Remote Sensing Centre Sign MoU for Rs. 54.03 Lakh Study of Andaman Mangroves – ANDAMAN SHEEKHA - ANDAMAN SHEEKHA",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Nb1ZUZDhmb2VCeUhDYmQyM0FzTUZPbVBObUh1SGNBN0owYk9kVWx1Z0UzLTlINGFzUE1aZmg4ajZOYWFhRW1PTTNn?oc=5",
-   "summary": "Pondicherry University, ISRO’s Regional Remote Sensing Centre Sign MoU for Rs. 54.03 Lakh Study of Andaman Mangroves – ANDAMAN SHEEKHA ANDAMAN SHEEKHA",
+   "title": "Gaganyaan's first uncrewed launch pushed to February 2027: Report - NewsBytes",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTHRydlM1VmRndDhZWWtyRHdTQTZxYllJTi1PcVRrS0NwSTIwMFRIczA1cExKbmlscDk4cW52NXBHRUZPZnQ3TWtPMjU5QjRBNUJhdzJZVEdvNkYtaWRPbkh0RWVBNURrcVc4TXZQaEtJekhaU2oxMXpoMWxOYU1GMDdCakdYUVBXREpVdFZQNU1xT044VDFSTWJYVGd1QmdHR19RQl93RGUyYjFoOF8xR1lB?oc=5",
+   "summary": "Gaganyaan's first uncrewed launch pushed to February 2027: Report NewsBytes",
    "image": "",
-   "date": "2026-11-19T17:59:28+00:00",
+   "date": "2026-11-20T10:27:43+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "LVM3-M4 Gallery - ISRO",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TX1FHUGZxWmpIOXFoVFVkVTVSX0hNT2ZGXzRjMTJyWTlvZ2tIaml5MkZRN1BQTVlKaFFBLW8xRk5ULW0xZThhbnhLeFJ0a1NWbmgxWkY0V1gtV1VvMVE?oc=5",
-   "summary": "LVM3-M4 Gallery ISRO",
+   "title": "Kerala man who quit Kendriya Vidyalaya after class 4 to study Yajurveda at Gurukula in Thrissur cracks JEE... - Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQNDdtUDVGTmMxZVRocEp6ZlpJTllZUmpkYVJaSlpGWU1yTG51N0xEa1I2b2libXNuRmo1S1BvQmpxOUNzZUgtX04tT2s1aFk1dUIta1JESTgxOVptQlBsU0lGMWJBZHJleTVNSDRJU2tocjJEVXNDRk1ETjZIcU44TUdGZHF4QlJxNVYyUXlObmdhNExfMFpEbnFTZDhnR3FiQ3lHdGNqS1R3eWpodVdDb0pEY3I4Z0Fac1VaOFRYeXR1MjhwZUF2cUtlTGlyYXdqT0VkR2ZlZklYUlpseFJ4U0xicnFMLUhrLUp1NzJya1lobzN6ZmtPOUY5NkZLRnJrOV9XRHpudjM4cEUtLUVRSElsWDRuUmdET1h6cEUxWkU4SzNtd2MzSTJWSTc2aXVGSHdkdDJSRDB6RkNxa0F3Nl9tSdIByAJBVV95cUxNVlAzV0k3aFAwbFliOW1WSlpjdDlEd0pOTTZfdXdhTUR1MnlJTXpCU2pWdnVPbVhXYWc0TDcyTXQ0RFdwMDg2UWxtcktuVzJkYi1xcW9tVkRPZUpjWjJjSldiVmYtTXJXdDQtX3hqUlVhel9nMWlmSVBMU3Vyd2dvVFdJNDhRT3ZMRjVMZkhYdzhnY1B0MzZPRzdaenpNUlBKTnV4ZFdoNWJWWEM4WnN3UjJrME0wU3FEeGFnYzlobG54bHRyOVJsc19OOHI3Yy1VUUNvcDMwZS1MMUxmRHNLdVBYT2gwSHVrbzhBb3ZCNVlNSGRhYldRTkVRYlVjRHdoTmtkRlFmZktiRnVQelU1U3h2YWtRXzVZLUQ4VXRUOHJ6NnpNUmVyNjFZdG1UNnZ6T2xkRm8ycFhnZzNaSGRBZ2xCWElnMUgx?oc=5",
+   "summary": "Kerala man who quit Kendriya Vidyalaya after class 4 to study Yajurveda at Gurukula in Thrissur cracks JEE... Moneycontrol.com",
    "image": "",
-   "date": "2026-09-28T07:00:00+00:00",
+   "date": "2026-11-19T07:20:14+00:00",
    "source": "ISRO news"
   },
   {
@@ -331,11 +331,19 @@
    "source": "The Hindu (Industry)"
   },
   {
+   "title": "A nuclear blast might be humanity’s best shot at nudging a killer asteroid off course",
+   "link": "https://timesofindia.indiatimes.com/science/space/a-nuclear-blast-might-be-humanitys-best-shot-at-nudging-a-killer-asteroid-off-course-but-scientists-at-sandia-found-that-hitting-the-wrong-side-could-make-the-push-almost-five-times-weaker-than-planned/articleshow/135861483.cms",
+   "summary": "In an intriguing twist of space science, researchers are exploring nuclear explosions as a potential solution to divert asteroids threatening Earth. Their latest simulations reveal that the angle of X-ray emissions plays",
+   "image": "https://static.toiimg.com/photo/msid-135861483,imgsize-95772.cms",
+   "date": "2026-11-20T11:46:55.780298+00:00",
+   "source": "Times of India (Science)"
+  },
+  {
    "title": "The Euclid space telescope has spotted 31 ancient quasars, including two record-breakers",
    "link": "https://timesofindia.indiatimes.com/science/space/the-euclid-space-telescope-has-spotted-31-ancient-quasars-including-two-record-breakers-whose-light-set-out-when-the-universe-was-about-670-million-years-old-each-shining-like-a-trillion-suns/articleshow/135925446.cms",
    "summary": "The Euclid space telescope has made a groundbreaking discovery by identifying 31 ancient quasars, significantly contributing to the field of astronomy. Notably, two of these quasars hold the record for their vast distanc",
    "image": "https://static.toiimg.com/photo/msid-135925446,imgsize-156854.cms",
-   "date": "2026-11-20T03:13:50.333205+00:00",
+   "date": "2026-11-20T11:46:55.780412+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -343,7 +351,7 @@
    "link": "https://timesofindia.indiatimes.com/science/earth/satellite-images-38-years-apart-show-indonesias-puncak-jaya-glaciers-shrinking-to-tiny-ice-patches-nasa-says-just-2-of-the-1988-ice-area-remained-in-2025-and-its-new-2026-image-reveals-exposed-rock/articleshow/135960550.cms",
    "summary": "Puncak Jaya has lost nearly all its glacier ice due to rising temperatures and changing weather patterns. Recent satellite images reveal a stark reduction in glacier coverage over the past decades. The melting glaciers i",
    "image": "https://static.toiimg.com/photo/msid-135962612,imgsize-1020030.cms",
-   "date": "2026-11-20T03:13:50.333251+00:00",
+   "date": "2026-11-20T11:46:55.780433+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -351,7 +359,7 @@
    "link": "https://timesofindia.indiatimes.com/science/nature/nasa-satellite-maps-show-the-2026-el-nios-pacific-bulge-lining-up-with-october-1997-the-event-blamed-for-5-7-trillion-in-losses-nasas-josh-willis-says-this-one-is-on-track-to-be-even-bigger/articleshow/135911172.cms",
    "summary": "Recent satellite observations reveal striking similarities between the anticipated 2026 El Niño and the notorious 1997 event. Elevated sea levels across the Pacific are raising alarm among scientists regarding its expect",
    "image": "https://static.toiimg.com/photo/msid-135911544,imgsize-177854.cms",
-   "date": "2026-11-20T03:13:50.333425+00:00",
+   "date": "2026-11-20T11:46:55.780761+00:00",
    "source": "Times of India (Science)"
   },
   {
