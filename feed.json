@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T21:32:10.491572+00:00",
+ "updated": "2026-11-20T03:13:50.346035+00:00",
  "errors": [],
  "items": [
   {
@@ -67,6 +67,14 @@
    "source": "NASA"
   },
   {
+   "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+   "link": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
+   "summary": "The mission is the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East is scheduled for 8:32 p.m. PST (11:32 p.m. EST / 432 UTC).",
+   "image": "",
+   "date": "2026-11-19T23:51:47+00:00",
+   "source": "Spaceflight Now"
+  },
+  {
    "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
    "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
    "summary": "United Launch Alliance said Wednesday that a preliminary review of flight data points to an inadequate supply of fuel to the Blue Origin-manufactured engines of its Vulcan rocket, rather than a problem with the engines t",
@@ -123,12 +131,28 @@
    "source": "Spaceflight Now"
   },
   {
-   "title": "Blue Origin reveals new kick stage, engines for its New Glenn rockets",
-   "link": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/",
-   "summary": "The announcement was made during an invite-only event ahead of the weekend’s, NASA-backed Max Power airshow at the Kennedy Space Center.",
-   "image": "",
-   "date": "2026-11-05T22:34:58+00:00",
-   "source": "Spaceflight Now"
+   "title": "Voyager 1 team, unbowed by communications glitch, celebrates epic 1-light-day distance milestone",
+   "link": "https://www.space.com/space-exploration/voyager/voyager-1-team-unbowed-by-communications-glitch-celebrates-epic-1-light-day-distance-milestone",
+   "summary": "The Voyager 1 team celebrated the probe's big distance milestone on Thursday (Nov. 19), even while dealing with a communication anomaly that recently cropped up on the probe.",
+   "image": "https://cdn.mos.cms.futurecdn.net/V2VwaZ35KwrhuT5CZCWXhR-1920-80.jpg",
+   "date": "2026-11-19T23:42:03+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "On this day in space! Nov. 19, 2005: Japan's Hayabusa spacecraft makes 1st-ever liftoff from surface of an asteroid",
+   "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-19-2005",
+   "summary": "On Nov. 19, 2005, the Japanese Hayabusa spacecraft made the first liftoff from an asteroid. Here's why it mattered.",
+   "image": "https://cdn.mos.cms.futurecdn.net/wenvdAJvXtGPUg2a65RxeF-1920-80.jpg",
+   "date": "2026-11-19T22:53:16+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
+   "link": "https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video",
+   "summary": "A new set of slo-mo videos gives us a tower's-eye view of the first-ever catch of a Starship upper stage, a milestone SpaceX achieved last weekend.",
+   "image": "https://cdn.mos.cms.futurecdn.net/Xsx8TcSssSgMcA6nfeaEf-1920-80.jpg",
+   "date": "2026-11-19T22:00:00+00:00",
+   "source": "Space.com"
   },
   {
    "title": "No more asteroid landing: Engine trouble forces Japan's Hayabusa2 probe to change plans",
@@ -171,30 +195,6 @@
    "source": "Space.com"
   },
   {
-   "title": "Empire State Building glows gold for NASA's Voyager spacecraft | Space photo of the day for Nov. 19, 2026",
-   "link": "https://www.space.com/space-exploration/voyager/empire-state-building-glows-gold-for-nasas-voyager-spacecraft-space-photo-of-the-day-for-nov-19-2026",
-   "summary": "The Empire State Building is illuminated in gold to celebrate Voyager 1 hitting one light-day from Earth.",
-   "image": "https://cdn.mos.cms.futurecdn.net/icay2WGMHRyUViV3E9LhAm-1920-80.png",
-   "date": "2026-11-19T15:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "Leonid meteor shower thrills stargazers worldwide with colorful sky show (photos/video)",
-   "link": "https://www.space.com/stargazing/meteor-showers/leonid-meteor-shower-thrills-stargazers-worldwide-with-colorful-sky-show-photos-video",
-   "summary": "From colorful meteors to lingering trails, the Leonids put on a great show this year.",
-   "image": "https://cdn.mos.cms.futurecdn.net/cJpanDy9cHRGTeMvi5xpdY-1920-80.jpg",
-   "date": "2026-11-19T13:58:47+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "Nonprofit Common Space will launch 1st 'humanitarian satellite' in 2027",
-   "link": "https://www.space.com/space-exploration/satellites/nonprofit-common-space-will-launch-1st-humanitarian-satellite-in-2027",
-   "summary": "The nonprofit Common Space plans to assemble a constellation of Earth-observing satellites for humanitarian use, the first of which is scheduled to lift off next year.",
-   "image": "https://cdn.mos.cms.futurecdn.net/bnSaeEjQRkkRpCL8iB7JTd-1920-80.jpg",
-   "date": "2026-11-19T13:21:27+00:00",
-   "source": "Space.com"
-  },
-  {
    "title": "Ground test of third stage of PSLV (PS3) conducted successfully - ISRO",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jM0FPazVCR09FcTd0VmdvQmhReXVfaDVpa1ZDemlQbHJqTVhNUVBfU2V5TTFHS3pGTkFicXhIck1UUUl2R0FXNVFvdHVSeGlKemh1eUFEMV9hX1pNTEo0S3dlTTVQdUxsZ096MS1tRURSeGZzNVE?oc=5",
    "summary": "Ground test of third stage of PSLV (PS3) conducted successfully ISRO",
@@ -219,6 +219,22 @@
    "source": "ISRO news"
   },
   {
+   "title": "Meet Pawan Kumar Chandana: The ISRO engineer who quit his job to build a Rs 10,000-crore space startup,... - Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQaWJmOHdKX3A3Q0dNdGg5WDhYTDlOajAzUWFJT1B6S2diU3gyOHpvSWRwZGdZcVI0RDVWdktyWVRfWW5jc0hwVE1ja2F0UGFhOURMdkdoY2tGeXRrc084THRldFJHYWZ0VDRNblRUMVlLa3V2eEVraHhMY2ZDdHZmdFY0Nld2QlVQUHJGd1lCNDJuaTRRWkdwbk53bFM3ZHo0SVp5ZGw0bHVZbXZtM3lzNFdqQUdLYzkxVUxKcmlMWlJQTjkxY1FVSVl0VVIxRjhJcXJ4VDBtcXpsQXJqNGdBZUI2NTRYZ3N6cDlVM0l1S3hjREJxWmV1VU1oNzFfSHVmclM5T0dsd9IBjAJBVV95cUxQZ1ZwN0RVdXdCUTExaDNCdEtLUzBhN1B2cUh5Y3FrR20tTDhaLWtJRVhzVVI0QzdFXzMzQlh3TUZnSVJZa09ZVFFWcm5KMHRPN0JxMjNJbVFWVktEbndNZzg0cV9sZUV3aWpHclFNdmo5SVRyd3FWdHpNOGdDQXdHd2c0TDltVmp4VG9UX3kybzJJeXZEc3l2bTV4WVAzcjBEbFNXQ3l5eGI0c2hpUDRJS24wVzFxTVJ0bnBlTWREX2puVlMwNERuRmRIeVlaVHJXY01WT3RnQkt1ZWNrTlBpYlJHNUF2ak80UDBCWTR4NGdtdm1WcHowTlg5TGp5YUhxTG9hbzJadjNvcnBh?oc=5",
+   "summary": "Meet Pawan Kumar Chandana: The ISRO engineer who quit his job to build a Rs 10,000-crore space startup,... Moneycontrol.com",
+   "image": "",
+   "date": "2026-11-20T02:28:36+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "ISRO, Pondicherry University Launch Andaman Mangrove Study - The Wave Andaman",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaGdBaVdsWElYa1FMTEs3YXZiUWlvMEZaTUVORV94OVQtdWRjNnBZZ19PSVM4QTN2MmtzbGFOeEJRTWRkNG1GUDB5dkl1U1FURGJycG9KZjJqeWNUMXlyTVotcFAwTkNHbkxvWlI5M3U1cEVhVFBTVFJjZFc1UjhTSGk3NkVJVkJEbG5NTzZLVVBuaXM?oc=5",
+   "summary": "ISRO, Pondicherry University Launch Andaman Mangrove Study The Wave Andaman",
+   "image": "",
+   "date": "2026-11-20T02:56:10+00:00",
+   "source": "ISRO news"
+  },
+  {
    "title": "How did ISRO pick astronaut candidates for the Gaganyaan mission? - The Hindu",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb3dWYm9sSW5PQW9pN05KRmg5a2FGYWZqWUFlLTV3SVRab2t6RnpHVjZnTWd6X3l0OE04Ni1fME9XSk5FeE9QSzdYSVl6bDF5N3djMkJYcDAxQ1M4VkZVSmFDZGZ6X20xaDN4NE0wd1JFRFRMZnNfdDF1OXhBeG1leGJ2WjIyQm4wejhZd1BDVWtKMlNUb2pWMHZZU1FjWjRZbE5pWW1Db3QyRWRFRXhRNmYyUDFPUnhyd0U0dzJYMmZ3dVpT0gHLAUFVX3lxTFBZRnk4ekRXcEQtOWZINXV1Ty0tUVBIQ1ViUWhweUtZTXBHM3hPX3lhRnpTdXZWNUcweU5uVmprWi1fLTNoZ0dOTFIzTGNzSlZKS1hkSnBFOWwtTmp2LW1WOW43MWlfV1MxbnF1ckhuVjdvQ2hEcERhX3ZlUkoxQXhrTHdfa01yYWxaUWJwMDJBRTkzcUNDTHZnQnlvQjZKb2xIWGhmZG5qQzVKa1R3UExDWnp2YXZpbUd4U18yRVV4N1ZfVXlGU2s3QTFr?oc=5",
    "summary": "How did ISRO pick astronaut candidates for the Gaganyaan mission? The Hindu",
@@ -231,15 +247,7 @@
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Nb1ZUZDhmb2VCeUhDYmQyM0FzTUZPbVBObUh1SGNBN0owYk9kVWx1Z0UzLTlINGFzUE1aZmg4ajZOYWFhRW1PTTNn?oc=5",
    "summary": "Pondicherry University, ISRO’s Regional Remote Sensing Centre Sign MoU for Rs. 54.03 Lakh Study of Andaman Mangroves – ANDAMAN SHEEKHA ANDAMAN SHEEKHA",
    "image": "",
-   "date": "2026-11-19T17:57:11+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "Kerala boy left school after Class 4 to join a Gurukula and study Yajurveda, years later cracked JEE and got selected by ISRO: His unusual journey will surprise you - Education Times",
-   "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPbF9oSV9UVE93VWxsU29tTlU2QVBRTXhiMTFZY2cyaWdtNU0xdkd5MjhGczV3dUVVZnI0NXNaUm12eG80MmZ1bVVZMmpuVU9KUXROT1N5SGVPR0Y3dlhlZVZqZld3dnFSX3RkdFVFcllhZFRkYWJGbWRCVGYyVGRSUGVKTnFuZ2Q5U2phZktpeUNnVXhaY2dKTlFHUlFNX0JpT0dCNFhyNnFPc3pITVRTOXdBeGlUdktLdTAyNmxlTTZjTi12UDNJTThnbTlUNDMwU1o5ZEdQams2U2V3bk1Rd21UM0pfTUwtQkFNdmVPUEVCWnlXb0stc3Q2eFZTNTliQUlERHJvTWNZOHVzMUlqenlEeUxpZGNiTFVCVC1pVno0RDUwcjRBeXluSlhvWkdjN2JJNEN4dWdLQU1RYlBlN0VpVS1sdmN1bnZxdw?oc=5",
-   "summary": "Kerala boy left school after Class 4 to join a Gurukula and study Yajurveda, years later cracked JEE and got selected by ISRO: His unusual journey will surprise you Education Times",
-   "image": "",
-   "date": "2026-11-19T04:46:00+00:00",
+   "date": "2026-11-19T17:59:28+00:00",
    "source": "ISRO news"
   },
   {
@@ -248,14 +256,6 @@
    "summary": "LVM3-M4 Gallery ISRO",
    "image": "",
    "date": "2026-09-28T07:00:00+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "ISRO SDSC SHAR Apprentice Recruitment 2026: 400 Vacancies, Apply Till November 26 - Jagran Josh",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYlVLakFkLTIwMVlyM0RqNVNiWjY2eVpfVktMMDJ3X2owS1FMaGwxdDVneFA3cS1yTHF1LVNTOWk2X0JWZ2NDQlJUWllhZUtkX1pQQnU1V3ZPX0dtdGJCbTU3eFJ2Q3g2c0lmNXpmbUc4dWkxRVdRYnVaenNNRDdkYU5jampCRGdPMU1nTHVuaUxUUWVCMXJMM3dCSGlQWktXSk9vMjRVUlNISGtyTWVrZ0tHNnBKQnJYd0t1NFl5VHNYVzRrTEhHTkdYOG5XdWRBVmFVLTNwdnF1Nk9BR2c5OF9LNE5oUThjQ01TMDlLMzJVcDTSAfoBQVVfeXFMTm8xdWZvNmNWNlAtU085QjlhRWNQWlhma2JzdU14ZFZjRC1yLUM2OVp0SUc1T2VCems4M1hwVkV1RHZmMmpPNW5wNmt6MnVBZE1uVXc5Ykl3YU5Cc0RaV3dqTTN5a2xTWmZPSWpYTXpadkVUaHpUTUtmdXpUTF81RUphWjFkZGFTZ0NKVlhiMmFqaGMwOEVjREI2X2ExcndERlNYYUJBQVZkYjlseUgybjRFd3p3Nm5QZHlfanM0bmNELWY1Q01yRzB0OV9TcnctVFRmZ0xFbWVfdEJJNlp4VjFMbHI4NG1mM1lxMkYyZFBLOEtOdzNJbHdPUQ?oc=5",
-   "summary": "ISRO SDSC SHAR Apprentice Recruitment 2026: 400 Vacancies, Apply Till November 26 Jagran Josh",
-   "image": "",
-   "date": "2026-11-16T06:09:44+00:00",
    "source": "ISRO news"
   },
   {
@@ -335,7 +335,7 @@
    "link": "https://timesofindia.indiatimes.com/science/space/the-euclid-space-telescope-has-spotted-31-ancient-quasars-including-two-record-breakers-whose-light-set-out-when-the-universe-was-about-670-million-years-old-each-shining-like-a-trillion-suns/articleshow/135925446.cms",
    "summary": "The Euclid space telescope has made a groundbreaking discovery by identifying 31 ancient quasars, significantly contributing to the field of astronomy. Notably, two of these quasars hold the record for their vast distanc",
    "image": "https://static.toiimg.com/photo/msid-135925446,imgsize-156854.cms",
-   "date": "2026-11-19T21:32:10.454144+00:00",
+   "date": "2026-11-20T03:13:50.333205+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -343,7 +343,7 @@
    "link": "https://timesofindia.indiatimes.com/science/earth/satellite-images-38-years-apart-show-indonesias-puncak-jaya-glaciers-shrinking-to-tiny-ice-patches-nasa-says-just-2-of-the-1988-ice-area-remained-in-2025-and-its-new-2026-image-reveals-exposed-rock/articleshow/135960550.cms",
    "summary": "Puncak Jaya has lost nearly all its glacier ice due to rising temperatures and changing weather patterns. Recent satellite images reveal a stark reduction in glacier coverage over the past decades. The melting glaciers i",
    "image": "https://static.toiimg.com/photo/msid-135962612,imgsize-1020030.cms",
-   "date": "2026-11-19T21:32:10.454199+00:00",
+   "date": "2026-11-20T03:13:50.333251+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -351,15 +351,7 @@
    "link": "https://timesofindia.indiatimes.com/science/nature/nasa-satellite-maps-show-the-2026-el-nios-pacific-bulge-lining-up-with-october-1997-the-event-blamed-for-5-7-trillion-in-losses-nasas-josh-willis-says-this-one-is-on-track-to-be-even-bigger/articleshow/135911172.cms",
    "summary": "Recent satellite observations reveal striking similarities between the anticipated 2026 El Niño and the notorious 1997 event. Elevated sea levels across the Pacific are raising alarm among scientists regarding its expect",
    "image": "https://static.toiimg.com/photo/msid-135911544,imgsize-177854.cms",
-   "date": "2026-11-19T21:32:10.454617+00:00",
-   "source": "Times of India (Science)"
-  },
-  {
-   "title": "Caltech robot revolutionizes space: Caltech robot builds structure in space; Space assembly showcases future construction possibilities",
-   "link": "https://timesofindia.indiatimes.com/science/space/a-caltech-robot-launched-into-orbit-in-march-has-assembled-part-of-a-space-structure-without-astronauts-for-the-first-time-joining-individual-struts-and-joints-into-a-new-section-of-an-experimental-antenna/articleshow/135922859.cms",
-   "summary": "A robot developed by researchers at California Institute of Technology constructed a segment of a space structure autonomously. The assembly occurred as part of DARPA's NOM4D programme, testing innovative techniques for ",
-   "image": "https://static.toiimg.com/photo/msid-135924007,imgsize-836596.cms",
-   "date": "2026-11-19T21:32:10.455844+00:00",
+   "date": "2026-11-20T03:13:50.333425+00:00",
    "source": "Times of India (Science)"
   },
   {
