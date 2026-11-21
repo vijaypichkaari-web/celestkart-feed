@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T09:52:26.367765+00:00",
+ "updated": "2026-11-21T17:30:10.108309+00:00",
  "errors": [],
  "items": [
   {
@@ -67,6 +67,14 @@
    "source": "NASA"
   },
   {
+   "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
+   "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+   "summary": "The NROL-136 mission will be the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled dur",
+   "image": "",
+   "date": "2026-11-21T16:50:51+00:00",
+   "source": "Spaceflight Now"
+  },
+  {
    "title": "SpaceX launches classified payload for the U.S. Space Force",
    "link": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
    "summary": "The mission was the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East happened on Friday, Nov. 20 at 8:20 p.m. PST / 11:20 p.m. EST (0420 UTC on Saturday, Nov. 21).",
@@ -123,15 +131,47 @@
    "source": "Spaceflight Now"
   },
   {
-   "title": "Falcon 9 launches from California on classified mission for U.S. Space Force",
-   "link": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
-   "summary": "Liftoff from pad 4E at Vandenberg Space Force Base occurred at 4:48 p.m. PST (7:48 p.m. EST / 0048 UTC). The mission is thought to be carrying satellites based on SpaceX’s Starshield platform.",
-   "image": "",
-   "date": "2026-11-06T22:00:39+00:00",
-   "source": "Spaceflight Now"
+   "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
+   "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-21-2026",
+   "summary": "On Nov. 21, 1676, the Danish astronomer Ole Rømer discovered the speed of lightwhile observing Jupiter and its moon volcanic moon Io. Here's why it mattered.",
+   "image": "https://cdn.mos.cms.futurecdn.net/hDwaad2isLaVa7K7amh3qf-1920-80.jpg",
+   "date": "2026-11-21T16:20:37+00:00",
+   "source": "Space.com"
   },
   {
-   "title": "SpaceX launches classified mission for US Space Force from California",
+   "title": "This Week In Space podcast: Episode 237 — A Fond Farewell",
+   "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-237-a-fond-farewell",
+   "summary": "On Episode 237 of This Week In Space, Tariq Malik and Rod Pyle sign off — temporarily — with a look at space news, a bushel of space jokes, and a recap of some of our funniest moments.",
+   "image": "https://cdn.mos.cms.futurecdn.net/EKv5rDXkHGEoZPK2jcNPBD-1920-80.jpg",
+   "date": "2026-11-21T15:15:26+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generation' crew's greatest big-screen adventure",
+   "link": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-resistance-is-futile-when-it-comes-to-the-next-generation-crews-greatest-big-screen-adventure",
+   "summary": "Assimilate this! How cyber-zombies and the \"birth of 'Star Trek'\" gave Jean-Luc Picard one of his finest hours.",
+   "image": "https://cdn.mos.cms.futurecdn.net/Lk7KWwRZdwsKrpVCVhW7c-1920-80.jpg",
+   "date": "2026-11-21T15:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says",
+   "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-retire-1st-starship-upper-stage-ever-caught-by-chopsticks-elon-musk-says",
+   "summary": "The first Starship upper stage that SpaceX ever successfully recovered won't fly again. Rather, it will go on display as a museum piece, according to company founder and CEO Elon Musk.",
+   "image": "https://cdn.mos.cms.futurecdn.net/FBiquE8ByNwXYMJZeaXVkm-1920-80.jpg",
+   "date": "2026-11-21T13:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "European-Japanese BepiColombo probe arrives in orbit around Mercury today",
+   "link": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
+   "summary": "The BepiColombo spacecraft will finally arrive in orbit around Mercury today (Nov. 21), more than eight years after leaving its home planet.",
+   "image": "https://cdn.mos.cms.futurecdn.net/d7pYhNBUCPVYiaqD7aQLwE-1920-80.jpg",
+   "date": "2026-11-21T11:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "SpaceX launches classified mission for US Space Force from California (video)",
    "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
    "summary": "SpaceX launched a classified mission for the U.S. Space Force tonight (Nov. 20), sending a mystery payload to orbit from California's central coast.",
    "image": "https://cdn.mos.cms.futurecdn.net/YaShmYFZ8edZqBUjFWgP3-1920-80.jpg",
@@ -155,62 +195,6 @@
    "source": "Space.com"
   },
   {
-   "title": "GTA hasn't gone to space (yet), but these sci-fi games can offer you a life of crime among the stars",
-   "link": "https://www.space.com/entertainment/space-games/gta-hasnt-gone-to-space-yet-but-these-sci-fi-games-can-offer-you-a-life-of-crime-among-the-stars",
-   "summary": "Grand Theft Auto 6 is finally out, but if you're a sci-fi aficionado looking for similar experiences set in outer space, there are several alternatives.",
-   "image": "https://cdn.mos.cms.futurecdn.net/aQAx9sgVy5bNZq3Lb57AsB-1920-80.jpg",
-   "date": "2026-11-20T20:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "Trouble at Mars: NASA's Perseverance rover, Odyssey orbiter halt science work due to glitches",
-   "link": "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches",
-   "summary": "Perseverance has been sidelined by an antenna issue, and the venerable Odyssey orbiter is dealing with a balky reaction wheel. NASA hopes both can get back to work by the end of November.",
-   "image": "https://cdn.mos.cms.futurecdn.net/47TSjax8rWx4cPw6p8CEJe-1920-80.jpg",
-   "date": "2026-11-20T19:50:15+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "There's an impostor hiding in the Hyades star cluster. Can you spot it?",
-   "link": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it",
-   "summary": "Aldebaran looks for all the world like the brightest member of the Hyades star cluster. It isn't — and discovering why changes the way you look at constellations.",
-   "image": "https://cdn.mos.cms.futurecdn.net/t6dSNrTvpEr2jN8TwJN8de-1920-80.jpg",
-   "date": "2026-11-20T19:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "Could an ancient solar eclipse rewrite Egyptian history?",
-   "link": "https://www.space.com/stargazing/solar-eclipses/could-an-ancient-solar-eclipse-rewrite-egyptian-history",
-   "summary": "A biblical mystery, an ancient Egyptian inscription and a \"ring of fire\" solar eclipse 3,200 years ago hold clues to when Ramesses the Great ruled.",
-   "image": "https://cdn.mos.cms.futurecdn.net/jYDiqhCCxf5vbx5jgaCgSZ-1920-80.jpg",
-   "date": "2026-11-20T18:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "Russia is developing a nuclear space weapon, US intelligence report finds",
-   "link": "https://www.space.com/space-exploration/satellites/russia-is-developing-a-nuclear-space-weapon-us-intelligence-report-finds",
-   "summary": "A new report by the the U.S. Defense Intelligence Agency discusses the threats posed by the nation's adversaries in space — including Russia, which is developing a nuke-carrying satellite.",
-   "image": "https://cdn.mos.cms.futurecdn.net/eLT7BWJqChudNQegyTRzHC-1920-80.jpg",
-   "date": "2026-11-20T17:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "Ground test of third stage of PSLV (PS3) conducted successfully - ISRO",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jM0FPazVCR09FcTd0VmdvQmhReXVfaDVpa1ZDemlQbHJqTVhNUVBfU2V5TTFHS3pGTkFicXhIck1UUUl2R0FXNVFvdHVSeGlKemh1eUFEMV9hX1pNTEo0S3dlTTVQdUxsZ096MS1tRURSeGZzNVE?oc=5",
-   "summary": "Ground test of third stage of PSLV (PS3) conducted successfully ISRO",
-   "image": "",
-   "date": "2026-11-12T08:00:00+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "GSLV-F18/NVS-03 MISSION - ISRO",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDNkFYM2JwMG8xYURPRFpqQkNyVDNwYjZPdVpjb3ROVG5pc28xM3cyRlhFeDBTTHhxM2l0aFBwTGxkLW1PcV9YaUprMUtvOVJMUVVmNVltaw?oc=5",
-   "summary": "GSLV-F18/NVS-03 MISSION ISRO",
-   "image": "",
-   "date": "2026-10-30T07:00:00+00:00",
-   "source": "ISRO news"
-  },
-  {
    "title": "How did ISRO pick astronaut candidates for the Gaganyaan mission? - The Hindu",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb3dWYm9sSW5PQW9pN05KRmg5a2FGYWZqWUFlLTV3SVRab2t6RnpHVjZnTWd6X3l0OE04Ni1fME9XSk5FeE9QSzdYSVl6bDF5N3djMkJYcDAxQ1M4VkZVSmFDZGZ6X20xaDN4NE0wd1JFRFRMZnNfdDF1OXhBeG1leGJ2WjIyQm4wejhZd1BDVWtKMlNUb2pWMHZZU1FjWjRZbE5pWW1Db3QyRWRFRXhRNmYyUDFPUnhyd0U0dzJYMmZ3dVpT0gHLAUFVX3lxTFBZRnk4ekRXcEQtOWZINXV1Ty0tUVBIQ1ViUWhweUtZTXBHM3hPX3lhRnpTdXZWNUcweU5uVmprWi1fLTNoZ0dOTFIzTGNzSlZKS1hkSnBFOWwtTmp2LW1WOW43MWlfV1MxbnF1ckhuVjdvQ2hEcERhX3ZlUkoxQXhrTHdfa01yYWxaUWJwMDJBRTkzcUNDTHZnQnlvQjZKb2xIWGhmZG5qQzVKa1R3UExDWnp2YXZpbUd4U18yRVV4N1ZfVXlGU2s3QTFr?oc=5",
    "summary": "How did ISRO pick astronaut candidates for the Gaganyaan mission? The Hindu",
@@ -219,43 +203,59 @@
    "source": "ISRO news"
   },
   {
-   "title": "LVM3-M4 Gallery - ISRO",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TX1FHUGZxWmpIOXFoVFVkVTVSX0hNT2ZGXzRjMTJyWTlvZ2tIaml5MkZRN1BQTVlKaFFBLW8xRk5ULW0xZThhbnhLeFJ0a1NWbmgxWkY0V1gtV1VvMVE?oc=5",
-   "summary": "LVM3-M4 Gallery ISRO",
+   "title": "Gaganyaan mission delayed again: First uncrewed launch unlikely before February 2027 - India Today",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVGg5UzVWY0Y1TzN2cWtUTlBiYVo4SWtLQXdvWkQ5RzFjX1hQcjZtazBXU0Rra1VPS19Ia1VDcmlNc3l0WEp3MnVqeGdjV2JsZ2JVSHZhbUJtSmNJcGtLMmp3emhrendiR01BU3pXT1JkR3NwRy1qQVZOS18tME5QZUVLQUdTelU3SF9McjU5dElkNjFGV0RrN1hQSjZjYUJHRnBDaERoVUJFOHZMQUtqWXVqYVl2ODNfaDJwWmx4NjBhV1EySklqZEttcnl2Q3VsMmxBLXVR0gHbAUFVX3lxTFA5NVVNWXctVmMwV2cyZE1GVDNudlZLaUU4ZjRIM0t4WG85b3E5U0ZrM2NKM05GWnVaU0ZDdFRXSWE1V2ZWMzN5MFhGOGdaeGV3ZlRNNW5Zb3JTdEx3YS1qWFR4UjBzdy1HNURzWlZRVnJvbVZsV2RDekZtcmE3UXNla3BJaFA4dVo1TTZJWHlxOXVlMTFSUF9tWHAweDM2dGw2Ym9zNjVqLXhrcU4tbEtTMDJHZEVjdVNSQk1hQW4yWk1XVHNiQlF5b3BmS2FSVERvLW8wdVNDYl9XRQ?oc=5",
+   "summary": "Gaganyaan mission delayed again: First uncrewed launch unlikely before February 2027 India Today",
    "image": "",
-   "date": "2026-09-28T07:00:00+00:00",
+   "date": "2026-11-20T09:16:13+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "PSLV-C58 / XPoSat Mission - ISRO",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6alN4T041S01iNzNtLThDVGxMSGF5S09vZE9MbDIteVAya3NMQ0dnZ0VfQ2JuRWNBVTZJRDNpMzllQTU3bXI5X1hkWVB1Q2FEWG9MU2h3b0lETFNDVHlLUEhB?oc=5",
-   "summary": "PSLV-C58 / XPoSat Mission ISRO",
+   "title": "Kerala boy left school after Class 4 to join a Gurukula and study Yajurveda, years later cracked JEE and got selected by ISRO: His unusual journey will surprise you - Education Times",
+   "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPbF9oSV9UVE93VWxsU29tTlU2QVBRTXhiMTFZY2cyaWdtNU0xdkd5MjhGczV3dUVVZnI0NXNaUm12eG80MmZ1bVVZMmpuVU9KUXROT1N5SGVPR0Y3dlhlZVZqZld3dnFSX3RkdFVFcllhZFRkYWJGbWRCVGYyVGRSUGVKTnFuZ2Q5U2phZktpeUNnVXhaY2dKTlFHUlFNX0JpT0dCNFhyNnFPc3pITVRTOXdBeGlUdktLdTAyNmxlTTZjTi12UDNJTThnbTlUNDMwU1o5ZEdQams2U2V3bk1Rd21UM0pfTUwtQkFNdmVPUEVCWnlXb0stc3Q2eFZTNTliQUlERHJvTWNZOHVzMUlqenlEeUxpZGNiTFVCVC1pVno0RDUwcjRBeXluSlhvWkdjN2JJNEN4dWdLQU1RYlBlN0VpVS1sdmN1bnZxdw?oc=5",
+   "summary": "Kerala boy left school after Class 4 to join a Gurukula and study Yajurveda, years later cracked JEE and got selected by ISRO: His unusual journey will surprise you Education Times",
    "image": "",
-   "date": "2026-09-16T07:00:00+00:00",
+   "date": "2026-11-19T04:46:00+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "NISAR – NASA ISRO Synthetic Aperture Radar Mission - ISRO",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOUFhMdWZQT0NEVWtyMXpIVnRzb0ZVc0pUd2toeFZ6TlFDeXBfVTZUaXVVRVd4S2lwamIxUG9fM0h6UHZpeWpwUTFENzZmN01nRHpNaTBJdnB5bmFVWmdOSGxERVhTUQ?oc=5",
-   "summary": "NISAR – NASA ISRO Synthetic Aperture Radar Mission ISRO",
+   "title": "‘Silver spoon’ to space pioneer: The industrialist’s son who helped build ISRO and IIM-A - The Financial Express",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTkkyeUxxbkdFZUhfZEdxamc2enBDNWFOdExfaW9xalQ0ajlZaHhBUENsUExwek1VMWhmRmJnNDVTQUxlQ1d6UlpGa2pUVHhwQXBlMzhpTkxlRC1SeGdicjVDZlkxT0ZUOUxTRnVKUWFWQW4zeldHdDdqcVBqWUZTSHZRdExoQ2xNT2dzckJTLWh1SzdSLUo1LVhncDItYnZ5bElVMzJBLUNrUVlobTFwMWJYamVhRmZ1YkNQZmJlb1NnQUlSX181N1RmSDJuVENMSFBB0gHaAUFVX3lxTE1vckFJRWFoZjdHRzZUQkRYdWN0SEhCYlBicGlKemFJNk9MWHdWbVd6OVdYNGZpZVVQV0RPTkpKaVpyZ0FDdzlxTlE3TERBUGQ4M3JhQlloT3djaVhWZVJXSzJnb0dobmE3Njc4LS1JSFpSWlJPOTBTaWFVaEQ4ZW9KWFZvMVJveENrb21YT0N6bFRvelVYS2xmZDZUSlhfTWhQQnZfLWViMTFzYnQzTU53aFpadmFQTF93WkwtVE1XQndUZVZCMlBySFk2OEpybnlpemhHeEwzNnRn?oc=5",
+   "summary": "‘Silver spoon’ to space pioneer: The industrialist’s son who helped build ISRO and IIM-A The Financial Express",
    "image": "",
-   "date": "2026-09-16T07:00:00+00:00",
+   "date": "2026-11-21T03:47:01+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "Development of LOX-Methane engine in ISRO - ISRO",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpN0Z4YTBNQ0R3UHZGWnJrandjZkE4RkhIQ0NzZFR5UWt5OVZwVUdYb1VpdWl1X2lubUZ3NlRkNVQwTUVfZEE2TXkybzZlZlVNeWtTYWNQRDFSM2c?oc=5",
-   "summary": "Development of LOX-Methane engine in ISRO ISRO",
+   "title": "Kerala man left school after Class 4 to study veda in Thrissur gurukula, later cracked JEE and got selecte - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOQVd2aWFWekpnQmpXSDlrbmJQMlUza1hJRDhyXzRSZGI2clZsN0FCY3NoOFo2X3RacC12ZlpXd1lOV3lEMWZ3c2ZQWUFubVdDbS1ia3JrbzdTZjJTUmh1cWFSME1DMmxCZ2VLV0pNbGFvNm1yTkFkdVhEVTBFdmlpS2FxX0ZqbVhJcnF6bTRsY1Ntam9aeFNxWWRjV2NxbGlmczB3emZ2dmtiMW4wa1RzUklwMGhVQUdrcmlCRWhHMVBKVUlubkEyVUxNTVNpQ0FWaXNQT1oyOHhzS1pxaWlyNFNyRmhleFhuaE1yUkI0Y2paWUVoMVY4OEFvVGZtZmZWOXZ0NW93Q1YxR0VrenVTVXdwWEQyRnVZOVHSAZ8CQVVfeXFMTVJMZDBaYXJhTFRWVG9hYzhoOTl0cDdjYWoyQTZpNUJZNFdmb05kVklKaGxZbFFobXJlcVNvd2Z4YzI1SUpxbzNyYmFEWGVtb2hHdlUwNHU2OXBkeVY0ZE5qQVV1WENuRzJURWFRaEpLY0xGZTNHTE82bEMyb2VoWlJQM18xeGk3Q0FSZWRSVWVOUlYxalN6TWRsMWVXeTFVSHNla3l6anZrTnR1U1N1andZXzByR3ltbFN3Q2VwLWREbjJneVlXcnVfVWlDRldhaTlkaElGd3V2NE1sZTFUUGVBSHdKNldwLUc2M3ljWExYcTFBN1FPOU5IYTkya0ZqVnplZFkwcjM3U3daZVFlUm5wUmVYdUxkcWplS0c3cnM?oc=5",
+   "summary": "Kerala man left school after Class 4 to study veda in Thrissur gurukula, later cracked JEE and got selecte The Economic Times",
+   "image": "",
+   "date": "2026-11-19T15:27:24+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "TRISHNA satellite is in advanced stage of realisation, says ISRO official - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNE9wbnVVNE5rX3JQMC1LUVhRU0t1U0l6anlIaVBPZHd3NEtGSE5jYW45bUR0azQxSXJKbzBGZkZfQ2dqeFBIZ2FueEhCRXg5cG9za0lGUW9WSmNqbGJkalBHWURIM1RKWVVTZlRybXhNeWJabEdxNEZjYlRXUkpIeWRZN0ZMdXg2VHBSTUpUUW0tSm92LUttcHZQM1RCc0tJQ3A1Y2tPeThDWWVYZGxQbUVQbVJDYlNWbmQzaGwycElUVnFBQWZzTy1NS3lBeTDSAdYBQVVfeXFMTk5kR2Y0aC1ZbzE2U2JQcjRrQ3lhRDNLRnVUS19YTW96UmhSRWpzWVRBVnVURFpWby1rZTNLbHpqNXZOdGs2S2RNWDdlSGZsUjFyVU5NaGRPWENzb1cwdUEwTi12S0FxVE9xcnM4NVR5MnY3WG84SElKcHJDaXo4RWJhTmQ2T1RSa0toVGk1VTRaVjZNY1JYbzJGdTlZdE9yYS1nRjlFdGZxaW5zekJRZ2lZUm5FNTlHWHRDUlpfOGZEMVZzZU95cGUxQkhxTkhuU3BaNzhuZw?oc=5",
+   "summary": "TRISHNA satellite is in advanced stage of realisation, says ISRO official The Hindu",
+   "image": "",
+   "date": "2026-10-11T07:00:00+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "Gaganyaan: ISRO completes key test ahead of first uncrewed mission - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZDR1Si1DOVVaREI2dGRBYWZGaTNYNzg2OFhhTm1EWGFXeGJLSm4xVnlYRWNqRE8tSi1LSnJoMWtkWEpRc3VRaTBHd3JLWHhwcWtGeU00ZHctdnRRT1B2WVh2NlZBUklLMUFURWR2Q0xHNnIyZnlrc1FETGNsVUZiLTlBZ0NUTWN6azAwQ2hyZ21QMDNXUG51aFlpRU45b3I5Um9UXy1uSnlfd3ZDakl0VFZOQmZSTHVmay1wMUpsa3I0TXVVLXfSAcwBQVVfeXFMT3Y5alJ0WFZHUllMQW1MMkhUbHo1a1VMN1EtbFY2ZHZxU0VFYnlzUURaZW5aek9YNlA5MEwtbzZzMkxsV2Z5TlcxWkJzaEdMMnJ4eTNfb3Z5NVhmcENSdmczUE5yYnoxODFYdHJTTEgtbmllR1RvMnlRT2labXZ6X2I0d01QSXAtdl9wWVdfRUZ1X2Y2Z0RxTjdjSk85N2FQVHFxSWxVaGxMM1ZYNnBLR0M0UVJJSFRBYVptWHlBc3hyNVlHWXVRUm5vaUJF?oc=5",
+   "summary": "Gaganyaan: ISRO completes key test ahead of first uncrewed mission The Hindu",
    "image": "",
    "date": "2026-10-16T07:00:00+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "ISRO tests an improved version of the first stage of Small Satellite Launch vehicle (SSLV) - ISRO",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aSWlHdkJFcE5PSUZQVE0wYVpiTk5VR1NkUTBackhPMm9qZU9Oem5fWGhTakFxNk4yMVhKNzNya3FPMEczNFpKcjUySl83SnFZMnQ2d2dXOU5pTHRzdElYQ1o5YlBuQjZnRS10Zzl3M0ZxaDFHbGdhcU9tSjFqWEU?oc=5",
-   "summary": "ISRO tests an improved version of the first stage of Small Satellite Launch vehicle (SSLV) ISRO",
+   "title": "Ground test of third stage of PSLV (PS3) conducted successfully - ISRO",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jM0FPazVCR09FcTd0VmdvQmhReXVfaDVpa1ZDemlQbHJqTVhNUVBfU2V5TTFHS3pGTkFicXhIck1UUUl2R0FXNVFvdHVSeGlKemh1eUFEMV9hX1pNTEo0S3dlTTVQdUxsZ096MS1tRURSeGZzNVE?oc=5",
+   "summary": "Ground test of third stage of PSLV (PS3) conducted successfully ISRO",
    "image": "",
-   "date": "2026-08-12T07:00:00+00:00",
+   "date": "2026-11-12T08:00:00+00:00",
    "source": "ISRO news"
   },
   {
@@ -335,7 +335,7 @@
    "link": "https://timesofindia.indiatimes.com/science/space/a-nuclear-blast-might-be-humanitys-best-shot-at-nudging-a-killer-asteroid-off-course-but-scientists-at-sandia-found-that-hitting-the-wrong-side-could-make-the-push-almost-five-times-weaker-than-planned/articleshow/135861483.cms",
    "summary": "In an intriguing twist of space science, researchers are exploring nuclear explosions as a potential solution to divert asteroids threatening Earth. Their latest simulations reveal that the angle of X-ray emissions plays",
    "image": "https://static.toiimg.com/photo/msid-135861483,imgsize-95772.cms",
-   "date": "2026-11-21T09:52:26.250719+00:00",
+   "date": "2026-11-21T17:30:10.021697+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -343,7 +343,7 @@
    "link": "https://timesofindia.indiatimes.com/science/space/the-euclid-space-telescope-has-spotted-31-ancient-quasars-including-two-record-breakers-whose-light-set-out-when-the-universe-was-about-670-million-years-old-each-shining-like-a-trillion-suns/articleshow/135925446.cms",
    "summary": "The Euclid space telescope has made a groundbreaking discovery by identifying 31 ancient quasars, significantly contributing to the field of astronomy. Notably, two of these quasars hold the record for their vast distanc",
    "image": "https://static.toiimg.com/photo/msid-135925446,imgsize-156854.cms",
-   "date": "2026-11-21T09:52:26.250804+00:00",
+   "date": "2026-11-21T17:30:10.021950+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -351,7 +351,7 @@
    "link": "https://timesofindia.indiatimes.com/science/earth/satellite-images-38-years-apart-show-indonesias-puncak-jaya-glaciers-shrinking-to-tiny-ice-patches-nasa-says-just-2-of-the-1988-ice-area-remained-in-2025-and-its-new-2026-image-reveals-exposed-rock/articleshow/135960550.cms",
    "summary": "Puncak Jaya has lost nearly all its glacier ice due to rising temperatures and changing weather patterns. Recent satellite images reveal a stark reduction in glacier coverage over the past decades. The melting glaciers i",
    "image": "https://static.toiimg.com/photo/msid-135962612,imgsize-1020030.cms",
-   "date": "2026-11-21T09:52:26.250821+00:00",
+   "date": "2026-11-21T17:30:10.022006+00:00",
    "source": "Times of India (Science)"
   },
   {
