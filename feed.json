@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-21T02:12:14.610761+00:00",
+ "updated": "2026-11-21T09:52:26.367765+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "APOD: 2026 November 21 – Voyager’s Neptune",
+   "link": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
+   "summary": "APOD Science APOD APOD: 2026 November 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photogra",
+   "image": "",
+   "date": "2026-11-21T05:05:00+00:00",
+   "source": "NASA"
+  },
   {
    "title": "Curiosity Spots Drifting Twilight Clouds",
    "link": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
@@ -59,17 +67,9 @@
    "source": "NASA"
   },
   {
-   "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
-   "link": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
-   "summary": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.",
-   "image": "",
-   "date": "2026-11-19T15:33:55+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "SpaceX scrubs launch of classified payload for the U.S. Space Force, targets Friday",
+   "title": "SpaceX launches classified payload for the U.S. Space Force",
    "link": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
-   "summary": "The mission is the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East is scheduled for Friday, Nov. 20, during a window that opens at 6:32 p.m. PST (9:32 p.m. EST / 0232 UTC).",
+   "summary": "The mission was the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East happened on Friday, Nov. 20 at 8:20 p.m. PST / 11:20 p.m. EST (0420 UTC on Saturday, Nov. 21).",
    "image": "",
    "date": "2026-11-19T23:51:47+00:00",
    "source": "Spaceflight Now"
@@ -131,6 +131,14 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "SpaceX launches classified mission for US Space Force from California",
+   "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
+   "summary": "SpaceX launched a classified mission for the U.S. Space Force tonight (Nov. 20), sending a mystery payload to orbit from California's central coast.",
+   "image": "https://cdn.mos.cms.futurecdn.net/YaShmYFZ8edZqBUjFWgP3-1920-80.jpg",
+   "date": "2026-11-21T05:28:14+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "On this day in space! Nov. 20, 1998:  Russia launches 1st module of International Space Station as construction begins on the largest human-built structure in orbit",
    "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-20-2026",
    "summary": "On Nov. 20, 1998, the first piece of the International Space Station launched into orbit. It was just one piece, but the foundation of something much larger.",
@@ -187,14 +195,6 @@
    "source": "Space.com"
   },
   {
-   "title": "ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20, 2026",
-   "link": "https://www.space.com/astronomy/earth/iss-astronauts-look-down-on-the-snow-capped-himalayas-space-photo-of-the-day-for-nov-20-2026",
-   "summary": "The Himalayas tower below the clouds, capped in icy snow in new snapshots captured from aboard the International Space Station.",
-   "image": "https://cdn.mos.cms.futurecdn.net/hzGpxrUGKLGE3JV5xUEzob-1920-80.png",
-   "date": "2026-11-20T15:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
    "title": "Ground test of third stage of PSLV (PS3) conducted successfully - ISRO",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jM0FPazVCR09FcTd0VmdvQmhReXVfaDVpa1ZDemlQbHJqTVhNUVBfU2V5TTFHS3pGTkFicXhIck1UUUl2R0FXNVFvdHVSeGlKemh1eUFEMV9hX1pNTEo0S3dlTTVQdUxsZ096MS1tRURSeGZzNVE?oc=5",
    "summary": "Ground test of third stage of PSLV (PS3) conducted successfully ISRO",
@@ -219,43 +219,43 @@
    "source": "ISRO news"
   },
   {
-   "title": "Gaganyaan mission delayed again: First uncrewed launch unlikely before February 2027 - India Today",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVGg5UzVWY0Y1TzN2cWtUTlBiYVo4SWtLQXdvWkQ5RzFjX1hQcjZtazBXU0Rra1VPS19Ia1VDcmlNc3l0WEp3MnVqeGdjV2JsZ2JVSHZhbUJtSmNJcGtLMmp3emhrendiR01BU3pXT1JkR3NwRy1qQVZOS18tME5QZUVLQUdTelU3SF9McjU5dElkNjFGV0RrN1hQSjZjYUJHRnBDaERoVUJFOHZMQUtqWXVqYVl2ODNfaDJwWmx4NjBhV1EySklqZEttcnl2Q3VsMmxBLXVR0gHbAUFVX3lxTFA5NVVNWXctVmMwV2cyZE1GVDNudlZLaUU4ZjRIM0t4WG85b3E5U0ZrM2NKM05GWnVaU0ZDdFRXSWE1V2ZWMzN5MFhGOGdaeGV3ZlRNNW5Zb3JTdEx3YS1qWFR4UjBzdy1HNURzWlZRVnJvbVZsV2RDekZtcmE3UXNla3BJaFA4dVo1TTZJWHlxOXVlMTFSUF9tWHAweDM2dGw2Ym9zNjVqLXhrcU4tbEtTMDJHZEVjdVNSQk1hQW4yWk1XVHNiQlF5b3BmS2FSVERvLW8wdVNDYl9XRQ?oc=5",
-   "summary": "Gaganyaan mission delayed again: First uncrewed launch unlikely before February 2027 India Today",
+   "title": "LVM3-M4 Gallery - ISRO",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TX1FHUGZxWmpIOXFoVFVkVTVSX0hNT2ZGXzRjMTJyWTlvZ2tIaml5MkZRN1BQTVlKaFFBLW8xRk5ULW0xZThhbnhLeFJ0a1NWbmgxWkY0V1gtV1VvMVE?oc=5",
+   "summary": "LVM3-M4 Gallery ISRO",
    "image": "",
-   "date": "2026-11-20T09:16:13+00:00",
+   "date": "2026-09-28T07:00:00+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "Third cyclone within a month to hit India: Isro satellite captures massive buildup - India Today",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTnp1Z0IwTy1mVUZZT3ZESWFzWGtTaWZfbkU1WU1tNThZUS1mUnlHeTVZcEJ3cW5WbEZfREtNdm1tMTRhaVNoTHF1Q3FZYmN0aDgybDBvX2hQX2dYa05IYXlrVmFyWEZhcFpDM3NLbWI1Ti0tNXlOdjZ4Q19GMUZ4dDBWc3VKOEVfNGZNY0RkU01ZT3VVeUx2c3lZZU5ENTdNMU9sRDJhRGVFaW1SNmI1a3BIT0hSOUI4SzI4LVVpRE5jSzhWQ29wSklsdlFHaWhaYnZhYzVrVdIB3AFBVV95cUxQclNJOXZEd0pKS1FqVEEycG5RdkpuRkRld1JSYTAtdHFEajh0OUNQLTVBdmdMWi1mcDVib0Z3QXhJQnJhM0MzMXRCU0N4ajZTbWZyMWlOQS1vT1h5enhpUjloYlJ0WGdjZTltSGdTWG84SkZKdktlcWROU0w0WUlTaUtsNDNwOFdXNm45RURfc0hsZ09yS1ZfOWs3ZlJPWjhuZDNwQnJPUHg2UnB4dm9BM05iakdsMnpEMmRmZnZZZXhTUWt5OXdaVFozTUtHTWp5M2xiTFprZWQ3NU14?oc=5",
-   "summary": "Third cyclone within a month to hit India: Isro satellite captures massive buildup India Today",
+   "title": "PSLV-C58 / XPoSat Mission - ISRO",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6alN4T041S01iNzNtLThDVGxMSGF5S09vZE9MbDIteVAya3NMQ0dnZ0VfQ2JuRWNBVTZJRDNpMzllQTU3bXI5X1hkWVB1Q2FEWG9MU2h3b0lETFNDVHlLUEhB?oc=5",
+   "summary": "PSLV-C58 / XPoSat Mission ISRO",
    "image": "",
-   "date": "2026-11-16T12:53:12+00:00",
+   "date": "2026-09-16T07:00:00+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "ISRO, Pondicherry University Launch Andaman Mangrove Study - The Wave Andaman",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaGdBaVdsWElYa1FMTEs3YXZiUWlvMEZaTUVORV94OVQtdWRjNnBZZ19PSVM4QTN2MmtzbGFOeEJRTWRkNG1GUDB5dkl1U1FURGJycG9KZjJqeWNUMXlyTVotcFAwTkNHbkxvWlI5M3U1cEVhVFBTVFJjZFc1UjhTSGk3NkVJVkJEbG5NTzZLVVBuaXM?oc=5",
-   "summary": "ISRO, Pondicherry University Launch Andaman Mangrove Study The Wave Andaman",
+   "title": "NISAR – NASA ISRO Synthetic Aperture Radar Mission - ISRO",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOUFhMdWZQT0NEVWtyMXpIVnRzb0ZVc0pUd2toeFZ6TlFDeXBfVTZUaXVVRVd4S2lwamIxUG9fM0h6UHZpeWpwUTFENzZmN01nRHpNaTBJdnB5bmFVWmdOSGxERVhTUQ?oc=5",
+   "summary": "NISAR – NASA ISRO Synthetic Aperture Radar Mission ISRO",
    "image": "",
-   "date": "2026-11-20T02:56:10+00:00",
+   "date": "2026-09-16T07:00:00+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "Indian Space Research Organisation (ISRO) | History, Structure, Facilities, & Facts - Britannica",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04Zm1FZHM5WnZJYWJXSnFUeHRuMWRVUjI0eEdHSWluUHVFbFMtRlE1UG53akdMTnFaSU5WS1NyRVpOS3BxRTBjclcySkloRGVEOEM5TkhWSVBOWTNoemZ2T1hRM0RTSHFVRDNoTGVlbkRLbnlZOXc?oc=5",
-   "summary": "Indian Space Research Organisation (ISRO) | History, Structure, Facilities, & Facts Britannica",
+   "title": "Development of LOX-Methane engine in ISRO - ISRO",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpN0Z4YTBNQ0R3UHZGWnJrandjZkE4RkhIQ0NzZFR5UWt5OVZwVUdYb1VpdWl1X2lubUZ3NlRkNVQwTUVfZEE2TXkybzZlZlVNeWtTYWNQRDFSM2c?oc=5",
+   "summary": "Development of LOX-Methane engine in ISRO ISRO",
    "image": "",
-   "date": "2026-11-02T08:00:00+00:00",
+   "date": "2026-10-16T07:00:00+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "Farmer Cultivates a Tribute to ISRO with Paddy Saplings - Deccan Chronicle",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeTdUZGZPUUZqa2pJTTBpUzR0MVd3Tl9odmg5d3dXbmNySldZYlpBcUgwWDc3eXhKdWlYTEtvdnUzMzlwZnEwLXpfVE5TcUJMWGdRM2FMRVc4RDIySWJ6TEpNZW83dHIzRDJiWVB1RG5tR2pKSS0wTHpyQ1JnQkRNRVRWdHhnTUwzektrUG5XQ0J2bFZwYXMyYU9EczRtcXV6Uks3Y3ZvMWxMeDNGYnVGdTFrUWF2Vm9iaU8ycGZ5UdIBxAFBVV95cUxQSFozemh5WmVObGs0ZzE4OXVNVHprWHVSSkROWVVaMWFUbUhNWXdJdVAyWEhvWVBOdWlkWms3alZuVmZpLW44MHdkWFBhYjRWYlU2emJ5RlJpWnJDR0dZN2ptczBGNGtrWmFkb0VLZVRHUWVkdzJaSkpnUEc0dGxoUWNqS19OakFZZ0NCanZZb0MteUd5cjRaLV84SzRsWTE4THg2SkxNVXdkU2dmWGVNNVpBb0RVcTMwU3VhcVNVbE1QTkZ6?oc=5",
-   "summary": "Farmer Cultivates a Tribute to ISRO with Paddy Saplings Deccan Chronicle",
+   "title": "ISRO tests an improved version of the first stage of Small Satellite Launch vehicle (SSLV) - ISRO",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aSWlHdkJFcE5PSUZQVE0wYVpiTk5VR1NkUTBackhPMm9qZU9Oem5fWGhTakFxNk4yMVhKNzNya3FPMEczNFpKcjUySl83SnFZMnQ2d2dXOU5pTHRzdElYQ1o5YlBuQjZnRS10Zzl3M0ZxaDFHbGdhcU9tSjFqWEU?oc=5",
+   "summary": "ISRO tests an improved version of the first stage of Small Satellite Launch vehicle (SSLV) ISRO",
    "image": "",
-   "date": "2026-11-17T20:35:16+00:00",
+   "date": "2026-08-12T07:00:00+00:00",
    "source": "ISRO news"
   },
   {
@@ -335,7 +335,7 @@
    "link": "https://timesofindia.indiatimes.com/science/space/a-nuclear-blast-might-be-humanitys-best-shot-at-nudging-a-killer-asteroid-off-course-but-scientists-at-sandia-found-that-hitting-the-wrong-side-could-make-the-push-almost-five-times-weaker-than-planned/articleshow/135861483.cms",
    "summary": "In an intriguing twist of space science, researchers are exploring nuclear explosions as a potential solution to divert asteroids threatening Earth. Their latest simulations reveal that the angle of X-ray emissions plays",
    "image": "https://static.toiimg.com/photo/msid-135861483,imgsize-95772.cms",
-   "date": "2026-11-21T02:12:14.501798+00:00",
+   "date": "2026-11-21T09:52:26.250719+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -343,7 +343,7 @@
    "link": "https://timesofindia.indiatimes.com/science/space/the-euclid-space-telescope-has-spotted-31-ancient-quasars-including-two-record-breakers-whose-light-set-out-when-the-universe-was-about-670-million-years-old-each-shining-like-a-trillion-suns/articleshow/135925446.cms",
    "summary": "The Euclid space telescope has made a groundbreaking discovery by identifying 31 ancient quasars, significantly contributing to the field of astronomy. Notably, two of these quasars hold the record for their vast distanc",
    "image": "https://static.toiimg.com/photo/msid-135925446,imgsize-156854.cms",
-   "date": "2026-11-21T02:12:14.501912+00:00",
+   "date": "2026-11-21T09:52:26.250804+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -351,7 +351,7 @@
    "link": "https://timesofindia.indiatimes.com/science/earth/satellite-images-38-years-apart-show-indonesias-puncak-jaya-glaciers-shrinking-to-tiny-ice-patches-nasa-says-just-2-of-the-1988-ice-area-remained-in-2025-and-its-new-2026-image-reveals-exposed-rock/articleshow/135960550.cms",
    "summary": "Puncak Jaya has lost nearly all its glacier ice due to rising temperatures and changing weather patterns. Recent satellite images reveal a stark reduction in glacier coverage over the past decades. The melting glaciers i",
    "image": "https://static.toiimg.com/photo/msid-135962612,imgsize-1020030.cms",
-   "date": "2026-11-21T02:12:14.501933+00:00",
+   "date": "2026-11-21T09:52:26.250821+00:00",
    "source": "Times of India (Science)"
   },
   {
