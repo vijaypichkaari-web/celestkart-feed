@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-22T03:15:05.524633+00:00",
+ "updated": "2026-11-22T11:37:14.782490+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+   "link": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+   "summary": "APOD Science APOD APOD: 2026 November 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photogra",
+   "image": "",
+   "date": "2026-11-22T05:05:00+00:00",
+   "source": "NASA"
+  },
   {
    "title": "APOD: 2026 November 21 – Voyager’s Neptune",
    "link": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
@@ -59,17 +67,9 @@
    "source": "NASA"
   },
   {
-   "title": "Challenge: Public Input on Life and the World in 2075",
-   "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
-   "summary": "NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge ",
-   "image": "",
-   "date": "2026-11-19T19:34:20+00:00",
-   "source": "NASA"
-  },
-  {
    "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
    "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
-   "summary": "The NROL-136 mission will be the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled dur",
+   "summary": "The NROL-136 mission will be the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for",
    "image": "",
    "date": "2026-11-21T16:50:51+00:00",
    "source": "Spaceflight Now"
@@ -131,6 +131,14 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "10 things that worry me about chasing the 2027 total solar eclipse in Egypt",
+   "link": "https://www.space.com/stargazing/solar-eclipses/10-things-that-worry-me-about-chasing-the-2027-total-solar-eclipse-in-egypt",
+   "summary": "The longest total solar eclipse on land this century promises to be the experience of a lifetime, but watching it from Luxor, Egypt, may not be straightforward. What could go wrong? Quite a lot, actually.",
+   "image": "https://cdn.mos.cms.futurecdn.net/87vsjE4qoxDkUwh2i9knR-1920-80.jpg",
+   "date": "2026-11-22T11:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
    "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-21-2026",
    "summary": "On Nov. 21, 1676, the Danish astronomer Ole Rømer discovered the speed of lightwhile observing Jupiter and its moon volcanic moon Io. Here's why it mattered.",
@@ -184,14 +192,6 @@
    "summary": "On Nov. 20, 1998, the first piece of the International Space Station launched into orbit. It was just one piece, but the foundation of something much larger.",
    "image": "https://cdn.mos.cms.futurecdn.net/K3vjRotmYAeC2b3V9r2VRe-1920-80.jpg",
    "date": "2026-11-20T21:19:33+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "Don't turn the moon into the Wild West, scientists warn",
-   "link": "https://www.space.com/astronomy/moon/dont-turn-the-moon-into-the-wild-west-scientists-warn",
-   "summary": "Researchers are calling for a moratorium on industrial exploitation of the moon, fearing the lunar environment may suffer irreversible damage if things move too fast.",
-   "image": "https://cdn.mos.cms.futurecdn.net/QqobdB5e8LcM5ERUWc2mqV-1920-80.jpg",
-   "date": "2026-11-20T21:00:00+00:00",
    "source": "Space.com"
   },
   {
@@ -331,11 +331,19 @@
    "source": "The Hindu (Industry)"
   },
   {
+   "title": "8 years, 10 billion km: Japan-Europe spacecraft enters Mercury's orbit",
+   "link": "https://timesofindia.indiatimes.com/science/8-years-10-billion-km-japan-europe-spacecraft-enters-mercurys-orbit/articleshow/136069437.cms",
+   "summary": "The BepiColombo mission, a collaboration between Japan and Europe, has reached Mercury's orbit after an impressive journey exceeding 10 billion kilometers since its 2018 launch. This groundbreaking mission is set to unve",
+   "image": "https://static.toiimg.com/photo/msid-136069480,imgsize-59634.cms",
+   "date": "2026-11-22T11:37:14.718182+00:00",
+   "source": "Times of India (Science)"
+  },
+  {
    "title": "More than 8,000 people applied to be NASA astronauts last time and just 10 were picked",
    "link": "https://timesofindia.indiatimes.com/science/space/more-than-8000-people-applied-to-be-nasa-astronauts-last-time-and-just-10-were-picked-applications-for-the-next-class-are-open-until-3-december-and-most-applicants-need-a-stem-masters-and-three-years-experience/articleshow/136044615.cms",
    "summary": "NASA is currently accepting applications until December 3, 2026, for aspiring astronauts who dream of exploring outer space. To qualify, applicants must be U.S. citizens possessing a master's degree and relevant experien",
    "image": "https://static.toiimg.com/photo/msid-136044615,imgsize-179472.cms",
-   "date": "2026-11-22T03:15:05.338548+00:00",
+   "date": "2026-11-22T11:37:14.718328+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -343,7 +351,7 @@
    "link": "https://timesofindia.indiatimes.com/science/space/nasa-is-offering-1-million-to-anyone-who-can-solve-one-big-problem-standing-in-the-way-of-building-a-human-settlement-on-the-moon/articleshow/136045649.cms",
    "summary": "NASA has launched the Moon Base Challenge, encouraging students to develop solutions for lunar habitation. The initiative offers $1 million in prizes to student teams from high schools and universities. Teams will focus ",
    "image": "https://static.toiimg.com/photo/msid-136045649,imgsize-116112.cms",
-   "date": "2026-11-22T03:15:05.338697+00:00",
+   "date": "2026-11-22T11:37:14.718509+00:00",
    "source": "Times of India (Science)"
   },
   {
