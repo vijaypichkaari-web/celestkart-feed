@@ -1,11 +1,19 @@
 {
- "updated": "2026-11-22T11:37:14.782490+00:00",
+ "updated": "2026-11-22T19:37:52.111256+00:00",
  "errors": [],
  "items": [
   {
+   "title": "65 Years of Human Spaceflight at NASA Johnson",
+   "link": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
+   "summary": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the",
+   "image": "",
+   "date": "2026-11-22T19:13:25+00:00",
+   "source": "NASA"
+  },
+  {
    "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
    "link": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
-   "summary": "APOD Science APOD APOD: 2026 November 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photogra",
+   "summary": "APODScienceAPODAPOD: 2026 November 22 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fas",
    "image": "",
    "date": "2026-11-22T05:05:00+00:00",
    "source": "NASA"
@@ -13,7 +21,7 @@
   {
    "title": "APOD: 2026 November 21 – Voyager’s Neptune",
    "link": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
-   "summary": "APOD Science APOD APOD: 2026 November 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photogra",
+   "summary": "APODScienceAPODAPOD: 2026 November 21 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fas",
    "image": "",
    "date": "2026-11-21T05:05:00+00:00",
    "source": "NASA"
@@ -59,23 +67,15 @@
    "source": "NASA"
   },
   {
-   "title": "The Stormy Southwest Pacific",
-   "link": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
-   "summary": "Tropical Cyclone Xavier launched the basin’s storm season with a bang.",
-   "image": "",
-   "date": "2026-11-20T05:01:00+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
+   "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
    "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
-   "summary": "The NROL-136 mission will be the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for",
+   "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m",
    "image": "",
    "date": "2026-11-21T16:50:51+00:00",
    "source": "Spaceflight Now"
   },
   {
-   "title": "SpaceX launches classified payload for the U.S. Space Force",
+   "title": "SpaceX launches satellites for the U.S. Space Force’s data network constellation",
    "link": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
    "summary": "The mission was the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East happened on Friday, Nov. 20 at 8:20 p.m. PST / 11:20 p.m. EST (0420 UTC on Saturday, Nov. 21).",
    "image": "",
@@ -131,6 +131,38 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)",
+   "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
+   "summary": "SpaceX launched a batch of classified spy satellites for the U.S. government's National Reconnaissance Office early on Sunday morning (Nov. 22).",
+   "image": "https://cdn.mos.cms.futurecdn.net/Zo7K3LFdny8ECPyBDZLpiH-1920-80.jpg",
+   "date": "2026-11-22T16:05:33+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "This viral star projector has been hyped to Mars and back, but we hunted down the best version you can buy",
+   "link": "https://www.space.com/stargazing/skywatching-kit/this-viral-star-projector-has-been-hyped-to-mars-and-back-but-we-hunted-down-the-best-version-you-can-buy",
+   "summary": "The AI adverts for the Zanbix 2 in 1 Galaxy Projector Night Light are downright bizarre — we cut through the hype to bring you a version that actually delivers",
+   "image": "https://cdn.mos.cms.futurecdn.net/2VZB5hMXtFVHiNULWtqb4b-1920-80.jpg",
+   "date": "2026-11-22T15:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "As 'Star Trek: First Contact' turns 30, Director Jonathan Frakes reflects on his triumphant time-travel blockbuster (interview)",
+   "link": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-director-jonathan-frakes-reflects-on-his-triumphant-time-travel-blockbuster-interview",
+   "summary": "\"What’s not to love? It's bulletproof!\"",
+   "image": "https://cdn.mos.cms.futurecdn.net/rfdtXCDQn6RfYbQW7tCxgY-1920-80.jpg",
+   "date": "2026-11-22T14:30:00+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "On this day in space! Nov.22, 1989: NASA launches space shuttle Discovery on classified STS-33 mission for the US military",
+   "link": "https://www.space.com/on-this-day-in-space-november-22-2026",
+   "summary": "On Nov. 22, 1989, the space shuttle Discovery launched on the secret mission STS-33 for the U.S. military. Here's why it mattered.",
+   "image": "https://cdn.mos.cms.futurecdn.net/eULxhwHxNYJ5iLNVpwNEvA-1920-80.jpg",
+   "date": "2026-11-22T14:18:35+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "10 things that worry me about chasing the 2027 total solar eclipse in Egypt",
    "link": "https://www.space.com/stargazing/solar-eclipses/10-things-that-worry-me-about-chasing-the-2027-total-solar-eclipse-in-egypt",
    "summary": "The longest total solar eclipse on land this century promises to be the experience of a lifetime, but watching it from Luxor, Egypt, may not be straightforward. What could go wrong? Quite a lot, actually.",
@@ -163,43 +195,27 @@
    "source": "Space.com"
   },
   {
-   "title": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says",
-   "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-retire-1st-starship-upper-stage-ever-caught-by-chopsticks-elon-musk-says",
-   "summary": "The first Starship upper stage that SpaceX ever successfully recovered won't fly again. Rather, it will go on display as a museum piece, according to company founder and CEO Elon Musk.",
-   "image": "https://cdn.mos.cms.futurecdn.net/FBiquE8ByNwXYMJZeaXVkm-1920-80.jpg",
-   "date": "2026-11-21T13:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "European-Japanese BepiColombo probe arrives in orbit around Mercury today",
-   "link": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
-   "summary": "The BepiColombo spacecraft will finally arrive in orbit around Mercury today (Nov. 21), more than eight years after leaving its home planet.",
-   "image": "https://cdn.mos.cms.futurecdn.net/d7pYhNBUCPVYiaqD7aQLwE-1920-80.jpg",
-   "date": "2026-11-21T11:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "SpaceX launches classified mission for US Space Force from California (video)",
-   "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
-   "summary": "SpaceX launched a classified mission for the U.S. Space Force tonight (Nov. 20), sending a mystery payload to orbit from California's central coast.",
-   "image": "https://cdn.mos.cms.futurecdn.net/YaShmYFZ8edZqBUjFWgP3-1920-80.jpg",
-   "date": "2026-11-21T05:28:14+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "On this day in space! Nov. 20, 1998:  Russia launches 1st module of International Space Station as construction begins on the largest human-built structure in orbit",
-   "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-20-2026",
-   "summary": "On Nov. 20, 1998, the first piece of the International Space Station launched into orbit. It was just one piece, but the foundation of something much larger.",
-   "image": "https://cdn.mos.cms.futurecdn.net/K3vjRotmYAeC2b3V9r2VRe-1920-80.jpg",
-   "date": "2026-11-20T21:19:33+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "How did ISRO pick astronaut candidates for the Gaganyaan mission? - The Hindu",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb3dWYm9sSW5PQW9pN05KRmg5a2FGYWZqWUFlLTV3SVRab2t6RnpHVjZnTWd6X3l0OE04Ni1fME9XSk5FeE9QSzdYSVl6bDF5N3djMkJYcDAxQ1M4VkZVSmFDZGZ6X20xaDN4NE0wd1JFRFRMZnNfdDF1OXhBeG1leGJ2WjIyQm4wejhZd1BDVWtKMlNUb2pWMHZZU1FjWjRZbE5pWW1Db3QyRWRFRXhRNmYyUDFPUnhyd0U0dzJYMmZ3dVpT0gHLAUFVX3lxTFBZRnk4ekRXcEQtOWZINXV1Ty0tUVBIQ1ViUWhweUtZTXBHM3hPX3lhRnpTdXZWNUcweU5uVmprWi1fLTNoZ0dOTFIzTGNzSlZKS1hkSnBFOWwtTmp2LW1WOW43MWlfV1MxbnF1ckhuVjdvQ2hEcERhX3ZlUkoxQXhrTHdfa01yYWxaUWJwMDJBRTkzcUNDTHZnQnlvQjZKb2xIWGhmZG5qQzVKa1R3UExDWnp2YXZpbUd4U18yRVV4N1ZfVXlGU2s3QTFr?oc=5",
-   "summary": "How did ISRO pick astronaut candidates for the Gaganyaan mission? The Hindu",
+   "title": "GSLV-F18/NVS-03 Mission - pib.gov.in",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZmp5VlhGQW8zeE8wNktJMFBCb3NNMVkwU3NZME5WQ24yQ0FpdHlTaUhINDFCT3VhMEhfaDJuWkZnbndEYVl2VjlfUWhucXl5V3VhMWpxMU1ZYmFld2laMTNYcG52Rjc4R1JHc0RxbG9BNlhSUlRlZUdveU9iZVF0SU5tX2lneHc?oc=5",
+   "summary": "GSLV-F18/NVS-03 Mission pib.gov.in",
    "image": "",
-   "date": "2026-11-19T01:30:00+00:00",
+   "date": "2026-11-21T23:55:45+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "Ground test of third stage of PSLV (PS3) conducted successfully - ISRO",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jM0FPazVCR09FcTd0VmdvQmhReXVfaDVpa1ZDemlQbHJqTVhNUVBfU2V5TTFHS3pGTkFicXhIck1UUUl2R0FXNVFvdHVSeGlKemh1eUFEMV9hX1pNTEo0S3dlTTVQdUxsZ096MS1tRURSeGZzNVE?oc=5",
+   "summary": "Ground test of third stage of PSLV (PS3) conducted successfully ISRO",
+   "image": "",
+   "date": "2026-11-12T08:00:00+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "22-year-old Assam youth secures scientist position at ISRO, brings pride to state - India Today NE",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb1ZVV0ctQUlLYzlRZHlQeUNTbGVvWHNLVUdWNlVFZjlXUldNc3VuMUhYTG5qZ1BCTDZFeEY0cmFjQVRabXdINHZSNFFRVU9ZY2xzb0ZrZTJ0OW9tUlFhM0FoS2NhNXZQWDBEMXJsb3lYajNNelMyZGlLUGxObWhfLVEyTHNPdHpHMjU4b3hDcUMtb2M3OEkwVDlSclJadUctdnBuS3d2UUNlYzN0YXl2U09QUVBZUjBILUJfZnpzdVFxeXpVY3hxWHZwcDZWRzJjMjZFNHF30gHbAUFVX3lxTE9yVG9YZ0FQRmxid1JCZ1pQb0pUUERIUWVLdjh5MXNTcG9sVm1XN1JvZWkxZi14MzVXUXB3UXFGQmxaVWVtcnJ4MVF0T0kwbWVGQWpxWlhRLXhCUnFUQkRjb0VvUXEwMnJ6OGZ3S2t2UklrMG1RcWt0aTk2SFRSQWtobS1XT1lQM1RONkp1U3l2bHZMOF9SdDR0OHNTcmNCaXJDUXRxd1U1RERKUDRSenBrZUNuQ3NsYnhhZHhxTnhaTmRtRkJabnhPRjU4LXByQ2JiRk5lQTY1ZU4zVQ?oc=5",
+   "summary": "22-year-old Assam youth secures scientist position at ISRO, brings pride to state India Today NE",
+   "image": "",
+   "date": "2026-11-22T09:07:59+00:00",
    "source": "ISRO news"
   },
   {
@@ -211,51 +227,35 @@
    "source": "ISRO news"
   },
   {
-   "title": "‘Silver spoon’ to space pioneer: The industrialist’s son who helped build ISRO and IIM-A - The Financial Express",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTkkyeUxxbkdFZUhfZEdxamc2enBDNWFOdExfaW9xalQ0ajlZaHhBUENsUExwek1VMWhmRmJnNDVTQUxlQ1d6UlpGa2pUVHhwQXBlMzhpTkxlRC1SeGdicjVDZlkxT0ZUOUxTRnVKUWFWQW4zeldHdDdqcVBqWUZTSHZRdExoQ2xNT2dzckJTLWh1SzdSLUo1LVhncDItYnZ5bElVMzJBLUNrUVlobTFwMWJYamVhRmZ1YkNQZmJlb1NnQUlSX181N1RmSDJuVENMSFBB0gHaAUFVX3lxTE1vckFJRWFoZjdHRzZUQkRYdWN0SEhCYlBicGlKemFJNk9MWHdWbVd6OVdYNGZpZVVQV0RPTkpKaVpyZ0FDdzlxTlE3TERBUGQ4M3JhQlloT3djaVhWZVJXSzJnb0dobmE3Njc4LS1JSFpSWlJPOTBTaWFVaEQ4ZW9KWFZvMVJveENrb21YT0N6bFRvelVYS2xmZDZUSlhfTWhQQnZfLWViMTFzYnQzTU53aFpadmFQTF93WkwtVE1XQndUZVZCMlBySFk2OEpybnlpemhHeEwzNnRn?oc=5",
-   "summary": "‘Silver spoon’ to space pioneer: The industrialist’s son who helped build ISRO and IIM-A The Financial Express",
+   "title": "How did ISRO pick astronaut candidates for the Gaganyaan mission? - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb3dWYm9sSW5PQW9pN05KRmg5a2FGYWZqWUFlLTV3SVRab2t6RnpHVjZnTWd6X3l0OE04Ni1fME9XSk5FeE9QSzdYSVl6bDF5N3djMkJYcDAxQ1M4VkZVSmFDZGZ6X20xaDN4NE0wd1JFRFRMZnNfdDF1OXhBeG1leGJ2WjIyQm4wejhZd1BDVWtKMlNUb2pWMHZZU1FjWjRZbE5pWW1Db3QyRWRFRXhRNmYyUDFPUnhyd0U0dzJYMmZ3dVpT0gHLAUFVX3lxTFBZRnk4ekRXcEQtOWZINXV1Ty0tUVBIQ1ViUWhweUtZTXBHM3hPX3lhRnpTdXZWNUcweU5uVmprWi1fLTNoZ0dOTFIzTGNzSlZKS1hkSnBFOWwtTmp2LW1WOW43MWlfV1MxbnF1ckhuVjdvQ2hEcERhX3ZlUkoxQXhrTHdfa01yYWxaUWJwMDJBRTkzcUNDTHZnQnlvQjZKb2xIWGhmZG5qQzVKa1R3UExDWnp2YXZpbUd4U18yRVV4N1ZfVXlGU2s3QTFr?oc=5",
+   "summary": "How did ISRO pick astronaut candidates for the Gaganyaan mission? The Hindu",
    "image": "",
-   "date": "2026-11-21T03:47:01+00:00",
+   "date": "2026-11-19T01:30:00+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "Kerala boy left school after Class 4 to join a Gurukula and study Yajurveda, years later cracked JEE and got selected by ISRO: His unusual journey will surprise you - Education Times",
-   "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPbF9oSV9UVE93VWxsU29tTlU2QVBRTXhiMTFZY2cyaWdtNU0xdkd5MjhGczV3dUVVZnI0NXNaUm12eG80MmZ1bVVZMmpuVU9KUXROT1N5SGVPR0Y3dlhlZVZqZld3dnFSX3RkdFVFcllhZFRkYWJGbWRCVGYyVGRSUGVKTnFuZ2Q5U2phZktpeUNnVXhaY2dKTlFHUlFNX0JpT0dCNFhyNnFPc3pITVRTOXdBeGlUdktLdTAyNmxlTTZjTi12UDNJTThnbTlUNDMwU1o5ZEdQams2U2V3bk1Rd21UM0pfTUwtQkFNdmVPUEVCWnlXb0stc3Q2eFZTNTliQUlERHJvTWNZOHVzMUlqenlEeUxpZGNiTFVCVC1pVno0RDUwcjRBeXluSlhvWkdjN2JJNEN4dWdLQU1RYlBlN0VpVS1sdmN1bnZxdw?oc=5",
-   "summary": "Kerala boy left school after Class 4 to join a Gurukula and study Yajurveda, years later cracked JEE and got selected by ISRO: His unusual journey will surprise you Education Times",
+   "title": "ISRO at a crossroads: The unease over India’s space sector reforms - The News Minute",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2R0YnRDaGxxUENTcXVzM2t3c1BKdHBiZkNuZmNOVGhVLVRYRlUxd1JXTmZXNVdVZTh5Z2V4MlVIbDRGSDlaMmgxUE0wQjBFWlYzQ0ZmT01JTlVna0N6ZE9ZUks0MDBONjhXbEdWOVJRR243alFweGd3NmtCZnlsaUJfQTdMbEdsWnJFWk5ReFNqamo4SFlVOWtncl9JRng4?oc=5",
+   "summary": "ISRO at a crossroads: The unease over India’s space sector reforms The News Minute",
    "image": "",
-   "date": "2026-11-19T04:46:00+00:00",
+   "date": "2026-11-12T06:30:00+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "Another Setback For Gaganyaan Mission? 80% Work Complete, Yet ISRO's Historic Launch Faces Another Delay - Indian Masterminds",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSW8zaVFEYTdmT191enRtbGtjZzRqT1c0UVUza21fTm9UcG44akdkRVlyUHd2UmY4WkFDeVY2Qk13dlpoNm1HQS1ONG5wcmRtTFhoMTBCNy0zQ0RhaHY4RV9JZDA3Xy1xVUFDRlA4Z1EzSS1TZFNyUkdWOEhCT2ZsWVhWWG1NUjQ?oc=5",
-   "summary": "Another Setback For Gaganyaan Mission? 80% Work Complete, Yet ISRO's Historic Launch Faces Another Delay Indian Masterminds",
+   "title": "Strengthening India’s Space Sovereignty - www.pib.gov.in",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HekFocy1TVjNIaHhMUFR6bWc5ZE9rc2huWmxLSFhTVkVWa0x1WnBmRFdkZWlWb1JlV0lDNEdkQ0NHQ0NCblNxN2hPaWt6R09oU0VpazVabVpsdzEyOEJ1ajRYNmsyYTRxOXRtOE1uUTU5Z3VYRjJ4Rg?oc=5",
+   "summary": "Strengthening India’s Space Sovereignty www.pib.gov.in",
    "image": "",
-   "date": "2026-11-21T07:48:03+00:00",
+   "date": "2026-11-20T09:22:51+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "Gaganyaan: ISRO completes key test ahead of first uncrewed mission - The Hindu",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZDR1Si1DOVVaREI2dGRBYWZGaTNYNzg2OFhhTm1EWGFXeGJLSm4xVnlYRWNqRE8tSi1LSnJoMWtkWEpRc3VRaTBHd3JLWHhwcWtGeU00ZHctdnRRT1B2WVh2NlZBUklLMUFURWR2Q0xHNnIyZnlrc1FETGNsVUZiLTlBZ0NUTWN6azAwQ2hyZ21QMDNXUG51aFlpRU45b3I5Um9UXy1uSnlfd3ZDakl0VFZOQmZSTHVmay1wMUpsa3I0TXVVLXfSAcwBQVVfeXFMT3Y5alJ0WFZHUllMQW1MMkhUbHo1a1VMN1EtbFY2ZHZxU0VFYnlzUURaZW5aek9YNlA5MEwtbzZzMkxsV2Z5TlcxWkJzaEdMMnJ4eTNfb3Z5NVhmcENSdmczUE5yYnoxODFYdHJTTEgtbmllR1RvMnlRT2labXZ6X2I0d01QSXAtdl9wWVdfRUZ1X2Y2Z0RxTjdjSk85N2FQVHFxSWxVaGxMM1ZYNnBLR0M0UVJJSFRBYVptWHlBc3hyNVlHWXVRUm5vaUJF?oc=5",
-   "summary": "Gaganyaan: ISRO completes key test ahead of first uncrewed mission The Hindu",
+   "title": "ISRO SDSC SHAR Recruitment 2026, Last Date to Re Apply Online for 97 Various Posts - Adda247",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42U0hieTFqQV9ybi1jbWlGTkFEaDRlZGRWOEx4bHI3QWt4N3RzZDlwV1pydnJCMGRvTTI4aW5zdTBkWUp3SkdlaVhxcElId2x4R1hXWVlXY0ZUSGxsQTlTLW9CMGhYZE0wNnViUHVQSS1JUnlTbzh6QV9NZUoxZw?oc=5",
+   "summary": "ISRO SDSC SHAR Recruitment 2026, Last Date to Re Apply Online for 97 Various Posts Adda247",
    "image": "",
-   "date": "2026-10-16T07:00:00+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "TRISHNA satellite is in advanced stage of realisation, says ISRO official - The Hindu",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNE9wbnVVNE5rX3JQMC1LUVhRU0t1U0l6anlIaVBPZHd3NEtGSE5jYW45bUR0azQxSXJKbzBGZkZfQ2dqeFBIZ2FueEhCRXg5cG9za0lGUW9WSmNqbGJkalBHWURIM1RKWVVTZlRybXhNeWJabEdxNEZjYlRXUkpIeWRZN0ZMdXg2VHBSTUpUUW0tSm92LUttcHZQM1RCc0tJQ3A1Y2tPeThDWWVYZGxQbUVQbVJDYlNWbmQzaGwycElUVnFBQWZzTy1NS3lBeTDSAdYBQVVfeXFMTk5kR2Y0aC1ZbzE2U2JQcjRrQ3lhRDNLRnVUS19YTW96UmhSRWpzWVRBVnVURFpWby1rZTNLbHpqNXZOdGs2S2RNWDdlSGZsUjFyVU5NaGRPWENzb1cwdUEwTi12S0FxVE9xcnM4NVR5MnY3WG84SElKcHJDaXo4RWJhTmQ2T1RSa0toVGk1VTRaVjZNY1JYbzJGdTlZdE9yYS1nRjlFdGZxaW5zekJRZ2lZUm5FNTlHWHRDUlpfOGZEMVZzZU95cGUxQkhxTkhuU3BaNzhuZw?oc=5",
-   "summary": "TRISHNA satellite is in advanced stage of realisation, says ISRO official The Hindu",
-   "image": "",
-   "date": "2026-10-11T07:00:00+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "ISRO NVS-03 launch: 5 things to know about India’s new navigation satellite - The Hindu",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNR2paT0FIRjlFai1pUHJ4VG81bDNlTUFFVTdzRXVVa09vcl9UR0UtY3A0amRldGJ6UC1GRGlQd09MdmxiOGVnNmZGREhKc3RnYlpIS0xtZ2xfZXVNV2dOanFFMVR3YWJ0QzUzbHd2bXFpZkotdDhSNUtrWW1QTEtPdDhNaE0tblpXdlVnSlhhR19PTVpXZXN5RncwY3ItTmZQaG1aRTRWOXg1ZWFNNnlZbjdIMURtempiVVYyeXcxalBWMVVScFphZDlTRGRGNzNrb3ZHTjNfRU1iTzk5aEpOYWlueUU4Z3pFSlA00gHyAUFVX3lxTE95bjdvVEtXWm9CMlZTazladDJUaG1oa2JOZHBZMU9oMVZQR3pFOEtkVnh4VUpVdVpNOWRCc3N6YmdKOTRwT1VqM2ZPVlNHcDdHSkhqRkNlUndaUk1TR1NzOWlrVl9UYUEzeXVpYnlobFV5WHVaS3EzUldTV29ybGdjM3luUHRpUktiUFoyS2VOcFEtVmQxb25DRjBfQlFrY1otZXVqZkk5Sndad1ZUTFFfWjF3YVN1NFkwT2FabVhRNF9PS01GVkxVbjlELXJ5RUJiSEZJeUxBRUNvRUZfdTZYZWp5NUxnZ0dYUUNwNFA4WTdB?oc=5",
-   "summary": "ISRO NVS-03 launch: 5 things to know about India’s new navigation satellite The Hindu",
-   "image": "",
-   "date": "2026-10-31T07:00:00+00:00",
+   "date": "2026-11-16T08:00:00+00:00",
    "source": "ISRO news"
   },
   {
@@ -335,7 +335,7 @@
    "link": "https://timesofindia.indiatimes.com/science/8-years-10-billion-km-japan-europe-spacecraft-enters-mercurys-orbit/articleshow/136069437.cms",
    "summary": "The BepiColombo mission, a collaboration between Japan and Europe, has reached Mercury's orbit after an impressive journey exceeding 10 billion kilometers since its 2018 launch. This groundbreaking mission is set to unve",
    "image": "https://static.toiimg.com/photo/msid-136069480,imgsize-59634.cms",
-   "date": "2026-11-22T11:37:14.718182+00:00",
+   "date": "2026-11-22T19:37:52.041206+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -343,7 +343,7 @@
    "link": "https://timesofindia.indiatimes.com/science/space/more-than-8000-people-applied-to-be-nasa-astronauts-last-time-and-just-10-were-picked-applications-for-the-next-class-are-open-until-3-december-and-most-applicants-need-a-stem-masters-and-three-years-experience/articleshow/136044615.cms",
    "summary": "NASA is currently accepting applications until December 3, 2026, for aspiring astronauts who dream of exploring outer space. To qualify, applicants must be U.S. citizens possessing a master's degree and relevant experien",
    "image": "https://static.toiimg.com/photo/msid-136044615,imgsize-179472.cms",
-   "date": "2026-11-22T11:37:14.718328+00:00",
+   "date": "2026-11-22T19:37:52.041353+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -351,7 +351,7 @@
    "link": "https://timesofindia.indiatimes.com/science/space/nasa-is-offering-1-million-to-anyone-who-can-solve-one-big-problem-standing-in-the-way-of-building-a-human-settlement-on-the-moon/articleshow/136045649.cms",
    "summary": "NASA has launched the Moon Base Challenge, encouraging students to develop solutions for lunar habitation. The initiative offers $1 million in prizes to student teams from high schools and universities. Teams will focus ",
    "image": "https://static.toiimg.com/photo/msid-136045649,imgsize-116112.cms",
-   "date": "2026-11-22T11:37:14.718509+00:00",
+   "date": "2026-11-22T19:37:52.041551+00:00",
    "source": "Times of India (Science)"
   },
   {
