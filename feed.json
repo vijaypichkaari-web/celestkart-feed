@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-23T00:51:53.072876+00:00",
+ "updated": "2026-11-23T09:03:03.202809+00:00",
  "errors": [],
  "items": [
+  {
+   "title": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251",
+   "link": "https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/",
+   "summary": "APOD Science APOD APOD: 2026 November 23 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or phot",
+   "image": "",
+   "date": "2026-11-23T05:05:00+00:00",
+   "source": "NASA"
+  },
+  {
+   "title": "Laser Focus at the Top of the World",
+   "link": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
+   "summary": "A next-generation geodetic instrument developed by NASA, part of a network that helps measure satellites’ orbits and the planet’s shape, has debuted in Svalbard, Norway.",
+   "image": "",
+   "date": "2026-11-23T05:01:00+00:00",
+   "source": "NASA"
+  },
   {
    "title": "65 Years of Human Spaceflight at NASA Johnson",
    "link": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
@@ -48,22 +64,6 @@
    "summary": "Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov. 18. Presenting the awards were Christine Po",
    "image": "",
    "date": "2026-11-20T16:27:46+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "NASA’s Curiosity Mars Rover Collects Samples",
-   "link": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/",
-   "summary": "This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of i",
-   "image": "",
-   "date": "2026-11-20T15:53:24+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "APOD: 2026 November 20 – V-G-R",
-   "link": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
-   "summary": "APODScienceAPODAPOD: 2026 November…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinat",
-   "image": "",
-   "date": "2026-11-20T05:05:00+00:00",
    "source": "NASA"
   },
   {
@@ -131,7 +131,15 @@
    "source": "Spaceflight Now"
   },
   {
-   "title": "Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
+   "title": "Be ready to get a better view of the night sky in your backyard with 25% off the Celestron Cometron 7x50 binoculars in this Black Friday deal",
+   "link": "https://www.space.com/stargazing/skywatching-kit/be-ready-to-get-a-better-view-of-the-night-sky-in-your-backyard-with-25-percent-off-the-celestron-cometron-7x50-binoculars-in-this-black-friday-deal",
+   "summary": "For Black Friday week, Amazon has slashed the price of these budget family binoculars down to $36, their lowest price since April. They are great for viewing the moon and constellations.",
+   "image": "https://cdn.mos.cms.futurecdn.net/2KzURPXT2jBsCs3dysPBES-1920-80.jpg",
+   "date": "2026-11-23T08:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "Watch live today: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
    "link": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
    "summary": "An Ariane 6 rocket will launch 36 Amazon broadband satellites to orbit early on Nov. 23, just eight days after a ULA Vulcan Centaur failed during its mission for Amazon. Watch it live here.",
    "image": "https://cdn.mos.cms.futurecdn.net/oWM29BHfjZMESxoHb6Cem9-1920-80.jpg",
@@ -139,9 +147,9 @@
    "source": "Space.com"
   },
   {
-   "title": "SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)",
+   "title": "SpaceX launches 2 rockets from same pad 32 hours apart, smashing turnaround record (video)",
    "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
-   "summary": "SpaceX launched a batch of classified spy satellites for the U.S. government's National Reconnaissance Office early on Sunday morning (Nov. 22).",
+   "summary": "SpaceX just launched two rockets from the same California pad 32 hours apart, breaking its own turnaround record by about 13 hours.",
    "image": "https://cdn.mos.cms.futurecdn.net/Zo7K3LFdny8ECPyBDZLpiH-1920-80.jpg",
    "date": "2026-11-22T16:05:33+00:00",
    "source": "Space.com"
@@ -187,30 +195,6 @@
    "source": "Space.com"
   },
   {
-   "title": "This Week In Space podcast: Episode 237 — A Fond Farewell",
-   "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-237-a-fond-farewell",
-   "summary": "On Episode 237 of This Week In Space, Tariq Malik and Rod Pyle sign off — temporarily — with a look at space news, a bushel of space jokes, and a recap of some of our funniest moments.",
-   "image": "https://cdn.mos.cms.futurecdn.net/EKv5rDXkHGEoZPK2jcNPBD-1920-80.jpg",
-   "date": "2026-11-21T15:15:26+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "GSLV-F18/NVS-03 MISSION - ISRO",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDNkFYM2JwMG8xYURPRFpqQkNyVDNwYjZPdVpjb3ROVG5pc28xM3cyRlhFeDBTTHhxM2l0aFBwTGxkLW1PcV9YaUprMUtvOVJMUVVmNVltaw?oc=5",
-   "summary": "GSLV-F18/NVS-03 MISSION ISRO",
-   "image": "",
-   "date": "2026-10-30T07:00:00+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "22-year-old Assam youth secures scientist position at ISRO, brings pride to state - India Today NE",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb1ZVV0ctQUlLYzlRZHlQeUNTbGVvWHNLVUdWNlVFZjlXUldNc3VuMUhYTG5qZ1BCTDZFeEY0cmFjQVRabXdINHZSNFFRVU9ZY2xzb0ZrZTJ0OW9tUlFhM0FoS2NhNXZQWDBEMXJsb3lYajNNelMyZGlLUGxObWhfLVEyTHNPdHpHMjU4b3hDcUMtb2M3OEkwVDlSclJadUctdnBuS3d2UUNlYzN0YXl2U09QUVBZUjBILUJfZnpzdVFxeXpVY3hxWHZwcDZWRzJjMjZFNHF30gHbAUFVX3lxTE9yVG9YZ0FQRmxid1JCZ1pQb0pUUERIUWVLdjh5MXNTcG9sVm1XN1JvZWkxZi14MzVXUXB3UXFGQmxaVWVtcnJ4MVF0T0kwbWVGQWpxWlhRLXhCUnFUQkRjb0VvUXEwMnJ6OGZ3S2t2UklrMG1RcWt0aTk2SFRSQWtobS1XT1lQM1RONkp1U3l2bHZMOF9SdDR0OHNTcmNCaXJDUXRxd1U1RERKUDRSenBrZUNuQ3NsYnhhZHhxTnhaTmRtRkJabnhPRjU4LXByQ2JiRk5lQTY1ZU4zVQ?oc=5",
-   "summary": "22-year-old Assam youth secures scientist position at ISRO, brings pride to state India Today NE",
-   "image": "",
-   "date": "2026-11-22T09:07:59+00:00",
-   "source": "ISRO news"
-  },
-  {
    "title": "Gaganyaan mission delayed again: First uncrewed launch unlikely before February 2027 - India Today",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVGg5UzVWY0Y1TzN2cWtUTlBiYVo4SWtLQXdvWkQ5RzFjX1hQcjZtazBXU0Rra1VPS19Ia1VDcmlNc3l0WEp3MnVqeGdjV2JsZ2JVSHZhbUJtSmNJcGtLMmp3emhrendiR01BU3pXT1JkR3NwRy1qQVZOS18tME5QZUVLQUdTelU3SF9McjU5dElkNjFGV0RrN1hQSjZjYUJHRnBDaERoVUJFOHZMQUtqWXVqYVl2ODNfaDJwWmx4NjBhV1EySklqZEttcnl2Q3VsMmxBLXVR0gHbAUFVX3lxTFA5NVVNWXctVmMwV2cyZE1GVDNudlZLaUU4ZjRIM0t4WG85b3E5U0ZrM2NKM05GWnVaU0ZDdFRXSWE1V2ZWMzN5MFhGOGdaeGV3ZlRNNW5Zb3JTdEx3YS1qWFR4UjBzdy1HNURzWlZRVnJvbVZsV2RDekZtcmE3UXNla3BJaFA4dVo1TTZJWHlxOXVlMTFSUF9tWHAweDM2dGw2Ym9zNjVqLXhrcU4tbEtTMDJHZEVjdVNSQk1hQW4yWk1XVHNiQlF5b3BmS2FSVERvLW8wdVNDYl9XRQ?oc=5",
    "summary": "Gaganyaan mission delayed again: First uncrewed launch unlikely before February 2027 India Today",
@@ -219,44 +203,68 @@
    "source": "ISRO news"
   },
   {
-   "title": "Indian Space Research Organisation (ISRO) | History, Structure, Facilities, & Facts - Britannica",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04Zm1FZHM5WnZJYWJXSnFUeHRuMWRVUjI0eEdHSWluUHVFbFMtRlE1UG53akdMTnFaSU5WS1NyRVpOS3BxRTBjclcySkloRGVEOEM5TkhWSVBOWTNoemZ2T1hRM0RTSHFVRDNoTGVlbkRLbnlZOXc?oc=5",
-   "summary": "Indian Space Research Organisation (ISRO) | History, Structure, Facilities, & Facts Britannica",
+   "title": "“Don’t look for jobs, become job creators”: Former ISRO chairman Dr K Sivan to graduates - Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOFZMOUhGbURXb2hNRmxvcHIzbHZpSkNrMXd2Vmgxc1FJbERFTjMwalc2VVFZT1FCQThVcWhGSnE2SDV4SGtOQW53XzNoRzB4MUtQWjczdV9KMTI0aXNEU2thWjN2cm9IWGZKaXZyazB5cmM4X3hDdzRyaDFQajR4Q1M2LVBLMmNWN3JGX3ZPdjY5VG12WC0yRG9VaWRROC04YzdwU05vdG9uY2xZRFBPM05vbEJHd3VQZzlLeXRrRVlYZ3ZNaUFsRVhrLWc2UUR5MWgxSzFYV1JJNkJZdlHSAeMBQVVfeXFMTThxM3BQZ0hQQ2x1eEVjaEktd0Z5Nm1kTzZuaDYyMWxMa0IxTVlHU3VyR05sdnYtWGdtS2tYU3BiV3FyNEp4TVdpVkJodmQ5QWtfX3FoYmZjQ0l5VnRrWnRNazZnbEpPNnFoaUN4ZmxJMVdEZXBHQWs4MWJCQm9weERqazZYREFLRWtZOVdjRjMxc2RSQlRmNVk3VUo5UDZPNU9xY1lSbjk2NlBPT0VwSVQ3RjVJMWZ2Z1M2R1dlSThiTFZLOGNIUERIb3NjOGp5Yjg1ZDRncnltdGtpMllHbFpsOTg?oc=5",
+   "summary": "“Don’t look for jobs, become job creators”: Former ISRO chairman Dr K Sivan to graduates Moneycontrol.com",
    "image": "",
-   "date": "2026-11-02T08:00:00+00:00",
+   "date": "2026-11-23T06:46:25+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "Meet Pawan Kumar Chandana: The ISRO engineer who quit his job to build a Rs 10,000-crore space startup,... - Moneycontrol.com",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQaWJmOHdKX3A3Q0dNdGg5WDhYTDlOajAzUWFJT1B6S2diU3gyOHpvSWRwZGdZcVI0RDVWdktyWVRfWW5jc0hwVE1ja2F0UGFhOURMdkdoY2tGeXRrc084THRldFJHYWZ0VDRNblRUMVlLa3V2eEVraHhMY2ZDdHZmdFY0Nld2QlVQUHJGd1lCNDJuaTRRWkdwbk53bFM3ZHo0SVp5ZGw0bHVZbXZtM3lzNFdqQUdLYzkxVUxKcmlMWlJQTjkxY1FVSVl0VVIxRjhJcXJ4VDBtcXpsQXJqNGdBZUI2NTRYZ3N6cDlVM0l1S3hjREJxWmV1VU1oNzFfSHVmclM5T0dsd9IBjAJBVV95cUxQZ1ZwN0RVdXdCUTExaDNCdEtLUzBhN1B2cUh5Y3FrR20tTDhaLWtJRVhzVVI0QzdFXzMzQlh3TUZnSVJZa09ZVFFWcm5KMHRPN0JxMjNJbVFWVktEbndNZzg0cV9sZUV3aWpHclFNdmo5SVRyd3FWdHpNOGdDQXdHd2c0TDltVmp4VG9UX3kybzJJeXZEc3l2bTV4WVAzcjBEbFNXQ3l5eGI0c2hpUDRJS24wVzFxTVJ0bnBlTWREX2puVlMwNERuRmRIeVlaVHJXY01WT3RnQkt1ZWNrTlBpYlJHNUF2ak80UDBCWTR4NGdtdm1WcHowTlg5TGp5YUhxTG9hbzJadjNvcnBh?oc=5",
-   "summary": "Meet Pawan Kumar Chandana: The ISRO engineer who quit his job to build a Rs 10,000-crore space startup,... Moneycontrol.com",
+   "title": "‘Silver spoon’ to space pioneer: The industrialist’s son who helped build ISRO and IIM-A - The Financial Express",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTkkyeUxxbkdFZUhfZEdxamc2enBDNWFOdExfaW9xalQ0ajlZaHhBUENsUExwek1VMWhmRmJnNDVTQUxlQ1d6UlpGa2pUVHhwQXBlMzhpTkxlRC1SeGdicjVDZlkxT0ZUOUxTRnVKUWFWQW4zeldHdDdqcVBqWUZTSHZRdExoQ2xNT2dzckJTLWh1SzdSLUo1LVhncDItYnZ5bElVMzJBLUNrUVlobTFwMWJYamVhRmZ1YkNQZmJlb1NnQUlSX181N1RmSDJuVENMSFBB0gHaAUFVX3lxTE1vckFJRWFoZjdHRzZUQkRYdWN0SEhCYlBicGlKemFJNk9MWHdWbVd6OVdYNGZpZVVQV0RPTkpKaVpyZ0FDdzlxTlE3TERBUGQ4M3JhQlloT3djaVhWZVJXSzJnb0dobmE3Njc4LS1JSFpSWlJPOTBTaWFVaEQ4ZW9KWFZvMVJveENrb21YT0N6bFRvelVYS2xmZDZUSlhfTWhQQnZfLWViMTFzYnQzTU53aFpadmFQTF93WkwtVE1XQndUZVZCMlBySFk2OEpybnlpemhHeEwzNnRn?oc=5",
+   "summary": "‘Silver spoon’ to space pioneer: The industrialist’s son who helped build ISRO and IIM-A The Financial Express",
    "image": "",
-   "date": "2026-11-20T02:28:36+00:00",
+   "date": "2026-11-21T03:47:01+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "LVM3-M4 Gallery - ISRO",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TX1FHUGZxWmpIOXFoVFVkVTVSX0hNT2ZGXzRjMTJyWTlvZ2tIaml5MkZRN1BQTVlKaFFBLW8xRk5ULW0xZThhbnhLeFJ0a1NWbmgxWkY0V1gtV1VvMVE?oc=5",
-   "summary": "LVM3-M4 Gallery ISRO",
+   "title": "When will Indians fly to space? ISRO's Gaganyaan mission may face another launch delay - Business Today",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQUJocy10YzdTTkl6OG1PNk12ZjBHOGFHUkdYa1h1eEpPMUZFRi1YbUVTM2w1c2lqcnZ0TzdHRHlDZ1BsRjhBS1d0b0NvWk5xaWdIZ2FqSF8zSVVEVEJ0b1MtSnpLMlFrdWRmMVNuU01XQ1JwUTlwa2pDQzZaY3dDeDA0OVlaUHU2dllrbHRhT3ZMTV9Ucnk0NS1VeTRJWkRJVXFOVHBrTFJaNldRa0Z5VnhjMV9qVndRQzNsREwxa2QyMk8xUk9IbDBfWTloOFhTR1RucXh5WGtFQVhaRGfSAeMBQVVfeXFMT01ZU29La05kZHB6b29XWkR2c2dWRWRMTll5MFdkOGs2TlotdUxRXzFyQWhZa1RrWHdZaTBQaVppbGdDS0d0Y3hVRVRLdE9ZM2l1cGgwcG5NRk9JSVFDWFMtM3FxbWxaOHZQSmJwUEdVcFFuLWcwVjNmV2ZKV05sR0JyQzVWRjUxdldRdDhrMTB6UEFrMlo4SzM1NHh1UWlvQWhBQk9ySHY0eGV4UVFCOXF6am8wMzkxYlpiMW5QVE1WYTA0bHJRbHFwRF9mQTVzS1BuUTRyTnBGbXhYaE0wYkxfSGs?oc=5",
+   "summary": "When will Indians fly to space? ISRO's Gaganyaan mission may face another launch delay Business Today",
    "image": "",
-   "date": "2026-09-28T07:00:00+00:00",
+   "date": "2026-11-23T01:30:15+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "Third cyclone within a month to hit India: Isro satellite captures massive buildup - India Today",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTnp1Z0IwTy1mVUZZT3ZESWFzWGtTaWZfbkU1WU1tNThZUS1mUnlHeTVZcEJ3cW5WbEZfREtNdm1tMTRhaVNoTHF1Q3FZYmN0aDgybDBvX2hQX2dYa05IYXlrVmFyWEZhcFpDM3NLbWI1Ti0tNXlOdjZ4Q19GMUZ4dDBWc3VKOEVfNGZNY0RkU01ZT3VVeUx2c3lZZU5ENTdNMU9sRDJhRGVFaW1SNmI1a3BIT0hSOUI4SzI4LVVpRE5jSzhWQ29wSklsdlFHaWhaYnZhYzVrVdIB3AFBVV95cUxQclNJOXZEd0pKS1FqVEEycG5RdkpuRkRld1JSYTAtdHFEajh0OUNQLTVBdmdMWi1mcDVib0Z3QXhJQnJhM0MzMXRCU0N4ajZTbWZyMWlOQS1vT1h5enhpUjloYlJ0WGdjZTltSGdTWG84SkZKdktlcWROU0w0WUlTaUtsNDNwOFdXNm45RURfc0hsZ09yS1ZfOWs3ZlJPWjhuZDNwQnJPUHg2UnB4dm9BM05iakdsMnpEMmRmZnZZZXhTUWt5OXdaVFozTUtHTWp5M2xiTFprZWQ3NU14?oc=5",
-   "summary": "Third cyclone within a month to hit India: Isro satellite captures massive buildup India Today",
+   "title": "Gaganyaan: ISRO completes key test ahead of first uncrewed mission - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZDR1Si1DOVVaREI2dGRBYWZGaTNYNzg2OFhhTm1EWGFXeGJLSm4xVnlYRWNqRE8tSi1LSnJoMWtkWEpRc3VRaTBHd3JLWHhwcWtGeU00ZHctdnRRT1B2WVh2NlZBUklLMUFURWR2Q0xHNnIyZnlrc1FETGNsVUZiLTlBZ0NUTWN6azAwQ2hyZ21QMDNXUG51aFlpRU45b3I5Um9UXy1uSnlfd3ZDakl0VFZOQmZSTHVmay1wMUpsa3I0TXVVLXfSAcwBQVVfeXFMT3Y5alJ0WFZHUllMQW1MMkhUbHo1a1VMN1EtbFY2ZHZxU0VFYnlzUURaZW5aek9YNlA5MEwtbzZzMkxsV2Z5TlcxWkJzaEdMMnJ4eTNfb3Z5NVhmcENSdmczUE5yYnoxODFYdHJTTEgtbmllR1RvMnlRT2labXZ6X2I0d01QSXAtdl9wWVdfRUZ1X2Y2Z0RxTjdjSk85N2FQVHFxSWxVaGxMM1ZYNnBLR0M0UVJJSFRBYVptWHlBc3hyNVlHWXVRUm5vaUJF?oc=5",
+   "summary": "Gaganyaan: ISRO completes key test ahead of first uncrewed mission The Hindu",
    "image": "",
-   "date": "2026-11-16T12:53:12+00:00",
+   "date": "2026-10-16T07:00:00+00:00",
    "source": "ISRO news"
   },
   {
-   "title": "Farmer Cultivates a Tribute to ISRO with Paddy Saplings - Deccan Chronicle",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeTdUZGZPUUZqa2pJTTBpUzR0MVd3Tl9odmg5d3dXbmNySldZYlpBcUgwWDc3eXhKdWlYTEtvdnUzMzlwZnEwLXpfVE5TcUJMWGdRM2FMRVc4RDIySWJ6TEpNZW83dHIzRDJiWVB1RG5tR2pKSS0wTHpyQ1JnQkRNRVRWdHhnTUwzektrUG5XQ0J2bFZwYXMyYU9EczRtcXV6Uks3Y3ZvMWxMeDNGYnVGdTFrUWF2Vm9iaU8ycGZ5UdIBxAFBVV95cUxQSFozemh5WmVObGs0ZzE4OXVNVHprWHVSSkROWVVaMWFUbUhNWXdJdVAyWEhvWVBOdWlkWms3alZuVmZpLW44MHdkWFBhYjRWYlU2emJ5RlJpWnJDR0dZN2ptczBGNGtrWmFkb0VLZVRHUWVkdzJaSkpnUEc0dGxoUWNqS19OakFZZ0NCanZZb0MteUd5cjRaLV84SzRsWTE4THg2SkxNVXdkU2dmWGVNNVpBb0RVcTMwU3VhcVNVbE1QTkZ6?oc=5",
-   "summary": "Farmer Cultivates a Tribute to ISRO with Paddy Saplings Deccan Chronicle",
+   "title": "TRISHNA satellite is in advanced stage of realisation, says ISRO official - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNE9wbnVVNE5rX3JQMC1LUVhRU0t1U0l6anlIaVBPZHd3NEtGSE5jYW45bUR0azQxSXJKbzBGZkZfQ2dqeFBIZ2FueEhCRXg5cG9za0lGUW9WSmNqbGJkalBHWURIM1RKWVVTZlRybXhNeWJabEdxNEZjYlRXUkpIeWRZN0ZMdXg2VHBSTUpUUW0tSm92LUttcHZQM1RCc0tJQ3A1Y2tPeThDWWVYZGxQbUVQbVJDYlNWbmQzaGwycElUVnFBQWZzTy1NS3lBeTDSAdYBQVVfeXFMTk5kR2Y0aC1ZbzE2U2JQcjRrQ3lhRDNLRnVUS19YTW96UmhSRWpzWVRBVnVURFpWby1rZTNLbHpqNXZOdGs2S2RNWDdlSGZsUjFyVU5NaGRPWENzb1cwdUEwTi12S0FxVE9xcnM4NVR5MnY3WG84SElKcHJDaXo4RWJhTmQ2T1RSa0toVGk1VTRaVjZNY1JYbzJGdTlZdE9yYS1nRjlFdGZxaW5zekJRZ2lZUm5FNTlHWHRDUlpfOGZEMVZzZU95cGUxQkhxTkhuU3BaNzhuZw?oc=5",
+   "summary": "TRISHNA satellite is in advanced stage of realisation, says ISRO official The Hindu",
    "image": "",
-   "date": "2026-11-17T20:35:16+00:00",
+   "date": "2026-10-11T07:00:00+00:00",
    "source": "ISRO news"
+  },
+  {
+   "title": "ISRO NVS-03 launch: 5 things to know about India’s new navigation satellite - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNR2paT0FIRjlFai1pUHJ4VG81bDNlTUFFVTdzRXVVa09vcl9UR0UtY3A0amRldGJ6UC1GRGlQd09MdmxiOGVnNmZGREhKc3RnYlpIS0xtZ2xfZXVNV2dOanFFMVR3YWJ0QzUzbHd2bXFpZkotdDhSNUtrWW1QTEtPdDhNaE0tblpXdlVnSlhhR19PTVpXZXN5RncwY3ItTmZQaG1aRTRWOXg1ZWFNNnlZbjdIMURtempiVVYyeXcxalBWMVVScFphZDlTRGRGNzNrb3ZHTjNfRU1iTzk5aEpOYWlueUU4Z3pFSlA00gHyAUFVX3lxTE95bjdvVEtXWm9CMlZTazladDJUaG1oa2JOZHBZMU9oMVZQR3pFOEtkVnh4VUpVdVpNOWRCc3N6YmdKOTRwT1VqM2ZPVlNHcDdHSkhqRkNlUndaUk1TR1NzOWlrVl9UYUEzeXVpYnlobFV5WHVaS3EzUldTV29ybGdjM3luUHRpUktiUFoyS2VOcFEtVmQxb25DRjBfQlFrY1otZXVqZkk5Sndad1ZUTFFfWjF3YVN1NFkwT2FabVhRNF9PS01GVkxVbjlELXJ5RUJiSEZJeUxBRUNvRUZfdTZYZWp5NUxnZ0dYUUNwNFA4WTdB?oc=5",
+   "summary": "ISRO NVS-03 launch: 5 things to know about India’s new navigation satellite The Hindu",
+   "image": "",
+   "date": "2026-10-31T07:00:00+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "Strengthening India’s Space Sovereignty - www.pib.gov.in",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HekFocy1TVjNIaHhMUFR6bWc5ZE9rc2huWmxLSFhTVkVWa0x1WnBmRFdkZWlWb1JlV0lDNEdkQ0NHQ0NCblNxN2hPaWt6R09oU0VpazVabVpsdzEyOEJ1ajRYNmsyYTRxOXRtOE1uUTU5Z3VYRjJ4Rg?oc=5",
+   "summary": "Strengthening India’s Space Sovereignty www.pib.gov.in",
+   "image": "",
+   "date": "2026-11-23T06:00:11+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "Japan-Europe spacecraft BepiColombo begins orbit of Mercury, with a glitch reported",
+   "link": "https://www.thehindu.com/sci-tech/science/japan-europe-spacecraft-bepicolombo-begins-orbit-of-mercury-with-a-glitch-reported/article71733234.ece",
+   "summary": "The mission will seek to answer questions about Mercury such as why it has a magnetic field, why ice exists in the polar craters of a sun-scorched planet, and what is the nature of enigmatic depressions called \"hollows\" ",
+   "image": "https://th-i.thgim.com/public/incoming/xgolxv/article71733250.ece/alternates/LANDSCAPE_1200/Mercury_Mission_87335.jpg",
+   "date": "2026-11-23T05:24:30+00:00",
+   "source": "The Hindu (Science)"
   },
   {
    "title": "How did ISRO pick astronaut candidates for the Gaganyaan mission?",
@@ -315,14 +323,6 @@
    "source": "The Hindu (Science)"
   },
   {
-   "title": "NASA's Voyager 1 closes in on a light-day in interstellar space for new distance record",
-   "link": "https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
-   "summary": "NASA is looking at another 18,000 years before the spacecraft achieves a full light-year and more than double that before it comes near another star",
-   "image": "https://th-i.thgim.com/public/incoming/smiz1u/article71704050.ece/alternates/LANDSCAPE_1200/Voyager_56736.jpg",
-   "date": "2026-11-15T05:59:47+00:00",
-   "source": "The Hindu (Science)"
-  },
-  {
    "title": "Bank of Baroda launches ₹5-crore financing scheme for EV infrastructure",
    "link": "https://www.thehindu.com/business/Industry/bank-of-baroda-launches-5-crore-financing-scheme-for-ev-infrastructure/article71720596.ece",
    "summary": "The scheme offers loans ranging from above ₹10 lakh to ₹5 crore, targeting the growing EV infrastructure ecosystem and promoting clean mobility.",
@@ -335,7 +335,7 @@
    "link": "https://timesofindia.indiatimes.com/science/8-years-10-billion-km-japan-europe-spacecraft-enters-mercurys-orbit/articleshow/136069437.cms",
    "summary": "The BepiColombo mission, a collaboration between Japan and Europe, has reached Mercury's orbit after an impressive journey exceeding 10 billion kilometers since its 2018 launch. This groundbreaking mission is set to unve",
    "image": "https://static.toiimg.com/photo/msid-136069480,imgsize-59634.cms",
-   "date": "2026-11-23T00:51:53.048002+00:00",
+   "date": "2026-11-23T09:03:02.970516+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -343,7 +343,7 @@
    "link": "https://timesofindia.indiatimes.com/science/space/more-than-8000-people-applied-to-be-nasa-astronauts-last-time-and-just-10-were-picked-applications-for-the-next-class-are-open-until-3-december-and-most-applicants-need-a-stem-masters-and-three-years-experience/articleshow/136044615.cms",
    "summary": "NASA is currently accepting applications until December 3, 2026, for aspiring astronauts who dream of exploring outer space. To qualify, applicants must be U.S. citizens possessing a master's degree and relevant experien",
    "image": "https://static.toiimg.com/photo/msid-136044615,imgsize-179472.cms",
-   "date": "2026-11-23T00:51:53.048161+00:00",
+   "date": "2026-11-23T09:03:02.970662+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -351,7 +351,7 @@
    "link": "https://timesofindia.indiatimes.com/science/space/nasa-is-offering-1-million-to-anyone-who-can-solve-one-big-problem-standing-in-the-way-of-building-a-human-settlement-on-the-moon/articleshow/136045649.cms",
    "summary": "NASA has launched the Moon Base Challenge, encouraging students to develop solutions for lunar habitation. The initiative offers $1 million in prizes to student teams from high schools and universities. Teams will focus ",
    "image": "https://static.toiimg.com/photo/msid-136045649,imgsize-116112.cms",
-   "date": "2026-11-23T00:51:53.048383+00:00",
+   "date": "2026-11-23T09:03:02.970842+00:00",
    "source": "Times of India (Science)"
   },
   {
