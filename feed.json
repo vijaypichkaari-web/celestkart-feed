@@ -1,9 +1,31 @@
 {
- "updated": "2026-11-24T06:01:27.857825+00:00",
- "errors": [
-  "ISRO news: HTTP Error 429: Too Many Requests"
- ],
+ "updated": "2026-11-24T17:42:23.664142+00:00",
+ "errors": [],
  "items": [
+  {
+   "title": "Webb Reveals New Details in Supernova Remnant",
+   "link": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
+   "summary": "NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. 23, 2026. Remnants like these are the clouds of gas and dust that rem",
+   "image": "",
+   "date": "2026-11-24T16:51:27+00:00",
+   "source": "NASA"
+  },
+  {
+   "title": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
+   "link": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/",
+   "summary": "Science instruments for NASA’s Dragonfly are starting to arrive at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, where the car-sized rotorcraft is coming together for its mission to explore Satu",
+   "image": "",
+   "date": "2026-11-24T15:44:38+00:00",
+   "source": "NASA"
+  },
+  {
+   "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
+   "link": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/",
+   "summary": "The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image",
+   "image": "",
+   "date": "2026-11-24T13:58:28+00:00",
+   "source": "NASA"
+  },
   {
    "title": "APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group",
    "link": "https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group/",
@@ -45,30 +67,6 @@
    "source": "NASA"
   },
   {
-   "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
-   "link": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/",
-   "summary": "NASA invites the world behind the scenes to witness the story of Europa Clipper’s journey from a far-off vision to a cutting-edge deep space exploration mission with the release of the agency’s newest documentary, “The E",
-   "image": "https://www.youtube.com/embed/224QFgY9PTM",
-   "date": "2026-11-23T16:08:23+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
-   "link": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/",
-   "summary": "NASA’s James Webb Space Telescope has painted a vibrant tapestry of the legendary supernova remnant Cassiopeia A (Cas A). Remnants like these are the clouds of gas and dust that remain following the explosion of a massiv",
-   "image": "",
-   "date": "2026-11-23T15:00:00+00:00",
-   "source": "NASA"
-  },
-  {
-   "title": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251",
-   "link": "https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/",
-   "summary": "APOD Science APOD APOD: 2026 November 23 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or phot",
-   "image": "",
-   "date": "2026-11-23T05:05:00+00:00",
-   "source": "NASA"
-  },
-  {
    "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
    "link": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
    "summary": "The mission is the third in a series of flights for the U.S. Space Force with a ‘TH’ designation in public filings. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a window that opens at 7:55 a.m. ",
@@ -77,9 +75,9 @@
    "source": "Spaceflight Now"
   },
   {
-   "title": "Live coverage: Arianespace to launch Amazon Leo sats amid rocket crunch",
+   "title": "Arianespace launches 36 Amazon Leo sats amid rocket crunch",
    "link": "https://spaceflightnow.com/2026/11/23/live-coverage-arianespaces-launches-amazon-leo-sats-amid-rocket-crunch/",
-   "summary": "The Leo Europe 4 mission will the fourth flight of Amazon Leo satellites on an Ariane 6 rocket and the 16th launch for the constellation. Liftoff from Europe’s Spaceport in French Guiana is scheduled during a window that",
+   "summary": "The Leo Europe 4 mission is the fourth flight of Amazon Leo satellites on an Ariane 6 rocket and the 16th launch for the constellation. Liftoff from Europe’s Spaceport in French Guiana happened at 8:14 a.m. Kourou Time (",
    "image": "",
    "date": "2026-11-23T22:14:49+00:00",
    "source": "Spaceflight Now"
@@ -133,6 +131,62 @@
    "source": "Spaceflight Now"
   },
   {
+   "title": "YunLone Galaxy star projector review — a sub-$30 customizable night light",
+   "link": "https://www.space.com/technology/yunlone-galaxy-star-projector-review",
+   "summary": "The YunLone Galaxy Projector is inexpensive but competent and offers a surprising amount of customization.",
+   "image": "https://cdn.mos.cms.futurecdn.net/tAoiTfHAthygj2RWYL6cCW-1920-80.jpg",
+   "date": "2026-11-24T15:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "Double asteroid solar eclipse caught on camera | Space photo of the day for Nov. 24, 2026",
+   "link": "https://www.space.com/astronomy/asteroids/double-asteroid-solar-eclipse-caught-on-camera-space-photo-of-the-day-for-nov-24-2026",
+   "summary": "A spacecraft far from Earth beamed home a rare sight: a solar eclipse caused by one asteroid casting its shadow on another.",
+   "image": "https://cdn.mos.cms.futurecdn.net/cBVLFAtMnFCg4GwjgPSKaZ-1920-80.jpg",
+   "date": "2026-11-24T15:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "China launching 1st international astronaut to Tiangong space station today: Watch it live",
+   "link": "https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-24-first-international-astronaut-launch-tiangong-space-station",
+   "summary": "China will launch an international astronaut to its Tiangong space station today (Nov. 24) for the first time ever, and you can watch the landmark liftoff live.",
+   "image": "https://cdn.mos.cms.futurecdn.net/x2E4iRkmARYuAXnEPdeciJ-1920-80.jpg",
+   "date": "2026-11-24T13:59:17+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "Russia launches Progress 97 cargo ship to the International Space Station (video)",
+   "link": "https://www.space.com/space-exploration/international-space-station/russia-progress-97-cargo-launch-international-space-station",
+   "summary": "Russia launched the robotic Progress 97 freighter toward the International Space Station from Kazakhstan today (Nov. 24), on a mission that will feature some unusual port-hopping activity.",
+   "image": "https://cdn.mos.cms.futurecdn.net/J8N9uAjWbtGyakpDPace7i-1920-80.png",
+   "date": "2026-11-24T13:16:26+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "Watch November's full Beaver Moon live online today with supermoon livestream",
+   "link": "https://www.space.com/stargazing/watch-novembers-full-beaver-moon-live-online-with-supermoon-livestream-nov-24-2026",
+   "summary": "Watch live online on Nov. 24 as the first of four consecutive supermoons rises to flood the night sky with moonlight.",
+   "image": "https://cdn.mos.cms.futurecdn.net/LKBaootrYrCpHSDKQNvCkn-1920-80.jpg",
+   "date": "2026-11-24T13:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "November's full moon rises tonight! Here's how to see the Beaver Moon supermoon",
+   "link": "https://www.space.com/stargazing/novembers-full-moon-rises-tonight-heres-how-to-see-the-beaver-moon-supermoon-nov-24-2026",
+   "summary": "A dam good moon.",
+   "image": "https://cdn.mos.cms.futurecdn.net/jgJKJWFHa77wiUHCi2WhQA-1920-80.jpg",
+   "date": "2026-11-24T11:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
+   "title": "The ten best time travel movies to buy and own on Blu-ray and 4K UHD Blu-ray this Black Friday",
+   "link": "https://www.space.com/entertainment/space-movies-shows/the-ten-best-time-travel-movies-to-buy-and-own-on-blu-ray-and-4k-uhd-blu-ray-this-black-friday",
+   "summary": "From timey-wimey action movies to thought-provoking temporal thrillers, get physical with the best time travel movies to own on Blu-ray — now cheaper for Black Friday",
+   "image": "https://cdn.mos.cms.futurecdn.net/J4MMqRvzNaVLyJBMMJQWKi-1920-80.jpg",
+   "date": "2026-11-24T10:00:00+00:00",
+   "source": "Space.com"
+  },
+  {
    "title": "Will astronauts farm on the moon? Scientists successfully grow potatoes in simulated lunar dust",
    "link": "https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust",
    "summary": "Researchers have successfully grown potatoes in simulated lunar regolith, possibly opening the door for farming on future moon bases.",
@@ -141,67 +195,83 @@
    "source": "Space.com"
   },
   {
-   "title": "Join our free Space.com membership giveaway for a chance to win this Dwarflab mini smart telescope worth $419!",
-   "link": "https://www.space.com/stargazing/skywatching-kit/join-our-free-space-com-membership-giveaway-for-a-chance-to-win-this-dwarflab-mini-smart-telescope-worth-usd419",
-   "summary": "Our Space.com Community team just launched a new giveaway exclusively for our Space+ members. Join free now for a chance to win a Dwarflab Mini smart telescope.",
-   "image": "https://cdn.mos.cms.futurecdn.net/jYg73A8cgtnFKDQM8fX2D9-1920-80.jpg",
-   "date": "2026-11-23T21:21:13+00:00",
-   "source": "Space.com"
+   "title": "First industry-built PSLV ready for launch in early 2027, says Dr V Narayanan - BusinessLine",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZXVpS2lZWjJUbllSTGJMaDNkRDNybWtLMlBTeGFLREd0bDRUcS15Tk8waU1CQ0JPTmVyRUhIZzBITGhtWkFKYTNjbVF3c3JwbHBiQ2JYVEhXUmV4NE0zRGVnUHM0UHJyUjJoYUNRN29POThEck1sbEY0TkVrSF9aZDZFRzdxOF9vNkwzckVWVndQdnZvWGZYbWJBTXJKWW5iY0tDUWFHbUE4MDUweUFiaWczTDBwMDB4TVFuUVpScHlRcVRtc3VGbjRsZFVZVUxHSFpobXA1MEdjZWZoT0xJ0gHmAUFVX3lxTFBjQjZJdHpGemdLSjM1OTl5Vzg3a25iLVV2YlpZT2pmc1lWWUR4M2tzaTFLNlcwb09ST2RMY1NDZko5emtsVlpQSE84RHI0MGk4cWY1UklPUkV5dW1lcGZfNkM4QWdfODJrWEZhNUNNcG9kSkdXbWFGeFBXcE1WdzBmckIyMy14a054ajJXcURVczI4eFhheUY4N09zdl9Id0N2UFRsaXF1OHlHdXFwY1p1Y0hLaVVhb09JZFFja3dHSmhTMEFTU2hHTEkwelJ4WXFPZXROUmtfN3ptdzZSdG9zcFpTVFpR?oc=5",
+   "summary": "First industry-built PSLV ready for launch in early 2027, says Dr V Narayanan BusinessLine 'India now a technology provider': ISRO Chief on Gaganyaan, PSLV 2027 launch and space ambitions The Economic Times Gaganyaan mis",
+   "image": "",
+   "date": "2026-11-24T08:02:49+00:00",
+   "source": "ISRO news"
   },
   {
-   "title": "How sci‑fi imagines sports in microgravity, and how zero‑g sports might actually work",
-   "link": "https://www.space.com/entertainment/how-sci-fi-imagines-sports-in-microgravity-and-how-zero-g-sports-might-actually-work",
-   "summary": "How realistic are the zero-g sports we see in sci-fi? We talk to Les Johnson, former Chief Technologist for NASA, to find out.",
-   "image": "https://cdn.mos.cms.futurecdn.net/rPCneZyVP62s3BHPmT6HAT-1920-80.jpg",
-   "date": "2026-11-23T19:00:00+00:00",
-   "source": "Space.com"
+   "title": "Former ISRO Chairman Dr K. Sivan Urges Marwadi… - www.uniindia.com",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMVk5NEw2aEppRHZmVGN6X2JsaENhT0V5SHJHaFloUWNkRV9WM1o2SzNobllMM1NKcGxJa2RFaUQySEpDRjNGazVlYTAtRXFybHoyZXhhS0tmTEFyMGhCeHBXeEtrSWZoaTM3ZkdYUTlxM1NHZ09oREdZSDVNejhGcElvNWZxVi1JTHF4S1d4bU1Ba3RPWHljYnE5Nk4yV3RlYjg3QTRuTVFMM0hmWEZidmR6cVRocU1qUHFLTUFpLWQwM0hybFI0cFI3RGhJd1FJTDdMcC1UdFBDeWhjbWFqRF9INA?oc=5",
+   "summary": "Former ISRO Chairman Dr K. Sivan Urges Marwadi… www.uniindia.com",
+   "image": "",
+   "date": "2026-11-22T23:36:00+00:00",
+   "source": "ISRO news"
   },
   {
-   "title": "On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space with its suborbital New Shepard rocket",
-   "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-23-2026",
-   "summary": "On Nov. 23, 2015, a Blue Origin rocket made a historic landing after launching into suborbital space. Here's why it mattered.",
-   "image": "https://cdn.mos.cms.futurecdn.net/rYz3SSLeu9tzXrHMf852WZ-1920-80.jpg",
-   "date": "2026-11-23T18:10:48+00:00",
-   "source": "Space.com"
+   "title": "GSLV-F18/NVS-03 Mission - पीआईबी",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZmp5VlhGQW8zeE8wNktJMFBCb3NNMVkwU3NZME5WQ24yQ0FpdHlTaUhINDFCT3VhMEhfaDJuWkZnbndEYVl2VjlfUWhucXl5V3VhMWpxMU1ZYmFld2laMTNYcG52Rjc4R1JHc0RxbG9BNlhSUlRlZUdveU9iZVF0SU5tX2lneHc?oc=5",
+   "summary": "GSLV-F18/NVS-03 Mission पीआईबी",
+   "image": "",
+   "date": "2026-11-24T12:25:12+00:00",
+   "source": "ISRO news"
   },
   {
-   "title": "Weird 'potato chips' and 'ghostly rocks' on Mars spotted by NASA rovers Curiosity and Perseverance",
-   "link": "https://www.space.com/astronomy/mars/weird-potato-chips-and-ghostly-rocks-on-mars-spotted-by-nasa-rovers-curiosity-and-perseverance",
-   "summary": "These strange geological features may offer clues to the Red Planet's watery past.",
-   "image": "https://cdn.mos.cms.futurecdn.net/nBtPjRHoWn5N4Fp5adHysh-1920-80.png",
-   "date": "2026-11-23T17:00:00+00:00",
-   "source": "Space.com"
+   "title": "ISRO aims to end the year with first operational launch of SSLV - The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLTN5VTNFRkJDSVVIeUpkTXI5WUNDNkV4eEVzQXFGZFBWODk0dHU4dUw5bUx5YXdJZWk2TWNpNkdvX3RwX3hYUUZ1V2tJbU1Qb0d0RVZkSVZsODFEWDF3VDlXYVdBU3duSW80VTh5WlBuelBodWphakZkRmFnWVItd2VWeXZZc0RVRzNZZWNBRWhtS3lvRUtnUnRISE0zQlRpcTg1cG1TeXNpbmw5TXVUWDI0VUlKdmVibXd30gHCAUFVX3lxTE1YZVBoVFE0R1lIZi0zUXdMRkJvWXp5WWVzUE1xeTJHaDVwTEx3MDlQZ2hlRk93Y0xVUnRkV1hSSU5wSFN1eWdNNmpLRzdwUTQ3dkNMX1NrTFY3ak5pWHZadEhfekg2MWdab19pRm9mTXROWGJRMkFZOS1QUDk1QnFtaFR5d2VlZlVCZHVodkpzZUU1X29uTnhhVHFYdlktN3JFRHN3SFNNT2ptVWZFMXlHYXg3NmFmOVdYWUpkeEdrajJR?oc=5",
+   "summary": "ISRO aims to end the year with first operational launch of SSLV The Indian Express",
+   "image": "",
+   "date": "2026-11-24T17:16:00+00:00",
+   "source": "ISRO news"
   },
   {
-   "title": "'Avengers: Doomsday' gets final trailer, explaining why Steve Rogers is back and showing an epic battle with the X-Men",
-   "link": "https://www.space.com/entertainment/space-movies-shows/avengers-doomsday-gets-final-trailer-explaining-why-steve-rogers-is-back-and-showing-an-epic-battle-with-the-x-men",
-   "summary": "Marvel Studios’ first Avengers film since 2019 is less than a month away, and it might be the big-screen team-up event we thought impossible only ten years ago.",
-   "image": "https://cdn.mos.cms.futurecdn.net/ofmf2gCxkXRprsAfLHYqJb-1920-80.jpg",
-   "date": "2026-11-23T15:10:59+00:00",
-   "source": "Space.com"
+   "title": "Gaganyaan mission: ISRO chief says launch preparations are in final phase amid delay reports - Open Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN2VjQ1N5V0ZJbUhNM2dVTTBmcHVVSnpBR0NqaUwycFpWMzQ5X0thWFNNc1FyR3pBU1JDMzhBTi1zeEc3VGxtZTU3X2pfZ2NXTldOMGRobTF4YmpTcTd0eWw4UVMtUWZ1ZTFhdEVLalVhaDZQeHVJU25sakQ0R3RiNGpkQTJkT2tVX01HWWNFZldhSk41bDhGU0xzaEhkcnBaY1NSV3RlZU1pUUhWUjZTeUluX25uSUtJbzdjeXhvMUxLYzg?oc=5",
+   "summary": "Gaganyaan mission: ISRO chief says launch preparations are in final phase amid delay reports Open Magazine",
+   "image": "",
+   "date": "2026-11-24T10:34:29+00:00",
+   "source": "ISRO news"
   },
   {
-   "title": "The remains of a long-dead volcano on Mars | Space photo of the day for Nov. 23, 2026",
-   "link": "https://www.space.com/astronomy/mars/the-remains-of-a-long-dead-volcano-on-mars-space-photo-of-the-day-for-nov-23-2026",
-   "summary": "Just imagine the ancient, Martian lava flowing.",
-   "image": "https://cdn.mos.cms.futurecdn.net/5d3LYVkAKDiKmfAThuXhF4-1920-80.png",
-   "date": "2026-11-23T15:00:00+00:00",
-   "source": "Space.com"
+   "title": "Ground test of third stage of PSLV (PS3) conducted successfully - ISRO",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jM0FPazVCR09FcTd0VmdvQmhReXVfaDVpa1ZDemlQbHJqTVhNUVBfU2V5TTFHS3pGTkFicXhIck1UUUl2R0FXNVFvdHVSeGlKemh1eUFEMV9hX1pNTEo0S3dlTTVQdUxsZ096MS1tRURSeGZzNVE?oc=5",
+   "summary": "Ground test of third stage of PSLV (PS3) conducted successfully ISRO",
+   "image": "",
+   "date": "2026-11-12T08:00:00+00:00",
+   "source": "ISRO news"
   },
   {
-   "title": "What did the Soviet Union's final deep space probe actually see on Mars?",
-   "link": "https://www.space.com/astronomy/mars/what-did-the-soviet-unions-final-deep-space-probe-actually-see-on-mars",
-   "summary": "Conspiracy theories surround the odd-looking appearance of a shadow seen in the final images captured by Phobos 2, the Soviet Union’s last mission into deep space.",
-   "image": "https://cdn.mos.cms.futurecdn.net/5f234bkPYjkQXoTHrrXGnR-1920-80.jpg",
-   "date": "2026-11-23T13:00:00+00:00",
-   "source": "Space.com"
+   "title": "RESEARCH SPOTLIGHT: ISRO researcher Devadas Menon named sole Indian in Stanford-Elsevier World’s Top 2% Scientists list for communication studies - Education Times",
+   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOa3FXYkdJYWo0YklLTkNDbXlrcXpaV3d2UVNrTG0xbGRldFNpa0RxUVlZdFVUOVlYM0ZTeWZnb0tqVHMzRnBTY0NvYkYyYlM4VERWRmhoODh4eThQdW41cnNkcVJ0MVcwa1lJRkVJbV9ZenNjdllfLXYzRjdwam05N29aUkdSazF2LW1Ray03LXNHSXR1eVB3RWhSM3VVRlZWMXdTa2hOSEYwRHI4UDQwa1UtQVVlUTlrbzRVazhDblhEZmxhbFpHY0xOaVFUb3B0bnVvTjY3cFIzTnByZTJWQ0lDWFpraGRWZmcyRExqdVVqVXZMWld1Vk9ydm5wS2NKWFhtcXRWRXk4TVVtZ1RkeWNYNG5QZnBkNW9CeVA2NDJVYTA2WlQ4RFJXSUM?oc=5",
+   "summary": "RESEARCH SPOTLIGHT: ISRO researcher Devadas Menon named sole Indian in Stanford-Elsevier World’s Top 2% Scientists list for communication studies Education Times",
+   "image": "",
+   "date": "2026-11-24T11:28:00+00:00",
+   "source": "ISRO news"
   },
   {
-   "title": "China's Shenzhou-24 spaceship to include first foreign astronaut from Pakistan",
-   "link": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-spaceship-to-include-first-foreign-astronaut-from-pakistan/article71737165.ece",
-   "summary": "Pakistani payload specialist Zeeshan Ali's participation is ‌part of bilateral cooperation under Beijing’s ‌Belt ⁠and Road Initiative",
-   "image": "https://th-i.thgim.com/public/incoming/2ixinz/article71737177.ece/alternates/LANDSCAPE_1200/2026-11-24T040214Z_1286380670_RC23UOAB1PY8_RTRMADP_3_SPACE-EXPLORATION-CHINA-SHENZHOU.JPG",
-   "date": "2026-11-24T04:22:29+00:00",
+   "title": "Watch: ISRO’s Gaganyaan astronauts train in reduced gravity on Russian aircraft - Starlust.org",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN3dDdVdSaHZxazhMblgyX0JXQnl4TUs3T01NWk40MWY5RHBXcENXYnRZd1RGM3BiUXNDV01FNWNhSmNTQWkxYVNGOHVMYTd2MGc0X3hXMnF6UHh5MWNuZ2hsN2Z3bUNfQjJtMkc5bGVHYWZKTnpEX0Y0RE01eWlYM294Wi1HdG16MGhDWVFPS0hMbWNuX1d4NQ?oc=5",
+   "summary": "Watch: ISRO’s Gaganyaan astronauts train in reduced gravity on Russian aircraft Starlust.org",
+   "image": "",
+   "date": "2026-11-24T11:23:12+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "Indian space companies sign largest-of-its-kind deal on satellite systems",
+   "link": "https://www.thehindu.com/business/Industry/indian-space-companies-sign-largest-of-its-kind-deal-on-satellite-systems/article71739125.ece",
+   "summary": "Bellatrix Aerospace to supply in-space propulsion systems for GalaxEye’s 30 satellites",
+   "image": "https://th-i.thgim.com/public/incoming/8nr7fa/article71739574.ece/alternates/LANDSCAPE_1200/20261124333L.jpg",
+   "date": "2026-11-24T15:57:58+00:00",
+   "source": "The Hindu (Science)"
+  },
+  {
+   "title": "NASA’s Voyager 1 reaches one light-day from Earth on November 18: What does it mean?",
+   "link": "https://www.thehindu.com/sci-tech/science/voyager-1-reaches-one-light-day-from-earth-on-november-18-what-it-means-nasa-latest-news/article71704297.ece",
+   "summary": "NASA’s Voyager 1, humanity’s farthest spacecraft, is about to reach one light-day from Earth, more than 16 billion miles away; Know what it means",
+   "image": "https://th-i.thgim.com/public/incoming/smiz1u/article71704050.ece/alternates/LANDSCAPE_1200/Voyager_56736.jpg",
+   "date": "2026-11-24T08:46:48+00:00",
    "source": "The Hindu (Science)"
   },
   {
@@ -209,7 +279,15 @@
    "link": "https://www.thehindu.com/sci-tech/science/japan-europe-spacecraft-bepicolombo-begins-orbit-of-mercury-with-a-glitch-reported/article71733234.ece",
    "summary": "The mission will seek to answer questions about Mercury such as why it has a magnetic field, why ice exists in the polar craters of a sun-scorched planet, and what is the nature of enigmatic depressions called \"hollows\" ",
    "image": "https://th-i.thgim.com/public/incoming/xgolxv/article71733250.ece/alternates/LANDSCAPE_1200/Mercury_Mission_87335.jpg",
-   "date": "2026-11-23T05:24:30+00:00",
+   "date": "2026-11-24T04:52:01+00:00",
+   "source": "The Hindu (Science)"
+  },
+  {
+   "title": "China's Shenzhou-24 spaceship to include first foreign astronaut from Pakistan",
+   "link": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-spaceship-to-include-first-foreign-astronaut-from-pakistan/article71737165.ece",
+   "summary": "Pakistani payload specialist Zeeshan Ali's participation is ‌part of bilateral cooperation under Beijing’s ‌Belt ⁠and Road Initiative",
+   "image": "https://th-i.thgim.com/public/incoming/2ixinz/article71737177.ece/alternates/LANDSCAPE_1200/2026-11-24T040214Z_1286380670_RC23UOAB1PY8_RTRMADP_3_SPACE-EXPLORATION-CHINA-SHENZHOU.JPG",
+   "date": "2026-11-24T04:22:29+00:00",
    "source": "The Hindu (Science)"
   },
   {
@@ -229,14 +307,6 @@
    "source": "The Hindu (Science)"
   },
   {
-   "title": "NASA’s Voyager 1 reaches one light-day from Earth on November 18: What does it mean?",
-   "link": "https://www.thehindu.com/sci-tech/science/voyager-1-reaches-one-light-day-from-earth-on-november-18-what-it-means-nasa-latest-news/article71704297.ece",
-   "summary": "NASA’s Voyager 1, humanity’s farthest spacecraft, is about to reach one light-day from Earth, more than 16 billion miles away; Know what it means",
-   "image": "https://th-i.thgim.com/public/incoming/smiz1u/article71704050.ece/alternates/LANDSCAPE_1200/Voyager_56736.jpg",
-   "date": "2026-11-18T05:00:29+00:00",
-   "source": "The Hindu (Science)"
-  },
-  {
    "title": "India needs a comprehensive doctrine on space security",
    "link": "https://www.thehindu.com/opinion/op-ed/india-needs-a-comprehensive-doctrine-on-space-security/article71713238.ece",
    "summary": "India’s objective should not be to turn outer space into another arena of conflict, but to ensure that disruption in space does not translate into vulnerability on Earth",
@@ -253,12 +323,20 @@
    "source": "The Hindu (Science)"
   },
   {
-   "title": "Orbital computing could let scientists rent ‘brainpower’ in space",
-   "link": "https://www.thehindu.com/sci-tech/science/orbital-computing-could-let-scientists-rent-brainpower-in-space/article71707329.ece",
-   "summary": "To bridge the gap between data being recorded by satellites and data being available to users on the ground, operators are pursuing a solution called in-orbit computing: the basic idea is to analyse some data onboard the",
-   "image": "https://th-i.thgim.com/public/news/national/f1eooi/article70782821.ece/alternates/LANDSCAPE_1200/iStock-1194330555.jpg",
-   "date": "2026-11-16T13:01:30+00:00",
-   "source": "The Hindu (Science)"
+   "title": "Indian space companies sign largest-of-its-kind deal on satellite systems",
+   "link": "https://www.thehindu.com/business/Industry/indian-space-companies-sign-largest-of-its-kind-deal-on-satellite-systems/article71739125.ece",
+   "summary": "Bellatrix Aerospace to supply in-space propulsion systems for GalaxEye’s 30 satellites",
+   "image": "https://th-i.thgim.com/public/incoming/8nr7fa/article71739574.ece/alternates/LANDSCAPE_1200/20261124333L.jpg",
+   "date": "2026-11-24T15:57:58+00:00",
+   "source": "The Hindu (Industry)"
+  },
+  {
+   "title": "GSK India launches multiple myeloma drug",
+   "link": "https://www.thehindu.com/business/Industry/gsk-india-launches-multiple-myeloma-drug/article71739368.ece",
+   "summary": "The launch marks introduction of GSK’s third precision oncology therapy in India.",
+   "image": "https://th-i.thgim.com/public/business/mbjko3/article71739459.ece/alternates/LANDSCAPE_1200/GSK.jpg",
+   "date": "2026-11-24T15:32:45+00:00",
+   "source": "The Hindu (Industry)"
   },
   {
    "title": "Bank of Baroda launches ₹5-crore financing scheme for EV infrastructure",
@@ -273,16 +351,16 @@
    "link": "https://timesofindia.indiatimes.com/science/8-years-10-billion-km-japan-europe-spacecraft-enters-mercurys-orbit/articleshow/136069437.cms",
    "summary": "The BepiColombo mission, a collaboration between Japan and Europe, has reached Mercury's orbit after an impressive journey exceeding 10 billion kilometers since its 2018 launch. This groundbreaking mission is set to unve",
    "image": "https://static.toiimg.com/photo/msid-136069480,imgsize-59634.cms",
-   "date": "2026-11-24T06:01:27.819417+00:00",
+   "date": "2026-11-24T17:42:23.575339+00:00",
    "source": "Times of India (Science)"
   },
   {
-   "title": "More than 8,000 people applied to be NASA astronauts last time and just 10 were picked",
-   "link": "https://timesofindia.indiatimes.com/science/space/more-than-8000-people-applied-to-be-nasa-astronauts-last-time-and-just-10-were-picked-applications-for-the-next-class-are-open-until-3-december-and-most-applicants-need-a-stem-masters-and-three-years-experience/articleshow/136044615.cms",
-   "summary": "NASA is currently accepting applications until December 3, 2026, for aspiring astronauts who dream of exploring outer space. To qualify, applicants must be U.S. citizens possessing a master's degree and relevant experien",
-   "image": "https://static.toiimg.com/photo/msid-136044615,imgsize-179472.cms",
-   "date": "2026-11-24T06:01:27.819593+00:00",
-   "source": "Times of India (Science)"
+   "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
+   "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
+   "summary": "Bremen, 18 November 2026 – Simera Sense, Spacemanic, Zaitra and World from Space have signed a Memorandum of Understanding in Bremen to cooperate on a complete mission solution built around […] The post Simera Sense, Spa",
+   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/ISR-MOU.png?fit=1024%2C1024&amp;ssl=1",
+   "date": "2026-11-24T15:17:50+00:00",
+   "source": "SpaceNews"
   },
   {
    "title": "The sweet spot for constellation size",
@@ -338,14 +416,6 @@
    "summary": "Daejeon, Republic of Korea – October 14, 2026: South Korean space electric propulsion startup Cosmo Bee plans to conduct an in-orbit flight test of its 10 mN-class Honeybee Hall thruster […] The post Cosmo Bee to flight-",
    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/cosmo-bee-scaled.jpg?fit=1024%2C1024&amp;ssl=1",
    "date": "2026-11-17T08:00:00+00:00",
-   "source": "SpaceNews"
-  },
-  {
-   "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
-   "link": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
-   "summary": "LOS ALAMOS, N.M., Nov. 16, 2026 — Space Nuclear Power Corp. (SpaceNukes) opened its Manufacture and Materials Development Facility at 150 Central Park Square in Los Alamos on Nov. 13. […] The post SpaceNukes Opens Los Al",
-   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/spacenukes-logo-scaled.png?fit=1024%2C1021&amp;ssl=1",
-   "date": "2026-11-16T20:00:00+00:00",
    "source": "SpaceNews"
   }
  ]
