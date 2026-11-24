@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-23T21:22:21.482360+00:00",
- "errors": [],
+ "updated": "2026-11-24T06:01:27.857825+00:00",
+ "errors": [
+  "ISRO news: HTTP Error 429: Too Many Requests"
+ ],
  "items": [
+  {
+   "title": "APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group",
+   "link": "https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group/",
+   "summary": "APOD Science APOD APOD: 2026 November 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photogra",
+   "image": "",
+   "date": "2026-11-24T05:05:00+00:00",
+   "source": "NASA"
+  },
+  {
+   "title": "Eruption Extends Iwo Jima’s Beach",
+   "link": "https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/",
+   "summary": "A volcanic eruption just off the southeast shore of the Pacific island has reshaped the coast, but it’s unclear how long the new land will survive.",
+   "image": "",
+   "date": "2026-11-24T05:01:00+00:00",
+   "source": "NASA"
+  },
   {
    "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
    "link": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/",
@@ -51,20 +69,28 @@
    "source": "NASA"
   },
   {
-   "title": "Laser Focus at the Top of the World",
-   "link": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
-   "summary": "A next-generation geodetic instrument developed by NASA, part of a network that helps measure satellites’ orbits and the planet’s shape, has debuted in Svalbard, Norway.",
+   "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+   "link": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
+   "summary": "The mission is the third in a series of flights for the U.S. Space Force with a ‘TH’ designation in public filings. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a window that opens at 7:55 a.m. ",
    "image": "",
-   "date": "2026-11-23T05:01:00+00:00",
-   "source": "NASA"
+   "date": "2026-11-23T22:21:32+00:00",
+   "source": "Spaceflight Now"
   },
   {
-   "title": "65 Years of Human Spaceflight at NASA Johnson",
-   "link": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
-   "summary": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the",
-   "image": "https://www.youtube.com/embed/3Aas00le5M4",
-   "date": "2026-11-22T19:13:25+00:00",
-   "source": "NASA"
+   "title": "Live coverage: Arianespace to launch Amazon Leo sats amid rocket crunch",
+   "link": "https://spaceflightnow.com/2026/11/23/live-coverage-arianespaces-launches-amazon-leo-sats-amid-rocket-crunch/",
+   "summary": "The Leo Europe 4 mission will the fourth flight of Amazon Leo satellites on an Ariane 6 rocket and the 16th launch for the constellation. Liftoff from Europe’s Spaceport in French Guiana is scheduled during a window that",
+   "image": "",
+   "date": "2026-11-23T22:14:49+00:00",
+   "source": "Spaceflight Now"
+  },
+  {
+   "title": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles",
+   "link": "https://spaceflightnow.com/2026/11/23/nasa-seeks-to-begin-intergalactic-freight-network-with-1-3-billion-block-purchase-of-rockets-orbital-transfer-vehicles/",
+   "summary": "NASA announced the purchase of multiple modes of transportation to the Moon’s surface and cis-lunar space to help establish an understanding of what’s needed to execute on their Moon Base program agenda.",
+   "image": "",
+   "date": "2026-11-23T21:49:16+00:00",
+   "source": "Spaceflight Now"
   },
   {
    "title": "As it happened: NG-25 preview news teleconference",
@@ -107,28 +133,20 @@
    "source": "Spaceflight Now"
   },
   {
-   "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-   "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
-   "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwi",
-   "image": "",
-   "date": "2026-11-15T19:16:59+00:00",
-   "source": "Spaceflight Now"
+   "title": "Will astronauts farm on the moon? Scientists successfully grow potatoes in simulated lunar dust",
+   "link": "https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust",
+   "summary": "Researchers have successfully grown potatoes in simulated lunar regolith, possibly opening the door for farming on future moon bases.",
+   "image": "https://cdn.mos.cms.futurecdn.net/mY8GhuKsScyFcqbCsNfRdK-1920-80.jpg",
+   "date": "2026-11-23T22:00:00+00:00",
+   "source": "Space.com"
   },
   {
-   "title": "Starship returns to Starbase and a successful tower catch",
-   "link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
-   "summary": "The catch occurred at 3:20 p.m. CST (2120 UTC) after Ship 42 reentered the atmosphere over the Pacific Ocean and made a supersonic flight across Mexico and the South West United States.",
-   "image": "",
-   "date": "2026-11-13T19:15:11+00:00",
-   "source": "Spaceflight Now"
-  },
-  {
-   "title": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon",
-   "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
-   "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
-   "image": "",
-   "date": "2026-11-13T12:25:06+00:00",
-   "source": "Spaceflight Now"
+   "title": "Join our free Space.com membership giveaway for a chance to win this Dwarflab mini smart telescope worth $419!",
+   "link": "https://www.space.com/stargazing/skywatching-kit/join-our-free-space-com-membership-giveaway-for-a-chance-to-win-this-dwarflab-mini-smart-telescope-worth-usd419",
+   "summary": "Our Space.com Community team just launched a new giveaway exclusively for our Space+ members. Join free now for a chance to win a Dwarflab Mini smart telescope.",
+   "image": "https://cdn.mos.cms.futurecdn.net/jYg73A8cgtnFKDQM8fX2D9-1920-80.jpg",
+   "date": "2026-11-23T21:21:13+00:00",
+   "source": "Space.com"
   },
   {
    "title": "How sci‑fi imagines sports in microgravity, and how zero‑g sports might actually work",
@@ -179,84 +197,12 @@
    "source": "Space.com"
   },
   {
-   "title": "I’m planning my first dark sky trip, and all because this educational star projector showed me what I’m missing",
-   "link": "https://www.space.com/stargazing/skywatching-kit/im-planning-my-first-dark-sky-trip-and-all-because-this-educational-star-projector-showed-me-what-i-am-missing",
-   "summary": "This budget-priced projector reminded me what light pollution has taken from us",
-   "image": "https://cdn.mos.cms.futurecdn.net/TeygyS5DnWLPZfF92PPd55-1920-80.jpg",
-   "date": "2026-11-23T13:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "Astronomers just discovered a rare triple star system 28 light-years away, and they have ‘no clean explanation for how it got here’",
-   "link": "https://www.space.com/astronomy/stars/astronomers-discover-rare-triple-star-system-just-28-light-years-from-earth-and-they-have-no-idea-how-it-has-survived",
-   "summary": "Three stars, 28 light-years, and one big cosmic mystery.",
-   "image": "https://cdn.mos.cms.futurecdn.net/w9Et548dKkQsFNMMM5mASN-1920-80.jpg",
-   "date": "2026-11-23T11:00:00+00:00",
-   "source": "Space.com"
-  },
-  {
-   "title": "Former ISRO Chairman Dr K. Sivan Urges Marwadi… - www.uniindia.com",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMVk5NEw2aEppRHZmVGN6X2JsaENhT0V5SHJHaFloUWNkRV9WM1o2SzNobllMM1NKcGxJa2RFaUQySEpDRjNGazVlYTAtRXFybHoyZXhhS0tmTEFyMGhCeHBXeEtrSWZoaTM3ZkdYUTlxM1NHZ09oREdZSDVNejhGcElvNWZxVi1JTHF4S1d4bU1Ba3RPWHljYnE5Nk4yV3RlYjg3QTRuTVFMM0hmWEZidmR6cVRocU1qUHFLTUFpLWQwM0hybFI0cFI3RGhJd1FJTDdMcC1UdFBDeWhjbWFqRF9INA?oc=5",
-   "summary": "Former ISRO Chairman Dr K. Sivan Urges Marwadi… www.uniindia.com",
-   "image": "",
-   "date": "2026-11-22T23:36:00+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "Assam: Lakhimpurs Satyajit Kaman selected as scientist at ISRO - NENow.in",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUzRIRW1BQlJhbVI1TkZ2N0tWR05FSzFDeDIxVVY1cmNROHVhQVdmT2NiVnpGckNidUJPRmdNYlI2dXpiNm9zLXE5cWEyNHhEb2ROU0kzS3VRZjRuZjhTdk1hOHFwWG9haHNQWmZhVXU5NU1qbW1DLVdwMjBCRDdTWERYY0pEbXJvaXBEaUpEWWJpay1vbFNwOEpiQUhlZVhtbGFxcUE1SlXSAagBQVVfeXFMT1YyaDJzeGtaOEhHQnRjTDZKeHNVVzh0bE0wbmIzeC1hR2k2NU5NSjNxU2UzZy1EQ3pxaW1nTjZkM05FYmw0TUd4SVdfYlBSeG1wbUhSal9fUXQtMFptU0dMeG1PMjloeUdwRWJ0R3JXanNrWUxlNi1BNGN2LVotYzBwdlI3YXhKSzJPdVprQTdpZ2Rfdndfd1J3UkU2ZEtvbzlpbDhXM1do?oc=5",
-   "summary": "Assam: Lakhimpurs Satyajit Kaman selected as scientist at ISRO NENow.in",
-   "image": "",
-   "date": "2026-11-23T07:37:41+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "ISRO building Gaganyaan protocols from scratch, adapting global best practices to Indian systems:... - Moneycontrol.com",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUGc2WHd2WXdydTMtMlhNMzQ3R1VtQlhqbGtNTFZDa0tGOXlvOUlROXlHb3YzV1RHZW1ab1VhUzNHUXlqZFRKLUFDQ05MNldNT1JFbzV0Q2tLM3RieUtHbk1ZTkN4RUg2Q2ZObWI4NDgtd0g5ckl2WFFMRXFESUVJNlRwQnJjelZVb1hqdFRMNnNrZEpKWWtZbU8wTHVUWWt6cVdJU19pUG13aFphZ2NoUV9CRjMxMmZPSUJwTDFJdHFpd3JKMmZvSFZjdjI3QnNWYkY0WXM4NndqX1JyaTVidHlkNTJMVkdTQ1pQZWtXd2p4cjFXdmpFWHhHdHJsckI2eHQ1WUZGY9IBjAJBVV95cUxPVXVBRlRNd2JNT0lZOUczdEx4anpaV293RU5aQ3BaOTBCaTFYX2JHeklQTGxCMWlMMHdRME55M014UWh1TkphblUtMTZfckVqWjR4cVVkOVFmSmQtRlNnQ1dNMGJ0WngwYlRUM0N3T194UnhVTm4xeGRtbXlJUXROb1dkWDB3VG13SzRybjFQS3BYRGd4WkN3a0JpUHU5RU9jSHhaNHVQcGRock4wNmR1bzhrbHd3V0Y0LVZkT1FfR1VfdXREQm43UW9LQWtzMlRSTkQtZW9DWVpVRDNZeUYwbXRvLU1mamJ0ZUd2a1BsTU5RZnVHVjY1WFE3ZTM2bnBuV1hhME5ucmNGcGJu?oc=5",
-   "summary": "ISRO building Gaganyaan protocols from scratch, adapting global best practices to Indian systems:... Moneycontrol.com",
-   "image": "",
-   "date": "2026-11-23T12:46:39+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "When will Indians fly to space? ISRO's Gaganyaan mission may face another launch delay - Business Today",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQUJocy10YzdTTkl6OG1PNk12ZjBHOGFHUkdYa1h1eEpPMUZFRi1YbUVTM2w1c2lqcnZ0TzdHRHlDZ1BsRjhBS1d0b0NvWk5xaWdIZ2FqSF8zSVVEVEJ0b1MtSnpLMlFrdWRmMVNuU01XQ1JwUTlwa2pDQzZaY3dDeDA0OVlaUHU2dllrbHRhT3ZMTV9Ucnk0NS1VeTRJWkRJVXFOVHBrTFJaNldRa0Z5VnhjMV9qVndRQzNsREwxa2QyMk8xUk9IbDBfWTloOFhTR1RucXh5WGtFQVhaRGfSAeMBQVVfeXFMT01ZU29La05kZHB6b29XWkR2c2dWRWRMTll5MFdkOGs2TlotdUxRXzFyQWhZa1RrWHdZaTBQaVppbGdDS0d0Y3hVRVRLdE9ZM2l1cGgwcG5NRk9JSVFDWFMtM3FxbWxaOHZQSmJwUEdVcFFuLWcwVjNmV2ZKV05sR0JyQzVWRjUxdldRdDhrMTB6UEFrMlo4SzM1NHh1UWlvQWhBQk9ySHY0eGV4UVFCOXF6am8wMzkxYlpiMW5QVE1WYTA0bHJRbHFwRF9mQTVzS1BuUTRyTnBGbXhYaE0wYkxfSGs?oc=5",
-   "summary": "When will Indians fly to space? ISRO's Gaganyaan mission may face another launch delay Business Today",
-   "image": "",
-   "date": "2026-11-23T01:30:15+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "ISRO to launch Trishna satellite soon: What are its objectives? - NewsBytes",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcXZVMUFSc0w1LU1NLUhBejZ1WTVobVpXc0puTjRoWFFyNHk5N1B6U0h3OTBBbS1pQVJaR0YxcFViSERlMUZIb1VJazN2c3VCNXgyUmp4VW5hSFFDa0NubWZrTWJMY2x3UF85dVhCYzlHOFIxNV9WV1p0VndBMkc2dWhmOUtRVkRDclJsTHc5QklxeTlDeWxQdGpFMjhqNHZhaHpNOTB6bERZQQ?oc=5",
-   "summary": "ISRO to launch Trishna satellite soon: What are its objectives? NewsBytes",
-   "image": "",
-   "date": "2026-11-23T14:22:59+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "Former ISRO Chief Calls for Global Cooperation in Space Technology - Asianet Newsable",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ2Q4ZXBtSGhDSk95SjdWMjdCUHRVWnlIMWxZenJGRFlBc3JUYlRDWEZINFVRWDBET0JlcUQ1VkZhM1ZkelNzd0dZdUlxMlFrdHNLSmNESmVFQ0o2RE5PRFM1VFdWUjU4YkVZazA0M2FKWEt0VXlBWGp2b0JhT2RhUlh0SUxJN3pKQVlHNDE5VlpxVHctQTJqdEdOTHRxQkE5TTJsNlJGck90NEpsMGtpd1dTQzJiaEdJTWZNMmdidWlKbHNuVGg40gHMAUFVX3lxTFBvX3o3TUkzeGpKV1hjejIyUU5lUm9ST3FwOTlGalc0MTMyZDRkVnJKLU4xMGhZcllRbXl3WkRqbzlPbERLZU80dlBkYlpiY05fMTIyWjNKcmhIVUJDUElPWjVSUFFUYmNONk9YdkMzNDdOYm85Y1B0azFOR19DTmRVTFhJOUZ0bk9OR2ZvZzF0Zy1sR1h5ZzVPQ3BzeEUxa2cwNkx0ZGo1clZCYUg1eHZ0cjdqcHliUEluTHFrVHhvSnBRc1VnOTNtWk0ybA?oc=5",
-   "summary": "Former ISRO Chief Calls for Global Cooperation in Space Technology Asianet Newsable",
-   "image": "",
-   "date": "2026-11-23T10:00:08+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "Don't look for jobs, become job creators: Former ISRO chief K Sivan to graduates - India Today",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPX29DMEQzMXUzVkh3dW1VdVlnbW5zYmJfTVFrQmtGSTBMU2NWNWdxeWF5eTBkdlVCWmNtYmM2U2ZVS2xDM3dfdDFMOVRnUEhMdnI3SEZIVS1fdHc5Nm1qeDF5VzVLY29iOXdmbG5meF9BaHFnMkVveU1TYlpDdFNmNDJOQURFVTdBSll6U3Q2V1BxZkdQOUhuZm1rajQ0cjR2TDlUdjdjZ0Q3OFJtUGhsZ3g3Yy1hdWpHb0ZZQzlEa1Q3akJSRTA2S1NGb0ZLNVFkNU1kQkdUWVp0WVl1bjNFTW5lZjdGUDVYZE5HYTRQV1c4Zmc1WUpr0gH8AUFVX3lxTE9Gc2tEOG9jWU9POVRsZVFLRVVSdWtESXJJckppNlFxMTRSWmUzeU9BX0oxOGJoa2dpR1lWZHpWeTRaRDRWeU5kenFnWFhabkNxUmF2QTE0YUMyUDU0d2t6VGkzQ1JHRmxOLXpReW95SFktRDhuNVk1dVo4aWZUN180dDJvcUVsLVB4RDJNdnFPMFR0UkJKTUYzbDRJTDNDNm1DSFhUbjJSTnAzQ3ZaNzJCNTdCZ3p6cWxfTTB1c0ZnWmtEMjFyT2h3S0ltTVJfQ2k0U2ZUZU1GWnR0aDMtd2pRdzB4RlBTNjhKZTd2MkxfWkVwNFlPbEJha3BuUg?oc=5",
-   "summary": "Don't look for jobs, become job creators: Former ISRO chief K Sivan to graduates India Today",
-   "image": "",
-   "date": "2026-11-23T11:52:59+00:00",
-   "source": "ISRO news"
-  },
-  {
-   "title": "“Don’t look for jobs, become job creators”: Former ISRO chairman Dr K Sivan to graduates - Moneycontrol.com",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOFZMOUhGbURXb2hNRmxvcHIzbHZpSkNrMXd2Vmgxc1FJbERFTjMwalc2VVFZT1FCQThVcWhGSnE2SDV4SGtOQW53XzNoRzB4MUtQWjczdV9KMTI0aXNEU2thWjN2cm9IWGZKaXZyazB5cmM4X3hDdzRyaDFQajR4Q1M2LVBLMmNWN3JGX3ZPdjY5VG12WC0yRG9VaWRROC04YzdwU05vdG9uY2xZRFBPM05vbEJHd3VQZzlLeXRrRVlYZ3ZNaUFsRVhrLWc2UUR5MWgxSzFYV1JJNkJZdlHSAeMBQVVfeXFMTThxM3BQZ0hQQ2x1eEVjaEktd0Z5Nm1kTzZuaDYyMWxMa0IxTVlHU3VyR05sdnYtWGdtS2tYU3BiV3FyNEp4TVdpVkJodmQ5QWtfX3FoYmZjQ0l5VnRrWnRNazZnbEpPNnFoaUN4ZmxJMVdEZXBHQWs4MWJCQm9weERqazZYREFLRWtZOVdjRjMxc2RSQlRmNVk3VUo5UDZPNU9xY1lSbjk2NlBPT0VwSVQ3RjVJMWZ2Z1M2R1dlSThiTFZLOGNIUERIb3NjOGp5Yjg1ZDRncnltdGtpMllHbFpsOTg?oc=5",
-   "summary": "“Don’t look for jobs, become job creators”: Former ISRO chairman Dr K Sivan to graduates Moneycontrol.com",
-   "image": "",
-   "date": "2026-11-23T06:46:25+00:00",
-   "source": "ISRO news"
+   "title": "China's Shenzhou-24 spaceship to include first foreign astronaut from Pakistan",
+   "link": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-spaceship-to-include-first-foreign-astronaut-from-pakistan/article71737165.ece",
+   "summary": "Pakistani payload specialist Zeeshan Ali's participation is ‌part of bilateral cooperation under Beijing’s ‌Belt ⁠and Road Initiative",
+   "image": "https://th-i.thgim.com/public/incoming/2ixinz/article71737177.ece/alternates/LANDSCAPE_1200/2026-11-24T040214Z_1286380670_RC23UOAB1PY8_RTRMADP_3_SPACE-EXPLORATION-CHINA-SHENZHOU.JPG",
+   "date": "2026-11-24T04:22:29+00:00",
+   "source": "The Hindu (Science)"
   },
   {
    "title": "Japan-Europe spacecraft BepiColombo begins orbit of Mercury, with a glitch reported",
@@ -315,14 +261,6 @@
    "source": "The Hindu (Science)"
   },
   {
-   "title": "SpaceX pulls off first-ever spaceship ‘catch’",
-   "link": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
-   "summary": "Starship returned from orbit and was caught by the “chopstick arms” at SpaceX’s Starbase launch pad in Texas, in a milestone for fully reusable rockets",
-   "image": "https://th-i.thgim.com/public/incoming/dxm9i4/article71703047.ece/alternates/LANDSCAPE_1200/SpaceX_Starship_Launch_78562.jpg",
-   "date": "2026-11-15T12:55:36+00:00",
-   "source": "The Hindu (Science)"
-  },
-  {
    "title": "Bank of Baroda launches ₹5-crore financing scheme for EV infrastructure",
    "link": "https://www.thehindu.com/business/Industry/bank-of-baroda-launches-5-crore-financing-scheme-for-ev-infrastructure/article71720596.ece",
    "summary": "The scheme offers loans ranging from above ₹10 lakh to ₹5 crore, targeting the growing EV infrastructure ecosystem and promoting clean mobility.",
@@ -335,7 +273,7 @@
    "link": "https://timesofindia.indiatimes.com/science/8-years-10-billion-km-japan-europe-spacecraft-enters-mercurys-orbit/articleshow/136069437.cms",
    "summary": "The BepiColombo mission, a collaboration between Japan and Europe, has reached Mercury's orbit after an impressive journey exceeding 10 billion kilometers since its 2018 launch. This groundbreaking mission is set to unve",
    "image": "https://static.toiimg.com/photo/msid-136069480,imgsize-59634.cms",
-   "date": "2026-11-23T21:22:21.409404+00:00",
+   "date": "2026-11-24T06:01:27.819417+00:00",
    "source": "Times of India (Science)"
   },
   {
@@ -343,7 +281,7 @@
    "link": "https://timesofindia.indiatimes.com/science/space/more-than-8000-people-applied-to-be-nasa-astronauts-last-time-and-just-10-were-picked-applications-for-the-next-class-are-open-until-3-december-and-most-applicants-need-a-stem-masters-and-three-years-experience/articleshow/136044615.cms",
    "summary": "NASA is currently accepting applications until December 3, 2026, for aspiring astronauts who dream of exploring outer space. To qualify, applicants must be U.S. citizens possessing a master's degree and relevant experien",
    "image": "https://static.toiimg.com/photo/msid-136044615,imgsize-179472.cms",
-   "date": "2026-11-23T21:22:21.409529+00:00",
+   "date": "2026-11-24T06:01:27.819593+00:00",
    "source": "Times of India (Science)"
   },
   {
