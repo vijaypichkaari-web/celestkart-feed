@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:30:57.349463+00:00",
+ "updated": "2026-11-26T05:01:55.792303+00:00",
  "errors": [],
  "items": [
   {
@@ -67,6 +67,14 @@
    "source": "NASA"
   },
   {
+   "title": "FCC green lights SpaceX’s plan to launch 1 million ‘Starmind’ data center satellites",
+   "link": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/",
+   "summary": "The authorization granted by the Federal Communications Commission requires SpaceX to deploy the first of these satellites by Nov. 25, 2033. The full constellation is required to be operational no later than Nov. 25, 204",
+   "image": "",
+   "date": "2026-11-26T01:27:58+00:00",
+   "source": "Spaceflight Now"
+  },
+  {
    "title": "SpaceX launches classified payload for the U.S. Space Force",
    "link": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
    "summary": "The mission is the third in a series of flights for the U.S. Space Force with a ‘TH’ designation in public filings. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a window that opens at 7:55 a.m. ",
@@ -120,14 +128,6 @@
    "summary": "United Launch Alliance said Wednesday that a preliminary review of flight data points to an inadequate supply of fuel to the Blue Origin-manufactured engines of its Vulcan rocket, rather than a problem with the engines t",
    "image": "",
    "date": "2026-11-18T21:11:37+00:00",
-   "source": "Spaceflight Now"
-  },
-  {
-   "title": "NASA’s Voyager 1 is one light-day from Earth",
-   "link": "https://spaceflightnow.com/2026/11/18/nasas-voyager-1-is-one-light-day-from-earth/",
-   "summary": "NASA's Voyager 1 spacecraft became the first human-made object to reach a distance of one light-day from Earth early Wednesday, crossing the threshold at 5:16:07 a.m. EST (10:16:07 UTC) as it sped away from the sun at ne",
-   "image": "",
-   "date": "2026-11-18T17:46:40+00:00",
    "source": "Spaceflight Now"
   },
   {
@@ -227,19 +227,19 @@
    "source": "ISRO news"
   },
   {
-   "title": "India’s first industry-built PSLV-N1 set for launch in early 2027: ISRO - BusinessLine",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZXVpS2lZWjJUbllSTGJMaDNkRDNybWtLMlBTeGFLREd0bDRUcS15Tk8waU1CQ0JPTmVyRUhIZzBITGhtWkFKYTNjbVF3c3JwbHBiQ2JYVEhXUmV4NE0zRGVnUHM0UHJyUjJoYUNRN29POThEck1sbEY0TkVrSF9aZDZFRzdxOF9vNkwzckVWVndQdnZvWGZYbWJBTXJKWW5iY0tDUWFHbUE4MDUweUFiaWczTDBwMDB4TVFuUVpScHlRcVRtc3VGbjRsZFVZVUxHSFpobXA1MEdjZWZoT0xJ0gHmAUFVX3lxTFBjQjZJdHpGemdLSjM1OTl5Vzg3a25iLVV2YlpZT2pmc1lWWUR4M2tzaTFLNlcwb09ST2RMY1NDZko5emtsVlpQSE84RHI0MGk4cWY1UklPUkV5dW1lcGZfNkM4QWdfODJrWEZhNUNNcG9kSkdXbWFGeFBXcE1WdzBmckIyMy14a054ajJXcURVczI4eFhheUY4N09zdl9Id0N2UFRsaXF1OHlHdXFwY1p1Y0hLaVVhb09JZFFja3dHSmhTMEFTU2hHTEkwelJ4WXFPZXROUmtfN3ptdzZSdG9zcFpTVFpR?oc=5",
-   "summary": "India’s first industry-built PSLV-N1 set for launch in early 2027: ISRO BusinessLine",
-   "image": "",
-   "date": "2026-11-24T08:02:49+00:00",
-   "source": "ISRO news"
-  },
-  {
    "title": "Human spaceflight mission on cards, says ISRO’s Govindaraju - Deccan Herald",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWWNWM0xmaFJnQnRrU2lHblBRSXdSSUNzaU1vNlNoa0dGcTRVeFdiYVlVdUZWdzJOUzMtYm8zbUwzUF9ReVkycTVYRmNfUE1PcWlGajByY3Z1cTQ0NU9ndUVGVVdwMlVZMjFIYnBsYXhNUU9LUjI5WVVhUW92ckoycFZHWGxsTmVoRGlwNzdsbW9RbmxrRzg1dy1WQ3FidkU5dG9JUHA4b0xuNmJ4V2lVTA?oc=5",
    "summary": "Human spaceflight mission on cards, says ISRO’s Govindaraju Deccan Herald",
    "image": "",
    "date": "2026-11-25T17:13:29+00:00",
+   "source": "ISRO news"
+  },
+  {
+   "title": "Jairam Ramesh hails Satish Dhawan as institution-builder, calls his ISRO tenure ‘legendary’ - ThePrint",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHQxRVc1b3FabEZjQnJKNFBMeE83UDRRSWhaR0pwRkxpQS15U2I2TF8yNVZfdURqa0F6aGhoSkRoeUlCSkJ2SDFXOVBDTk5HY2V2SGVuYTBKbW1LWmFHUTcwU0NfaFZDLVZlRzE5S0c1SHdkT050Njc1bkNYTzV4Y2djYVpvbWZOSFdINWw1ZnFMMDlxNXhEdXVTLWxVSzNXaDZBal93dzRzTVhIZUZnUEp1ZU1vMWZ6dG9DRUJETk3SAcYBQVVfeXFMTmt6RDk3TWxiUm8yNmVuSDQ3WmliZmMwc1RxUWhGRjJQSXNOU2RHVi1sb1ZkZUZmb1VmT1FFZnZyYWM2ZzNJQU9SVW05YjF2aGNWTmE3RGhMVmNaYmZIY1lqYS11V2FCeE1zd1lyTEZORVFsYUowTDlMXzJ2NG5iLUJoRmo3SVdYQlVqb08xeXpOc0xCUDg1Y3pnR0hpZ1lhRDU1ZlE1VTZTM2cta1hZY1dOUW81X2NxazNjdEZpN2xfMWVOXzl3?oc=5",
+   "summary": "Jairam Ramesh hails Satish Dhawan as institution-builder, calls his ISRO tenure ‘legendary’ ThePrint",
+   "image": "",
+   "date": "2026-11-25T11:45:37+00:00",
    "source": "ISRO news"
   },
   {
@@ -263,7 +263,7 @@
    "link": "https://www.thehindu.com/sci-tech/science/indias-satellite-supply-chain-highly-dependent-on-imports-says-space-body/article71743312.ece",
    "summary": "India’s space economy is currently valued at nearly $9 billion and is set to grow to $40-45 billion in less than a decade",
    "image": "https://th-i.thgim.com/public/incoming/ip1f1c/article71743447.ece/alternates/LANDSCAPE_1200/1th_jacob-2_GKLGKMGO5NMO.3.jpg.jpg",
-   "date": "2026-11-25T18:09:18+00:00",
+   "date": "2026-11-26T01:26:45+00:00",
    "source": "The Hindu (Science)"
   },
   {
@@ -339,11 +339,19 @@
    "source": "The Hindu (Industry)"
   },
   {
+   "title": "Nasa's asteroid crash test left stadium-sized crater; first images reveal",
+   "link": "https://timesofindia.indiatimes.com/science/nasas-asteroid-crash-test-left-stadium-sized-crater-first-images-reveal/articleshow/136176872.cms",
+   "summary": "Images from the ESA's Hera spacecraft show the aftermath of NASA's successful impact on asteroid Dimorphos. The DART mission altered the asteroid's orbit significantly, demonstrating the potential for planetary defense s",
+   "image": "https://static.toiimg.com/photo/msid-136176930,imgsize-18214.cms",
+   "date": "2026-11-26T05:01:55.753791+00:00",
+   "source": "Times of India (Science)"
+  },
+  {
    "title": "Pak astronaut Ali reaches China’s Tiangong station",
    "link": "https://timesofindia.indiatimes.com/science/pak-astronaut-ali-reaches-chinas-tiangong-station/articleshow/136152904.cms",
    "summary": "Muhammad Zeeshan Ali, the first Pakistani astronaut, has reached the Tiangong space station in China. He launched aboard the Shenzhou-24 spacecraft alongside two Chinese astronauts, Tang Hongbo and Wu Yi. The mission is ",
    "image": "https://static.toiimg.com/photo/msid-136152949,imgsize-123322.cms",
-   "date": "2026-11-25T22:30:57.236855+00:00",
+   "date": "2026-11-26T05:01:55.754024+00:00",
    "source": "Times of India (Science)"
   },
   {
